@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+08 * * * * curl -s https://weather.gc.ca/rss/city/on-143_e.xml -o /home/pedwards/weather_forecasts/on-143_e$(date +\%s).xml
