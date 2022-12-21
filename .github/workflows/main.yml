@@ -8,4 +8,4 @@ jobs:
     steps:
       - name: Get forecast
         run: |
-          curl -s https://weather.gc.ca/rss/city/on-143_e.xml -o on-143_e$(date +\%s).xml
+          curl -s https://weather.gc.ca/rss/city/on-143_e.xml -o forecast_xml/on-143_e$(date +\%s).xml 
