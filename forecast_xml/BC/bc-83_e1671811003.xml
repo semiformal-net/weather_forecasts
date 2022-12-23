@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Fort Nelson - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-83_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-83_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-23T15:57:11Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221223155711</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Fort Nelson</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc7"/>
+ <updated>2022-12-23T13:35:00Z</updated>
+ <published>2022-12-23T13:35:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 06:35 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_w1:202212231335</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -35.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T15:55:00Z</updated>
+ <published>2022-12-23T15:55:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Fort Nelson Airport 08:55 AM MST Friday 23 December 2022 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -35.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.7 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 66 %<br/>
+<b>Wind Chill:</b> -38 <br/>
+<b>Dewpoint:</b> -39.8&deg;C <br/>
+<b>Wind:</b> N 2 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_cc:20221223155500</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning this morning. Amount 2 cm. Wind up to 15 km/h. High minus 35. Wind chill minus 47 this morning and minus 41 this afternoon. Frostbite in minutes. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc1:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Temperature steady near minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending before morning then cloudy. Amount 5 to 10 cm. Wind up to 15 km/h. Temperature steady near minus 35. Wind chill near minus 41. Frostbite in minutes. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc2:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Light snow. High minus 30 except minus 26 over southern sections.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Becoming cloudy in the afternoon then light snow. Wind up to 15 km/h. High minus 30 except minus 26 over southern sections. Wind chill minus 41 in the morning and minus 36 in the afternoon. Frostbite in minutes. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc3:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of snow. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 38. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc4:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 31. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc5:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 32. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc6:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 28. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 28. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc7:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 30. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc8:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 26. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc9:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 29. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 29. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc10:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 25. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 25. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc11:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 27. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc12:20221223120000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-83_metric_e.html"/>
+ <updated>2022-12-23T12:00:00Z</updated>
+ <published>2022-12-23T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 23. Forecast issued 05:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-83_fc13:20221223120000</id>
+ </entry>
+ </feed>
+
