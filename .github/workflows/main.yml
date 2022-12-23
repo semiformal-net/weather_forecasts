@@ -13,8 +13,8 @@ jobs:
         with:
           path: './weather_forecasts/'
 
-      - run: |
-          curl -s https://weather.gc.ca/rss/city/on-143_e.xml -o ./weather_forecasts/forecast_xml/on-143_e$(date +\%s).xml 
+      - run: ./weather_forecasts/city_scrape.sh
+        shell: bash
 
       # ...and then use the action as you would normally do, but providing the path to the repo
       - uses: EndBug/add-and-commit@v9
