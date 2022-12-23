@@ -24,7 +24,7 @@ done
 # Rather than running curl hundreds of times, build up a config file to do all the downloads in one shot.
 #
 curl -s -K /tmp/config
-if [ $? -ne 0 ];
+if [ $? -ne 0 ]; then
   echo "curl failure"
   exit 2
 fi
