@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Three Hills - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-69_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-69_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-23T20:51:03Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221223205103</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Three Hills</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab13"/>
+ <updated>2022-12-23T17:44:00Z</updated>
+ <published>2022-12-23T17:44:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:44 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_w1:202212231744</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -21.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Three Hills 1:00 PM MST Friday 23 December 2022 <br/>
+<b>Temperature:</b> -21.3&deg;C <br/>
+<b>Humidity:</b> 75 %<br/>
+<b>Wind Chill:</b> -35 <br/>
+<b>Dewpoint:</b> -24.6&deg;C <br/>
+<b>Wind:</b> SE 32 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_cc:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Light snow. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Light snow beginning near noon. Local blowing snow. Wind south 30 km/h gusting to 50. High minus 20. Wind chill minus 38 this morning and minus 30 this afternoon. Risk of frostbite. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc1:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Light snow. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Light snow ending early this evening then partly cloudy. Wind south 20 km/h becoming light this evening. Low minus 24. Wind chill near minus 30. Risk of frostbite. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc2:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 9. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of flurries late in the afternoon with risk of freezing rain. Wind up to 15 km/h. High minus 9. Wind chill minus 29 in the morning and minus 18 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc3:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc4:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc5:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc6:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc7:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc8:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 2. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc9:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc10:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc11:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc12:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-69_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 11:00 AM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-69_fc13:20221223180000</id>
+ </entry>
+ </feed>
+
