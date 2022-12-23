@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Rogersville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-14_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-14_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-23T18:06:10Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221223180610</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Rogersville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb7"/>
+ <updated>2022-12-23T14:49:00Z</updated>
+ <published>2022-12-23T14:49:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:49 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_w1:202212231449</id>
+ </entry>
+ <entry>
+ <title>RAINFALL WARNING , Rogersville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb7"/>
+ <updated>2022-12-23T14:48:00Z</updated>
+ <published>2022-12-23T14:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:48 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_w2:202212231448</id>
+ </entry>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Rogersville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb7"/>
+ <updated>2022-12-23T15:04:00Z</updated>
+ <published>2022-12-23T15:04:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:04 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_w3:202212231504</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T18:00:00Z</updated>
+ <published>2022-12-23T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Miramichi 2:00 PM AST Friday 23 December 2022 <br/>
+<b>Temperature:</b> -0.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.8 kPa falling<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -8 <br/>
+<b>Dewpoint:</b> -3.3&deg;C <br/>
+<b>Wind:</b> ENE 41 km/h gust 53 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_cc:20221223180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow mixed with ice pellets. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow mixed with ice pellets beginning this afternoon. Snow and ice pellet amount 5 cm. Wind east 30 km/h gusting to 50 increasing to 50 gusting to 70 this afternoon. High zero. Wind chill near minus 10. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc1:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain at times heavy or snow. Temperature rising to 9 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow mixed with ice pellets changing to rain at times heavy this evening and ending before morning then partly cloudy. Fog patches developing this evening and dissipating before morning. Rainfall amount 15 to 25 mm. Wind east 60 km/h gusting to 90 except gusting to 110 over exposed areas. Wind becoming south 40 gusting to 70 before morning. Temperature rising to 9 by morning. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc2:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. Temperature falling to minus 5 in the afternoon. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of flurries late in the morning. Clearing in the afternoon. Wind south 40 km/h gusting to 70 becoming southwest 30 gusting to 50 in the morning. Temperature falling to minus 5 in the afternoon. Wind chill minus 12 in the afternoon. UV index 1 or low. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc3:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 10 except minus 14 in low lying areas.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10 except minus 14 in low lying areas. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc4:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc5:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc6:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc7:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc8:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc9:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc10:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc11:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc12:20221223150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-14_metric_e.html"/>
+ <updated>2022-12-23T15:00:00Z</updated>
+ <published>2022-12-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 2. Forecast issued 11:00 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-14_fc13:20221223150000</id>
+ </entry>
+ </feed>
+
