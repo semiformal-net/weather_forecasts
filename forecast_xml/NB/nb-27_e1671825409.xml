@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Grand Manan - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-27_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-27_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-23T19:49:52Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221223194952</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Grand Manan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb20"/>
+ <updated>2022-12-23T14:49:00Z</updated>
+ <published>2022-12-23T14:49:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:49 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_w1:202212231449</id>
+ </entry>
+ <entry>
+ <title>RAINFALL WARNING , Grand Manan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb20"/>
+ <updated>2022-12-23T14:48:00Z</updated>
+ <published>2022-12-23T14:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:48 AM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_w2:202212231448</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 7.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T19:00:00Z</updated>
+ <published>2022-12-23T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Grand Manan 3:00 PM AST Friday 23 December 2022 <br/>
+<b>Temperature:</b> 7.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.3 kPa falling<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Dewpoint:</b> 6.6&deg;C <br/>
+<b>Wind:</b> E 33 km/h gust 51 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_cc:20221223190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain at times heavy or snow. Temperature rising to 12 this evening then falling.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy ending after midnight then partly cloudy with flurries beginning before morning. Risk of a thundershower this evening. Fog patches developing this evening and dissipating after midnight. Rainfall amount 20 to 30 mm. Wind southeast 60 km/h gusting to 90 becoming southwest 40 gusting to 70 late this evening. Temperature rising to 12 this evening then falling. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc1:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. Temperature falling to minus 2 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Risk of snow squalls in the morning. Amount 2 to 4 cm. Wind southwest 40 km/h gusting to 70. Temperature falling to minus 2 in the afternoon. Wind chill near minus 9. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc2:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries ending after midnight then partly cloudy. Amount 2 cm. Wind southwest 30 km/h becoming west 30 after midnight. Low minus 6. Wind chill minus 8 in the evening and minus 13 overnight. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc3:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc4:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc5:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc6:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 9. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc7:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc8:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc9:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc10:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc11:20221223200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-27_metric_e.html"/>
+ <updated>2022-12-23T20:00:00Z</updated>
+ <published>2022-12-23T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 4:00 PM AST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-27_fc12:20221223200000</id>
+ </entry>
+ </feed>
+

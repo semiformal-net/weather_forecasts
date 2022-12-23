@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Swift Current - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-41_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-41_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-23T19:47:12Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221223194712</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Swift Current</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk6"/>
+ <updated>2022-12-23T10:21:00Z</updated>
+ <published>2022-12-23T10:21:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:21 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_w1:202212231021</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mist, -22.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T19:46:00Z</updated>
+ <published>2022-12-23T19:46:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Swift Current Airport 1:46 PM CST Friday 23 December 2022 <br/>
+<b>Condition:</b> Mist <br/>
+<b>Temperature:</b> -22.7&deg;C <br/>
+<b>Pressure:</b> 103.6 kPa <br/>
+<b>Visibility:</b> 3.6 km<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Wind Chill:</b> -38 <br/>
+<b>Dewpoint:</b> -25.4&deg;C <br/>
+<b>Wind:</b> SSE 39 km/h gust 48 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_cc:20221223194600</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind southeast 30 km/h gusting to 50. High minus 24. Wind chill near minus 39. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc1:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of light snow. Temperature rising to minus 18 by morning. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this evening with 60 percent chance of light snow late this evening and overnight. Wind southeast 30 km/h gusting to 50. Temperature rising to minus 18 by morning. Wind chill minus 38 this evening and minus 30 overnight. Risk of frostbite. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc2:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clearing. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the afternoon. Wind southeast 30 km/h gusting to 50. High minus 15. Wind chill minus 31 in the morning and minus 24 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc3:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of snow. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. Low minus 16. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc4:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow and blowing snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Blowing snow. Windy. High minus 4. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc5:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc6:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc7:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 2. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc8:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High zero. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc9:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 9. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc10:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 7. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc11:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc12:20221223170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-41_metric_e.html"/>
+ <updated>2022-12-23T17:00:00Z</updated>
+ <published>2022-12-23T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 11:00 AM CST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-41_fc13:20221223170000</id>
+ </entry>
+ </feed>
+
