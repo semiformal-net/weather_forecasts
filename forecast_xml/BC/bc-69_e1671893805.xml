@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Osoyoos - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-69_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-69_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T14:55:52Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224145552</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Osoyoos</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-21T00:45:00Z</updated>
+ <published>2022-12-21T00:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_w1:20221221004500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -9.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T14:00:00Z</updated>
+ <published>2022-12-24T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Osoyoos 06:00 AM PST Saturday 24 December 2022 <br/>
+<b>Temperature:</b> -9.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.3 kPa falling<br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Wind Chill:</b> -17 <br/>
+<b>Dewpoint:</b> -14.3&deg;C <br/>
+<b>Wind:</b> SSE 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_cc:20221224140000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of snow mixed with ice pellets. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Periods of snow beginning early this morning. Snow mixed with ice pellets late this afternoon. Snow and ice pellet amount 2 cm. Wind south 30 km/h gusting to 50. High minus 4. Wind chill minus 17 this morning and minus 12 this afternoon. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc1:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries mixed with ice pellets. Temperature steady near minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries or ice pellets. Wind south 30 km/h gusting to 50. Temperature steady near minus 4. Wind chill near minus 12. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc2:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow mixed with ice pellets. Temperature steady near minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the morning then periods of snow. Snow mixed with ice pellets late in the afternoon. Risk of freezing rain late in the afternoon. Snow and ice pellet amount 2 to 4 cm. Wind south 20 km/h becoming light early in the morning. Temperature steady near minus 1. Wind chill minus 9 in the morning. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc3:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 5. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc4:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Monday: Flurries. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High plus 1. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc5:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low zero. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc6:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow or rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 4. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc7:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 1. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc8:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 2. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc9:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 1. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc10:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc11:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 2. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc12:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High plus 1. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-69_fc13:20221224130000</id>
+ </entry>
+ </feed>
+
