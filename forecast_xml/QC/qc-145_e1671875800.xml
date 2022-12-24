@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Tasiujaq - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-145_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-145_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T09:15:56Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224091556</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>BLIZZARD WARNING , Tasiujaq</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc16"/>
+ <updated>2022-12-24T08:59:00Z</updated>
+ <published>2022-12-24T08:59:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 03:59 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_w1:202212240859</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -10.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:00:00Z</updated>
+ <published>2022-12-24T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Tasiujaq Airport 04:00 AM EST Saturday 24 December 2022 <br/>
+<b>Temperature:</b> -10.1&deg;C <br/>
+<b>Pressure:</b> 102.3 kPa <br/>
+<b>Humidity:</b> 92 %<br/>
+<b>Wind Chill:</b> -19 <br/>
+<b>Dewpoint:</b> -11.1&deg;C <br/>
+<b>Wind:</b> ENE 26 km/h gust 41 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_cc:20221224090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. Blowing snow this afternoon. Wind northeast 30 km/h gusting to 50 increasing to 50 gusting to 70 near noon. High minus 5. Wind chill minus 20 this morning and minus 14 this afternoon. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc1:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Blizzard. Temperature rising to minus 3 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Blizzard ending overnight then snow and local blowing snow. Wind northeast 50 km/h gusting to 70 becoming east 30 gusting to 50 near midnight. Temperature rising to minus 3 by morning. Wind chill near minus 14. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc2:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Light snow. Temperature falling to minus 6 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Light snow. Wind east 20 km/h gusting to 40 becoming light near noon. Temperature falling to minus 6 in the afternoon. Wind chill near minus 12. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc3:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc4:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 7. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc5:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 11. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc6:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 12. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc7:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc8:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc9:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc10:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc11:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc12:20221224093000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-145_metric_e.html"/>
+ <updated>2022-12-24T09:30:00Z</updated>
+ <published>2022-12-24T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 16. Forecast issued 04:30 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-145_fc13:20221224093000</id>
+ </entry>
+ </feed>
+

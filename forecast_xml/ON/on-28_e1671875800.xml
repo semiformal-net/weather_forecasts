@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kincardine - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-28_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-28_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T09:48:36Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224094836</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>BLIZZARD WARNING , Kincardine</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on20"/>
+ <updated>2022-12-24T09:40:00Z</updated>
+ <published>2022-12-24T09:40:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:40 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_w1:202212240940</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -9.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T09:00:00Z</updated>
+ <published>2022-12-24T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Goderich 04:00 AM EST Saturday 24 December 2022 <br/>
+<b>Temperature:</b> -9.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.4 kPa rising<br/>
+<b>Humidity:</b> 84 %<br/>
+<b>Wind Chill:</b> -22 <br/>
+<b>Dewpoint:</b> -11.8&deg;C <br/>
+<b>Wind:</b> WSW 62 km/h gust 75 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_cc:20221224090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Blizzard. Temperature steady near minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Blizzard. Local snowfall amount 10 to 20 cm. Wind west 60 km/h gusting to 90. Temperature steady near minus 5. Wind chill minus 19 this morning and minus 14 this afternoon. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc1:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Blizzard. Temperature steady near minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Blizzard ending overnight then a few flurries. Risk of snow squalls overnight. Blowing snow overnight. Local snowfall amount 10 to 15 cm. Wind west 60 km/h gusting to 80. Temperature steady near minus 5. Wind chill near minus 16. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc2:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A few flurries. Temperature steady near minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries with risk of snow squalls. Blowing snow. Local amount 10 to 15 cm. Wind west 50 km/h gusting to 70. Temperature steady near minus 4. Wind chill near minus 16. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc3:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 9. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 70 percent chance of flurries. Low minus 9. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc4:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 8. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc5:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 9. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 9. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc6:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 5. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc7:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc8:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High zero. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc9:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 1. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc10:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High plus 5. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc11:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. Low 6. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc12:20221224100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-28_metric_e.html"/>
+ <updated>2022-12-24T10:00:00Z</updated>
+ <published>2022-12-24T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 6. Forecast issued 05:00 AM EST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-28_fc13:20221224100000</id>
+ </entry>
+ </feed>
+
