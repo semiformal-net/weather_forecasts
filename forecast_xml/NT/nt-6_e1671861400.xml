@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Whati - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nt-6_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nt-6_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T05:09:07Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224050907</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Whati</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nt17"/>
+ <updated>2022-12-24T02:56:00Z</updated>
+ <published>2022-12-24T02:56:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 7:56 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_w1:202212240256</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -40.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-24T05:00:00Z</updated>
+ <published>2022-12-24T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Whati 10:00 PM MST Friday 23 December 2022 <br/>
+<b>Temperature:</b> -40.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 104.0 kPa falling<br/>
+<b>Humidity:</b> 66 %<br/>
+<b>Wind Chill:</b> -46 <br/>
+<b>Dewpoint:</b> -44.8&deg;C <br/>
+<b>Wind:</b> NNW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_cc:20221224050000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 42. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries this evening. Wind up to 15 km/h. Low minus 42. Wind chill near minus 53. Frostbite in minutes. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc1:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming a mix of sun and cloud in the morning. Wind up to 15 km/h. High minus 33. Wind chill minus 52 in the morning and minus 44 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc2:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Temperature rising to minus 30 by morning. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the evening with 30 percent chance of flurries late in the evening and overnight. Wind up to 15 km/h. Temperature rising to minus 30 by morning. Wind chill near minus 45. Frostbite in minutes. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc3:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 27. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc4:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 31. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc5:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 29. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc6:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 28. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc7:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 22. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc8:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 28. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 28. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc9:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 28. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc10:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 29. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc11:20221223230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2022-12-23T23:00:00Z</updated>
+ <published>2022-12-23T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 27. Forecast issued 4:00 PM MST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc12:20221223230000</id>
+ </entry>
+ </feed>
+

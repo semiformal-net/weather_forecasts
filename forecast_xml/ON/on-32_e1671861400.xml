@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Caledon - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-32_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-32_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T05:40:38Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224054038</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>WINTER STORM WARNING , Caledon</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on24"/>
+ <updated>2022-12-24T03:24:00Z</updated>
+ <published>2022-12-24T03:24:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:24 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_w1:202212240324</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -13.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T05:39:00Z</updated>
+ <published>2022-12-24T05:39:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Toronto Pearson Int'l Airport 12:39 AM EST Saturday 24 December 2022 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -13.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.3 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 64 %<br/>
+<b>Wind Chill:</b> -26 <br/>
+<b>Dewpoint:</b> -18.6&deg;C <br/>
+<b>Wind:</b> WSW 48 km/h gust 73 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_cc:20221224053900</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow and blowing snow. Temperature steady near minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow and blowing snow. Local amount 5 cm. Wind west 60 km/h gusting to 90 becoming southwest 40 gusting to 80 after midnight. Temperature steady near minus 11. Wind chill near minus 24. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc1:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Saturday: A few flurries. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Blowing snow. Local amount 2 to 4 cm. Wind southwest 40 km/h gusting to 70. High minus 8. Wind chill near minus 23. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc2:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Saturday night: A few flurries. Temperature steady near minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Risk of snow squalls overnight. Blowing snow. Local amount 5 cm. Wind west 30 km/h gusting to 60. Temperature steady near minus 7. Wind chill minus 19 in the evening and minus 14 overnight. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc3:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. Windy. High minus 4. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc4:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Windy. Low minus 11. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc5:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc6:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 8. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc7:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc8:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc9:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 2. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc10:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 2. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc11:20221224043200</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-32_metric_e.html"/>
+ <updated>2022-12-24T04:32:00Z</updated>
+ <published>2022-12-24T04:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High 7. Forecast issued 11:32 PM EST Friday 23 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-32_fc12:20221224043200</id>
+ </entry>
+ </feed>
+
