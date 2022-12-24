@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Qualicum Beach - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-98_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-98_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T15:06:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224150635</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Qualicum Beach</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc46"/>
+ <updated>2022-12-24T13:16:00Z</updated>
+ <published>2022-12-24T13:16:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 05:16 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_w1:202212241316</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 4.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T15:00:00Z</updated>
+ <published>2022-12-24T15:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Qualicum Beach Airport 07:00 AM PST Saturday 24 December 2022 <br/>
+<b>Temperature:</b> 4.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa falling<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Dewpoint:</b> 4.0&deg;C <br/>
+<b>Wind:</b> ESE 22 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_cc:20221224150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain at times heavy. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy ending this afternoon then cloudy with 60 percent chance of showers. Amount 30 mm except 60 mm between Qualicum Beach and Fanny Bay. Wind southeast 30 km/h gusting to 50 except gusting to 70 over exposed coastal sections this morning. Wind becoming southwest 20 early this afternoon. High 8. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc1:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Wind southwest 20 km/h becoming southeast 20 this evening. Low plus 5. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc2:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 10 to 15 mm. Wind becoming southeast 30 km/h in the morning. High 8. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc3:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. Low 8. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc4:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 9. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc5:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low 6. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc6:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. High 7. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc7:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc8:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 6. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc9:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc10:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc11:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Showers. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 3. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc12:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Friday: Showers. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-98_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High plus 5. Forecast issued 05:00 AM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-98_fc13:20221224130000</id>
+ </entry>
+ </feed>
+
