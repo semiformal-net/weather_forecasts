@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Meadow Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-22_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-22_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-24T13:10:37Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221224131037</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Meadow Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk24"/>
+ <updated>2022-12-24T10:26:00Z</updated>
+ <published>2022-12-24T10:26:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:26 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_w1:202212241026</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -18.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T13:00:00Z</updated>
+ <published>2022-12-24T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Meadow Lake Airport 07:00 AM CST Saturday 24 December 2022 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -18.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.3 kPa falling<br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 67 %<br/>
+<b>Wind Chill:</b> -28 <br/>
+<b>Dewpoint:</b> -22.9&deg;C <br/>
+<b>Wind:</b> ESE 17 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_cc:20221224130000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of light snow. High minus 16. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of light snow this morning. Wind southeast 20 km/h. High minus 16. Wind chill minus 30 this morning and minus 25 this afternoon. Risk of frostbite. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc1:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Snow. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy near midnight then snow. Amount 10 cm. Wind southeast 20 km/h becoming light overnight. Low minus 20. Wind chill minus 30 this evening and minus 25 overnight. Risk of frostbite. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc2:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending in the afternoon then cloudy. Amount 5 cm. Wind up to 15 km/h. High minus 16. Wind chill near minus 27. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc3:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 25. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc4:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 19. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc5:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 20. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc6:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 15. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc7:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 17. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc8:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 15. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc9:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 23. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 23. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc10:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 18. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc11:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc12:20221224110000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-22_metric_e.html"/>
+ <updated>2022-12-24T11:00:00Z</updated>
+ <published>2022-12-24T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 05:00 AM CST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-22_fc13:20221224110000</id>
+ </entry>
+ </feed>
+
