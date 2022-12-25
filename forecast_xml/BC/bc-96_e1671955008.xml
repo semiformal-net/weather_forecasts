@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Richmond - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-96_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-96_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-25T07:39:54Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221225073954</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Richmond</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-25T03:15:00Z</updated>
+ <published>2022-12-25T03:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_w1:20221225031500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mist, 4.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T07:00:00Z</updated>
+ <published>2022-12-25T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Vancouver Int'l Airport 11:00 PM PST Saturday 24 December 2022 <br/>
+<b>Condition:</b> Mist <br/>
+<b>Temperature:</b> 4.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.2 kPa rising<br/>
+<b>Visibility:</b> 6.4 km<br/>
+<b>Humidity:</b> 100 %<br/>
+<b>Dewpoint:</b> 4.5&deg;C <br/>
+<b>Wind:</b> E 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_cc:20221225070000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Temperature steady near 7. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 40 percent chance of showers. Fog patches. Temperature steady near 7. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc1:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Fog patches dissipating in the morning. Amount 5 to 10 mm. Wind becoming east 20 km/h in the morning except 40 near the Strait of Georgia late in the morning and in the afternoon. High 10. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc2:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain. Temperature steady near 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 10 to 15 mm. Wind southeast 20 km/h gusting to 40 increasing to 40 gusting to 60 after midnight. Temperature steady near 9. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc3:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 11. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc4:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low 8. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc5:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Rain. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. High 9. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc6:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain. Low plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 5. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc7:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc8:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc9:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc10:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc11:20221225034100</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-96_metric_e.html"/>
+ <updated>2022-12-25T03:41:00Z</updated>
+ <published>2022-12-25T03:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 7:41 PM PST Saturday 24 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-96_fc12:20221225034100</id>
+ </entry>
+ </feed>
+
