@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cache Creek - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-55_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-55_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-25T23:53:49Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221225235349</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Cache Creek</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc33"/>
+ <updated>2022-12-25T12:40:00Z</updated>
+ <published>2022-12-25T12:40:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:40 AM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_w1:202212251240</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -2.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-25T23:00:00Z</updated>
+ <published>2022-12-25T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ashcroft 3:00 PM PST Sunday 25 December 2022 <br/>
+<b>Temperature:</b> -2.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.6 kPa falling<br/>
+<b>Humidity:</b> 85 %<br/>
+<b>Wind Chill:</b> -4 <br/>
+<b>Dewpoint:</b> -5.0&deg;C <br/>
+<b>Wind:</b> S 3 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_cc:20221225230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of freezing rain. Temperature rising to zero by morning. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of freezing rain. Wind east 30 km/h. Temperature rising to zero by morning. Wind chill minus 10 this evening. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc1:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High plus 4. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 70 percent chance of freezing rain changing to 30 percent chance of rain showers in the morning. Snow level rising to 1300 metres in the afternoon. Wind east 30 km/h. High plus 4. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc2:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low plus 1 with temperature rising to 6 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers except snow over higher terrain overnight. Snow level 1300 metres lowering to near valley bottom near midnight. Snowfall amount 4 cm over higher terrain. Wind east 30 km/h. Low plus 1 with temperature rising to 6 by morning. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc3:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc4:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 4. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc5:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc6:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 1. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc7:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High plus 1. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc8:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 1. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc9:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc10:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 1. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc11:20221226000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-55_metric_e.html"/>
+ <updated>2022-12-26T00:00:00Z</updated>
+ <published>2022-12-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 2. Forecast issued 4:00 PM PST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-55_fc12:20221226000000</id>
+ </entry>
+ </feed>
+
