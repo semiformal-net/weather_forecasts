@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Vanier - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-41_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-41_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-26T06:32:29Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221226063229</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>BLOWING SNOW ADVISORY , Vanier</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc47"/>
+ <updated>2022-12-26T03:21:00Z</updated>
+ <published>2022-12-26T03:21:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:21 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_w1:202212260321</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -9.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-26T06:00:00Z</updated>
+ <published>2022-12-26T06:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sainte-Foy - Laval University 01:00 AM EST Monday 26 December 2022 <br/>
+<b>Temperature:</b> -9.5&deg;C <br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Dewpoint:</b> -12.5&deg;C <br/>
+<b>Wind:</b>   km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_cc:20221226060000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries at times heavy. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries at times heavy ending this evening then partly cloudy. Blowing snow early this evening. Wind southwest 30 km/h gusting to 50 becoming light near midnight. Low minus 14. Wind chill minus 15 this evening and minus 22 overnight. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc1:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind becoming southwest 20 km/h gusting to 40 in the morning. High minus 9. Wind chill minus 22 in the morning and minus 15 in the afternoon. UV index 1 or low. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc2:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy late in the evening then periods of snow. Local amount 2 cm. Wind up to 15 km/h. Low minus 11. Wind chill near minus 16. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc3:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc4:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 13. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc5:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 4. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc6:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc7:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High zero. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc8:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries or rain showers. Low zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. Low zero. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc9:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc10:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of showers. Low plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc11:20221225204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+ <updated>2022-12-25T20:45:00Z</updated>
+ <published>2022-12-25T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 5. Forecast issued 3:45 PM EST Sunday 25 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-41_fc12:20221225204500</id>
+ </entry>
+ </feed>
+
