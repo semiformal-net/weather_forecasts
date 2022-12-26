@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Muskoka - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-93_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-93_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-26T18:11:30Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221226181130</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>SNOW SQUALL WARNING , Muskoka</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on15"/>
+ <updated>2022-12-26T09:56:00Z</updated>
+ <published>2022-12-26T09:56:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:56 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_w1:202212260956</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -4.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T18:00:00Z</updated>
+ <published>2022-12-26T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Muskoka Airport 1:00 PM EST Monday 26 December 2022 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -4.8&deg;C <br/>
+<b>Pressure:</b> 101.6 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -8.2&deg;C <br/>
+<b>Wind:</b> SW 22 km/h gust 37 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_cc:20221226180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Flurries or snow squalls. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries and snow squalls. Local amount 15 to 25 cm. Wind up to 15 km/h. High minus 5. Wind chill near minus 10. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc1:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Flurries or snow squalls. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries and snow squalls. Local amount 5 to 10 cm. Wind up to 15 km/h. Low minus 13. Wind chill minus 9 this evening and minus 16 overnight. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc2:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Flurries or snow squalls. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries and snow squalls. Local amount 5 to 10 cm. Wind becoming southwest 20 km/h in the afternoon. High minus 2. Wind chill minus 14 in the morning and minus 6 in the afternoon. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc3:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc4:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Flurries. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High zero. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc5:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc6:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High 6. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc7:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low 6. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc8:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 9. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of showers. High 9. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc9:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of rain. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 4. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc10:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc11:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of rain showers or flurries. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low zero. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc12:20221226160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-93_metric_e.html"/>
+ <updated>2022-12-26T16:00:00Z</updated>
+ <published>2022-12-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 2. Forecast issued 11:00 AM EST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-93_fc13:20221226160000</id>
+ </entry>
+ </feed>
+
