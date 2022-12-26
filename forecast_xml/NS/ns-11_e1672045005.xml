@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Shelburne - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-11_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-11_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-26T08:33:43Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221226083343</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Shelburne</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-24T09:15:00Z</updated>
+ <published>2022-12-24T09:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_w1:20221224091500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T08:00:00Z</updated>
+ <published>2022-12-26T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Shelburne Sandy Point 04:00 AM AST Monday 26 December 2022 <br/>
+<b>Temperature:</b> -0.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa rising<br/>
+<b>Humidity:</b> 74 %<br/>
+<b>Wind Chill:</b> -2 <br/>
+<b>Dewpoint:</b> -4.6&deg;C <br/>
+<b>Wind:</b> WSW 3 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_cc:20221226080000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries this morning then a mix of sun and cloud. Wind west 20 km/h gusting to 40. High plus 2. Wind chill minus 7 this morning. UV index 1 or low. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc1:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy after midnight with 60 percent chance of flurries overnight. Wind southwest 20 km/h gusting to 40. Low minus 1. Wind chill minus 7 this evening. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc2:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of rain showers or flurries. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of rain showers or flurries. Wind southwest 20 km/h gusting to 40 becoming northwest 20 gusting to 40 in the afternoon. High plus 4. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc3:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc4:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc5:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 1. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc6:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc7:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low zero. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc8:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 7. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc9:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low 6. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc10:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 12. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc11:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low 10. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc12:20221226090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2022-12-26T09:00:00Z</updated>
+ <published>2022-12-26T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 11. Forecast issued 05:00 AM AST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc13:20221226090000</id>
+ </entry>
+ </feed>
+
