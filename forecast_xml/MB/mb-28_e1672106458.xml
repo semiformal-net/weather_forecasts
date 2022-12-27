@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Shoal Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-28_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-28_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-27T01:06:48Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221227010648</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Shoal Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-25T11:09:00Z</updated>
+ <published>2022-12-25T11:09:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_w1:20221225110900</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -14.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-27T01:00:00Z</updated>
+ <published>2022-12-27T01:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Shoal Lake 7:00 PM CST Monday 26 December 2022 <br/>
+<b>Temperature:</b> -14.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Wind Chill:</b> -22 <br/>
+<b>Dewpoint:</b> -16.3&deg;C <br/>
+<b>Wind:</b> ESE 12 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_cc:20221227010000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow mixed with ice pellets. Temperature rising to minus 8 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of light snow early this evening. Periods of snow or ice pellets beginning early this evening. Risk of freezing rain overnight. Snow and ice pellet amount 2 cm. Wind up to 15 km/h. Temperature rising to minus 8 by morning. Wind chill minus 24 this evening and minus 14 overnight. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc1:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of snow. Risk of freezing rain in the morning. Wind up to 15 km/h. High minus 7. Wind chill minus 13 in the morning and minus 20 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc2:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow mixed with ice pellets. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of snow early in the evening. Snow mixed with ice pellets beginning in the evening. Snow and ice pellet amount 5 to 10 cm. Wind east 20 km/h. Low minus 12. Wind chill minus 20 in the evening and minus 14 overnight. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc3:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 5. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc4:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 12. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc5:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 9. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc6:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc7:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 16. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc8:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc9:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc10:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc11:20221226220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-28_metric_e.html"/>
+ <updated>2022-12-26T22:00:00Z</updated>
+ <published>2022-12-26T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 4:00 PM CST Monday 26 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-28_fc12:20221226220000</id>
+ </entry>
+ </feed>
+
