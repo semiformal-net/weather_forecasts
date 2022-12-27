@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Hope - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-36_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-36_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-27T22:33:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221227223353</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Hope</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-25T03:15:00Z</updated>
+ <published>2022-12-25T03:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_w1:20221225031500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Rain, 4.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T22:33:00Z</updated>
+ <published>2022-12-27T22:33:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Hope Airport 2:33 PM PST Tuesday 27 December 2022 <br/>
+<b>Condition:</b> Light Rain <br/>
+<b>Temperature:</b> 4.3&deg;C <br/>
+<b>Pressure:</b> 98.3 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Dewpoint:</b> 3.7&deg;C <br/>
+<b>Wind:</b> E 8 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_cc:20221227223300</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. Temperature steady near plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Amount 5 to 10 mm. Wind east 30 km/h gusting to 50 becoming light late this afternoon. Temperature steady near plus 5. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc1:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Temperature steady near plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Amount 5 to 10 mm. Wind becoming west 20 km/h after midnight. Temperature steady near plus 4. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc2:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending late in the afternoon then partly cloudy. Amount 5 to 10 mm. Wind west 20 km/h becoming light in the morning. High plus 4. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc3:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. Low plus 1. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc4:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 4. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc5:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 3. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc6:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc7:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 2. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc8:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc9:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low zero. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc10:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 5. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc11:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain showers or flurries. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 1. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc12:20221227190000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2022-12-27T19:00:00Z</updated>
+ <published>2022-12-27T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 11:00 AM PST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc13:20221227190000</id>
+ </entry>
+ </feed>
+
