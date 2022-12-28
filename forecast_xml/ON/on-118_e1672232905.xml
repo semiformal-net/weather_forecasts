@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ottawa (Kanata - Orléans) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-118_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-118_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-28T13:05:45Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221228130545</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Ottawa (Kanata - Orléans)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-25T11:30:00Z</updated>
+ <published>2022-12-25T11:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_w1:20221225113000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -3.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T13:00:00Z</updated>
+ <published>2022-12-28T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ottawa Macdonald-Cartier Int'l Airport 08:00 AM EST Wednesday 28 December 2022 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -3.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.9 kPa falling<br/>
+<b>Visibility:</b> 1.2 km<br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Wind Chill:</b> -9 <br/>
+<b>Dewpoint:</b> -4.4&deg;C <br/>
+<b>Wind:</b> SSE 16 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_cc:20221228130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow ending this afternoon then cloudy. Risk of freezing drizzle late this afternoon. Amount 2 to 4 cm. Wind south 20 km/h becoming light late this morning. High plus 1. Wind chill minus 9 this morning. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc1:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clearing. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this evening. Wind up to 15 km/h. Low minus 2. Wind chill minus 6 overnight. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc2:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Thursday: Mainly cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Becoming cloudy near noon. Wind becoming southwest 20 km/h gusting to 40 then light early in the afternoon. High plus 5. UV index 1 or low. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc3:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 3. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc4:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 8. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc5:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of showers. Low 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low 6. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc6:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc7:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of rain. Low plus 2. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of rain. Low plus 2. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc8:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 4. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc9:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain showers or flurries. Low minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low minus 2. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc10:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc11:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc12:20221228113900</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of snow or rain. High 6. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2022-12-28T11:39:00Z</updated>
+ <published>2022-12-28T11:39:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of snow or rain. High 6. Forecast issued 06:39 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc13:20221228113900</id>
+ </entry>
+ </feed>
+
