@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sault Ste. Marie - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-162_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-162_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-28T08:44:50Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221228084450</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>WEATHER ADVISORY , Sault Ste. Marie</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on35"/>
+ <updated>2022-12-28T07:05:00Z</updated>
+ <published>2022-12-28T07:05:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 02:05 AM EST Wednesday 28 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_w1:202212280705</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -4.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T08:00:00Z</updated>
+ <published>2022-12-28T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sault Ste. Marie Airport 03:00 AM EST Wednesday 28 December 2022 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -4.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.9 kPa falling<br/>
+<b>Visibility:</b> 1.6 km<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -4.8&deg;C <br/>
+<b>Wind:</b> ESE 6 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_cc:20221228080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow at times heavy mixed with ice pellets. Temperature rising to minus 2 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy becoming mixed with periods of ice pellets before morning. Snow and ice pellet amount 5 to 10 cm. Wind southeast 30 km/h becoming light after midnight. Temperature rising to minus 2 by morning. Wind chill minus 13 this evening and minus 5 overnight. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc1:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow mixed with ice pellets. Temperature steady near zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of snow or ice pellets. Risk of freezing drizzle late in the morning and in the afternoon. Wind becoming southeast 20 km/h in the morning. Temperature steady near zero. Wind chill minus 7 in the morning. UV index 1 or low. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc2:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Showers. Temperature rising to plus 3 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Showers beginning near midnight. Wind southeast 20 km/h becoming light late in the evening. Temperature rising to plus 3 by morning. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc3:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High plus 4. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc4:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 4. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc5:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc6:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 2. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc7:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High zero. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc8:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 1. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc9:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 2. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc10:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low zero. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc11:20221228004300</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-162_metric_e.html"/>
+ <updated>2022-12-28T00:43:00Z</updated>
+ <published>2022-12-28T00:43:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High plus 2. Forecast issued 7:43 PM EST Tuesday 27 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-162_fc12:20221228004300</id>
+ </entry>
+ </feed>
+
