@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Mine Centre - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-48_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-48_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-29T19:06:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221229190614</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>FREEZING DRIZZLE ADVISORY , Mine Centre</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on37"/>
+ <updated>2022-12-29T16:39:00Z</updated>
+ <published>2022-12-29T16:39:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:39 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_w1:202212291639</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T19:00:00Z</updated>
+ <published>2022-12-29T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Atikokan 2:00 PM EST Thursday 29 December 2022 <br/>
+<b>Temperature:</b> 0.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.3 kPa falling<br/>
+<b>Humidity:</b> 82 %<br/>
+<b>Wind Chill:</b> -1 <br/>
+<b>Dewpoint:</b> -2.7&deg;C <br/>
+<b>Wind:</b> SW 3 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_cc:20221229190000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Overcast. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Overcast. Risk of freezing drizzle. Fog patches dissipating near noon. Wind up to 15 km/h. High zero. Wind chill minus 5 this morning. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc1:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 12. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Risk of freezing drizzle this evening and after midnight. Wind west 20 km/h. Low minus 12. Wind chill minus 5 this evening and minus 17 overnight. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc2:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 10. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of flurries early in the morning. Wind up to 15 km/h. High minus 10. Wind chill minus 19 in the morning and minus 14 in the afternoon. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc3:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 17. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc4:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 4. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc5:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 8. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc6:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 4. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc7:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 11. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc8:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 5. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc9:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 6. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc10:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of snow. High minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of snow. High minus 3. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc11:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 13. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc12:20221229163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2022-12-29T16:30:00Z</updated>
+ <published>2022-12-29T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 11:30 AM CST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc13:20221229163000</id>
+ </entry>
+ </feed>
+
