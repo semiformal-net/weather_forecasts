@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cochrane - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-1_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-1_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-29T20:51:15Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221229205115</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>FOG ADVISORY , Cochrane</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab1"/>
+ <updated>2022-12-29T16:02:00Z</updated>
+ <published>2022-12-29T16:02:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 09:02 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_w1:202212291602</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Fog, -9.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T20:50:00Z</updated>
+ <published>2022-12-29T20:50:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Springbank Airport 1:50 PM MST Thursday 29 December 2022 <br/>
+<b>Condition:</b> Fog <br/>
+<b>Temperature:</b> -9.5&deg;C <br/>
+<b>Pressure:</b> 100.7 kPa <br/>
+<b>Visibility:</b> 0.6 km<br/>
+<b>Humidity:</b> 93 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -10.4&deg;C <br/>
+<b>Wind:</b> NNE 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_cc:20221229205000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Fog dissipating. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Fog dissipating early this afternoon then sunny. Wind up to 15 km/h. High minus 3. Wind chill near minus 12. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc1:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Partly cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming partly cloudy this evening. Wind up to 15 km/h. Low minus 13. Wind chill near minus 15. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc2:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 2. Wind chill minus 16 in the morning and minus 4 in the afternoon. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc3:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 11. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc4:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc5:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc6:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc7:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 16. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc8:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 5. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc9:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc10:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc11:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc12:20221229180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2022-12-29T18:00:00Z</updated>
+ <published>2022-12-29T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 11:00 AM MST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc13:20221229180000</id>
+ </entry>
+ </feed>
+
