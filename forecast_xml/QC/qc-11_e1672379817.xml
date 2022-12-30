@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>La Malbaie - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-11_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-11_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-30T05:06:05Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221230050605</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, La Malbaie</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-25T00:15:00Z</updated>
+ <published>2022-12-25T00:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_w1:20221225001500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -2.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-30T05:00:00Z</updated>
+ <published>2022-12-30T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> La Pocatière 12:00 AM EST Friday 30 December 2022 <br/>
+<b>Temperature:</b> -2.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.9 kPa falling<br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Wind Chill:</b> -3 <br/>
+<b>Dewpoint:</b> -2.9&deg;C <br/>
+<b>Wind:</b> WSW 3 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_cc:20221230050000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Temperature steady near minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Risk of freezing drizzle overnight. Wind up to 15 km/h. Temperature steady near minus 6. Wind chill minus 10 this evening. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc1:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 40 percent chance of flurries early in the morning with risk of freezing drizzle. Wind up to 15 km/h. High plus 3. Wind chill minus 7 in the morning. UV index 1 or low. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc2:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of showers. Temperature rising to 6 by morning. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Temperature rising to 6 by morning. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc3:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 5. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc4:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 1. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc5:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Rain or snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow. High plus 1. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc6:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc7:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc8:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc9:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 2. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc10:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 3. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc11:20221229204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-11_metric_e.html"/>
+ <updated>2022-12-29T20:45:00Z</updated>
+ <published>2022-12-29T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 3:45 PM EST Thursday 29 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-11_fc12:20221229204500</id>
+ </entry>
+ </feed>
+
