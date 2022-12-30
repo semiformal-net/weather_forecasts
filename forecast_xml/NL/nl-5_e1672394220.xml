@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Grand Bank - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-5_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-5_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-30T09:11:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221230091108</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Grand Bank</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl5"/>
+ <updated>2022-12-30T08:55:00Z</updated>
+ <published>2022-12-30T08:55:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 05:25 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_w1:202212300855</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -4.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Winterland Branch Hill 05:30 AM NST Friday 30 December 2022 <br/>
+<b>Temperature:</b> -4.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.3 kPa rising<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -10 <br/>
+<b>Dewpoint:</b> -7.4&deg;C <br/>
+<b>Wind:</b>  16 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_cc:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 1. Wind chill near minus 9. UV index 1 or low. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc1:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 5 with temperature rising to zero by morning. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy overnight with 60 percent chance of flurries. Risk of freezing rain overnight. Wind becoming southwest 20 km/h gusting to 40 near midnight. Low minus 5 with temperature rising to zero by morning. Wind chill minus 10 this evening. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc2:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A few showers. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few showers ending in the afternoon then cloudy. Fog patches developing in the morning. Wind southwest 20 km/h gusting to 40. High plus 5. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc3:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 4. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc4:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc5:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 1. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc6:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain or snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or snow. High plus 1. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc7:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 3. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc8:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc9:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 3. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc10:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 7. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc11:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Showers. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 4. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc12:20221230090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Showers. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-5_metric_e.html"/>
+ <updated>2022-12-30T09:00:00Z</updated>
+ <published>2022-12-30T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High plus 3. Forecast issued 05:30 AM NST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-5_fc13:20221230090000</id>
+ </entry>
+ </feed>
+
