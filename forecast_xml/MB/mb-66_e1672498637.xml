@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Turtle Mountain (Provincial Park) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-66_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-66_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-31T14:09:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221231140914</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>FOG ADVISORY , Turtle Mountain (Provincial Park)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb5"/>
+ <updated>2022-12-31T10:42:00Z</updated>
+ <published>2022-12-31T10:42:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:42 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_w1:202212311042</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -17.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T14:00:00Z</updated>
+ <published>2022-12-31T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Melita 08:00 AM CST Saturday 31 December 2022 <br/>
+<b>Temperature:</b> -17.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.5 kPa falling<br/>
+<b>Humidity:</b> 84 %<br/>
+<b>Dewpoint:</b> -19.1&deg;C <br/>
+<b>Wind:</b> NNE 1 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_cc:20221231140000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly cloudy. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Fog dissipating this morning then mainly cloudy. Wind becoming south 20 km/h near noon. High minus 7. Wind chill near minus 15. UV index 1 or low. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc1:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of light snow. Low minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of light snow. Wind up to 15 km/h. Low minus 10. Wind chill near minus 15. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc2:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of light snow. High minus 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of light snow. Wind becoming northwest 20 km/h in the afternoon. High minus 8. Wind chill minus 13 in the morning and minus 18 in the afternoon. UV index 1 or low. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc3:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 15. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc4:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc5:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc6:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc7:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc8:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 8. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc9:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 15. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc10:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 8. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc11:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 15. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc12:20221231110000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-66_metric_e.html"/>
+ <updated>2022-12-31T11:00:00Z</updated>
+ <published>2022-12-31T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 05:00 AM CST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-66_fc13:20221231110000</id>
+ </entry>
+ </feed>
+
