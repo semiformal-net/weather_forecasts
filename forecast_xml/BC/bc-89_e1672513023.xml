@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Port Hardy - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-89_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-89_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-31T18:56:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221231185628</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Port Hardy</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-26T03:10:00Z</updated>
+ <published>2022-12-26T03:10:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_w1:20221226031000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 7.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T18:47:00Z</updated>
+ <published>2022-12-31T18:47:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Port Hardy Airport 10:47 AM PST Saturday 31 December 2022 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 7.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.8 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 98 %<br/>
+<b>Dewpoint:</b> 6.7&deg;C <br/>
+<b>Wind:</b> SW 10 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_cc:20221231184700</id>
+ </entry>
+ <entry>
+ <title>Saturday: Showers. Temperature steady near 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers ending late this afternoon then cloudy. Temperature steady near 7. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc1:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clearing. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this evening. Low zero. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc2:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Increasing cloudiness. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Wind becoming southeast 30 km/h gusting to 50 except gusting to 70 over exposed coastal sections in the afternoon. High 6. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc3:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Windy. Low plus 4. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc4:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 6. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of showers. Windy. High 6. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc5:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Windy. Low plus 4. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc6:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 6. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc7:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low plus 5. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of showers. Windy. Low plus 5. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc8:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 7. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc9:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc10:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc11:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 4. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc12:20221231190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2022-12-31T19:00:00Z</updated>
+ <published>2022-12-31T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 11:00 AM PST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc13:20221231190000</id>
+ </entry>
+ </feed>
+

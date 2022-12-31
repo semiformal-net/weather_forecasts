@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Saint John - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-23_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-23_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-31T18:45:20Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221231184520</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Saint John</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-24T09:15:00Z</updated>
+ <published>2022-12-24T09:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_w1:20221224091500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 8.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T18:38:00Z</updated>
+ <published>2022-12-31T18:38:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Saint John Airport 2:38 PM AST Saturday 31 December 2022 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 8.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa falling<br/>
+<b>Visibility:</b> 12.9 km<br/>
+<b>Humidity:</b> 92 %<br/>
+<b>Dewpoint:</b> 7.0&deg;C <br/>
+<b>Wind:</b> SSW 24 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_cc:20221231183800</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly cloudy. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind becoming southwest 20 km/h early this afternoon. High 9. UV index 1 or low. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc1:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of rain. Low 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of showers late this evening. Periods of rain beginning near midnight. Fog patches developing this evening. Amount 5 to 10 mm. Wind southwest 20 km/h becoming light this evening. Low 6. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc2:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of rain showers or flurries. High 8 with temperature falling to plus 2 in the afternoon. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending in the morning then cloudy with 60 percent chance of rain showers or flurries late in the morning and in the afternoon. Fog patches dissipating in the afternoon. Rainfall amount 2 to 4 mm. Wind becoming north 20 km/h gusting to 40 in the afternoon. High 8 with temperature falling to plus 2 in the afternoon. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc3:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain showers or flurries. Low minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of rain showers or flurries. Low minus 6. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc4:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc5:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc6:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc7:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain. Low 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. Low 6. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc8:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Showers. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 9. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc9:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain or snow. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or periods of snow. Low minus 3. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc10:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 6. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc11:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc12:20221231150000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2022-12-31T15:00:00Z</updated>
+ <published>2022-12-31T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 11:00 AM AST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc13:20221231150000</id>
+ </entry>
+ </feed>
+
