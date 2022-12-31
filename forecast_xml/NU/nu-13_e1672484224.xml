@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kugaaruk - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-13_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-13_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-31T10:07:25Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221231100725</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Kugaaruk</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-10-16T04:18:00Z</updated>
+ <published>2022-10-16T04:18:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_w1:20221016041800</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -20.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kugaaruk Airport 03:00 AM MST Saturday 31 December 2022 <br/>
+<b>Temperature:</b> -20.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa falling<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -27 <br/>
+<b>Dewpoint:</b> -23.3&deg;C <br/>
+<b>Wind:</b> NE 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_cc:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of light snow. Temperature steady near minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow. Wind up to 15 km/h. Temperature steady near minus 20. Wind chill near minus 30. Risk of frostbite. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc1:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of light snow. Low minus 23. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of light snow. Wind up to 15 km/h. Low minus 23. Wind chill near minus 30. Risk of frostbite. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc2:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly cloudy. High minus 21 with temperature falling to minus 29 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Clearing late in the afternoon. Wind up to 15 km/h. High minus 21 with temperature falling to minus 29 in the afternoon. Wind chill minus 28 in the morning and minus 36 in the afternoon. Risk of frostbite. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc3:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc4:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Clear. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 32. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc5:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc6:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Clear. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 27. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc7:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 31. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc8:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Clear. High minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 28. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc9:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc10:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Clear. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 27. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc11:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc12:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Clear. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-13_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 26. Forecast issued 03:00 AM MST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-13_fc13:20221231100000</id>
+ </entry>
+ </feed>
+

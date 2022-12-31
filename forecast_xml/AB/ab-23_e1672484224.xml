@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cold Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-23_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-23_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-31T10:45:23Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221231104523</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>FOG ADVISORY , Cold Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab20"/>
+ <updated>2022-12-31T02:51:00Z</updated>
+ <published>2022-12-31T02:51:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 7:51 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_w1:202212310251</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Freezing Fog, -15.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-31T10:00:00Z</updated>
+ <published>2022-12-31T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> CFB Cold Lake 03:00 AM MST Saturday 31 December 2022 <br/>
+<b>Condition:</b> Freezing Fog <br/>
+<b>Temperature:</b> -15.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.2 kPa rising<br/>
+<b>Visibility:</b> 0.4 km<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Dewpoint:</b> -17.6&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_cc:20221231100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 16. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries this evening. Fog patches becoming fog early this evening. Wind up to 15 km/h. Low minus 16. Wind chill minus 14 this evening and minus 19 overnight. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc1:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Fog. Temperature steady near minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Fog becoming fog patches in the afternoon. Wind up to 15 km/h. Temperature steady near minus 13. Wind chill near minus 20. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc2:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Fog. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Fog. Wind up to 15 km/h. Low minus 18. Wind chill minus 19 in the evening and minus 25 overnight. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc3:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc4:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 16. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc5:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 12. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc6:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 15. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc7:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 9. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc8:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc9:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc10:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc11:20221230230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-23_metric_e.html"/>
+ <updated>2022-12-30T23:00:00Z</updated>
+ <published>2022-12-30T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 4:00 PM MST Friday 30 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-23_fc12:20221230230000</id>
+ </entry>
+ </feed>
+
