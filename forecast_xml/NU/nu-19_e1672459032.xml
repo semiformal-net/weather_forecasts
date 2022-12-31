@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ennadai - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-19_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-19_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-19_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2022-12-31T03:08:48Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20221231030848</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2022, Environment Canada</rights>
+ <entry>
+ <title>Current Conditions: -15.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-19_metric_e.html"/>
+ <updated>2022-12-31T03:00:00Z</updated>
+ <published>2022-12-31T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ennadai Lake 8:00 PM MST Friday 30 December 2022 <br/>
+<b>Temperature:</b> -15.9&deg;C <br/>
+<b>Humidity:</b> 85 %<br/>
+<b>Wind Chill:</b> -24 <br/>
+<b>Dewpoint:</b> -17.8&deg;C <br/>
+<b>Wind:</b> SSE 14 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-19_cc:20221231030000</id>
+ </entry>
+ </feed>
+
