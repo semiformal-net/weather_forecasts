@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sharbot Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-61_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-61_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-01T03:10:49Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230101031049</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Sharbot Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on43"/>
+ <updated>2022-12-31T20:33:00Z</updated>
+ <published>2022-12-31T20:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:33 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_w1:202212312033</id>
+ </entry>
+ <entry>
+ <title>FOG ADVISORY , Sharbot Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on43"/>
+ <updated>2023-01-01T00:01:00Z</updated>
+ <published>2023-01-01T00:01:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 7:01 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_w2:202301010001</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 4.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2023-01-01T03:00:00Z</updated>
+ <published>2023-01-01T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kemptville 10:00 PM EST Saturday 31 December 2022 <br/>
+<b>Temperature:</b> 4.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.5 kPa falling<br/>
+<b>Humidity:</b> 100 %<br/>
+<b>Dewpoint:</b> 4.2&deg;C <br/>
+<b>Wind:</b> W 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_cc:20230101030000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of rain. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending late this evening then cloudy. Fog patches dissipating near midnight. Wind becoming west 20 km/h before morning. Low minus 2. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc1:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Wind west 20 km/h becoming light in the morning. High zero. Wind chill minus 8 in the morning. UV index 1 or low. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc2:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 5 with temperature rising to zero by morning. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 40 percent chance of flurries. Risk of freezing drizzle late in the evening and overnight. Wind up to 15 km/h. Low minus 5 with temperature rising to zero by morning. Wind chill minus 7 in the evening. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc3:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc4:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 1. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc5:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. High 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 12. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc6:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low 9. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc7:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain showers or flurries. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. High 8. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc8:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 17. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 17. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc9:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 10. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc10:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 17. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc11:20221231203000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-61_metric_e.html"/>
+ <updated>2022-12-31T20:30:00Z</updated>
+ <published>2022-12-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 7. Forecast issued 3:30 PM EST Saturday 31 December 2022</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-61_fc12:20221231203000</id>
+ </entry>
+ </feed>
+
