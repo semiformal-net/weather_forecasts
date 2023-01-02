@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Bernières - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-51_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-51_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-02T07:07:37Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230102070737</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Bernières</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-01T10:30:00Z</updated>
+ <published>2023-01-01T10:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_w1:20230101103000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -1.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-02T07:00:00Z</updated>
+ <published>2023-01-02T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sainte-Foy - Laval University 02:00 AM EST Monday 02 January 2023 <br/>
+<b>Temperature:</b> -1.8&deg;C <br/>
+<b>Humidity:</b> 84 %<br/>
+<b>Dewpoint:</b> -4.2&deg;C <br/>
+<b>Wind:</b>   km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_cc:20230102070000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain showers or flurries. Low minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of rain showers early this evening then 30 percent chance of flurries this evening. Wind west 20 km/h becoming light this evening. Low minus 7. Wind chill minus 12 overnight. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc1:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries late in the morning and in the afternoon. Wind up to 15 km/h. High minus 2. Wind chill minus 12 in the morning and minus 6 in the afternoon. UV index 1 or low. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc2:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Temperature steady near minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries. Wind up to 15 km/h. Temperature steady near minus 2. Wind chill minus 6 in the evening. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc3:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High plus 2. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc4:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow or rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. Low plus 1. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc5:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc6:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc7:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc8:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc9:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc10:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc11:20230101204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-51_metric_e.html"/>
+ <updated>2023-01-01T20:45:00Z</updated>
+ <published>2023-01-01T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 3:45 PM EST Sunday 01 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-51_fc12:20230101204500</id>
+ </entry>
+ </feed>
+
