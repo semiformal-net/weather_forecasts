@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Lambton Shores - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-46_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-46_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-02T18:40:07Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230102184007</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Lambton Shores</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on36"/>
+ <updated>2023-01-02T16:11:00Z</updated>
+ <published>2023-01-02T16:11:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:11 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_w1:202301021611</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Haze, 5.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T18:39:00Z</updated>
+ <published>2023-01-02T18:39:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sarnia Chris Hadfield Airport 1:39 PM EST Monday 02 January 2023 <br/>
+<b>Condition:</b> Haze <br/>
+<b>Temperature:</b> 5.7&deg;C <br/>
+<b>Pressure:</b> 101.9 kPa <br/>
+<b>Visibility:</b> 9.7 km<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Dewpoint:</b> 2.4&deg;C <br/>
+<b>Wind:</b> NNE 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_cc:20230102183900</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 6. UV index 1 or low. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc1:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain or drizzle. Low plus 1 with temperature rising to 6 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of drizzle late this evening and after midnight. Rain beginning after midnight. Fog patches dissipating after midnight. Amount 5 to 10 mm. Low plus 1 with temperature rising to 6 by morning. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc2:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Rain at times heavy. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy ending near noon then cloudy with 60 percent chance of showers. Amount 15 to 25 mm. Wind southeast 20 km/h becoming southwest 40 gusting to 60 in the morning. High 9. UV index 1 or low. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc3:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Showers. Low plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 5. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc4:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc5:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Showers. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 1. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc6:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries or rain showers. High plus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High plus 3. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc7:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 1. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc8:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries or rain showers. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High plus 2. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc9:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 4. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc10:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries or rain showers. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries or rain showers. High plus 2. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc11:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 5. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc12:20230102160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-46_metric_e.html"/>
+ <updated>2023-01-02T16:00:00Z</updated>
+ <published>2023-01-02T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 11:00 AM EST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-46_fc13:20230102160000</id>
+ </entry>
+ </feed>
+
