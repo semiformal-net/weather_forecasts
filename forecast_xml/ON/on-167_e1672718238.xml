@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ear Falls - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-167_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-167_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-03T03:09:06Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230103030906</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Ear Falls</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-30T11:30:00Z</updated>
+ <published>2022-12-30T11:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_w1:20221230113000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -8.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-03T03:00:00Z</updated>
+ <published>2023-01-03T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ear Falls 9:00 PM CST Monday 02 January 2023 <br/>
+<b>Temperature:</b> -8.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa rising<br/>
+<b>Humidity:</b> 92 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -9.0&deg;C <br/>
+<b>Wind:</b> WSW 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_cc:20230103030000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Partly cloudy. Temperature steady near minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Fog patches developing overnight. Wind southwest 20 km/h becoming light this evening. Temperature steady near minus 9. Wind chill near minus 14. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc1:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Fog patches dissipating in the morning. Wind up to 15 km/h. High minus 6. Wind chill minus 13 in the morning and minus 8 in the afternoon. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc2:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Wind up to 15 km/h. Low minus 13. Wind chill minus 8 in the evening and minus 18 overnight. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc3:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 8. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc4:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 18. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc5:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 8. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc6:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 16. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc7:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc8:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc9:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc10:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc11:20230102210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-02T21:00:00Z</updated>
+ <published>2023-01-02T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 4:00 PM CST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc12:20230102210000</id>
+ </entry>
+ </feed>
+

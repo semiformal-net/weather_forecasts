@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Calgary - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-52_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-52_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-03T03:45:56Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230103034556</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Calgary</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-29T22:05:00Z</updated>
+ <published>2022-12-29T22:05:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_w1:20221229220500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Clear, -5.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-03T03:00:00Z</updated>
+ <published>2023-01-03T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Calgary Int'l Airport 8:00 PM MST Monday 02 January 2023 <br/>
+<b>Condition:</b> Clear <br/>
+<b>Temperature:</b> -5.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa falling<br/>
+<b>Visibility:</b> 19.3 km<br/>
+<b>Humidity:</b> 68 %<br/>
+<b>Wind Chill:</b> -9 <br/>
+<b>Dewpoint:</b> -10.4&deg;C <br/>
+<b>Wind:</b> S 8 km/h<br/>
+<b>Air Quality Health Index:</b> 4 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_cc:20230103030000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 7. Wind chill minus 5 this evening and minus 11 overnight. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc1:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High zero. Wind chill minus 12 in the morning. UV index 1 or low. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc2:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind becoming northwest 20 km/h near midnight. Low minus 7. Wind chill minus 8 in the evening and minus 14 overnight. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc3:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc4:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc5:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc6:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc7:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc8:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 3. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc9:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 10. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc10:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 1. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc11:20230102230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-52_metric_e.html"/>
+ <updated>2023-01-02T23:00:00Z</updated>
+ <published>2023-01-02T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 9. Forecast issued 4:00 PM MST Monday 02 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-52_fc12:20230102230000</id>
+ </entry>
+ </feed>
+
