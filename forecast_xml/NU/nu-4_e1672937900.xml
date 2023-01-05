@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sanirajak - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-4_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-4_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-05T17:01:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230105170128</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Sanirajak</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nu25"/>
+ <updated>2023-01-05T15:34:00Z</updated>
+ <published>2023-01-05T15:34:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:34 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_w1:202301051534</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Drifting Snow, -39.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sanirajak (Hall Beach Airport) 11:00 AM EST Thursday 05 January 2023 <br/>
+<b>Condition:</b> Drifting Snow <br/>
+<b>Temperature:</b> -39.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.9 kPa rising<br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 65 %<br/>
+<b>Wind Chill:</b> -55 <br/>
+<b>Dewpoint:</b> -43.2&deg;C <br/>
+<b>Wind:</b> NW 21 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_cc:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Clear. High minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind northwest 20 km/h becoming light this afternoon. High minus 38. Wind chill near minus 55. Hazardous frostbite conditions. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc1:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few clouds. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind becoming northwest 20 km/h this evening. Low minus 40. Wind chill near minus 56. Hazardous frostbite conditions. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc2:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Clear. High minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind northwest 20 km/h. High minus 37. Wind chill near minus 55. Hazardous frostbite conditions. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc3:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc4:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clear. High minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 35. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc5:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc6:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Clear. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 27. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc7:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc8:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Clear. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 25. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc9:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 31. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc10:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Clear. High minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 30. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc11:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 31. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc12:20230105160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Clear. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-4_metric_e.html"/>
+ <updated>2023-01-05T16:00:00Z</updated>
+ <published>2023-01-05T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 29. Forecast issued 11:00 AM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-4_fc13:20230105160000</id>
+ </entry>
+ </feed>
+
