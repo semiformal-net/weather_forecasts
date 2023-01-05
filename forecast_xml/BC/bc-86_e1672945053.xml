@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Whistler - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-86_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-86_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-05T18:54:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230105185408</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Whistler</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-29T15:30:00Z</updated>
+ <published>2022-12-29T15:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_w1:20221229153000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -1.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T18:00:00Z</updated>
+ <published>2023-01-05T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Whistler 10:00 AM PST Thursday 05 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -1.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.2 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Dewpoint:</b> -3.6&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_cc:20230105180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 2. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of flurries and risk of freezing rain. Wind northeast 20 km/h becoming light near noon. High plus 2. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc1:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain mixed with snow. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain becoming mixed with periods of light snow overnight. Low plus 1. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc2:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries or rain showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of flurries or rain showers changing to 60 percent chance of rain showers in the afternoon. High plus 3. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc3:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries or rain showers. Low plus 2. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of flurries or rain showers. Low plus 2. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc4:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries or rain showers. High plus 2. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of flurries or rain showers. High plus 2. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc5:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries or rain showers. Low minus 2. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 70 percent chance of flurries or rain showers. Low minus 2. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc6:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries or rain showers. High zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High zero. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc7:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc8:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 2. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc9:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 1. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc10:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries or rain showers. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 4. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc11:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 1. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc12:20230105190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Flurries or rain showers. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-01-05T19:00:00Z</updated>
+ <published>2023-01-05T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or rain showers. High plus 4. Forecast issued 11:00 AM PST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc13:20230105190000</id>
+ </entry>
+ </feed>
+
