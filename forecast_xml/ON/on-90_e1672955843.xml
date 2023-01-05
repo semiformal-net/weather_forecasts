@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Gananoque - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-90_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-90_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-05T21:06:42Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230105210642</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Gananoque</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-05T09:15:00Z</updated>
+ <published>2023-01-05T09:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_w1:20230105091500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 4.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T21:00:00Z</updated>
+ <published>2023-01-05T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Grenadier Island 4:00 PM EST Thursday 05 January 2023 <br/>
+<b>Temperature:</b> 4.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa rising<br/>
+<b>Humidity:</b> 73 %<br/>
+<b>Dewpoint:</b> 0.1&deg;C <br/>
+<b>Wind:</b> WSW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_cc:20230105210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries or rain showers. Low minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of flurries or rain showers early this evening. 60 percent chance of flurries overnight. Risk of freezing drizzle overnight. Fog patches developing near midnight. Wind southwest 20 km/h becoming light early this evening. Low minus 3. Wind chill minus 5 overnight. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc1:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Friday: A few flurries or rain showers. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries becoming mixed with a few rain showers in the afternoon. Risk of freezing drizzle in the morning. Fog patches dissipating in the morning. Wind up to 15 km/h. High plus 4. Wind chill minus 4 in the morning. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc2:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few flurries or rain showers. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries and rain showers ending overnight then cloudy. Low minus 1. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc3:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 1. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc4:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 11. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc5:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 2. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc6:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 3. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc7:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc8:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc9:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 3. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc10:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 11. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 11. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc11:20230105203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-90_metric_e.html"/>
+ <updated>2023-01-05T20:30:00Z</updated>
+ <published>2023-01-05T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 6. Forecast issued 3:30 PM EST Thursday 05 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-90_fc12:20230105203000</id>
+ </entry>
+ </feed>
+
