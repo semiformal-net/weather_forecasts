@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Colville Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nt-26_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nt-26_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-07T19:21:32Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230107192132</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Colville Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-24T18:45:00Z</updated>
+ <published>2022-12-24T18:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_w1:20221224184500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -17.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T19:20:00Z</updated>
+ <published>2023-01-07T19:20:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Colville Lake Airport 12:20 PM MST Saturday 07 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -17.0&deg;C <br/>
+<b>Pressure:</b> 101.3 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Wind Chill:</b> -25 <br/>
+<b>Dewpoint:</b> -18.7&deg;C <br/>
+<b>Wind:</b> SSE 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_cc:20230107192000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 15. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Wind up to 15 km/h. High minus 15. Wind chill near minus 20. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc1:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Wind up to 15 km/h. Low minus 19. Wind chill near minus 24. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc2:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 15. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Wind becoming southeast 20 km/h late in the afternoon. High minus 15. Wind chill minus 20 in the morning and minus 25 in the afternoon. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc3:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 15. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc4:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 14. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 14. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc5:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 18. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 18. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc6:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy periods. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. High minus 19. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc7:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 28. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc8:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy periods. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. High minus 22. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc9:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 25. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc10:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy periods. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. High minus 23. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc11:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 25. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc12:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy periods. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-26_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. High minus 24. Forecast issued 11:00 AM MST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-26_fc13:20230107180000</id>
+ </entry>
+ </feed>
+

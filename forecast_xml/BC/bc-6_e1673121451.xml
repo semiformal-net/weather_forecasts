@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cassiar - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-6_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-6_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-07T19:41:03Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230107194103</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Cassiar</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-24T12:45:00Z</updated>
+ <published>2022-12-24T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_w1:20221224124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -8.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T19:40:00Z</updated>
+ <published>2023-01-07T19:40:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Dease Lake Airport 11:40 AM PST Saturday 07 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -8.1&deg;C <br/>
+<b>Pressure:</b> 100.6 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 86 %<br/>
+<b>Wind Chill:</b> -16 <br/>
+<b>Dewpoint:</b> -10.1&deg;C <br/>
+<b>Wind:</b> ENE 21 km/h gust 30 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_cc:20230107194000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries. Wind up to 15 km/h. High minus 10. Wind chill near minus 16. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc1:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Temperature steady near minus 11. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of flurries overnight. Wind up to 15 km/h. Temperature steady near minus 11. Wind chill near minus 16. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc2:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Clearing. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing late in the morning. Wind up to 15 km/h. High minus 6. Wind chill minus 15 in the morning and minus 8 in the afternoon. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc3:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc4:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc5:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc6:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc7:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc8:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc9:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc10:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 18. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc11:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc12:20230107180000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-6_metric_e.html"/>
+ <updated>2023-01-07T18:00:00Z</updated>
+ <published>2023-01-07T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 11:00 AM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-6_fc13:20230107180000</id>
+ </entry>
+ </feed>
+
