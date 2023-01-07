@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Watrous - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-49_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-49_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-07T15:09:02Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230107150902</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Watrous</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-06T18:09:00Z</updated>
+ <published>2023-01-06T18:09:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_w1:20230106180900</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -13.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T15:00:00Z</updated>
+ <published>2023-01-07T15:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Watrous 09:00 AM CST Saturday 07 January 2023 <br/>
+<b>Temperature:</b> -13.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.7 kPa falling<br/>
+<b>Humidity:</b> 85 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -15.6&deg;C <br/>
+<b>Wind:</b> WSW 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_cc:20230107150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly sunny. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Fog patches dissipating this morning. Wind southwest 20 km/h becoming light this morning. High minus 1. Wind chill minus 16 this morning and minus 5 this afternoon. UV index 1 or low. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc1:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: A few clouds. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Fog patches developing overnight. Wind up to 15 km/h. Low minus 14. Wind chill minus 8 this evening and minus 20 overnight. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc2:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Fog patches dissipating in the morning. Wind up to 15 km/h. High minus 6. Wind chill minus 20 in the morning and minus 10 in the afternoon. UV index 1 or low. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc3:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc4:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 8. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc5:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 13. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc6:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 9. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc7:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc8:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc9:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc10:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc11:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc12:20230107110000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-49_metric_e.html"/>
+ <updated>2023-01-07T11:00:00Z</updated>
+ <published>2023-01-07T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 05:00 AM CST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-49_fc13:20230107110000</id>
+ </entry>
+ </feed>
+
