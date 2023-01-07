@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sechelt - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-3_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-3_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-07T10:08:00Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230107100800</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Sechelt</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc38"/>
+ <updated>2023-01-07T00:09:00Z</updated>
+ <published>2023-01-07T00:09:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:09 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_w1:202301070009</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 8.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T10:00:00Z</updated>
+ <published>2023-01-07T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sechelt 02:00 AM PST Saturday 07 January 2023 <br/>
+<b>Temperature:</b> 8.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa rising<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Dewpoint:</b> 5.1&deg;C <br/>
+<b>Wind:</b> ESE 20 km/h gust 31 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_cc:20230107100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of showers. Temperature steady near 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of showers. Wind southeast 40 km/h gusting to 60. Temperature steady near 8. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc1:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A few showers. Temperature steady near 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Wind southeast 30 km/h gusting to 50 becoming light late in the afternoon. Temperature steady near 7. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc2:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers early in the evening. Clearing late in the evening. Low plus 3. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc3:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. High 8. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc4:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Windy. Low plus 5. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc5:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 7. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc6:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 3. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc7:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc8:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 3. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc9:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc10:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain. Low plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 5. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc11:20230107000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-3_metric_e.html"/>
+ <updated>2023-01-07T00:00:00Z</updated>
+ <published>2023-01-07T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 4:00 PM PST Friday 06 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-3_fc12:20230107000000</id>
+ </entry>
+ </feed>
+
