@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Hearst - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-73_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-73_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-08T23:08:56Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230108230856</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Hearst</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-01T17:15:00Z</updated>
+ <published>2023-01-01T17:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_w1:20230101171500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -1.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T23:00:00Z</updated>
+ <published>2023-01-08T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Nagagami 6:00 PM EST Sunday 08 January 2023 <br/>
+<b>Temperature:</b> -1.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.0 kPa rising<br/>
+<b>Humidity:</b> 88 %<br/>
+<b>Wind Chill:</b> -4 <br/>
+<b>Dewpoint:</b> -3.0&deg;C <br/>
+<b>Wind:</b> N 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_cc:20230108230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Periods of light snow beginning early this evening. Amount 2 cm. Wind southwest 20 km/h becoming light early this evening. Wind becoming northwest 20 gusting to 40 before morning. Low minus 9. Wind chill minus 16 overnight. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc1:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of light snow. Temperature steady near minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending near noon then cloudy with 30 percent chance of flurries. Wind northwest 20 km/h gusting to 40. Temperature steady near minus 9. Wind chill near minus 18. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc2:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clearing. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the evening. Wind up to 15 km/h. Low minus 23. Wind chill minus 17 in the evening and minus 27 overnight. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc3:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 12. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc4:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc5:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 9. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 9. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc6:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 13. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc7:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 9. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc8:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc9:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 12. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc10:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc11:20230108210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-73_metric_e.html"/>
+ <updated>2023-01-08T21:00:00Z</updated>
+ <published>2023-01-08T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 4:00 PM EST Sunday 08 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-73_fc12:20230108210000</id>
+ </entry>
+ </feed>
+
