@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>McBride - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-47_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-47_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-08T04:06:56Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230108040656</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, McBride</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-25T04:02:00Z</updated>
+ <published>2022-12-25T04:02:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_w1:20221225040200</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 40 percent chance of flurries. Wind up to 15 km/h. Low minus 5. Wind chill minus 9 overnight. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc1:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of flurries. High minus 2. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc2:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow ending before morning then partly cloudy. Amount 2 to 4 cm. Wind up to 15 km/h. Low minus 6. Wind chill near minus 8. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc3:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc4:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 6. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc5:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc6:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 8. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc7:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc8:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 8. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc9:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 1. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc10:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 5. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc11:20230108000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-47_metric_e.html"/>
+ <updated>2023-01-08T00:00:00Z</updated>
+ <published>2023-01-08T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High zero. Forecast issued 4:00 PM PST Saturday 07 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-47_fc12:20230108000000</id>
+ </entry>
+ </feed>
+
