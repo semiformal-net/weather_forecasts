@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Dease Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-14_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-14_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-10T06:10:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230110061053</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Dease Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-23T14:46:00Z</updated>
+ <published>2022-12-23T14:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_w1:20221223144600</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Clear, -22.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-10T06:00:00Z</updated>
+ <published>2023-01-10T06:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Dease Lake Airport 10:00 PM PST Monday 09 January 2023 <br/>
+<b>Condition:</b> Clear <br/>
+<b>Temperature:</b> -22.7&deg;C <br/>
+<b>Pressure:</b> 101.1 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 81 %<br/>
+<b>Wind Chill:</b> -31 <br/>
+<b>Dewpoint:</b> -25.1&deg;C <br/>
+<b>Wind:</b> ENE 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_cc:20230110060000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Temperature steady near minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness early this evening. Wind northeast 20 km/h becoming light this evening. Temperature steady near minus 17. Wind chill minus 26 this evening and minus 20 overnight. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc1:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 11. Wind chill minus 24 in the morning and minus 16 in the afternoon. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc2:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Temperature steady near minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Temperature steady near minus 14. Wind chill near minus 20. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc3:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc4:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc5:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc6:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc7:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc8:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc9:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc10:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc11:20230109230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-14_metric_e.html"/>
+ <updated>2023-01-09T23:00:00Z</updated>
+ <published>2023-01-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 4:00 PM PST Monday 09 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-14_fc12:20230109230000</id>
+ </entry>
+ </feed>
+
