@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ottawa (Richmond - Metcalfe) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-52_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-52_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-10T23:20:06Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230110232006</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Ottawa (Richmond - Metcalfe)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-05T16:15:00Z</updated>
+ <published>2023-01-05T16:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_w1:20230105161500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Clear, -9.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:00:00Z</updated>
+ <published>2023-01-10T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ottawa Macdonald-Cartier Int'l Airport 6:00 PM EST Tuesday 10 January 2023 <br/>
+<b>Condition:</b> Mainly Clear <br/>
+<b>Temperature:</b> -9.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.3 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -14 <br/>
+<b>Dewpoint:</b> -12.8&deg;C <br/>
+<b>Wind:</b> NW 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_cc:20230110230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clearing. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this evening. Wind up to 15 km/h. Low minus 16. Wind chill minus 14 this evening and minus 19 overnight. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc1:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Becoming a mix of sun and cloud in the afternoon. Wind becoming east 20 km/h near noon. High minus 7. Wind chill minus 20 in the morning and minus 12 in the afternoon. UV index 1 or low. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc2:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Temperature steady near minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Local amount 2 cm. Wind up to 15 km/h. Temperature steady near minus 7. Wind chill near minus 13. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc3:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 1. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc4:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow or rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Low zero. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc5:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High zero. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc6:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc7:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc8:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc9:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc10:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc11:20230110231600</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-01-10T23:16:00Z</updated>
+ <published>2023-01-10T23:16:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 6:16 PM EST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc12:20230110231600</id>
+ </entry>
+ </feed>
+
