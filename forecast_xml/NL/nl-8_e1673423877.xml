@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>St. Alban's - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-8_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-8_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-11T07:01:46Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230111070146</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, St. Alban's</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-02T01:45:00Z</updated>
+ <published>2023-01-02T01:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_w1:20230102014500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 40 percent chance of flurries. Wind north 20 km/h gusting to 40 becoming northeast 20 early this evening then light near midnight. Low minus 6. Wind chill near minus 12. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc1:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of flurries in the morning. Wind becoming west 20 km/h gusting to 40 near noon. High minus 4. Wind chill near minus 12. UV index 1 or low. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc2:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Partly cloudy. Low minus 6 except minus 12 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind west 20 km/h gusting to 40. Low minus 6 except minus 12 inland. Wind chill near minus 14. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc3:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc4:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 7 except minus 17 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7 except minus 17 inland. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc5:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc6:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow or rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Windy. Low plus 1. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc7:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. High plus 5. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc8:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc9:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High plus 5. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc10:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain or snow. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow. Low zero. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc11:20230110193000</id>
+ </entry>
+ <entry>
+ <title>Monday: Flurries. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-8_metric_e.html"/>
+ <updated>2023-01-10T19:30:00Z</updated>
+ <published>2023-01-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High plus 1. Forecast issued 4:00 PM NST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-8_fc12:20230110193000</id>
+ </entry>
+ </feed>
+
