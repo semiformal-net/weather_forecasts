@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Comox - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-61_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-61_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-11T06:46:37Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230111064637</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Comox</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-07T13:15:00Z</updated>
+ <published>2023-01-07T13:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_w1:20230107131500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Fog, 3.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T06:36:00Z</updated>
+ <published>2023-01-11T06:36:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Comox Airport 10:36 PM PST Tuesday 10 January 2023 <br/>
+<b>Condition:</b> Fog <br/>
+<b>Temperature:</b> 3.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.6 kPa rising<br/>
+<b>Visibility:</b> 2.4 km<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Dewpoint:</b> 2.9&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_cc:20230111063600</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: A few clouds. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Fog patches. Low plus 2. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc1:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 60 percent chance of showers late in the morning and in the afternoon. Fog patches dissipating in the morning. Wind becoming southeast 20 km/h gusting to 40 in the morning. High 7. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc2:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain at times heavy. Temperature steady near 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Wind southeast 30 km/h gusting to 50 increasing to 50 gusting to 70 near midnight. Temperature steady near 7. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc3:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Thursday: Rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. High 8. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc4:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low 8. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc5:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 10. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc6:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Friday night: Showers. Low 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low 7. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc7:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Saturday: Showers. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 8. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc8:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Showers. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 3. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc9:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Sunday: Showers. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 7. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc10:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Showers. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 2. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc11:20230111045300</id>
+ </entry>
+ <entry>
+ <title>Monday: Showers. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-61_metric_e.html"/>
+ <updated>2023-01-11T04:53:00Z</updated>
+ <published>2023-01-11T04:53:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 6. Forecast issued 8:53 PM PST Tuesday 10 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-61_fc12:20230111045300</id>
+ </entry>
+ </feed>
+
