@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Vanderhoof - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-44_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-44_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-12T20:08:19Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230112200819</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Vanderhoof</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-26T23:15:00Z</updated>
+ <published>2022-12-26T23:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_w1:20221226231500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T20:00:00Z</updated>
+ <published>2023-01-12T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Fort St. James 12:00 PM PST Thursday 12 January 2023 <br/>
+<b>Temperature:</b> -0.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.9 kPa falling<br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Wind Chill:</b> -4 <br/>
+<b>Dewpoint:</b> -1.6&deg;C <br/>
+<b>Wind:</b> ENE 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_cc:20230112200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending near noon then mainly cloudy. Amount 2 cm. Wind up to 15 km/h. High minus 1. Wind chill near minus 5. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc1:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning this evening and ending after midnight. Risk of freezing rain late this evening and after midnight. Low minus 1. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc2:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Friday: A few showers. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. A few showers beginning in the morning. Wind southeast 20 km/h becoming light late in the morning. High plus 3. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc3:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain showers or flurries. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low zero. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc4:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries or rain showers. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 1. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc5:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 3. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc6:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 1. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc7:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 2. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc8:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc9:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 9. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc10:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 4. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc11:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 8. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc12:20230112190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-44_metric_e.html"/>
+ <updated>2023-01-12T19:00:00Z</updated>
+ <published>2023-01-12T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 4. Forecast issued 11:00 AM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-44_fc13:20230112190000</id>
+ </entry>
+ </feed>
+
