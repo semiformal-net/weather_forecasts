@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Bay Roberts - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-43_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-43_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-12T10:03:32Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230112100332</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Bay Roberts</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-10T19:45:00Z</updated>
+ <published>2023-01-10T19:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_w1:20230110194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Clearing. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this morning. Wind west 20 km/h gusting to 40. High minus 6. Wind chill minus 18 this morning and minus 13 this afternoon. UV index 1 or low. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc1:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few clouds. Low minus 10 except minus 16 in low lying inland areas.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind northwest 20 km/h becoming light near midnight. Low minus 10 except minus 16 in low lying inland areas. Wind chill minus 17 this evening. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc2:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind becoming west 20 km/h in the morning. High minus 4. Wind chill minus 19 in the morning and minus 10 in the afternoon. UV index 1 or low. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc3:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries or rain showers. Low minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. Windy. Low minus 4. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc4:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Showers. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Windy. High 10. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc5:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of rain. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. Low 8. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc6:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. High 10. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc7:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 1. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc8:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Showers. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 7. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc9:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low 8. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc10:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc11:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Showers. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 4. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc12:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-43_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 5. Forecast issued 05:30 AM NST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-43_fc13:20230112090000</id>
+ </entry>
+ </feed>
+

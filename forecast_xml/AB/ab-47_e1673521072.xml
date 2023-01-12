@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Suffield - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-47_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-47_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-12T10:08:29Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230112100829</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FOG ADVISORY , Suffield</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab26"/>
+ <updated>2023-01-12T07:38:00Z</updated>
+ <published>2023-01-12T07:38:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 00:38 AM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_w1:202301120738</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -6.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ralston 03:00 AM MST Thursday 12 January 2023 <br/>
+<b>Temperature:</b> -6.9&deg;C <br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -7.3&deg;C <br/>
+<b>Wind:</b> SW 12 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_cc:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Mainly cloudy. Low minus 14 with temperature rising to minus 4 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Fog patches. Wind becoming southeast 20 km/h this evening. Low minus 14 with temperature rising to minus 4 by morning. Wind chill minus 23 this evening. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc1:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Fog patches dissipating near noon. Wind southeast 20 km/h becoming southwest 30 gusting to 50 near noon. High plus 2. Wind chill minus 11 in the morning. UV index 1 or low. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc2:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few clouds. Temperature steady near plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind southwest 30 km/h gusting to 50. Temperature steady near plus 4. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc3:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 8. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc4:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 3. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc5:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc6:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc7:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc8:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc9:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc10:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc11:20230111230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+ <updated>2023-01-11T23:00:00Z</updated>
+ <published>2023-01-11T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 4:00 PM MST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-47_fc12:20230111230000</id>
+ </entry>
+ </feed>
+
