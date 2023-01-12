@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sherbrooke - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-136_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-136_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-12T09:54:00Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230112095400</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Sherbrooke</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc43"/>
+ <updated>2023-01-12T09:53:00Z</updated>
+ <published>2023-01-12T09:53:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:53 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_w1:202301120953</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, -10.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T09:00:00Z</updated>
+ <published>2023-01-12T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sherbrooke Airport 04:00 AM EST Thursday 12 January 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> -10.2&deg;C <br/>
+<b>Pressure:</b> 102.5 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 84 %<br/>
+<b>Wind Chill:</b> -15 <br/>
+<b>Dewpoint:</b> -12.4&deg;C <br/>
+<b>Wind:</b> E 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_cc:20230112090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries this morning. Snow beginning near noon. Amount 2 cm. Wind becoming southeast 20 km/h gusting to 40 near noon. High minus 1. Wind chill minus 14 this morning and minus 7 this afternoon. UV index 1 or low. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc1:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow or rain. Temperature rising to plus 3 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow changing to rain before morning. Risk of freezing rain before morning. Snowfall amount 10 to 15 cm. Wind east 20 km/h gusting to 40. Temperature rising to plus 3 by morning. Wind chill minus 7 this evening. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc2:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain or snow. High plus 4 with temperature falling to minus 4 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain changing to flurries late in the afternoon. Risk of freezing rain in the morning. Rainfall amount 10 to 15 mm. Wind east 20 km/h gusting to 40 becoming light in the morning. Wind becoming northwest 20 gusting to 40 in the afternoon. High plus 4 with temperature falling to minus 4 in the afternoon. Wind chill minus 9 in the afternoon. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc3:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 7. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc4:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 5. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc5:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc6:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc7:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 10. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 10. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc8:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc9:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc10:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 1. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc11:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 6. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc12:20230112100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+ <updated>2023-01-12T10:00:00Z</updated>
+ <published>2023-01-12T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 05:00 AM EST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-136_fc13:20230112100000</id>
+ </entry>
+ </feed>
+
