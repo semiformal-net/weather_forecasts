@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Oshawa - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-117_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-117_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-12T06:53:30Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230112065330</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Oshawa</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on11"/>
+ <updated>2023-01-12T01:17:00Z</updated>
+ <published>2023-01-12T01:17:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 8:17 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_w1:202301120117</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, 0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-12T06:52:00Z</updated>
+ <published>2023-01-12T06:52:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Oshawa Executive Airport 01:52 AM EST Thursday 12 January 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> 0.3&deg;C <br/>
+<b>Pressure:</b> 101.4 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 92 %<br/>
+<b>Dewpoint:</b> -0.9&deg;C <br/>
+<b>Wind:</b> E 18 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_cc:20230112065200</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of light snow. Temperature rising to plus 2 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending this evening then cloudy. Wind east 20 km/h becoming light late this evening. Temperature rising to plus 2 by morning. Wind chill minus 9 this evening. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc1:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Thursday: Showers or drizzle. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Showers or drizzle beginning early in the morning. High plus 4. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc2:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain or snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain changing to snow after midnight. Rainfall amount 10 to 15 mm. Snowfall amount 2 to 4 cm. Wind becoming north 30 km/h gusting to 50 in the evening. Low minus 1. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc3:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Local blowing snow. Windy. High minus 2. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc4:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 12. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 12. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc5:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc6:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 12. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc7:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 2. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc8:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 4. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc9:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc10:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of showers. Low zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low zero. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc11:20230111220300</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-117_metric_e.html"/>
+ <updated>2023-01-11T22:03:00Z</updated>
+ <published>2023-01-11T22:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 3. Forecast issued 5:03 PM EST Wednesday 11 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-117_fc12:20230111220300</id>
+ </entry>
+ </feed>
+
