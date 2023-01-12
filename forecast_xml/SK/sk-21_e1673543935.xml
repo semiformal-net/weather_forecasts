@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kindersley - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-21_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-21_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-12T17:09:58Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230112170958</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FOG ADVISORY , Kindersley</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk15"/>
+ <updated>2023-01-12T17:01:00Z</updated>
+ <published>2023-01-12T17:01:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:01 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_w1:202301121701</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Freezing Fog, -13.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kindersley Airport 11:00 AM CST Thursday 12 January 2023 <br/>
+<b>Condition:</b> Freezing Fog <br/>
+<b>Temperature:</b> -13.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.4 kPa falling<br/>
+<b>Visibility:</b> 0.4 km<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -14.7&deg;C <br/>
+<b>Wind:</b> ESE 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_cc:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of flurries. Fog dissipating this afternoon. Wind up to 15 km/h. High minus 5. Wind chill minus 16 this morning and minus 11 this afternoon. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc1:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clearing. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing early this evening. Fog patches developing this evening. Wind becoming southwest 20 km/h after midnight. Low minus 14. Wind chill minus 20 this evening. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc2:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Fog patches dissipating early in the morning. Wind southwest 20 km/h. High minus 3. Wind chill near minus 13. UV index 1 or low. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc3:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc4:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 1. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc5:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 9. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc6:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 7. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc7:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 9. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc8:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 4. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc9:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 14. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc10:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 8. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc11:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc12:20230112170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-21_metric_e.html"/>
+ <updated>2023-01-12T17:00:00Z</updated>
+ <published>2023-01-12T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:00 AM CST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-21_fc13:20230112170000</id>
+ </entry>
+ </feed>
+
