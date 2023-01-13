@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Victoria Harbour - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-75_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-75_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-13T11:08:27Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230113110827</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Victoria Harbour</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-13T07:15:00Z</updated>
+ <published>2023-01-13T07:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_w1:20230113071500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 10.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T11:00:00Z</updated>
+ <published>2023-01-13T11:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Victoria Harbour 03:00 AM PST Friday 13 January 2023 <br/>
+<b>Temperature:</b> 10.2&deg;C <br/>
+<b>Pressure:</b> 100.7 kPa <br/>
+<b>Humidity:</b> 86 %<br/>
+<b>Dewpoint:</b> 8.0&deg;C <br/>
+<b>Wind:</b> ESE 10 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_cc:20230113110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Showers. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Wind southeast 20 km/h gusting to 40 except 70 gusting to 90 near Haro Strait early this evening. Low 8. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc1:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Friday: A few showers. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Wind southeast 20 km/h becoming light in the morning except southeast 30 km/h gusting to 50 near Haro Strait late in the morning and in the afternoon. High 11. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc2:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Showers. Low 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of showers early in the evening. A few showers beginning in the evening. Low 7. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc3:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High 10. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 10. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc4:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low 6. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc5:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Showers. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 9. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc6:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Showers. Low 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low 6. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc7:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 8. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc8:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of showers. Low plus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 3. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc9:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Showers. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 7. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc10:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Showers. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 3. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc11:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 7. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-75_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of showers. High 7. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-75_fc12:20230113000000</id>
+ </entry>
+ </feed>
+
