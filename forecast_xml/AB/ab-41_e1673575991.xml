@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Willow Creek (Provincial Park) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-41_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-41_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-13T02:07:38Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230113020738</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Willow Creek (Provincial Park)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-29T22:03:00Z</updated>
+ <published>2022-12-29T22:03:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_w1:20221229220300</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-13T02:00:00Z</updated>
+ <published>2023-01-13T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Claresholm 7:00 PM MST Thursday 12 January 2023 <br/>
+<b>Temperature:</b> 3.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.8 kPa rising<br/>
+<b>Humidity:</b> 65 %<br/>
+<b>Dewpoint:</b> -2.0&deg;C <br/>
+<b>Wind:</b> SSW 17 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_cc:20230113020000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Partly cloudy. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind southwest 30 km/h gusting to 50. Low plus 4. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc1:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind southwest 20 km/h gusting to 40. High 11. UV index 1 or low. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc2:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Partly cloudy. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind southwest 20 km/h gusting to 40 becoming light overnight. Low plus 4. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc3:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High 7. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc4:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 8. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc5:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc6:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc7:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc8:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 8. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc9:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc10:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc11:20230112230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-41_metric_e.html"/>
+ <updated>2023-01-12T23:00:00Z</updated>
+ <published>2023-01-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 4:00 PM MST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-41_fc12:20230112230000</id>
+ </entry>
+ </feed>
+
