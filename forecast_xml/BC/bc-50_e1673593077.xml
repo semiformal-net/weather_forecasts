@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Squamish - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-50_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-50_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-13T06:47:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230113064714</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Squamish</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc41"/>
+ <updated>2023-01-12T23:48:00Z</updated>
+ <published>2023-01-12T23:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:48 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_w1:202301122348</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T06:00:00Z</updated>
+ <published>2023-01-13T06:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Squamish Airport 10:00 PM PST Thursday 12 January 2023 <br/>
+<b>Temperature:</b> 3.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa falling<br/>
+<b>Humidity:</b> 99 %<br/>
+<b>Dewpoint:</b> 3.7&deg;C <br/>
+<b>Wind:</b> NNW 7 km/h<br/>
+<b>Air Quality Health Index:</b> 1 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_cc:20230113060000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain at times heavy. Temperature steady near 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Amount 30 to 40 mm. Wind light except north 50 km/h gusting to 70 over southern sections early this evening. Temperature steady near 6. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc1:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. Temperature steady near plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 20 to 30 mm. Wind light except north 30 km/h gusting to 50 over southern sections in the morning. Temperature steady near plus 5. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc2:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain. Temperature steady near plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 20 mm. Temperature steady near plus 4. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc3:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 7. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc4:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 3. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc5:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 6. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc6:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc7:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Showers. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High plus 4. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc8:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 2. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc9:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc10:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc11:20230113000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-50_metric_e.html"/>
+ <updated>2023-01-13T00:00:00Z</updated>
+ <published>2023-01-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 5. Forecast issued 4:00 PM PST Thursday 12 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-50_fc12:20230113000000</id>
+ </entry>
+ </feed>
+
