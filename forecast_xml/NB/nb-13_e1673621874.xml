@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Richibucto - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-13_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-13_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-13T14:58:01Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230113145801</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WINTER STORM WARNING ENDED, Richibucto</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb10"/>
+ <updated>2023-01-13T14:57:00Z</updated>
+ <published>2023-01-13T14:57:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:57 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_w1:202301131457</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -1.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T14:00:00Z</updated>
+ <published>2023-01-13T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kouchibouguac 10:00 AM AST Friday 13 January 2023 <br/>
+<b>Temperature:</b> -1.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa falling<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Wind Chill:</b> -6 <br/>
+<b>Dewpoint:</b> -2.3&deg;C <br/>
+<b>Wind:</b> ESE 10 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_cc:20230113140000</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow at times heavy or freezing rain. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy changing to freezing rain mixed with ice pellets near noon then to rain at times heavy this afternoon. Fog patches developing this afternoon. Snow and ice pellet amount 10 to 15 cm. Rainfall amount 5 mm. Wind becoming southeast 20 km/h gusting to 40 this morning. High 11. Wind chill minus 11 this morning. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc1:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain at times heavy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Risk of freezing rain overnight. Fog patches. Rainfall amount 5 to 10 mm. Wind south 20 km/h gusting to 40 becoming north 20 gusting to 40 near midnight. Low minus 1. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc2:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Freezing rain or ice pellets. Temperature falling to minus 3 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain changing to ice pellets mixed with freezing rain late in the morning then to snow or ice pellets in the afternoon. Wind north 30 km/h gusting to 50. Temperature falling to minus 3 in the afternoon. Wind chill minus 10 in the afternoon. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc3:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of snow. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 5. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc4:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 2. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc5:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Freezing rain or rain. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or rain. Low minus 2. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc6:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 10. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc7:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low 7. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc8:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Showers. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 7. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc9:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Rain showers or flurries. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low minus 2. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc10:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 1. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc11:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 6. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc12:20230113090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-13_metric_e.html"/>
+ <updated>2023-01-13T09:00:00Z</updated>
+ <published>2023-01-13T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 4. Forecast issued 05:00 AM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-13_fc13:20230113090000</id>
+ </entry>
+ </feed>
+
