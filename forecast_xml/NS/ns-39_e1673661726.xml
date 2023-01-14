@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Liverpool - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-39_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-39_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-14T01:27:15Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230114012715</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Liverpool</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns4"/>
+ <updated>2023-01-14T01:21:00Z</updated>
+ <published>2023-01-14T01:21:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:21 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_w1:202301140121</id>
+ </entry>
+ <entry>
+ <title>FREEZING RAIN WARNING , Liverpool</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns4"/>
+ <updated>2023-01-14T01:21:00Z</updated>
+ <published>2023-01-14T01:21:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:21 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_w2:202301140121</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 9.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-14T01:00:00Z</updated>
+ <published>2023-01-14T01:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Western Head 9:00 PM AST Friday 13 January 2023 <br/>
+<b>Temperature:</b> 9.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.7 kPa rising<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Dewpoint:</b> 8.6&deg;C <br/>
+<b>Wind:</b> SW 27 km/h gust 40 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_cc:20230114010000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Showers at times heavy. Low 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers changing to rain at times heavy overnight. Fog patches. Amount 10 mm. Wind south 40 km/h gusting to 70 becoming southwest 20 gusting to 40 overnight. Low 7. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc1:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain at times heavy. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy changing to showers in the afternoon. Fog patches. Amount 30 to 40 mm. Wind south 20 km/h gusting to 40 increasing to 40 gusting to 70 in the morning. High 11. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc2:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Freezing rain or rain. Low minus 2 except plus 1 along parts of the coast.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers changing to freezing rain near midnight. Rain along parts of the coast. Fog patches dissipating near midnight. Rainfall amount 5 mm. Wind becoming north 30 km/h gusting to 50 in the evening. Low minus 2 except plus 1 along parts of the coast. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc3:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Freezing rain or rain. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or rain. High plus 1. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc4:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc5:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 11. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc6:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low 7. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc7:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 7. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc8:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low zero. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc9:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High plus 2. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc10:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of rain showers or flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low minus 3. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc11:20230113200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-39_metric_e.html"/>
+ <updated>2023-01-13T20:00:00Z</updated>
+ <published>2023-01-13T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 1. Forecast issued 4:00 PM AST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-39_fc12:20230113200000</id>
+ </entry>
+ </feed>
+
