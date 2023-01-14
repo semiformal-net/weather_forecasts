@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Greater Sudbury - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-40_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-40_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-14T16:17:52Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230114161752</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Greater Sudbury</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-05T12:09:00Z</updated>
+ <published>2023-01-05T12:09:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_w1:20230105120900</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Sunny, -16.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:00:00Z</updated>
+ <published>2023-01-14T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Greater Sudbury Airport 11:00 AM EST Saturday 14 January 2023 <br/>
+<b>Condition:</b> Mainly Sunny <br/>
+<b>Temperature:</b> -16.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.6 kPa rising<br/>
+<b>Visibility:</b> 32.2 km<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -23 <br/>
+<b>Dewpoint:</b> -19.4&deg;C <br/>
+<b>Wind:</b> NE 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_cc:20230114160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 11. Wind chill minus 25 this morning and minus 14 this afternoon. UV index 1 or low. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc1:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: A few clouds. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming partly cloudy after midnight. Wind up to 15 km/h. Low minus 19. Wind chill minus 14 this evening and minus 26 overnight. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc2:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 6. Wind chill minus 28 in the morning and minus 10 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc3:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 11. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc4:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 3. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc5:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 4. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc6:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 1. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc7:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 6. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc8:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 5. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc9:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc10:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc11:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of snow. Low minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of snow. Low minus 12. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc12:20230114163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of snow. High minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-40_metric_e.html"/>
+ <updated>2023-01-14T16:30:00Z</updated>
+ <published>2023-01-14T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of snow. High minus 7. Forecast issued 11:30 AM EST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-40_fc13:20230114163000</id>
+ </entry>
+ </feed>
+

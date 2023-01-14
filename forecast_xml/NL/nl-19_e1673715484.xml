@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Winterland - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-19_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-19_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-14T16:10:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230114161055</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Winterland</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl5"/>
+ <updated>2023-01-14T15:02:00Z</updated>
+ <published>2023-01-14T15:02:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:32 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_w1:202301141502</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 10.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T16:00:00Z</updated>
+ <published>2023-01-14T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Winterland Branch Hill 12:30 PM NST Saturday 14 January 2023 <br/>
+<b>Temperature:</b> 10.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Dewpoint:</b> 9.3&deg;C <br/>
+<b>Wind:</b>  38 km/h gust 56 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_cc:20230114160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Showers. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Fog patches. Amount 5 mm. Wind south 40 km/h gusting to 60. High 11. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc1:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Showers. Low 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Fog patches. Amount 5 mm. Wind southwest 40 km/h gusting to 60. Low 9. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc2:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Rain at times heavy. High 11 with temperature falling to plus 2 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Fog patches dissipating late in the afternoon. Amount 30 to 40 mm. Wind south 30 km/h gusting to 60 becoming northeast 40 gusting to 60 late in the afternoon. High 11 with temperature falling to plus 2 in the afternoon. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc3:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc4:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Monday: Showers. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 9. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc5:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low 8. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc6:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Showers. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 9. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc7:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Showers. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 3. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc8:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 4. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc9:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Showers. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low zero. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc10:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High plus 1. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc11:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 4. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc12:20230114143000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-19_metric_e.html"/>
+ <updated>2023-01-14T14:30:00Z</updated>
+ <published>2023-01-14T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 11:00 AM NST Saturday 14 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-19_fc13:20230114143000</id>
+ </entry>
+ </feed>
+
