@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Collins Bay - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-30_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-30_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-14T05:10:36Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230114051036</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Collins Bay</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-24T11:15:00Z</updated>
+ <published>2022-12-24T11:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_w1:20221224111500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -24.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-14T05:00:00Z</updated>
+ <published>2023-01-14T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Collins Bay 11:00 PM CST Friday 13 January 2023 <br/>
+<b>Temperature:</b> -24.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.0 kPa falling<br/>
+<b>Humidity:</b> 78 %<br/>
+<b>Wind Chill:</b> -31 <br/>
+<b>Dewpoint:</b> -27.4&deg;C <br/>
+<b>Wind:</b> E 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_cc:20230114050000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 23. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 23. Wind chill minus 16 this evening and minus 31 overnight. Risk of frostbite. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc1:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 5 to 10 cm. Wind up to 15 km/h. High minus 13. Wind chill minus 30 in the morning and minus 20 in the afternoon. Risk of frostbite. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc2:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of light snow. Temperature steady near minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending before morning then cloudy. Wind up to 15 km/h. Temperature steady near minus 13. Wind chill minus 20 in the evening and minus 15 overnight. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc3:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 11. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc4:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 13. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc5:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 11. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc6:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 15. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc7:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 13. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc8:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 17. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 17. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc9:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 15. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 15. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc10:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 16. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc11:20230113220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 13. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-30_metric_e.html"/>
+ <updated>2023-01-13T22:00:00Z</updated>
+ <published>2023-01-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 13. Forecast issued 4:00 PM CST Friday 13 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-30_fc12:20230113220000</id>
+ </entry>
+ </feed>
+
