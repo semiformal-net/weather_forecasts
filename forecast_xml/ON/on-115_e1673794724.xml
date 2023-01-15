@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Stirling - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-115_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-115_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-15T14:10:48Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230115141048</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Stirling</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-13T20:15:00Z</updated>
+ <published>2023-01-13T20:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_w1:20230113201500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Sunny, -12.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T14:00:00Z</updated>
+ <published>2023-01-15T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> CFB Trenton 09:00 AM EST Sunday 15 January 2023 <br/>
+<b>Condition:</b> Sunny <br/>
+<b>Temperature:</b> -12.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.9 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 82 %<br/>
+<b>Wind Chill:</b> -15 <br/>
+<b>Dewpoint:</b> -14.8&deg;C <br/>
+<b>Wind:</b> N 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_cc:20230115140000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 4. Wind chill minus 20 this morning and minus 6 this afternoon. UV index 2 or low. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc1:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 12. Wind chill minus 9 this evening and minus 17 overnight. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc2:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 2. Wind chill minus 15 in the morning and minus 4 in the afternoon. UV index 1 or low. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc3:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 7. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc4:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of rain showers or flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. High plus 1. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc5:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 1. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc6:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High plus 1. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc7:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 8. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc8:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc9:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of snow. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 5. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc10:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 2. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc11:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc12:20230115100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-115_metric_e.html"/>
+ <updated>2023-01-15T10:00:00Z</updated>
+ <published>2023-01-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 2. Forecast issued 05:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-115_fc13:20230115100000</id>
+ </entry>
+ </feed>
+

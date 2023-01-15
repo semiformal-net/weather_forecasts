@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Estevan - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-53_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-53_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-15T14:47:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230115144714</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FOG ADVISORY , Estevan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk2"/>
+ <updated>2023-01-15T12:23:00Z</updated>
+ <published>2023-01-15T12:23:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 06:23 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_w1:202301151223</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Fog, -5.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T14:20:00Z</updated>
+ <published>2023-01-15T14:20:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Estevan Airport 08:20 AM CST Sunday 15 January 2023 <br/>
+<b>Condition:</b> Fog <br/>
+<b>Temperature:</b> -5.5&deg;C <br/>
+<b>Pressure:</b> 100.2 kPa <br/>
+<b>Visibility:</b> 0.6 km<br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Wind Chill:</b> -13 <br/>
+<b>Dewpoint:</b> -6.2&deg;C <br/>
+<b>Wind:</b> NW 26 km/h gust 35 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_cc:20230115142000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of light snow. Temperature falling to minus 8 this afternoon. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of light snow and risk of freezing drizzle. Fog dissipating this morning. Wind northwest 20 km/h becoming light this afternoon. Temperature falling to minus 8 this afternoon. Wind chill near minus 15. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc1:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Temperature steady near minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Fog patches developing this evening. Wind up to 15 km/h. Temperature steady near minus 8. Wind chill near minus 13. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc2:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. Temperature steady near minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Fog patches dissipating in the morning. Wind up to 15 km/h. Temperature steady near minus 7. Wind chill near minus 14. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc3:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 13. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc4:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 9. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc5:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 12. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc6:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 6. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc7:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 8. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc8:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 4. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc9:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 11. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc10:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc11:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc12:20230115130900</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-53_metric_e.html"/>
+ <updated>2023-01-15T13:09:00Z</updated>
+ <published>2023-01-15T13:09:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 07:09 AM CST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-53_fc13:20230115130900</id>
+ </entry>
+ </feed>
+
