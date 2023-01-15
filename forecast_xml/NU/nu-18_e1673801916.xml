@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Clyde River - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-18_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-18_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-15T16:59:18Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230115165918</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>BLIZZARD WARNING , Clyde River</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nu18"/>
+ <updated>2023-01-15T15:33:00Z</updated>
+ <published>2023-01-15T15:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:33 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_w1:202301151533</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Snow, -25.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:58:00Z</updated>
+ <published>2023-01-15T16:58:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Clyde River Airport 11:58 AM EST Sunday 15 January 2023 <br/>
+<b>Condition:</b> Snow <br/>
+<b>Temperature:</b> -25.5&deg;C <br/>
+<b>Pressure:</b> 100.7 kPa <br/>
+<b>Visibility:</b> 0.8 km<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -41 <br/>
+<b>Dewpoint:</b> -28.4&deg;C <br/>
+<b>Wind:</b> WNW 37 km/h gust 50 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_cc:20230115165800</id>
+ </entry>
+ <entry>
+ <title>Sunday: Blizzard. High minus 23 with temperature falling to minus 31 this afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Blizzard ending near noon then partly cloudy. Wind northwest 50 km/h gusting to 70 becoming west 20 early this afternoon then light late this afternoon. High minus 23 with temperature falling to minus 31 this afternoon. Wind chill near minus 42. Frostbite in minutes. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc1:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Temperature rising to minus 21 by morning. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness early this evening. 60 percent chance of flurries. Wind west 30 km/h. Temperature rising to minus 21 by morning. Wind chill minus 47 this evening and minus 35 overnight. Frostbite in minutes. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc2:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Near blizzard. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Near blizzard ending in the afternoon then partly cloudy. Wind northwest 40 km/h gusting to 60 increasing to 60 gusting to 80 in the morning then becoming light late in the afternoon. High minus 19. Wind chill minus 36 in the morning and minus 29 in the afternoon. Risk of frostbite. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc3:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 26. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc4:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Clear. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 25. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc5:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc6:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Clear. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 26. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc7:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc8:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Clear. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 27. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc9:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc10:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Clear. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 29. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc11:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc12:20230115160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clear. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-18_metric_e.html"/>
+ <updated>2023-01-15T16:00:00Z</updated>
+ <published>2023-01-15T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. High minus 29. Forecast issued 11:00 AM EST Sunday 15 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-18_fc13:20230115160000</id>
+ </entry>
+ </feed>
+
