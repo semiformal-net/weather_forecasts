@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Churchill - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-42_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-42_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-16T16:41:46Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230116164146</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Churchill</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-21T18:07:00Z</updated>
+ <published>2022-12-21T18:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_w1:20221221180700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -14.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T16:00:00Z</updated>
+ <published>2023-01-16T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Churchill Airport 10:00 AM CST Monday 16 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -14.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa rising<br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 81 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -16.7&deg;C <br/>
+<b>Wind:</b> NE 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_cc:20230116160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Light snow. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Light snow. Wind up to 15 km/h. High minus 12. Wind chill near minus 19. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc1:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of light snow. Temperature steady near minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of light snow. Wind up to 15 km/h. Temperature steady near minus 13. Wind chill near minus 19. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc2:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. Temperature steady near minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Wind up to 15 km/h. Temperature steady near minus 12. Wind chill near minus 20. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc3:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 16. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc4:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High minus 14. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc5:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 15. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc6:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 7. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc7:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc8:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 8. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc9:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 17. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc10:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc11:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 24. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc12:20230116170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-42_metric_e.html"/>
+ <updated>2023-01-16T17:00:00Z</updated>
+ <published>2023-01-16T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 23. Forecast issued 11:00 AM CST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-42_fc13:20230116170000</id>
+ </entry>
+ </feed>
+
