@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Baccaro Point - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-37_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-37_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-17T07:07:17Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230117070717</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Baccaro Point</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-16T23:15:00Z</updated>
+ <published>2023-01-16T23:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_w1:20230116231500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-17T07:00:00Z</updated>
+ <published>2023-01-17T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Baccaro Point 03:00 AM AST Tuesday 17 January 2023 <br/>
+<b>Temperature:</b> 3.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.4 kPa rising<br/>
+<b>Humidity:</b> 99 %<br/>
+<b>Dewpoint:</b> 3.3&deg;C <br/>
+<b>Wind:</b> WNW 20 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_cc:20230117070000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of showers. Temperature steady near plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain ending early this evening then cloudy with 60 percent chance of showers. Fog patches. Amount 2 to 4 mm. Wind north 20 km/h gusting to 40 except gusting to 60 along parts of the coast. Wind becoming northwest 20 gusting to 40 overnight. Temperature steady near plus 4. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc1:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Showers. Temperature falling to plus 2 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few showers ending in the afternoon then cloudy with 30 percent chance of showers. Amount 2 mm. Wind northwest 20 km/h gusting to 40 becoming west 20 in the afternoon. Temperature falling to plus 2 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc2:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Temperature steady near plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of showers in the evening. Wind west 20 km/h. Temperature steady near plus 2. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc3:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc4:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low zero. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc5:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc6:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 3. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc7:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 1. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc8:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 3. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc9:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc10:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 4. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc11:20230116200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-37_metric_e.html"/>
+ <updated>2023-01-16T20:00:00Z</updated>
+ <published>2023-01-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 4:00 PM AST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-37_fc12:20230116200000</id>
+ </entry>
+ </feed>
+
