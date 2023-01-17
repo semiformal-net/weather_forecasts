@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Marystown - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-3_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-3_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-17T02:45:42Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230117024542</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Marystown</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-16T15:45:00Z</updated>
+ <published>2023-01-16T15:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_w1:20230116154500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 6.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-17T02:00:00Z</updated>
+ <published>2023-01-17T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Winterland Branch Hill 10:30 PM NST Monday 16 January 2023 <br/>
+<b>Temperature:</b> 6.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.8 kPa falling<br/>
+<b>Humidity:</b> 100 %<br/>
+<b>Dewpoint:</b> 6.5&deg;C <br/>
+<b>Wind:</b>  20 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_cc:20230117020000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of rain or drizzle. Temperature rising to 8 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or drizzle. Fog patches becoming fog this evening. Amount 10 mm. Wind east 20 km/h gusting to 40 becoming southeast 40 gusting to 60 this evening then diminishing to 20 gusting to 40 overnight. Temperature rising to 8 by morning. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc1:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Drizzle or rain. Temperature steady near 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Drizzle or a few showers changing to showers in the afternoon. Fog. Amount 5 mm. Wind southeast 30 km/h gusting to 50. Temperature steady near 8. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc2:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Showers or drizzle. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers changing to drizzle overnight. Fog becoming fog patches overnight. Amount 5 mm. Wind southeast 20 km/h becoming southwest 30 gusting to 50 overnight. Low plus 3. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc3:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 4. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc4:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 1. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc5:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries or rain showers. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High plus 2. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc6:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Windy. Low minus 1. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc7:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High plus 1. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc8:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 3. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc9:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 2. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc10:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc11:20230116193000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-3_metric_e.html"/>
+ <updated>2023-01-16T19:30:00Z</updated>
+ <published>2023-01-16T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 4:00 PM NST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-3_fc12:20230116193000</id>
+ </entry>
+ </feed>
+
