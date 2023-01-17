@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Wawa - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-138_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-138_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-17T03:07:59Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230117030759</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FREEZING RAIN WARNING , Wawa</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on46"/>
+ <updated>2023-01-16T21:36:00Z</updated>
+ <published>2023-01-16T21:36:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:36 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_w1:202301162136</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T03:00:00Z</updated>
+ <published>2023-01-17T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Wawa Airport 10:00 PM EST Monday 16 January 2023 <br/>
+<b>Temperature:</b> 0.3&deg;C <br/>
+<b>Pressure:</b> 100.4 kPa <br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Dewpoint:</b> -0.5&deg;C <br/>
+<b>Wind:</b> ENE 6 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_cc:20230117030000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow or freezing rain. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or snow changing to periods of freezing rain or ice pellets mixed with snow this evening then to snow near midnight. Risk of freezing drizzle before morning. Local snow and ice pellet amount 2 to 4 cm. Wind up to 15 km/h. Low minus 2. Wind chill minus 4 overnight. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc1:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Risk of freezing drizzle in the morning. Local amount 2 cm. Wind up to 15 km/h. High zero. Wind chill minus 5 in the afternoon. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc2:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending overnight then cloudy with 30 percent chance of flurries. Amount 2 cm. Wind north 20 km/h gusting to 40. Low minus 9. Wind chill minus 5 in the evening and minus 16 overnight. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc3:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc4:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc5:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 5. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc6:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. Low minus 14. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc7:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 5. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc8:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 11. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc9:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 4. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc10:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 9. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 9. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc11:20230117002700</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-138_metric_e.html"/>
+ <updated>2023-01-17T00:27:00Z</updated>
+ <published>2023-01-17T00:27:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 4. Forecast issued 7:27 PM EST Monday 16 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-138_fc12:20230117002700</id>
+ </entry>
+ </feed>
+
