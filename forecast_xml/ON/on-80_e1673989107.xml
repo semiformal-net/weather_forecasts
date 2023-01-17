@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Port Colborne - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-80_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-80_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-17T20:24:23Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230117202423</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Port Colborne</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-17T12:07:00Z</updated>
+ <published>2023-01-17T12:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_w1:20230117120700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 5.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:00:00Z</updated>
+ <published>2023-01-17T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Port Colborne 3:00 PM EST Tuesday 17 January 2023 <br/>
+<b>Temperature:</b> 5.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.1 kPa falling<br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Dewpoint:</b> 4.7&deg;C <br/>
+<b>Wind:</b> SSW 22 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_cc:20230117200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: A few showers or drizzle. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers or drizzle. Fog patches dissipating early this evening. Wind becoming southwest 30 km/h this evening. Low plus 2. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc1:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers or drizzle. Temperature steady near plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 40 percent chance of showers or drizzle early in the morning. 40 percent chance of drizzle late in the afternoon. Wind southwest 30 km/h becoming light early in the morning. Wind becoming west 20 early in the afternoon. Temperature steady near plus 4. UV index 1 or low. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc2:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of drizzle. Low zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 40 percent chance of drizzle early in the evening. Low zero. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc3:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 4. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc4:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 1. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc5:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of rain showers or flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. High plus 2. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc6:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 2. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc7:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High plus 1. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc8:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 3. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc9:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 1. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc10:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc11:20230117203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-80_metric_e.html"/>
+ <updated>2023-01-17T20:30:00Z</updated>
+ <published>2023-01-17T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High zero. Forecast issued 3:30 PM EST Tuesday 17 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-80_fc12:20230117203000</id>
+ </entry>
+ </feed>
+
