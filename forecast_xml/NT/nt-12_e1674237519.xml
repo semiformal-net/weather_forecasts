@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Nahanni Butte - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nt-12_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nt-12_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-20T17:33:30Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230120173330</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Nahanni Butte</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-23T23:31:00Z</updated>
+ <published>2022-12-23T23:31:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_w1:20221223233100</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 4.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T17:00:00Z</updated>
+ <published>2023-01-20T17:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Yohin Lake 10:00 AM MST Friday 20 January 2023 <br/>
+<b>Temperature:</b> 4.5&deg;C <br/>
+<b>Pressure:</b> 100.5 kPa <br/>
+<b>Humidity:</b> 55 %<br/>
+<b>Dewpoint:</b> -3.8&deg;C <br/>
+<b>Wind:</b> N 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_cc:20230120170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Increasing cloudiness. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness near noon. Wind up to 15 km/h. High zero. Wind chill minus 12 this morning. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc1:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of freezing rain. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of freezing rain late this evening and overnight. Wind up to 15 km/h. Low minus 7. Wind chill minus 5 this evening and minus 13 overnight. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc2:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clearing. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the morning. Wind becoming southwest 20 km/h in the afternoon. High plus 1. Wind chill minus 13 in the morning. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc3:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc4:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 10. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc5:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 14. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc6:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 7. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc7:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc8:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc9:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 17. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc10:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc11:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc12:20230120180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 13. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-12_metric_e.html"/>
+ <updated>2023-01-20T18:00:00Z</updated>
+ <published>2023-01-20T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 13. Forecast issued 11:00 AM MST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-12_fc13:20230120180000</id>
+ </entry>
+ </feed>
+
