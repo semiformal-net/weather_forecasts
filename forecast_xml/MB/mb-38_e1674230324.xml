@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Winnipeg - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-38_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-38_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-20T15:52:27Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230120155227</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Winnipeg</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-19T03:05:00Z</updated>
+ <published>2023-01-19T03:05:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_w1:20230119030500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Freezing Drizzle, -8.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T15:48:00Z</updated>
+ <published>2023-01-20T15:48:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Winnipeg Richardson Int'l Airport 09:48 AM CST Friday 20 January 2023 <br/>
+<b>Condition:</b> Light Freezing Drizzle <br/>
+<b>Temperature:</b> -8.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa falling<br/>
+<b>Visibility:</b> 6.4 km<br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Wind Chill:</b> -14 <br/>
+<b>Dewpoint:</b> -9.4&deg;C <br/>
+<b>Wind:</b> SSE 12 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_cc:20230120154800</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of light snow. High minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of light snow and risk of freezing drizzle. Wind up to 15 km/h. High minus 6. Wind chill near minus 14. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc1:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of light snow. Low minus 14. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 60 percent chance of light snow early this evening. Wind southwest 20 km/h becoming light overnight. Low minus 14. Wind chill minus 13 this evening and minus 22 overnight. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc2:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of light snow. High minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 30 percent chance of light snow in the afternoon. Wind up to 15 km/h. High minus 7. Wind chill minus 22 in the morning and minus 13 in the afternoon. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc3:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc4:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc5:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc6:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 7. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc7:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 21. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc8:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc9:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 13. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc10:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 12. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 12. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc11:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc12:20230120145600</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-38_metric_e.html"/>
+ <updated>2023-01-20T14:56:00Z</updated>
+ <published>2023-01-20T14:56:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 08:56 AM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-38_fc13:20230120145600</id>
+ </entry>
+ </feed>
+
