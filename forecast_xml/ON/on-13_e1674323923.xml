@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Orillia - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-13_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-13_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-21T17:08:47Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230121170847</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Orillia</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-20T14:30:00Z</updated>
+ <published>2023-01-20T14:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_w1:20230120143000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -2.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T17:00:00Z</updated>
+ <published>2023-01-21T17:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Lake Simcoe Regional Airport 12:00 PM EST Saturday 21 January 2023 <br/>
+<b>Temperature:</b> -2.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.2 kPa falling<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Wind Chill:</b> -3 <br/>
+<b>Dewpoint:</b> -4.4&deg;C <br/>
+<b>Wind:</b> WSW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_cc:20230121170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Wind up to 15 km/h. High zero. Wind chill minus 7 this morning. UV index 1 or low. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc1:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 4. Wind chill near minus 9. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc2:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of flurries in the morning. Snow beginning near noon. Amount 2 to 4 cm. Wind up to 15 km/h. High zero. Wind chill minus 9 in the morning. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc3:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 7. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 7. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc4:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 1. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc5:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 5. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc6:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 1. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc7:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 8. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc8:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 1. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc9:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc10:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Flurries. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 4. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc11:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 11. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc12:20230121160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-13_metric_e.html"/>
+ <updated>2023-01-21T16:00:00Z</updated>
+ <published>2023-01-21T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 5. Forecast issued 11:00 AM EST Saturday 21 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-13_fc13:20230121160000</id>
+ </entry>
+ </feed>
+
