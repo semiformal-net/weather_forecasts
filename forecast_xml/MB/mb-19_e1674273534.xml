@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Pilot Mound - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-19_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-19_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-21T03:08:27Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230121030827</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Pilot Mound</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-20T17:07:00Z</updated>
+ <published>2023-01-20T17:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_w1:20230120170700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -13.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-21T03:00:00Z</updated>
+ <published>2023-01-21T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Pilot Mound 9:00 PM CST Friday 20 January 2023 <br/>
+<b>Temperature:</b> -13.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.0 kPa falling<br/>
+<b>Humidity:</b> 90 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -14.4&deg;C <br/>
+<b>Wind:</b> W 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_cc:20230121030000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Partly cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this evening. Wind southwest 20 km/h. Low minus 16. Wind chill minus 13 this evening and minus 25 overnight. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc1:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind west 20 km/h becoming light in the afternoon. High minus 9. Wind chill minus 25 in the morning and minus 16 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc2:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Partly cloudy. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 14. Wind chill minus 15 in the evening and minus 22 overnight. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc3:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc4:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc5:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc6:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc7:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc8:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 13. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc9:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 10. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc10:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc11:20230120220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-19_metric_e.html"/>
+ <updated>2023-01-20T22:00:00Z</updated>
+ <published>2023-01-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 4:00 PM CST Friday 20 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-19_fc12:20230120220000</id>
+ </entry>
+ </feed>
+
