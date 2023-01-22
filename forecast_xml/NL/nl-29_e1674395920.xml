@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Mary's Harbour - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-29_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-29_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-22T13:58:04Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230122135804</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Mary's Harbour</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-18T10:30:00Z</updated>
+ <published>2023-01-18T10:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_w1:20230118103000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Haze, -10.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T13:57:00Z</updated>
+ <published>2023-01-22T13:57:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Mary's Harbour 10:27 AM NST Sunday 22 January 2023 <br/>
+<b>Condition:</b> Haze <br/>
+<b>Temperature:</b> -10.1&deg;C <br/>
+<b>Pressure:</b> 101.1 kPa <br/>
+<b>Visibility:</b> 8.1 km<br/>
+<b>Humidity:</b> 76 %<br/>
+<b>Wind Chill:</b> -13 <br/>
+<b>Dewpoint:</b> -13.6&deg;C <br/>
+<b>Wind:</b> NNW 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_cc:20230122135700</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this morning. Wind up to 15 km/h. High minus 5. Wind chill minus 17 this morning and minus 11 this afternoon. UV index 1 or low. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc1:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: A few clouds. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Increasing cloudiness before morning. Wind up to 15 km/h. Low minus 17. Wind chill minus 13 this evening and minus 25 overnight. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc2:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Monday: A few flurries. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending near noon then clearing. Wind up to 15 km/h. High minus 7. Wind chill minus 17 in the morning and minus 12 in the afternoon. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc3:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc4:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 3. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc5:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Windy. Low minus 13. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc6:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. Windy. High minus 13. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc7:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc8:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 10. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc9:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 10. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc10:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Friday: Flurries. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 2. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc11:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc12:20230122093000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-29_metric_e.html"/>
+ <updated>2023-01-22T09:30:00Z</updated>
+ <published>2023-01-22T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 06:00 AM NST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-29_fc13:20230122093000</id>
+ </entry>
+ </feed>
+
