@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Estevan Point - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-15_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-15_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-23T18:49:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230123184908</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Estevan Point</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-13T19:45:00Z</updated>
+ <published>2023-01-13T19:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_w1:20230113194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain or drizzle. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain mixed with drizzle ending late this afternoon then cloudy. High 7. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc1:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of drizzle. Low plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 40 percent chance of drizzle. Fog patches developing near midnight. Low plus 4. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc2:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 40 percent chance of showers. Fog patches dissipating in the morning. High 8. UV index 1 or low. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc3:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of drizzle. Low plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of drizzle. Low plus 4. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc4:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of drizzle. High 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of drizzle. High 7. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc5:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 3. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc6:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 8. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc7:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Showers. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 3. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc8:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 9. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc9:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 1. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc10:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 7. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc11:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc12:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 11:00 AM PST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc13:20230123190000</id>
+ </entry>
+ </feed>
+
