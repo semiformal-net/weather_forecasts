@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>St. Peters Bay - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/pe-4_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/pe-4_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-23T07:45:36Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230123074536</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , St. Peters Bay</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?pei1"/>
+ <updated>2023-01-23T01:52:00Z</updated>
+ <published>2023-01-23T01:52:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:52 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_w1:202301230152</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -1.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-23T07:00:00Z</updated>
+ <published>2023-01-23T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> St. Peters 03:00 AM AST Monday 23 January 2023 <br/>
+<b>Temperature:</b> -1.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa falling<br/>
+<b>Humidity:</b> 91 %<br/>
+<b>Wind Chill:</b> -6 <br/>
+<b>Dewpoint:</b> -2.3&deg;C <br/>
+<b>Wind:</b> S 16 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_cc:20230123070000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow. Temperature rising to zero by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Snow beginning near midnight. Amount 2 to 4 cm. Wind southwest 20 km/h gusting to 40 becoming light overnight. Temperature rising to zero by morning. Wind chill minus 9 this evening. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc1:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow mixed with rain. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow becoming mixed with rain late in the afternoon. Snowfall amount 10 cm. Wind becoming northeast 20 km/h gusting to 40 near noon then increasing to 40 gusting to 60. High plus 1. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc2:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain or snow. Temperature rising to plus 2 in the evening then falling.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain changing to snow after midnight. Blowing snow over exposed areas before morning. Rainfall amount 5 mm. Snowfall amount 5 cm. Wind northeast 40 km/h gusting to 60 becoming north 30 gusting to 50 near midnight then northwest 40 gusting to 60 before morning. Temperature rising to plus 2 in the evening then falling. Wind chill minus 10 overnight. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc3:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. High minus 3. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc4:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 9. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Windy. Low minus 9. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc5:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 6. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc6:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 9. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc7:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow or rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Windy. High plus 5. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc8:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low minus 3. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc9:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc10:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc11:20230122200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-4_metric_e.html"/>
+ <updated>2023-01-22T20:00:00Z</updated>
+ <published>2023-01-22T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 4:00 PM AST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-4_fc12:20230122200000</id>
+ </entry>
+ </feed>
+
