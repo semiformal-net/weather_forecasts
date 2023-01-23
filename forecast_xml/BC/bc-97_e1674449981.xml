@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Duncan - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-97_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-97_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-23T04:45:43Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230123044543</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Duncan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-07T13:15:00Z</updated>
+ <published>2023-01-07T13:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_w1:20230107131500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 2.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T04:00:00Z</updated>
+ <published>2023-01-23T04:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> North Cowichan 8:00 PM PST Sunday 22 January 2023 <br/>
+<b>Temperature:</b> 2.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.2 kPa rising<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Dewpoint:</b> 1.6&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_cc:20230123040000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: A few showers. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. A few showers beginning before morning except a few wet flurries over higher terrain. Wind up to 15 km/h. Low minus 1. Wind chill minus 6 overnight. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc1:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of drizzle or rain. High plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few showers ending in the morning then mainly cloudy with 40 percent chance of drizzle. A few wet flurries over higher terrain early in the morning. High plus 5. UV index 1 or low. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc2:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of drizzle. Low plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of drizzle. Fog patches developing near midnight. Low plus 2. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc3:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High plus 5. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc4:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 3. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc5:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc6:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 4. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc7:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc8:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 2. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc9:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc10:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low zero. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc11:20230123000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-97_metric_e.html"/>
+ <updated>2023-01-23T00:00:00Z</updated>
+ <published>2023-01-23T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 4:00 PM PST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-97_fc12:20230123000000</id>
+ </entry>
+ </feed>
+
