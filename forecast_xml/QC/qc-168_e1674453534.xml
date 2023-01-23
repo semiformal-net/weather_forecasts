@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Amos - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-168_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-168_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-23T05:23:12Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230123052312</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Amos</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-15T15:30:00Z</updated>
+ <published>2023-01-15T15:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_w1:20230115153000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -4.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-23T05:22:00Z</updated>
+ <published>2023-01-23T05:22:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Val-d'Or Regional Airport 12:22 AM EST Monday 23 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -4.8&deg;C <br/>
+<b>Pressure:</b> 101.2 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 91 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -6.1&deg;C <br/>
+<b>Wind:</b> SW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_cc:20230123052200</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries this evening. Wind up to 15 km/h. Low minus 9. Wind chill minus 6 this evening and minus 14 overnight. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc1:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind becoming southwest 20 km/h near noon. High minus 3. Wind chill minus 14 in the morning and minus 9 in the afternoon. UV index 1 or low. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc2:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning late in the evening. Amount 2 to 4 cm. Wind southwest 20 km/h becoming northwest 20 after midnight. Low minus 10. Wind chill minus 11 in the evening and minus 16 overnight. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc3:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc4:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc5:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc6:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 15. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc7:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 12. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc8:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 21. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc9:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 10. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc10:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 17. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc11:20230122204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-168_metric_e.html"/>
+ <updated>2023-01-22T20:45:00Z</updated>
+ <published>2023-01-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 15. Forecast issued 3:45 PM EST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-168_fc12:20230122204500</id>
+ </entry>
+ </feed>
+
