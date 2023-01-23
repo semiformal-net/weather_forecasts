@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Grande Cache - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-45_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-45_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-23T19:07:30Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230123190730</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Grande Cache</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-26T23:45:00Z</updated>
+ <published>2022-12-26T23:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_w1:20221226234500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T19:00:00Z</updated>
+ <published>2023-01-23T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Hendrickson Creek 12:00 PM MST Monday 23 January 2023 <br/>
+<b>Temperature:</b> 0.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa rising<br/>
+<b>Humidity:</b> 49 %<br/>
+<b>Dewpoint:</b> -9.1&deg;C <br/>
+<b>Wind:</b> W 21 km/h gust 40 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_cc:20230123190000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 60 percent chance of flurries near the British Columbia border. Wind west 50 km/h gusting to 80. High plus 1. Wind chill minus 12 this morning. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc1:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Mainly cloudy. Temperature steady near zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries near the British Columbia border. Wind west 30 km/h gusting to 50. Temperature steady near zero. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc2:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. Temperature steady near zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of flurries in the morning. Wind west 20 km/h gusting to 40. Temperature steady near zero. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc3:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low zero. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc4:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc5:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 4. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc6:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High plus 5. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc7:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain showers or flurries. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low minus 2. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc8:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 3. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc9:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 21. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 21. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc10:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 16. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc11:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 25. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc12:20230123180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-45_metric_e.html"/>
+ <updated>2023-01-23T18:00:00Z</updated>
+ <published>2023-01-23T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 17. Forecast issued 11:00 AM MST Monday 23 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-45_fc13:20230123180000</id>
+ </entry>
+ </feed>
+
