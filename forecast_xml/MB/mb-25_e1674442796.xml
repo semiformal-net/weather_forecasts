@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Norway House - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-25_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-25_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-23T02:18:18Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230123021818</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Norway House</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-11-29T22:46:00Z</updated>
+ <published>2022-11-29T22:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_w1:20221129224600</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -5.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-23T02:17:00Z</updated>
+ <published>2023-01-23T02:17:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Norway House Airport 8:17 PM CST Sunday 22 January 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -5.3&deg;C <br/>
+<b>Pressure:</b> 100.3 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 98 %<br/>
+<b>Wind Chill:</b> -9 <br/>
+<b>Dewpoint:</b> -5.6&deg;C <br/>
+<b>Wind:</b> WNW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_cc:20230123021700</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Wind southwest 20 km/h gusting to 40 becoming light early this evening. Low minus 18. Wind chill minus 9 this evening and minus 20 overnight. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc1:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Monday: Clearing. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Clearing late in the afternoon. Wind up to 15 km/h. High minus 15. Wind chill near minus 25. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc2:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Partly cloudy. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 19. Wind chill minus 24 overnight. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc3:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 15. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc4:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 23. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc5:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc6:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 23. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc7:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 10. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc8:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 32. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 32. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc9:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc10:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc11:20230122220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-25_metric_e.html"/>
+ <updated>2023-01-22T22:00:00Z</updated>
+ <published>2023-01-22T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 27. Forecast issued 4:00 PM CST Sunday 22 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-25_fc12:20230122220000</id>
+ </entry>
+ </feed>
+
