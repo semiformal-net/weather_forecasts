@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kamouraska - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-70_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-70_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-24T20:39:10Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230124203910</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Kamouraska</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc28"/>
+ <updated>2023-01-24T20:26:00Z</updated>
+ <published>2023-01-24T20:26:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:26 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_w1:202301242026</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:00:00Z</updated>
+ <published>2023-01-24T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> La Pocatière 3:00 PM EST Tuesday 24 January 2023 <br/>
+<b>Temperature:</b> 0.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.8 kPa rising<br/>
+<b>Humidity:</b> 69 %<br/>
+<b>Dewpoint:</b> -4.5&deg;C <br/>
+<b>Wind:</b> WSW 23 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_cc:20230124200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Flurries at times heavy. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries at times heavy ending early this evening then clearing. Local blowing snow this evening. Local amount 2 cm. Wind northwest 30 km/h gusting to 50 becoming light after midnight. Low minus 17. Wind chill near minus 23. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc1:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 11. Wind chill minus 24 in the morning and minus 14 in the afternoon. UV index 1 or low. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc2:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Snow. Temperature rising to minus 8 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Snow beginning in the evening. Amount 5 cm. Wind up to 15 km/h. Temperature rising to minus 8 by morning. Wind chill minus 12 in the evening and minus 17 overnight. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc3:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow and blowing snow. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Blowing snow. Windy. High minus 6. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc4:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of snow. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 15. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc5:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 11. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc6:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc7:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc8:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc9:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc10:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc11:20230124204500</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-70_metric_e.html"/>
+ <updated>2023-01-24T20:45:00Z</updated>
+ <published>2023-01-24T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 3:45 PM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-70_fc12:20230124204500</id>
+ </entry>
+ </feed>
+
