@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>South Bruce Peninsula - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-62_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-62_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-24T16:01:13Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230124160113</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WEATHER ADVISORY , South Bruce Peninsula</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on20"/>
+ <updated>2023-01-24T15:48:00Z</updated>
+ <published>2023-01-24T15:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:48 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_w1:202301241548</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T15:39:00Z</updated>
+ <published>2023-01-24T15:39:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Wiarton Airport 10:39 AM EST Tuesday 24 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -0.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.9 kPa rising<br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 67 %<br/>
+<b>Wind Chill:</b> -5 <br/>
+<b>Dewpoint:</b> -5.6&deg;C <br/>
+<b>Wind:</b> WNW 18 km/h gust 32 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_cc:20230124153900</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Flurries. Temperature steady near zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries with risk of snow squalls. Local amount 5 cm. Wind west 20 km/h gusting to 40 becoming light early this afternoon. Temperature steady near zero. UV index 1 or low. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc1:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Flurries. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries ending before morning then cloudy. Wind up to 15 km/h. Low minus 5. Wind chill minus 5 this evening and minus 11 overnight. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc2:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning early in the afternoon. Amount 2 to 4 cm. Wind becoming east 30 km/h gusting to 50 late in the morning. High zero. Wind chill minus 9 in the morning. UV index 1 or low. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc3:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Snow. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 5. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc4:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Flurries. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 2. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc5:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc6:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 2. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc7:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. Low minus 4. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc8:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 2. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of flurries. High minus 2. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc9:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 12. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 12. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc10:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 6. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc11:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 14. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 14. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc12:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-62_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 8. Forecast issued 11:00 AM EST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-62_fc13:20230124160000</id>
+ </entry>
+ </feed>
+
