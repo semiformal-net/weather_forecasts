@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Miscou Island - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-31_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-31_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-24T16:10:10Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230124161010</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WINTER STORM WATCH , Miscou Island</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb4"/>
+ <updated>2023-01-24T15:13:00Z</updated>
+ <published>2023-01-24T15:13:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:13 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_w1:202301241513</id>
+ </entry>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Miscou Island</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb4"/>
+ <updated>2023-01-24T15:19:00Z</updated>
+ <published>2023-01-24T15:19:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:19 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_w2:202301241519</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -1.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T16:00:00Z</updated>
+ <published>2023-01-24T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Miscou Island 12:00 PM AST Tuesday 24 January 2023 <br/>
+<b>Temperature:</b> -1.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.9 kPa rising<br/>
+<b>Humidity:</b> 63 %<br/>
+<b>Wind Chill:</b> -9 <br/>
+<b>Dewpoint:</b> -8.0&deg;C <br/>
+<b>Wind:</b> W 35 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_cc:20230124160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of flurries late this afternoon. Wind west 20 km/h gusting to 40 except gusting to 60 along parts of the coast near noon. High minus 2. Wind chill near minus 10. UV index 1 or low. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc1:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 15 except minus 8 along parts of the coast. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries this evening. Wind northwest 30 km/h gusting to 50. Low minus 15 except minus 8 along parts of the coast. Wind chill minus 10 this evening and minus 26 overnight. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc2:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind northwest 20 km/h gusting to 40 becoming light in the afternoon. High minus 8. Wind chill minus 23 in the morning and minus 15 in the afternoon. UV index 1 or low. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc3:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 16. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc4:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 3. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc5:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 9. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc6:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc7:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 19. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc8:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 4. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc9:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 15. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 15. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc10:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc11:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc12:20230124150000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-31_metric_e.html"/>
+ <updated>2023-01-24T15:00:00Z</updated>
+ <published>2023-01-24T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 11:00 AM AST Tuesday 24 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-31_fc13:20230124150000</id>
+ </entry>
+ </feed>
+
