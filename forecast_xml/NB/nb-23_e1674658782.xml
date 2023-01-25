@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Saint John - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-23_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-23_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-25T14:47:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230125144728</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Saint John</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb18"/>
+ <updated>2023-01-25T14:42:00Z</updated>
+ <published>2023-01-25T14:42:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:42 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_w1:202301251442</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, -10.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T14:00:00Z</updated>
+ <published>2023-01-25T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Saint John Airport 10:00 AM AST Wednesday 25 January 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> -10.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.8 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 65 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -15.7&deg;C <br/>
+<b>Wind:</b> NNW 18 km/h gust 28 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_cc:20230125140000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Increasing cloudiness. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness this afternoon. High minus 4. UV index 1 or low. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc1:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Snow at times heavy. Low minus 7 with temperature rising to zero by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow at times heavy beginning this evening. Amount 5 cm. Wind becoming east 20 km/h gusting to 40 this evening then southeast 30 gusting to 50 overnight. Low minus 7 with temperature rising to zero by morning. Wind chill minus 14 this evening. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc2:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Rain at times heavy or snow. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow changing to rain at times heavy in the morning. Fog patches. Rainfall amount 30 to 40 mm. Wind southeast 30 km/h gusting to 50 increasing to 50 gusting to 80 in the morning then becoming southwest 40 gusting to 70 late in the afternoon. High 9. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc3:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low minus 5. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc4:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc5:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 11. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc6:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 1. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc7:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc8:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Showers. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High plus 2. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc9:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain showers or flurries. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low minus 13. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc10:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 7. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc11:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 15. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc12:20230125150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-23_metric_e.html"/>
+ <updated>2023-01-25T15:00:00Z</updated>
+ <published>2023-01-25T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 8. Forecast issued 11:00 AM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-23_fc13:20230125150000</id>
+ </entry>
+ </feed>
+
