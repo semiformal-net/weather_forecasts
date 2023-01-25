@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Stephenville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-27_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-27_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-25T21:07:57Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230125210757</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Stephenville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl17"/>
+ <updated>2023-01-25T19:55:00Z</updated>
+ <published>2023-01-25T19:55:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:25 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_w1:202301251955</id>
+ </entry>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Stephenville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl17"/>
+ <updated>2023-01-25T20:06:00Z</updated>
+ <published>2023-01-25T20:06:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:36 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_w2:202301252006</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snowshower, -7.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T21:00:00Z</updated>
+ <published>2023-01-25T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Stephenville Airport 5:30 PM NST Wednesday 25 January 2023 <br/>
+<b>Condition:</b> Light Snowshower <br/>
+<b>Temperature:</b> -7.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.6 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 62 %<br/>
+<b>Wind Chill:</b> -15 <br/>
+<b>Dewpoint:</b> -13.1&deg;C <br/>
+<b>Wind:</b> WNW 25 km/h gust 37 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_cc:20230125210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few flurries. Temperature steady near minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending this evening then partly cloudy. Wind west 20 km/h gusting to 40 becoming light near midnight. Temperature steady near minus 9. Wind chill near minus 15. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc1:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Snow beginning early in the afternoon except rain along parts of the coast late in the afternoon. Amount 2 to 4 cm. Wind becoming southeast 20 km/h gusting to 40 in the morning then increasing to 60 gusting to 80 except gusting to 130 along parts of the coast late in the afternoon. High plus 4. Wind chill minus 14 in the morning. UV index 1 or low. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc2:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain. Temperature rising to 8 in the evening then falling.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 10 to 20 mm. Wind southeast 60 km/h gusting to 80 except gusting to 140 along parts of the coast in the evening and after midnight. Wind becoming southwest 40 gusting to 70 overnight. Temperature rising to 8 in the evening then falling. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc3:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain showers or flurries. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. High zero. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc4:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 6. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc5:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc6:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 8. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc7:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Flurries. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 1. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc8:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 13. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc9:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 9. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc10:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Flurries. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 12. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc11:20230125194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Flurries. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-27_metric_e.html"/>
+ <updated>2023-01-25T19:45:00Z</updated>
+ <published>2023-01-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 9. Forecast issued 4:15 PM NST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-27_fc12:20230125194500</id>
+ </entry>
+ </feed>
+
