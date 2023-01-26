@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Smiths Falls - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-106_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-106_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-26T08:09:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230126080953</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Smiths Falls</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on43"/>
+ <updated>2023-01-26T04:34:00Z</updated>
+ <published>2023-01-26T04:34:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:34 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_w1:202301260434</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T08:00:00Z</updated>
+ <published>2023-01-26T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kemptville 03:00 AM EST Thursday 26 January 2023 <br/>
+<b>Temperature:</b> -5.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.8 kPa falling<br/>
+<b>Humidity:</b> 93 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -6.3&deg;C <br/>
+<b>Wind:</b> ENE 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_cc:20230126080000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Snow at times heavy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy. Amount 10 to 15 cm. Wind northeast 20 km/h gusting to 40 becoming light after midnight. Low minus 6. Wind chill near minus 13. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc1:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending late in the afternoon then cloudy. Amount 5 cm. Wind becoming northwest 20 km/h in the morning. High minus 4. Wind chill near minus 12. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc2:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Mainly cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind up to 15 km/h. Low minus 16. Wind chill minus 7 in the evening and minus 19 overnight. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc3:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc4:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 4. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of flurries. Low minus 4. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc5:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High plus 1. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc6:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 10. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc7:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 8. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc8:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 15. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc9:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc10:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc11:20230126034500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-106_metric_e.html"/>
+ <updated>2023-01-26T03:45:00Z</updated>
+ <published>2023-01-26T03:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 10:45 PM EST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-106_fc12:20230126034500</id>
+ </entry>
+ </feed>
+
