@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cartwright - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-32_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-32_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-26T20:51:26Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230126205126</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Cartwright</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl32"/>
+ <updated>2023-01-26T19:57:00Z</updated>
+ <published>2023-01-26T19:57:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:57 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_w1:202301261957</id>
+ </entry>
+ <entry>
+ <title>BLOWING SNOW ADVISORY , Cartwright</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl32"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:00 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_w2:202301262000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -15.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:50:00Z</updated>
+ <published>2023-01-26T20:50:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cartwright Airport 4:50 PM AST Thursday 26 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -15.4&deg;C <br/>
+<b>Pressure:</b> 101.9 kPa <br/>
+<b>Visibility:</b> 4.0 km<br/>
+<b>Humidity:</b> 76 %<br/>
+<b>Wind Chill:</b> -19 <br/>
+<b>Dewpoint:</b> -18.7&deg;C <br/>
+<b>Wind:</b> SE 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_cc:20230126205000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow or rain. Temperature rising to plus 3 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow and blowing snow beginning early this evening then changing to a few rain showers or periods of drizzle after midnight. Snowfall amount 10 cm. Wind becoming southeast 40 km/h gusting to 60 this evening then increasing to 60 gusting to 80 except gusting to 110 along parts of the coast overnight. Temperature rising to plus 3 by morning. Wind chill minus 21 this evening. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc1:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Friday: A few rain showers or flurries. Temperature falling to minus 8 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few rain showers or flurries ending in the morning then mainly cloudy. Wind southwest 50 km/h gusting to 70 becoming west 30 gusting to 50 near noon. Temperature falling to minus 8 in the afternoon. Wind chill minus 18 in the afternoon. UV index 1 or low. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc2:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 22. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 40 percent chance of flurries in the evening. Clearing overnight. Wind west 20 km/h gusting to 40 becoming light overnight. Low minus 22. Wind chill minus 17 in the evening and minus 30 overnight. Risk of frostbite. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc3:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc4:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 13. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc5:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Flurries. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 4. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc6:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 25. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc7:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 16. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc8:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 27. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc9:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc10:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 26. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc11:20230126200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-01-26T20:00:00Z</updated>
+ <published>2023-01-26T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 4:30 PM AST Thursday 26 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc12:20230126200000</id>
+ </entry>
+ </feed>
+
