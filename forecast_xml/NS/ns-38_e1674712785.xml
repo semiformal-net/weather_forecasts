@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Chéticamp - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-38_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-38_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-26T05:08:03Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230126050803</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Chéticamp</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns22"/>
+ <updated>2023-01-26T02:06:00Z</updated>
+ <published>2023-01-26T02:06:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:06 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_w1:202301260206</id>
+ </entry>
+ <entry>
+ <title>LES SUÊTES WIND WARNING , Chéticamp</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns22"/>
+ <updated>2023-01-26T02:01:00Z</updated>
+ <published>2023-01-26T02:01:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:01 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_w2:202301260201</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -4.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-26T05:00:00Z</updated>
+ <published>2023-01-26T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Chéticamp 01:00 AM AST Thursday 26 January 2023 <br/>
+<b>Temperature:</b> -4.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.0 kPa falling<br/>
+<b>Humidity:</b> 69 %<br/>
+<b>Wind Chill:</b> -6 <br/>
+<b>Dewpoint:</b> -9.4&deg;C <br/>
+<b>Wind:</b> SSE 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_cc:20230126050000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 5 except minus 10 inland. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries early this evening. Wind northwest 20 km/h becoming light early this evening. Wind becoming southeast 20 gusting to 40 overnight. Low minus 5 except minus 10 inland. Wind chill minus 9 this evening. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc1:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow or rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning in the morning then changing to rain in the afternoon. Snowfall amount 2 cm. Rainfall amount 10 to 15 mm. Wind southeast 40 km/h gusting to 60 increasing to 60 gusting to 90 except gusting to 140 from Margaree Harbour to Bay St. Lawrence in the afternoon. High 10. Wind chill minus 10 in the morning. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc2:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain ending in the evening then cloudy. 60 percent chance of showers overnight. Wind southeast 60 km/h gusting to 90 except gusting to 140 from Margaree Harbour to Bay St. Lawrence early in the evening. Wind becoming southwest 50 gusting to 80 in the evening then west 30 gusting to 50 after midnight. Low zero. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc3:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc4:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc5:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 1. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc6:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc7:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High plus 2. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc8:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 4. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc9:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 2. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc10:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc11:20230125200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-38_metric_e.html"/>
+ <updated>2023-01-25T20:00:00Z</updated>
+ <published>2023-01-25T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 3. Forecast issued 4:00 PM AST Wednesday 25 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-38_fc12:20230125200000</id>
+ </entry>
+ </feed>
+
