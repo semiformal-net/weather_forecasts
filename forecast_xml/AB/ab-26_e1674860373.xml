@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Vegreville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-26_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-26_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-27T22:33:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230127223314</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Vegreville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-17T16:45:00Z</updated>
+ <published>2023-01-17T16:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_w1:20230117164500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -14.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Vegreville 3:00 PM MST Friday 27 January 2023 <br/>
+<b>Temperature:</b> -14.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.7 kPa rising<br/>
+<b>Humidity:</b> 71 %<br/>
+<b>Wind Chill:</b> -21 <br/>
+<b>Dewpoint:</b> -18.3&deg;C <br/>
+<b>Wind:</b> NNE 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_cc:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 21. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries this evening then partly cloudy. Wind north 20 km/h. Low minus 21. Wind chill minus 21 this evening and minus 30 overnight. Risk of frostbite. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc1:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind northwest 20 km/h gusting to 40. High minus 16. Wind chill minus 32 in the morning and minus 25 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc2:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Partly cloudy. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind northwest 20 km/h. Low minus 22. Wind chill minus 26 in the evening and minus 31 overnight. Risk of frostbite. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc3:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc4:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc5:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 12. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc6:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc7:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc8:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 21. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc9:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc10:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 17. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc11:20230127230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 9. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-26_metric_e.html"/>
+ <updated>2023-01-27T23:00:00Z</updated>
+ <published>2023-01-27T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 9. Forecast issued 4:00 PM MST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-26_fc12:20230127230000</id>
+ </entry>
+ </feed>
+
