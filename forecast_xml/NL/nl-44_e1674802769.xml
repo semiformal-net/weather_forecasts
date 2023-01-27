@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Englee - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-44_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-44_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-27T06:01:52Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230127060152</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Englee</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl18"/>
+ <updated>2023-01-27T04:28:00Z</updated>
+ <published>2023-01-27T04:28:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 00:58 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_w1:202301270428</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T05:00:00Z</updated>
+ <published>2023-01-27T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Englee 01:30 AM NST Friday 27 January 2023 <br/>
+<b>Temperature:</b> 0.4&deg;C <br/>
+<b>Wind:</b>   km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_cc:20230127050000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain or freezing rain. Temperature rising to plus 5 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain changing to rain after midnight. Rainfall amount 2 to 4 mm. Wind southeast 60 km/h gusting to 80 except gusting to 120 over exposed areas after midnight. Wind becoming south 60 gusting to 80 overnight. Temperature rising to plus 5 by morning. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc1:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Friday: Showers. Temperature falling to minus 6 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers ending in the morning then a mix of sun and cloud. Wind southwest 40 km/h gusting to 70. Temperature falling to minus 6 in the afternoon. Wind chill minus 15 in the afternoon. UV index 1 or low. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc2:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Friday night: Partly cloudy. Low minus 15 except minus 11 south of Hare Bay.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind southwest 40 km/h gusting to 60 becoming west 30 gusting to 50 in the evening. Low minus 15 except minus 11 south of Hare Bay. Wind chill minus 15 in the evening and minus 26 overnight. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc3:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc4:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc5:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 2. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc6:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 15. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 15. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc7:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 10. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc8:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc9:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 12. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 12. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc10:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc11:20230127033200</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-44_metric_e.html"/>
+ <updated>2023-01-27T03:32:00Z</updated>
+ <published>2023-01-27T03:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 12:02 AM NST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-44_fc12:20230127033200</id>
+ </entry>
+ </feed>
+
