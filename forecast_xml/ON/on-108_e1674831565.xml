@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Marathon - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-108_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-108_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-27T14:35:15Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230127143515</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WEATHER ADVISORY , Marathon</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on25"/>
+ <updated>2023-01-27T10:20:00Z</updated>
+ <published>2023-01-27T10:20:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 05:20 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_w1:202301271020</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow and Blowing Snow, -4.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T14:32:00Z</updated>
+ <published>2023-01-27T14:32:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Marathon Airport 09:32 AM EST Friday 27 January 2023 <br/>
+<b>Condition:</b> Light Snow and Blowing Snow <br/>
+<b>Temperature:</b> -4.5&deg;C <br/>
+<b>Pressure:</b> 99.8 kPa <br/>
+<b>Visibility:</b> 8.1 km<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -6.9&deg;C <br/>
+<b>Wind:</b> S 24 km/h gust 49 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_cc:20230127143200</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow at times heavy and blowing snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of flurries early this morning. Snow at times heavy beginning this morning. Blowing snow. Amount 10 cm. Wind becoming south 30 km/h gusting to 50 this morning then becoming northwest 30 gusting to 50 this afternoon. High minus 4. Wind chill minus 17 this morning and minus 10 this afternoon. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc1:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 25. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 40 percent chance of flurries this evening. Blowing snow. Wind northwest 30 km/h gusting to 50. Low minus 25. Wind chill minus 15 this evening and minus 33 overnight. Risk of frostbite. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc2:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 16. Wind chill minus 32 in the morning and minus 20 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc3:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc4:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc5:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc6:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc7:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 26. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc8:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 15. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc9:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 22. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc10:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc11:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 29. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc12:20230127103000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-108_metric_e.html"/>
+ <updated>2023-01-27T10:30:00Z</updated>
+ <published>2023-01-27T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 19. Forecast issued 05:30 AM EST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-108_fc13:20230127103000</id>
+ </entry>
+ </feed>
+
