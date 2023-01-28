@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ear Falls - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-167_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-167_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-28T10:56:07Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230128105607</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Ear Falls</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on51"/>
+ <updated>2023-01-28T10:55:00Z</updated>
+ <published>2023-01-28T10:55:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:55 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_w1:202301281055</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -27.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:00:00Z</updated>
+ <published>2023-01-28T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ear Falls 04:00 AM CST Saturday 28 January 2023 <br/>
+<b>Temperature:</b> -27.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa rising<br/>
+<b>Humidity:</b> 81 %<br/>
+<b>Wind Chill:</b> -34 <br/>
+<b>Dewpoint:</b> -29.9&deg;C <br/>
+<b>Wind:</b> NW 6 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_cc:20230128100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind west 20 km/h. High minus 22. Wind chill minus 42 this morning and minus 33 this afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc1:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Partly cloudy. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind west 20 km/h becoming light this evening. Low minus 31. Wind chill minus 32 this evening and minus 40 overnight. Frostbite in minutes. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc2:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind becoming west 20 km/h early in the afternoon. High minus 20. Wind chill minus 40 in the morning and minus 28 in the afternoon. Frostbite in minutes. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc3:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc4:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc5:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc6:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc7:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc8:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc9:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc10:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc11:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc12:20230128103000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-167_metric_e.html"/>
+ <updated>2023-01-28T10:30:00Z</updated>
+ <published>2023-01-28T10:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 05:30 AM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-167_fc13:20230128103000</id>
+ </entry>
+ </feed>
+
