@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Pukatawagan - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-67_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-67_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-28T02:08:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230128020824</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Pukatawagan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb33"/>
+ <updated>2023-01-27T21:23:00Z</updated>
+ <published>2023-01-27T21:23:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:23 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_w1:202301272123</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -26.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-28T02:00:00Z</updated>
+ <published>2023-01-28T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Flin Flon Airport 8:00 PM CST Friday 27 January 2023 <br/>
+<b>Temperature:</b> -26.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.4 kPa rising<br/>
+<b>Humidity:</b> 68 %<br/>
+<b>Wind Chill:</b> -32 <br/>
+<b>Dewpoint:</b> -30.1&deg;C <br/>
+<b>Wind:</b> NNW 6 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_cc:20230128020000</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few clouds. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind northwest 20 km/h. Low minus 32. Wind chill near minus 46. Frostbite in minutes. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc1:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind northwest 20 km/h. High minus 25. Wind chill minus 42 in the morning and minus 36 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc2:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: A few clouds. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind becoming northwest 20 km/h near midnight. Low minus 32. Wind chill minus 36 in the evening and minus 44 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc3:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc4:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc5:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc6:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 38. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc7:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 31. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc8:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 40. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc9:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 29. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc10:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 38. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc11:20230127220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+ <updated>2023-01-27T22:00:00Z</updated>
+ <published>2023-01-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 27. Forecast issued 4:00 PM CST Friday 27 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-67_fc12:20230127220000</id>
+ </entry>
+ </feed>
+
