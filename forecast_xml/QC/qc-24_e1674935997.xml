@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Trois-Pistoles - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-24_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-24_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-28T19:10:34Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230128191034</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOW SQUALL WATCH , Trois-Pistoles</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc28"/>
+ <updated>2023-01-28T16:56:00Z</updated>
+ <published>2023-01-28T16:56:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:56 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_w1:202301281656</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T19:00:00Z</updated>
+ <published>2023-01-28T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Rivière-du-Loup 2:00 PM EST Saturday 28 January 2023 <br/>
+<b>Temperature:</b> -0.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa falling<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -5 <br/>
+<b>Dewpoint:</b> -3.2&deg;C <br/>
+<b>Wind:</b> SSW 15 km/h gust 38 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_cc:20230128190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries at times heavy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries at times heavy. Risk of snow squalls late this afternoon. Amount 2 cm. Wind south 20 km/h gusting to 40 becoming west 40 gusting to 60 this afternoon. High plus 1. Wind chill minus 12 this afternoon. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc1:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries at times heavy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries at times heavy ending this evening then partly cloudy. Risk of snow squalls early this evening. Local amount 2 cm. Wind northwest 40 km/h gusting to 60 becoming light this evening. Low minus 16. Wind chill minus 12 this evening and minus 21 overnight. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc2:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the morning then snow. Amount 2 to 4 cm. Wind up to 15 km/h. High minus 10. Wind chill minus 21 in the morning and minus 16 in the afternoon. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc3:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 13. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc4:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 10. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc5:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 12. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc6:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 10. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc7:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 19. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc8:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 11. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc9:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 18. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc10:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 14. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc11:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 23. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc12:20230128163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-24_metric_e.html"/>
+ <updated>2023-01-28T16:30:00Z</updated>
+ <published>2023-01-28T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 20. Forecast issued 11:30 AM EST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-24_fc13:20230128163000</id>
+ </entry>
+ </feed>
+
