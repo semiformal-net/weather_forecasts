@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ross River - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/yt-8_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/yt-8_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-29T05:05:39Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230129050539</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Ross River</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-24T13:09:00Z</updated>
+ <published>2022-12-24T13:09:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_w1:20221224130900</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -17.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-29T04:00:00Z</updated>
+ <published>2023-01-29T04:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Faro Airport 9:00 PM MST Saturday 28 January 2023 <br/>
+<b>Temperature:</b> -17.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 104.6 kPa falling<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -23 <br/>
+<b>Dewpoint:</b> -20.6&deg;C <br/>
+<b>Wind:</b> SSE 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_cc:20230129040000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 22 with temperature rising to minus 16 by morning. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of flurries late this evening and after midnight. Wind up to 15 km/h. Low minus 22 with temperature rising to minus 16 by morning. Wind chill minus 24 this evening. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc1:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Periods of snow beginning in the morning. Amount 2 cm. Wind up to 15 km/h. High minus 12. Wind chill minus 16 in the afternoon. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc2:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Temperature steady near minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Amount 2 to 4 cm. Wind up to 15 km/h. Temperature steady near minus 13. Wind chill near minus 16. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc3:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 11. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc4:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 18. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 18. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc5:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc6:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc7:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 18. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc8:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 30. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc9:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 26. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc10:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 31. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc11:20230128230000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-8_metric_e.html"/>
+ <updated>2023-01-28T23:00:00Z</updated>
+ <published>2023-01-28T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 26. Forecast issued 4:00 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-8_fc12:20230128230000</id>
+ </entry>
+ </feed>
+
