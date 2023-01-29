@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cambridge Bay - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-15_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-15_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-29T07:10:34Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230129071034</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Cambridge Bay</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-29T01:15:00Z</updated>
+ <published>2023-01-29T01:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_w1:20230129011500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Ice Crystals, -28.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T07:00:00Z</updated>
+ <published>2023-01-29T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cambridge Bay Airport 12:00 AM MST Sunday 29 January 2023 <br/>
+<b>Condition:</b> Ice Crystals <br/>
+<b>Temperature:</b> -28.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.8 kPa falling<br/>
+<b>Visibility:</b> 4.8 km<br/>
+<b>Humidity:</b> 72 %<br/>
+<b>Wind Chill:</b> -42 <br/>
+<b>Dewpoint:</b> -31.6&deg;C <br/>
+<b>Wind:</b> WNW 26 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_cc:20230129070000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 30. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of flurries. Blowing snow at times. Wind northwest 30 km/h gusting to 50. Low minus 30. Wind chill near minus 46. Frostbite in minutes. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc1:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 27. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of flurries early in the morning. Blowing snow at times. Wind northwest 30 km/h gusting to 50. High minus 27. Wind chill near minus 46. Frostbite in minutes. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc2:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Near blizzard. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Near blizzard developing in the evening. Blowing snow at times early in the evening. Wind northwest 30 km/h gusting to 60 becoming northeast 40 gusting to 60 near midnight. Low minus 32. Wind chill minus 42 in the evening and minus 49 overnight. Frostbite in minutes. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc3:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 33. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc4:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc5:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc6:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc7:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc8:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 39.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 39. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc9:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 36. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc10:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc11:20230129012600</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-15_metric_e.html"/>
+ <updated>2023-01-29T01:26:00Z</updated>
+ <published>2023-01-29T01:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 34. Forecast issued 6:26 PM MST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-15_fc12:20230129012600</id>
+ </entry>
+ </feed>
+
