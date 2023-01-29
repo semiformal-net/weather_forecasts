@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Clinton - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-91_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-91_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-29T18:50:32Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230129185032</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Clinton</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-29T12:45:00Z</updated>
+ <published>2023-01-29T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_w1:20230129124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Sunny, -18.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T18:00:00Z</updated>
+ <published>2023-01-29T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Clinton 10:00 AM PST Sunday 29 January 2023 <br/>
+<b>Condition:</b> Sunny <br/>
+<b>Temperature:</b> -18.4&deg;C <br/>
+<b>Pressure:</b> 104.1 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 60 %<br/>
+<b>Dewpoint:</b> -24.2&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_cc:20230129180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 11. Wind chill minus 21 this morning and minus 14 this afternoon. UV index 1 or low. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc1:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: A few clouds. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 17. Wind chill minus 14 this evening and minus 21 overnight. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc2:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the morning. Snow beginning in the afternoon. Amount 2 to 4 cm. Wind up to 15 km/h. High minus 8. Wind chill minus 20 in the morning and minus 12 in the afternoon. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc3:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 10. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc4:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 4. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc5:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc6:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 1. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc7:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 4. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc8:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 1. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc9:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 4. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc10:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 2. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc11:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 4. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc12:20230129190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+ <updated>2023-01-29T19:00:00Z</updated>
+ <published>2023-01-29T19:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 11:00 AM PST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-91_fc13:20230129190000</id>
+ </entry>
+ </feed>
+
