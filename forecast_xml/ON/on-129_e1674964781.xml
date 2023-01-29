@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sandy Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-129_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-129_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-29T03:42:36Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230129034236</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Sandy Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on42"/>
+ <updated>2023-01-28T22:03:00Z</updated>
+ <published>2023-01-28T22:03:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:03 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_w1:202301282203</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -25.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-29T03:41:00Z</updated>
+ <published>2023-01-29T03:41:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sandy Lake Airport 9:41 PM CST Saturday 28 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -25.8&deg;C <br/>
+<b>Pressure:</b> 102.4 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 72 %<br/>
+<b>Wind Chill:</b> -34 <br/>
+<b>Dewpoint:</b> -29.3&deg;C <br/>
+<b>Wind:</b> W 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_cc:20230129034100</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 31. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries overnight. Wind west 20 km/h becoming light early this evening. Low minus 31. Wind chill minus 37 this evening and minus 43 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc1:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 22. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. Wind up to 15 km/h. High minus 22. Wind chill minus 43 in the morning and minus 32 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc2:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 31. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 31. Wind chill minus 34 in the evening and minus 40 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc3:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 21. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc4:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 25. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc5:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 21. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc6:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc7:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 22. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc8:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc9:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 23. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc10:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc11:20230128210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-129_metric_e.html"/>
+ <updated>2023-01-28T21:00:00Z</updated>
+ <published>2023-01-28T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 21. Forecast issued 4:00 PM CST Saturday 28 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-129_fc12:20230128210000</id>
+ </entry>
+ </feed>
+
