@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>London - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-137_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-137_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-29T21:47:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230129214735</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, London</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-29T11:45:00Z</updated>
+ <published>2023-01-29T11:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_w1:20230129114500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, -2.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T21:28:00Z</updated>
+ <published>2023-01-29T21:28:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> London Int'l Airport 4:28 PM EST Sunday 29 January 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> -2.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Wind Chill:</b> -8 <br/>
+<b>Dewpoint:</b> -5.3&deg;C <br/>
+<b>Wind:</b> N 18 km/h gust 31 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_cc:20230129212800</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Mainly cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind northwest 20 km/h becoming light early this evening. Low minus 8. Wind chill near minus 11. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc1:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Wind becoming northwest 20 km/h early in the afternoon. High minus 4. Wind chill near minus 11. UV index 1 or low. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc2:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Mainly cloudy. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Becoming partly cloudy after midnight. Wind becoming northwest 20 km/h late in the evening. Low minus 12. Wind chill minus 10 in the evening and minus 18 overnight. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc3:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc4:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc5:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 7. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc6:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 12. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc7:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 5. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc8:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 13. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc9:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High minus 11. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc10:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 16. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 16. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc11:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-137_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-137_fc12:20230129203000</id>
+ </entry>
+ </feed>
+
