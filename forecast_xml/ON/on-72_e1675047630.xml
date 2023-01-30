@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Dryden - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-72_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-72_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-30T02:52:12Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230130025212</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Dryden</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on1"/>
+ <updated>2023-01-30T02:38:00Z</updated>
+ <published>2023-01-30T02:38:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 8:38 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_w1:202301300238</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -25.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-30T02:51:00Z</updated>
+ <published>2023-01-30T02:51:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Dryden Airport 8:51 PM CST Sunday 29 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -25.2&deg;C <br/>
+<b>Pressure:</b> 102.7 kPa <br/>
+<b>Visibility:</b> 4.8 km<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -35 <br/>
+<b>Dewpoint:</b> -28.0&deg;C <br/>
+<b>Wind:</b> WSW 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_cc:20230130025100</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 32. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of flurries. Wind west 20 km/h becoming light early this evening. Low minus 32. Wind chill minus 30 this evening and minus 42 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc1:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind becoming southwest 20 km/h late in the morning. High minus 23. Wind chill minus 42 in the morning and minus 34 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc2:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Partly cloudy. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness in the evening. Wind southwest 20 km/h becoming light overnight. Low minus 27. Wind chill near minus 38. Risk of frostbite. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc3:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc4:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc5:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 18. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc6:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc7:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 23. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc8:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc9:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 17. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc10:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 20. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 20. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc11:20230129210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-72_metric_e.html"/>
+ <updated>2023-01-29T21:00:00Z</updated>
+ <published>2023-01-29T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 12. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-72_fc12:20230129210000</id>
+ </entry>
+ </feed>
+
