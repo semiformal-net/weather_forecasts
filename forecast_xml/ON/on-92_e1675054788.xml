@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Morrisburg - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-92_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-92_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-30T04:04:05Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230130040405</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Morrisburg</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-30T01:15:00Z</updated>
+ <published>2023-01-30T01:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_w1:20230130011500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending early this evening then cloudy. Amount 2 cm. Wind northeast 30 km/h becoming light early this evening. Low minus 12. Wind chill minus 7 this evening and minus 15 overnight. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc1:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Monday: A few flurries. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. A few flurries beginning early in the afternoon. Local amount 2 cm. Wind up to 15 km/h. High minus 6. Wind chill minus 14 in the morning and minus 8 in the afternoon. UV index 1 or low. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc2:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few flurries. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending near midnight then partly cloudy. Local amount 2 cm. Wind becoming northwest 20 km/h near midnight. Low minus 16. Wind chill minus 8 in the evening and minus 20 overnight. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc3:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 10. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc4:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc5:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc6:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 10. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 10. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc7:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 2. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc8:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 23. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 23. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc9:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc10:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc11:20230129203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-92_metric_e.html"/>
+ <updated>2023-01-29T20:30:00Z</updated>
+ <published>2023-01-29T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 3:30 PM EST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-92_fc12:20230129203000</id>
+ </entry>
+ </feed>
+
