@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Island Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-59_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-59_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-30T09:49:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230130094955</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Island Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb28"/>
+ <updated>2023-01-29T21:42:00Z</updated>
+ <published>2023-01-29T21:42:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:42 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_w1:202301292142</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -33.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-30T09:48:00Z</updated>
+ <published>2023-01-30T09:48:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Island Lake Airport 03:48 AM CST Monday 30 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -33.5&deg;C <br/>
+<b>Pressure:</b> 102.2 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 73 %<br/>
+<b>Wind Chill:</b> -42 <br/>
+<b>Dewpoint:</b> -36.7&deg;C <br/>
+<b>Wind:</b> WSW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_cc:20230130094800</id>
+ </entry>
+ <entry>
+ <title>Sunday night: A few clouds. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 33. Wind chill minus 38 this evening and minus 45 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc1:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind becoming southwest 20 km/h in the afternoon. High minus 21. Wind chill minus 45 in the morning and minus 31 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc2:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind southwest 20 km/h becoming light near midnight. Low minus 28. Wind chill minus 32 in the evening and minus 38 overnight. Risk of frostbite. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc3:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc4:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc5:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 20. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc6:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc7:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc8:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc9:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 23. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 23. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc10:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 26. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 26. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc11:20230129220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 20. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-59_metric_e.html"/>
+ <updated>2023-01-29T22:00:00Z</updated>
+ <published>2023-01-29T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 20. Forecast issued 4:00 PM CST Sunday 29 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-59_fc12:20230129220000</id>
+ </entry>
+ </feed>
+
