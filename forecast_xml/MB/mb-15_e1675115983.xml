@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>McCreary - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-15_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-15_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-30T21:42:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230130214255</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , McCreary</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb16"/>
+ <updated>2023-01-30T21:37:00Z</updated>
+ <published>2023-01-30T21:37:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:37 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_w1:202301302137</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -15.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> McCreary 3:00 PM CST Monday 30 January 2023 <br/>
+<b>Temperature:</b> -15.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.0 kPa falling<br/>
+<b>Humidity:</b> 45 %<br/>
+<b>Wind Chill:</b> -24 <br/>
+<b>Dewpoint:</b> -24.6&deg;C <br/>
+<b>Wind:</b> WSW 17 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_cc:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind west 30 km/h gusting to 50 becoming light near midnight. Low minus 32. Wind chill minus 26 this evening and minus 44 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc1:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 18. Wind chill minus 42 in the morning and minus 27 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc2:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: A few clouds. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 30. Wind chill near minus 41. Frostbite in minutes. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc3:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 15. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc4:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 33. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc5:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 23. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc6:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 27. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc7:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 10. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc8:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 18. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 18. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc9:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc10:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc11:20230130220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-15_metric_e.html"/>
+ <updated>2023-01-30T22:00:00Z</updated>
+ <published>2023-01-30T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 4:00 PM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-15_fc12:20230130220000</id>
+ </entry>
+ </feed>
+
