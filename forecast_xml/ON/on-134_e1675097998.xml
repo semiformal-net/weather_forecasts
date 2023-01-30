@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Savant Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-134_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-134_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-30T16:18:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230130161824</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Savant Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on2"/>
+ <updated>2023-01-30T10:27:00Z</updated>
+ <published>2023-01-30T10:27:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:27 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_w1:202301301027</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Ice Crystals, -28.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:00:00Z</updated>
+ <published>2023-01-30T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sioux Lookout Airport 10:00 AM CST Monday 30 January 2023 <br/>
+<b>Condition:</b> Ice Crystals <br/>
+<b>Temperature:</b> -28.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.6 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 75 %<br/>
+<b>Wind Chill:</b> -39 <br/>
+<b>Dewpoint:</b> -32.0&deg;C <br/>
+<b>Wind:</b> SSW 12 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_cc:20230130160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind west 20 km/h gusting to 40. High minus 23. Wind chill near minus 38. Risk of frostbite. UV index 1 or low. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc1:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Partly cloudy. Temperature steady near minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness this evening. Wind southwest 20 km/h. Temperature steady near minus 25. Wind chill near minus 37. Risk of frostbite. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc2:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind west 20 km/h becoming light in the morning. High minus 19. Wind chill minus 37 in the morning and minus 26 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc3:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc4:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc5:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 25. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc6:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 24. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc7:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc8:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc9:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of snow. Low minus 24. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of snow. Low minus 24. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc10:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 12. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc11:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 22. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc12:20230130163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-134_metric_e.html"/>
+ <updated>2023-01-30T16:30:00Z</updated>
+ <published>2023-01-30T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 15. Forecast issued 11:30 AM CST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-134_fc13:20230130163000</id>
+ </entry>
+ </feed>
+
