@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Buchans - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-4_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-4_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-31T13:10:42Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230131131042</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Buchans</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-27T05:30:00Z</updated>
+ <published>2023-01-27T05:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_w1:20230127053000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T13:00:00Z</updated>
+ <published>2023-01-31T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Millertown 09:30 AM NST Tuesday 31 January 2023 <br/>
+<b>Temperature:</b> -5.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.9 kPa rising<br/>
+<b>Humidity:</b> 89 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -7.4&deg;C <br/>
+<b>Wind:</b> E 2 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_cc:20230131130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Light snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Light snow ending this morning then cloudy. Snow beginning this afternoon. Amount 2 cm. Wind up to 15 km/h. High minus 4. Wind chill near minus 13. UV index 1 or low. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc1:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending this evening then clearing. Amount 2 cm. Wind becoming northwest 20 km/h gusting to 40 this evening. Low minus 16. Wind chill minus 9 this evening and minus 25 overnight. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc2:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Becoming a mix of sun and cloud in the afternoon. Wind northwest 20 km/h gusting to 40 becoming light in the afternoon. High minus 11. Wind chill minus 25 in the morning and minus 18 in the afternoon. UV index 1 or low. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc3:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 23. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 23. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc4:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 10. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 10. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc5:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 13. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc6:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Windy. High plus 2. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc7:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Windy. Low minus 16. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc8:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. High minus 14. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc9:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 20. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc10:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc11:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 9. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc12:20230131112100</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-4_metric_e.html"/>
+ <updated>2023-01-31T11:21:00Z</updated>
+ <published>2023-01-31T11:21:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 1. Forecast issued 07:51 AM NST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-4_fc13:20230131112100</id>
+ </entry>
+ </feed>
+
