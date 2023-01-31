@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Inukjuak - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-131_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-131_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-31T21:54:18Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230131215418</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Inukjuak</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc7"/>
+ <updated>2023-01-31T20:29:00Z</updated>
+ <published>2023-01-31T20:29:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:29 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_w1:202301312029</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -31.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T21:53:00Z</updated>
+ <published>2023-01-31T21:53:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Inukjuak Airport 4:53 PM EST Tuesday 31 January 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -31.2&deg;C <br/>
+<b>Pressure:</b> 100.3 kPa <br/>
+<b>Visibility:</b> 1.6 km<br/>
+<b>Humidity:</b> 67 %<br/>
+<b>Wind Chill:</b> -48 <br/>
+<b>Dewpoint:</b> -35.3&deg;C <br/>
+<b>Wind:</b> WSW 35 km/h gust 46 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_cc:20230131215300</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 35. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of flurries. Local blowing snow. Wind southwest 30 km/h gusting to 50. Low minus 35. Wind chill minus 43 this evening and minus 52 overnight. Frostbite in minutes. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc1:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. Temperature steady near minus 35. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. Wind southwest 20 km/h gusting to 40. Temperature steady near minus 35. Wind chill near minus 52. Frostbite in minutes. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc2:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Partly cloudy. Temperature steady near minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind southwest 30 km/h becoming light near midnight. Temperature steady near minus 36. Wind chill near minus 52. Frostbite in minutes. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc3:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 33. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc4:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 41.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 41. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc5:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 35. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc6:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc7:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 29. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc8:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc9:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 30. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc10:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc11:20230131203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-01-31T20:30:00Z</updated>
+ <published>2023-01-31T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 30. Forecast issued 3:30 PM EST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc12:20230131203000</id>
+ </entry>
+ </feed>
+

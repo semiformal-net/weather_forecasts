@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Hinton - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-14_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-14_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-31T22:00:05Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230131220005</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Hinton</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab9"/>
+ <updated>2023-01-31T17:20:00Z</updated>
+ <published>2023-01-31T17:20:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:20 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_w1:202301311720</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -4.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T21:00:00Z</updated>
+ <published>2023-01-31T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Jasper Warden Station 2:00 PM MST Tuesday 31 January 2023 <br/>
+<b>Temperature:</b> -4.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa falling<br/>
+<b>Humidity:</b> 56 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -12.2&deg;C <br/>
+<b>Wind:</b> SE 6 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_cc:20230131210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Local amount 5 cm. Wind up to 15 km/h. High minus 4. Wind chill near minus 8. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc1:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Local amount 2 to 4 cm. Wind up to 15 km/h. Low minus 14. Wind chill minus 7 this evening. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc2:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. Temperature steady near minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 5 to 10 cm. Wind up to 15 km/h. Temperature steady near minus 16. Wind chill minus 13 in the morning and minus 20 in the afternoon. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc3:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 16. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc4:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High plus 2. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc5:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of showers. Low zero. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc6:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of rain showers or flurries. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of rain showers or flurries. High plus 2. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc7:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 1. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc8:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc9:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc10:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc11:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc12:20230131180000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-14_metric_e.html"/>
+ <updated>2023-01-31T18:00:00Z</updated>
+ <published>2023-01-31T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:00 AM MST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-14_fc13:20230131180000</id>
+ </entry>
+ </feed>
+
