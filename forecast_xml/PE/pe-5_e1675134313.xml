@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Charlottetown - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/pe-5_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/pe-5_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-31T03:05:42Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230131030542</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Charlottetown</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-26T22:15:00Z</updated>
+ <published>2023-01-26T22:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_w1:20230126221500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -4.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-31T03:00:00Z</updated>
+ <published>2023-01-31T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Charlottetown Airport 11:00 PM AST Monday 30 January 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -4.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.0 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 86 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -6.4&deg;C <br/>
+<b>Wind:</b> WNW 6 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_cc:20230131030000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of flurries late this evening and overnight. Wind up to 15 km/h. Low minus 7. Wind chill near minus 10. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc1:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of flurries early in the morning. Snow beginning in the morning. Amount 2 to 4 cm. Wind becoming northwest 20 km/h gusting to 40 late in the afternoon. High minus 3. Wind chill near minus 11. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc2:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries. Wind northwest 20 km/h gusting to 40. Low minus 10. Wind chill minus 11 in the evening and minus 16 overnight. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc3:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 9. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc4:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 12. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc5:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 5. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc6:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of snow. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. Low minus 5. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc7:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Flurries. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. High zero. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc8:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. Low minus 25. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc9:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. High minus 17. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc10:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc11:20230130200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Flurries. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/pe-5_metric_e.html"/>
+ <updated>2023-01-30T20:00:00Z</updated>
+ <published>2023-01-30T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 3. Forecast issued 4:00 PM AST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:pe-5_fc12:20230130200000</id>
+ </entry>
+ </feed>
+

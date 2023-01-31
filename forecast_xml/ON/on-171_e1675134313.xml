@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Fort Severn - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-171_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-171_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-01-31T03:04:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230131030424</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Fort Severn</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on54"/>
+ <updated>2023-01-31T02:25:00Z</updated>
+ <published>2023-01-31T02:25:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:25 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_w1:202301310225</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Haze, -25.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-31T02:23:00Z</updated>
+ <published>2023-01-31T02:23:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Fort Severn Airport 9:23 PM EST Monday 30 January 2023 <br/>
+<b>Condition:</b> Haze <br/>
+<b>Temperature:</b> -25.3&deg;C <br/>
+<b>Pressure:</b> 100.6 kPa <br/>
+<b>Visibility:</b> 9.7 km<br/>
+<b>Humidity:</b> 73 %<br/>
+<b>Wind Chill:</b> -37 <br/>
+<b>Dewpoint:</b> -28.8&deg;C <br/>
+<b>Wind:</b> SW 18 km/h gust 30 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_cc:20230131022300</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 33. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear early this evening then partly cloudy with 30 percent chance of flurries overnight. Wind west 30 km/h. Low minus 33. Wind chill minus 38 this evening and minus 46 overnight. Frostbite in minutes. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc1:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind west 30 km/h gusting to 50. High minus 30. Wind chill minus 50 in the morning and minus 44 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc2:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 40. Wind chill minus 44 in the evening and minus 53 overnight. Frostbite in minutes. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc3:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 29. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc4:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc5:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Windy. High minus 29. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc6:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Windy. Low minus 37. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc7:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc8:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc9:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of snow. High minus 25. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of snow. High minus 25. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc10:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of snow. Low minus 31. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of snow. Low minus 31. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc11:20230130210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-171_metric_e.html"/>
+ <updated>2023-01-30T21:00:00Z</updated>
+ <published>2023-01-30T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 27. Forecast issued 4:00 PM EST Monday 30 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-171_fc12:20230130210000</id>
+ </entry>
+ </feed>
+
