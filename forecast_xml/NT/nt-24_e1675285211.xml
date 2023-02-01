@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Yellowknife - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nt-24_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nt-24_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-01T21:00:11Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230201210011</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Yellowknife</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nt22"/>
+ <updated>2023-02-01T17:17:00Z</updated>
+ <published>2023-02-01T17:17:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:17 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_w1:202302011717</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Sunny, -33.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T20:00:00Z</updated>
+ <published>2023-02-01T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Yellowknife Airport 1:00 PM MST Wednesday 01 February 2023 <br/>
+<b>Condition:</b> Mainly Sunny <br/>
+<b>Temperature:</b> -33.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.3 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 69 %<br/>
+<b>Wind Chill:</b> -43 <br/>
+<b>Dewpoint:</b> -37.2&deg;C <br/>
+<b>Wind:</b> WNW 10 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_cc:20230201200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 34. Wind chill near minus 50. Frostbite in minutes. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc1:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few clouds. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Ice fog patches developing this evening. Wind up to 15 km/h. Low minus 38. Wind chill near minus 49. Frostbite in minutes. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc2:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Mainly sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind becoming east 20 km/h late in the morning. High minus 26. Wind chill minus 48 in the morning and minus 38 in the afternoon. Frostbite in minutes. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc3:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 29. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc4:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 24. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc5:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 29. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc6:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 25. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc7:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc8:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc9:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 29. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc10:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 23. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc11:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 24. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc12:20230201180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+ <updated>2023-02-01T18:00:00Z</updated>
+ <published>2023-02-01T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 11:00 AM MST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-24_fc13:20230201180000</id>
+ </entry>
+ </feed>
+
