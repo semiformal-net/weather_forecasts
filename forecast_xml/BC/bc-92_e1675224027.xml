@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Courtenay - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-92_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-92_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-01T03:49:16Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230201034916</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Courtenay</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-29T12:45:00Z</updated>
+ <published>2023-01-29T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_w1:20230129124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Rain and Snow, 0.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T03:00:00Z</updated>
+ <published>2023-02-01T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Comox Airport 7:00 PM PST Tuesday 31 January 2023 <br/>
+<b>Condition:</b> Light Rain and Snow <br/>
+<b>Temperature:</b> 0.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.2 kPa falling<br/>
+<b>Visibility:</b> 4.8 km<br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Dewpoint:</b> -0.3&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_cc:20230201030000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain mixed with wet snow except periods of snow inland. Snowfall amount 4 cm inland. Wind southeast 30 km/h except gusting to 50 near the Strait of Georgia late this evening and overnight. Low plus 1. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc1:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. Temperature steady near plus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain mixed with wet snow ending in the morning then cloudy with 40 percent chance of rain showers. Periods of snow inland early in the morning. Wind southeast 30 km/h except gusting to 50 near the Strait of Georgia. Temperature steady near plus 3. UV index 1 or low. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc2:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Mainly cloudy. Temperature steady near plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind southeast 40 km/h diminishing to 20 late in the evening. Temperature steady near plus 4. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc3:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc4:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 5. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc5:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 7. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc6:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of rain. Low plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 5. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc7:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. High 7. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc8:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc9:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc10:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 3. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc11:20230201000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+ <updated>2023-02-01T00:00:00Z</updated>
+ <published>2023-02-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 4:00 PM PST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-92_fc12:20230201000000</id>
+ </entry>
+ </feed>
+
