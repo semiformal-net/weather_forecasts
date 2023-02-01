@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sprague - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-23_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-23_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-01T17:09:44Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230201170944</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Sprague</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb1"/>
+ <updated>2023-02-01T10:15:00Z</updated>
+ <published>2023-02-01T10:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:15 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_w1:202302011015</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -19.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sprague 11:00 AM CST Wednesday 01 February 2023 <br/>
+<b>Temperature:</b> -19.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.2 kPa rising<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -21 <br/>
+<b>Dewpoint:</b> -21.5&deg;C <br/>
+<b>Wind:</b> S 2 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_cc:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of light snow. High minus 14. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of light snow. Wind up to 15 km/h. High minus 14. Wind chill minus 25 this morning and minus 17 this afternoon. UV index 1 or low. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc1:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Snow. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending near midnight then partly cloudy. Wind becoming northwest 30 km/h overnight. Low minus 29. Wind chill minus 19 this evening and minus 43 overnight. Frostbite in minutes. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc2:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 22. Wind chill minus 40 in the morning and minus 32 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc3:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc4:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 17. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc5:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 18. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc6:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 7. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc7:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 15. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc8:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 8. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc9:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 9. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 9. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc10:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 3. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc11:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc12:20230201170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+ <updated>2023-02-01T17:00:00Z</updated>
+ <published>2023-02-01T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 11:00 AM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-23_fc13:20230201170000</id>
+ </entry>
+ </feed>
+
