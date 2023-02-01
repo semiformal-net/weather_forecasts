@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Lynn Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-41_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-41_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-01T05:01:34Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230201050134</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Lynn Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb33"/>
+ <updated>2023-01-31T21:38:00Z</updated>
+ <published>2023-01-31T21:38:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:38 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_w1:202301312138</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Clear, -34.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-02-01T04:25:00Z</updated>
+ <published>2023-02-01T04:25:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Lynn Lake Airport 10:25 PM CST Tuesday 31 January 2023 <br/>
+<b>Condition:</b> Mainly Clear <br/>
+<b>Temperature:</b> -34.4&deg;C <br/>
+<b>Pressure:</b> 101.7 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 69 %<br/>
+<b>Wind Chill:</b> -45 <br/>
+<b>Dewpoint:</b> -38.1&deg;C <br/>
+<b>Wind:</b> WSW 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_cc:20230201042500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: A few clouds. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Increasing cloudiness before morning. Wind up to 15 km/h. Low minus 35. Wind chill minus 38 this evening and minus 48 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc1:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of light snow. High minus 28. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of light snow. Wind becoming northwest 30 km/h gusting to 50 near noon. High minus 28. Wind chill minus 48 in the morning and minus 43 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc2:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of light snow. Low minus 35. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of light snow in the evening. Clearing overnight. Wind northwest 30 km/h gusting to 50. Low minus 35. Wind chill near minus 50. Frostbite in minutes. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc3:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc4:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc5:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 21. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc6:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 23. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc7:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 18. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc8:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc9:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 21. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 21. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc10:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 25. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 25. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc11:20230131220000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 17. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-41_metric_e.html"/>
+ <updated>2023-01-31T22:00:00Z</updated>
+ <published>2023-01-31T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 17. Forecast issued 4:00 PM CST Tuesday 31 January 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-41_fc12:20230131220000</id>
+ </entry>
+ </feed>
+
