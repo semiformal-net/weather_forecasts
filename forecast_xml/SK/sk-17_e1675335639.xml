@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Hudson Bay - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-17_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-17_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-02T10:50:37Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230202105037</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Hudson Bay</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk21"/>
+ <updated>2023-02-02T10:33:00Z</updated>
+ <published>2023-02-02T10:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:33 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_w1:202302021033</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -28.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T10:00:00Z</updated>
+ <published>2023-02-02T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Hudson Bay 04:00 AM CST Thursday 02 February 2023 <br/>
+<b>Temperature:</b> -28.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.3 kPa rising<br/>
+<b>Humidity:</b> 64 %<br/>
+<b>Wind Chill:</b> -41 <br/>
+<b>Dewpoint:</b> -33.4&deg;C <br/>
+<b>Wind:</b> W 17 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_cc:20230202100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind west 20 km/h becoming light this morning. High minus 25. Wind chill minus 43 this morning and minus 33 this afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc1:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Increasing cloudiness. Low minus 29 with temperature rising to minus 25 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness this evening. Wind up to 15 km/h. Low minus 29 with temperature rising to minus 25 by morning. Wind chill minus 38 this evening. Risk of frostbite. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc2:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Friday: Light snow. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Light snow beginning in the morning. Wind becoming south 20 km/h in the morning. High minus 13. Wind chill minus 33 in the morning and minus 22 in the afternoon. Risk of frostbite. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc3:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 20. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc4:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 13. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc5:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 16. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 16. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc6:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 4. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc7:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc8:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 5. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc9:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc10:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc11:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc12:20230202110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-17_metric_e.html"/>
+ <updated>2023-02-02T11:00:00Z</updated>
+ <published>2023-02-02T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 05:00 AM CST Thursday 02 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-17_fc13:20230202110000</id>
+ </entry>
+ </feed>
+
