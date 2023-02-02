@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Twillingate - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-35_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-35_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-02T04:11:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230202041153</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Twillingate</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl2"/>
+ <updated>2023-02-02T03:13:00Z</updated>
+ <published>2023-02-02T03:13:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:43 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_w1:202302020313</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -11.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-02T04:00:00Z</updated>
+ <published>2023-02-02T04:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Twillingate 12:30 AM NST Thursday 02 February 2023 <br/>
+<b>Temperature:</b> -11.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa falling<br/>
+<b>Humidity:</b> 62 %<br/>
+<b>Wind Chill:</b> -21 <br/>
+<b>Dewpoint:</b> -17.0&deg;C <br/>
+<b>Wind:</b> WNW 29 km/h gust 39 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_cc:20230202040000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few clouds. Low minus 14 except temperature steady near minus 10 along parts of the coast.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds except mainly cloudy along parts of the coast with 40 percent chance of flurries. Wind northwest 20 km/h except gusting to 50 along parts of the coast early this evening. Wind becoming light this evening. Low minus 14 except temperature steady near minus 10 along parts of the coast. Wind chill near minus 22. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc1:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 40 percent chance of flurries along parts of the coast early in the morning. Wind up to 15 km/h. High minus 8. Wind chill minus 22 in the morning and minus 13 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc2:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Partly cloudy. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind becoming southwest 20 km/h near midnight. Low minus 12. Wind chill minus 13 in the evening and minus 20 overnight. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc3:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow or rain. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. Windy. High plus 1. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc4:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. Low minus 15. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc5:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. High minus 13. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc6:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. Low minus 14. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc7:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc8:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 11. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc9:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 3. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc10:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 15. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc11:20230201193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-35_metric_e.html"/>
+ <updated>2023-02-01T19:30:00Z</updated>
+ <published>2023-02-01T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 4:00 PM NST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-35_fc12:20230201193000</id>
+ </entry>
+ </feed>
+
