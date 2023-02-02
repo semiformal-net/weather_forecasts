@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Melfort - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-46_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-46_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-02T09:07:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230202090755</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Melfort</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk20"/>
+ <updated>2023-02-01T21:59:00Z</updated>
+ <published>2023-02-01T21:59:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:59 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_w1:202302012159</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -30.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-02T09:00:00Z</updated>
+ <published>2023-02-02T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Melfort 03:00 AM CST Thursday 02 February 2023 <br/>
+<b>Temperature:</b> -30.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.5 kPa rising<br/>
+<b>Humidity:</b> 65 %<br/>
+<b>Wind Chill:</b> -41 <br/>
+<b>Dewpoint:</b> -34.8&deg;C <br/>
+<b>Wind:</b> WNW 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_cc:20230202090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clearing. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing early this evening. Wind northwest 20 km/h gusting to 40 becoming light this evening. Low minus 36. Wind chill minus 31 this evening and minus 46 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc1:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 27. Wind chill minus 46 in the morning and minus 36 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc2:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Temperature rising to minus 21 by morning. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 60 percent chance of flurries overnight. Wind up to 15 km/h. Temperature rising to minus 21 by morning. Wind chill minus 38 in the evening and minus 31 overnight. Risk of frostbite. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc3:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 13. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc4:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 15. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc5:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 11. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc6:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 16. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc7:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc8:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 12. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc9:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc10:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc11:20230201220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-46_metric_e.html"/>
+ <updated>2023-02-01T22:00:00Z</updated>
+ <published>2023-02-01T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 4:00 PM CST Wednesday 01 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-46_fc12:20230201220000</id>
+ </entry>
+ </feed>
+
