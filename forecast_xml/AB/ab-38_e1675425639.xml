@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Nordegg - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-38_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-38_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-03T11:40:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230203114055</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Nordegg</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-23T13:15:00Z</updated>
+ <published>2022-12-23T13:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_w1:20221223131500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 2.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T11:00:00Z</updated>
+ <published>2023-02-03T11:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Nordegg 04:00 AM MST Friday 03 February 2023 <br/>
+<b>Temperature:</b> 2.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.7 kPa falling<br/>
+<b>Humidity:</b> 40 %<br/>
+<b>Dewpoint:</b> -9.8&deg;C <br/>
+<b>Wind:</b> NW 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_cc:20230203110000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind becoming southwest 20 km/h gusting to 40 this morning then light this afternoon. High 7. UV index 1 or low. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc1:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Partly cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 2. Wind chill minus 6 overnight. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc2:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clearing. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Clearing late in the morning. Wind up to 15 km/h. High 7. Wind chill minus 5 in the morning. UV index 1 or low. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc3:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 3. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc4:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc5:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 3. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc6:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 7. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc7:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 3. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc8:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 7. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc9:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc10:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc11:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc12:20230203120000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-38_metric_e.html"/>
+ <updated>2023-02-03T12:00:00Z</updated>
+ <published>2023-02-03T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 05:00 AM MST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-38_fc13:20230203120000</id>
+ </entry>
+ </feed>
+
