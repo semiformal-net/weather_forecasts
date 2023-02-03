@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Barrie - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-151_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-151_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-03T19:47:03Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230203194703</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOW SQUALL WARNING , Barrie</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on18"/>
+ <updated>2023-02-03T18:24:00Z</updated>
+ <published>2023-02-03T18:24:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 1:24 PM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_w1:202302031824</id>
+ </entry>
+ <entry>
+ <title>EXTREME COLD WARNING , Barrie</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on18"/>
+ <updated>2023-02-03T16:06:00Z</updated>
+ <published>2023-02-03T16:06:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:06 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_w2:202302031606</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -22.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T19:00:00Z</updated>
+ <published>2023-02-03T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Lake Simcoe Regional Airport 2:00 PM EST Friday 03 February 2023 <br/>
+<b>Temperature:</b> -22.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.7 kPa rising<br/>
+<b>Humidity:</b> 71 %<br/>
+<b>Wind Chill:</b> -33 <br/>
+<b>Dewpoint:</b> -26.2&deg;C <br/>
+<b>Wind:</b> NNW 18 km/h gust 27 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_cc:20230203190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Flurries or snow squalls. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries and local snow squalls. Local blowing snow. Local amount 10 to 15 cm. Wind northwest 40 km/h gusting to 60. High minus 16. Wind chill near minus 31. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc1:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries or snow squalls. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries and a few local snow squalls ending near midnight then mainly cloudy. Local amount 2 cm. Wind northwest 20 km/h becoming light this evening. Low minus 24. Wind chill minus 26 this evening and minus 32 overnight. Risk of frostbite. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc2:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries late in the morning and early afternoon. Clearing late in the afternoon. Wind becoming south 20 km/h near noon. High minus 7. Wind chill minus 30 in the morning and minus 13 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc3:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc4:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 1. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc5:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 9. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 9. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc6:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc7:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 6. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc8:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of snow or rain. High plus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of snow or rain. High plus 3. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc9:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries or rain showers. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. Low minus 6. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc10:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc11:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc12:20230203160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-151_metric_e.html"/>
+ <updated>2023-02-03T16:00:00Z</updated>
+ <published>2023-02-03T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 3. Forecast issued 11:00 AM EST Friday 03 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-151_fc13:20230203160000</id>
+ </entry>
+ </feed>
+
