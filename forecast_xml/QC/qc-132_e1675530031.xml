@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Shawinigan - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-132_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-132_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-04T17:00:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230204170035</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Shawinigan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc46"/>
+ <updated>2023-02-04T16:34:00Z</updated>
+ <published>2023-02-04T16:34:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:34 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_w1:202302041634</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -27.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:00:00Z</updated>
+ <published>2023-02-04T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Shawinigan 11:00 AM EST Saturday 04 February 2023 <br/>
+<b>Temperature:</b> -27.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.2 kPa rising<br/>
+<b>Humidity:</b> 49 %<br/>
+<b>Wind Chill:</b> -38 <br/>
+<b>Dewpoint:</b> -34.8&deg;C <br/>
+<b>Wind:</b> SW 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_cc:20230204160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind southwest 20 km/h gusting to 40. High minus 19. Wind chill minus 34 this afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc1:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 21 with temperature rising to minus 17 by morning. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness early this evening. 40 percent chance of flurries. Wind up to 15 km/h. Low minus 21 with temperature rising to minus 17 by morning. Wind chill near minus 27. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc2:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 5 cm. Wind up to 15 km/h. High minus 8. Wind chill minus 24 in the morning and minus 13 in the afternoon. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc3:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 8. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc4:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc5:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc6:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High zero. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc7:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow or rain. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Low minus 4. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc8:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 5. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc9:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc10:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc11:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 3. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc12:20230204163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+ <updated>2023-02-04T16:30:00Z</updated>
+ <published>2023-02-04T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 3. Forecast issued 11:30 AM EST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-132_fc13:20230204163000</id>
+ </entry>
+ </feed>
+
