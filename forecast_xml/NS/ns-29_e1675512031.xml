@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Yarmouth - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-29_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-29_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-04T11:40:50Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230204114050</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Yarmouth</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns6"/>
+ <updated>2023-02-04T09:11:00Z</updated>
+ <published>2023-02-04T09:11:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 05:11 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_w1:202302040911</id>
+ </entry>
+ <entry>
+ <title>SNOW SQUALL WARNING , Yarmouth</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns6"/>
+ <updated>2023-02-04T08:59:00Z</updated>
+ <published>2023-02-04T08:59:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:59 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_w2:202302040859</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Snow and Blowing Snow, -19.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T11:39:00Z</updated>
+ <published>2023-02-04T11:39:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Yarmouth Airport 07:39 AM AST Saturday 04 February 2023 <br/>
+<b>Condition:</b> Snow and Blowing Snow <br/>
+<b>Temperature:</b> -19.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa rising<br/>
+<b>Visibility:</b> 0.6 km<br/>
+<b>Humidity:</b> 76 %<br/>
+<b>Wind Chill:</b> -34 <br/>
+<b>Dewpoint:</b> -22.1&deg;C <br/>
+<b>Wind:</b> NW 52 km/h gust 71 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_cc:20230204113900</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries or snow squalls. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries and snow squalls. Blowing snow over exposed areas. Amount 2 cm except 10 cm in snow squalls. Wind northwest 40 km/h gusting to 70. High minus 12. Wind chill minus 38 this morning and minus 23 this afternoon. Risk of frostbite. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc1:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Temperature rising to minus 7 by morning. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries this evening. Blowing snow over exposed areas this evening. Wind northwest 40 km/h gusting to 70 diminishing to 20 gusting to 40 near midnight. Temperature rising to minus 7 by morning. Wind chill minus 23 this evening and minus 14 overnight. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc2:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Flurries or rain showers. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries changing to a few rain showers in the afternoon. Snowfall amount 2 cm. Wind becoming southwest 30 km/h gusting to 50 in the morning. High plus 3. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc3:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low plus 2 except minus 4 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 2 except minus 4 inland. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc4:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High 7. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc5:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc6:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 1. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc7:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low zero. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc8:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc9:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 1. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc10:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc11:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc12:20230204090000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-02-04T09:00:00Z</updated>
+ <published>2023-02-04T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 5. Forecast issued 05:00 AM AST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc13:20230204090000</id>
+ </entry>
+ </feed>
+
