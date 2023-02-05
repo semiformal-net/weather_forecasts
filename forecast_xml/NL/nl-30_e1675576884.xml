@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Placentia - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-30_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-30_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-05T06:01:33Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230205060133</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WIND WARNING , Placentia</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl29"/>
+ <updated>2023-02-05T05:42:00Z</updated>
+ <published>2023-02-05T05:42:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 02:12 AM NST Sunday 05 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_w1:202302050542</id>
+ </entry>
+ <entry>
+ <title>SNOW SQUALL WARNING , Placentia</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl29"/>
+ <updated>2023-02-05T02:45:00Z</updated>
+ <published>2023-02-05T02:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:15 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_w2:202302050245</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T05:00:00Z</updated>
+ <published>2023-02-05T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Argentia 01:30 AM NST Sunday 05 February 2023 <br/>
+<b>Temperature:</b> -5.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.0 kPa rising<br/>
+<b>Humidity:</b> 62 %<br/>
+<b>Wind Chill:</b> -16 <br/>
+<b>Dewpoint:</b> -11.7&deg;C <br/>
+<b>Wind:</b> WSW 59 km/h gust 84 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_cc:20230205050000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries or snow squalls. Temperature rising to minus 5 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or snow squalls ending overnight then partly cloudy. Blowing snow. Amount 2 to 4 cm except locally 10 cm in snow squalls. Wind southwest 60 km/h gusting to 80 except gusting to 100 over exposed areas after midnight. Wind becoming northwest 50 gusting to 70 overnight. Temperature rising to minus 5 by morning. Wind chill minus 16 overnight. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc1:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of flurries in the afternoon. Wind west 40 km/h gusting to 60. High minus 3. Wind chill minus 15 in the morning and minus 10 in the afternoon. UV index 1 or low. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc2:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow or rain. Temperature rising to plus 2 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning after midnight then changing to rain before morning. Snowfall amount 2 to 4 cm. Rainfall amount 2 mm. Wind southwest 40 km/h gusting to 60 becoming south 50 gusting to 70 overnight. Temperature rising to plus 2 by morning. Wind chill minus 13 in the evening. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc3:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High plus 4. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc4:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain or snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow. Low minus 7. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc5:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc6:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc7:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc8:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc9:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc10:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc11:20230205031000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-30_metric_e.html"/>
+ <updated>2023-02-05T03:10:00Z</updated>
+ <published>2023-02-05T03:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 11:40 PM NST Saturday 04 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-30_fc12:20230205031000</id>
+ </entry>
+ </feed>
+
