@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Grand Forks - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-39_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-39_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-06T16:11:05Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230206161105</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL AIR QUALITY STATEMENT ENDED, Grand Forks</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc29"/>
+ <updated>2023-02-06T16:08:00Z</updated>
+ <published>2023-02-06T16:08:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 08:08 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_w1:202302061608</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of rain showers or wet flurries. High plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this morning with 30 percent chance of wet flurries later this morning then 30 percent chance of rain showers this afternoon. Snow level rising to 1200 metres this afternoon. Fog patches dissipating late this morning. High plus 4. UV index 1 or low. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc1:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of rain showers changing to 30 percent chance of flurries after midnight. Snow level 1200 metres lowering to valley bottom after midnight. Low zero. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc2:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Rain showers or flurries. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of flurries early in the morning. Rain showers beginning near noon. Snow level rising to 1200 metres in the afternoon. High plus 5. UV index 1 or low. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc3:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low minus 2. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc4:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc5:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc6:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc7:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc8:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc9:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of rain showers or flurries. Low minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low minus 1. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc10:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 5. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc11:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 3. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc12:20230206120000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-39_metric_e.html"/>
+ <updated>2023-02-06T12:00:00Z</updated>
+ <published>2023-02-06T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 05:00 AM PST Monday 06 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-39_fc13:20230206120000</id>
+ </entry>
+ </feed>
+
