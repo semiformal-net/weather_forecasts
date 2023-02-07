@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Inukjuak - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-131_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-131_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-07T14:03:45Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230207140345</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>BLIZZARD WARNING , Inukjuak</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc7"/>
+ <updated>2023-02-07T09:29:00Z</updated>
+ <published>2023-02-07T09:29:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:29 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_w1:202302070929</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Blowing Snow, -14.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T13:00:00Z</updated>
+ <published>2023-02-07T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Inukjuak Airport 08:00 AM EST Tuesday 07 February 2023 <br/>
+<b>Condition:</b> Blowing Snow <br/>
+<b>Temperature:</b> -14.5&deg;C <br/>
+<b>Pressure:</b> 98.9 kPa <br/>
+<b>Visibility:</b> 0.8 km<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Wind Chill:</b> -27 <br/>
+<b>Dewpoint:</b> -16.2&deg;C <br/>
+<b>Wind:</b> SE 39 km/h gust 48 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_cc:20230207130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Blizzard. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Blizzard ending near noon then snow and local blowing snow. Wind southeast 50 km/h gusting to 70 diminishing to 20 gusting to 40 near noon. High minus 5. Wind chill minus 34 this morning and minus 12 this afternoon. Risk of frostbite. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc1:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Blizzard. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and local blowing snow. Blizzard developing this evening. Wind north 20 km/h gusting to 40 becoming northwest 40 gusting to 70 this evening. Low minus 23. Wind chill minus 15 this evening and minus 39 overnight. Risk of frostbite. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc2:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. Temperature steady near minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Local blowing snow. Wind north 50 km/h gusting to 70 diminishing to 30 gusting to 50 in the morning. Temperature steady near minus 22. Wind chill near minus 39. Risk of frostbite. UV index 1 or low. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc3:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc4:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 21. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc5:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 23. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc6:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 20. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc7:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 22. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc8:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 20. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High minus 20. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc9:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 29. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc10:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc11:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc12:20230207093000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+ <updated>2023-02-07T09:30:00Z</updated>
+ <published>2023-02-07T09:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 04:30 AM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-131_fc13:20230207093000</id>
+ </entry>
+ </feed>
+
