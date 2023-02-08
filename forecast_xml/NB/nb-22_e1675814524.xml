@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Bas-Caraquet - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-22_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-22_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-07T23:10:11Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230207231011</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Bas-Caraquet</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb4"/>
+ <updated>2023-02-07T20:31:00Z</updated>
+ <published>2023-02-07T20:31:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:31 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_w1:202302072031</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -10.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T23:00:00Z</updated>
+ <published>2023-02-07T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Bas Caraquet 7:00 PM AST Tuesday 07 February 2023 <br/>
+<b>Temperature:</b> -10.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.5 kPa falling<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Dewpoint:</b> -12.5&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_cc:20230207230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Flurries. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries ending this evening then cloudy. Periods of light snow beginning before morning. Wind becoming southeast 20 km/h this evening. Low minus 10. Wind chill minus 18 this evening and minus 12 overnight. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc1:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of light snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending in the morning then clearing. Wind becoming northwest 20 km/h gusting to 40 late in the afternoon. High zero. Wind chill minus 12 in the morning. UV index 1 or low. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc2:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind northwest 30 km/h gusting to 50. Low minus 15. Wind chill minus 10 in the evening and minus 24 overnight. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc3:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc4:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 13. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc5:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 3. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc6:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 8. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc7:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 3. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc8:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 15. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc9:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc10:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 8. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc11:20230207200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+ <updated>2023-02-07T20:00:00Z</updated>
+ <published>2023-02-07T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 2. Forecast issued 4:00 PM AST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-22_fc12:20230207200000</id>
+ </entry>
+ </feed>
+
