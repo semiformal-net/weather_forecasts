@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Boisbriand - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-53_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-53_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-08T18:01:20Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230208180120</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Boisbriand</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc63"/>
+ <updated>2023-02-08T09:07:00Z</updated>
+ <published>2023-02-08T09:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:07 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_w1:202302080907</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 2.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T17:00:00Z</updated>
+ <published>2023-02-08T17:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Montréal-Mirabel Int'l Airport 12:00 PM EST Wednesday 08 February 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 2.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.9 kPa rising<br/>
+<b>Visibility:</b> 48.3 km<br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Dewpoint:</b> -2.1&deg;C <br/>
+<b>Wind:</b> WSW 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_cc:20230208170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. Temperature steady near plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of flurries late this afternoon. Wind west 20 km/h gusting to 40. Temperature steady near plus 2. Wind chill minus 9 this afternoon. UV index 1 or low. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc1:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Partly cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind west 20 km/h gusting to 40 becoming light early this evening. Low minus 8. Wind chill minus 5 this evening and minus 13 overnight. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc2:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Becoming cloudy in the afternoon then snow. Risk of freezing rain late in the afternoon. Snowfall amount 2 to 4 cm. Wind up to 15 km/h. High zero. Wind chill minus 13 in the morning and minus 6 in the afternoon. UV index 2 or low. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc3:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc4:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High plus 2. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc5:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 9. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc6:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 4. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc7:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc8:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc9:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc10:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc11:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 5. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc12:20230208163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-53_metric_e.html"/>
+ <updated>2023-02-08T16:30:00Z</updated>
+ <published>2023-02-08T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 11:30 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-53_fc13:20230208163000</id>
+ </entry>
+ </feed>
+
