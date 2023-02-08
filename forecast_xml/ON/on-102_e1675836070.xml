@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Bancroft - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-102_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-102_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-08T05:08:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230208050853</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Bancroft</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on34"/>
+ <updated>2023-02-08T04:34:00Z</updated>
+ <published>2023-02-08T04:34:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:34 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_w1:202302080434</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 1.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-08T05:00:00Z</updated>
+ <published>2023-02-08T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Bancroft 12:00 AM EST Wednesday 08 February 2023 <br/>
+<b>Temperature:</b> 1.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa rising<br/>
+<b>Humidity:</b> 76 %<br/>
+<b>Dewpoint:</b> -2.8&deg;C <br/>
+<b>Wind:</b> SW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_cc:20230208050000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or drizzle. Wind west 30 km/h gusting to 50 becoming light near midnight. Low minus 5. Wind chill minus 9 overnight. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc1:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries early in the morning. Clearing late in the morning. Wind becoming west 20 km/h gusting to 40 late in the morning. High plus 1. Wind chill minus 9 in the morning. UV index 2 or low. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc2:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 9. Wind chill minus 5 in the evening and minus 12 overnight. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc3:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow or rain. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 3. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc4:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 1. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc5:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High plus 1. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc6:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 9. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc7:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High minus 1. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc8:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 8. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc9:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc10:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 6. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc11:20230207214100</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-102_metric_e.html"/>
+ <updated>2023-02-07T21:41:00Z</updated>
+ <published>2023-02-07T21:41:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High plus 1. Forecast issued 4:41 PM EST Tuesday 07 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-102_fc12:20230207214100</id>
+ </entry>
+ </feed>
+
