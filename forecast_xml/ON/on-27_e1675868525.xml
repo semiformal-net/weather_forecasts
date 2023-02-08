@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Prince Edward (Picton) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-27_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-27_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-08T15:00:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230208150035</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Prince Edward (Picton)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on26"/>
+ <updated>2023-02-08T09:55:00Z</updated>
+ <published>2023-02-08T09:55:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:55 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_w1:202302080955</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 2.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T14:00:00Z</updated>
+ <published>2023-02-08T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> CFB Trenton 09:00 AM EST Wednesday 08 February 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 2.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.2 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Dewpoint:</b> -0.4&deg;C <br/>
+<b>Wind:</b> WSW 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_cc:20230208140000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries early this morning. Clearing this morning. Wind becoming west 20 km/h gusting to 40 this morning then light this afternoon. High plus 4. UV index 2 or low. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc1:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few clouds. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Fog patches developing overnight. Wind up to 15 km/h. Low minus 4. Wind chill minus 10 overnight. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc2:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the morning then rain. Risk of freezing rain late in the morning and early afternoon. Fog patches dissipating in the morning. Rainfall amount 10 to 20 mm. Wind south 30 km/h gusting to 50. High plus 5. Wind chill minus 10 in the morning. UV index 1 or low. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc3:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low zero. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc4:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries or rain showers. High plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries or rain showers. Windy. High plus 4. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc5:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc6:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc7:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc8:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc9:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc10:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc11:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of rain showers or flurries. Low minus 3. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc12:20230208100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-27_metric_e.html"/>
+ <updated>2023-02-08T10:00:00Z</updated>
+ <published>2023-02-08T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 05:00 AM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-27_fc13:20230208100000</id>
+ </entry>
+ </feed>
+
