@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Rock River - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/yt-9_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/yt-9_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-09T18:18:03Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230209181803</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>BLIZZARD WARNING , Rock River</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?yt2"/>
+ <updated>2023-02-09T11:41:00Z</updated>
+ <published>2023-02-09T11:41:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:41 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_w1:202302091141</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -13.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Rock River 11:00 AM MST Thursday 09 February 2023 <br/>
+<b>Temperature:</b> -13.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Humidity:</b> 85 %<br/>
+<b>Wind Chill:</b> -19 <br/>
+<b>Dewpoint:</b> -15.9&deg;C <br/>
+<b>Wind:</b> SE 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_cc:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Mainly cloudy. Temperature steady near minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind east 30 km/h. Temperature steady near minus 16. Wind chill minus 19 this morning and minus 28 this afternoon. Risk of frostbite. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc1:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Blizzard. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Blizzard developing this evening. Wind east 30 km/h gusting to 50 except 70 gusting to 90 near the Richardson mountains. Low minus 22. Wind chill minus 28 this evening and minus 33 overnight. Risk of frostbite. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc2:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Blizzard. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Blizzard changing to periods of snow in the morning and ending late in the afternoon then cloudy. Snowfall amount 2 to 4 cm. Wind east 30 km/h gusting to 50 except 70 gusting to 90 near the Richardson mountains early in the morning. Wind becoming light in the morning. High minus 22. Wind chill minus 35 in the morning and minus 28 in the afternoon. Risk of frostbite. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc3:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc4:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 24. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc5:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 28. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc6:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 27. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc7:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 29. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc8:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc9:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc10:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc11:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc12:20230209180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/yt-9_metric_e.html"/>
+ <updated>2023-02-09T18:00:00Z</updated>
+ <published>2023-02-09T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 11:00 AM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:yt-9_fc13:20230209180000</id>
+ </entry>
+ </feed>
+
