@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Brockville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-8_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-8_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-09T09:49:13Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230209094913</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Brockville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on10"/>
+ <updated>2023-02-09T06:11:00Z</updated>
+ <published>2023-02-09T06:11:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 01:11 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_w1:202302090611</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T09:00:00Z</updated>
+ <published>2023-02-09T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Brockville 04:00 AM EST Thursday 09 February 2023 <br/>
+<b>Temperature:</b> -5.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.3 kPa falling<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -5.5&deg;C <br/>
+<b>Wind:</b> S 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_cc:20230209090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Ice pellets. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Ice pellets or rain beginning near noon then changing to rain this afternoon. Risk of freezing rain this afternoon. Fog patches dissipating this morning. Rainfall amount 5 to 10 mm. Wind becoming southeast 20 km/h early this afternoon. High plus 4. Wind chill minus 6 this morning. UV index 1 or low. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc1:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Amount 5 mm. Wind southeast 20 km/h becoming southwest 30 after midnight. Low plus 3. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc2:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Showers. Temperature falling to plus 2 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few showers ending near noon then cloudy with 30 percent chance of showers. Wind southwest 30 km/h becoming light in the morning. Temperature falling to plus 2 in the afternoon. UV index 1 or low. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc3:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 8. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc4:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High minus 1. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc5:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 5. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc6:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 3. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc7:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc8:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 1. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc9:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 3. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc10:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc11:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc12:20230209100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-8_metric_e.html"/>
+ <updated>2023-02-09T10:00:00Z</updated>
+ <published>2023-02-09T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 3. Forecast issued 05:00 AM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-8_fc13:20230209100000</id>
+ </entry>
+ </feed>
+
