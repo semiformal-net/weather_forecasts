@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Temiskaming Shores - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-22_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-22_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-09T02:16:02Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230209021602</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Temiskaming Shores</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on23"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_w1:202302082208</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mist, -7.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-09T02:15:00Z</updated>
+ <published>2023-02-09T02:15:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Earlton Airport 9:15 PM EST Wednesday 08 February 2023 <br/>
+<b>Condition:</b> Mist <br/>
+<b>Temperature:</b> -7.9&deg;C <br/>
+<b>Pressure:</b> 102.3 kPa <br/>
+<b>Visibility:</b> 1.2 km<br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Wind Chill:</b> -11 <br/>
+<b>Dewpoint:</b> -8.6&deg;C <br/>
+<b>Wind:</b> NW 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_cc:20230209021500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few clouds. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming partly cloudy near midnight. Fog patches developing near midnight. Wind up to 15 km/h. Low minus 6. Wind chill minus 8 this evening. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc1:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow at times heavy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow at times heavy beginning in the afternoon. Fog patches dissipating in the morning. Amount 2 to 4 cm. Wind becoming east 20 km/h late in the morning. High plus 1. Wind chill minus 7 in the morning. UV index 1 or low. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc2:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow at times heavy mixed with ice pellets. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy mixed with ice pellets. Risk of freezing rain in the evening. Snow and ice pellet amount 10 to 15 cm. Wind east 20 km/h gusting to 40 becoming light in the evening. Wind becoming northwest 30 gusting to 50 near midnight. Low minus 5. Wind chill minus 11 overnight. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc3:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 8. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc4:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 18. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc5:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 2. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc6:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 7. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc7:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 1. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc8:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 8. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc9:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc10:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc11:20230208220800</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-22_metric_e.html"/>
+ <updated>2023-02-08T22:08:00Z</updated>
+ <published>2023-02-08T22:08:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 5:08 PM EST Wednesday 08 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-22_fc12:20230208220800</id>
+ </entry>
+ </feed>
+
