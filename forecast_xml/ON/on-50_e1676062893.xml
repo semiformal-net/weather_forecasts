@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Norfolk - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-50_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-50_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-10T20:19:00Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230210201900</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Norfolk</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-10T12:45:00Z</updated>
+ <published>2023-02-10T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_w1:20230210124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 1.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Delhi 3:00 PM EST Friday 10 February 2023 <br/>
+<b>Temperature:</b> 1.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.8 kPa rising<br/>
+<b>Humidity:</b> 63 %<br/>
+<b>Dewpoint:</b> -4.5&deg;C <br/>
+<b>Wind:</b> NW 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_cc:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries or rain showers. Low minus 7. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of flurries or rain showers early this evening. Wind west 30 km/h gusting to 50 becoming light after midnight. Low minus 7. Wind chill minus 10 overnight. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc1:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clearing. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the morning. Wind becoming southwest 20 km/h late in the morning. High zero. Wind chill minus 12 in the morning. UV index 3 or moderate. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc2:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 6. Wind chill minus 7 in the evening. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc3:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc4:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc5:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries or rain showers. High plus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries or rain showers. High plus 3. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc6:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries or rain showers. Low minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries or rain showers. Low minus 2. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc7:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc8:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. Low plus 1. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc9:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain. High 9. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc10:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Low 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain. Low 7. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc11:20230210203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-50_metric_e.html"/>
+ <updated>2023-02-10T20:30:00Z</updated>
+ <published>2023-02-10T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 8. Forecast issued 3:30 PM EST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-50_fc12:20230210203000</id>
+ </entry>
+ </feed>
+
