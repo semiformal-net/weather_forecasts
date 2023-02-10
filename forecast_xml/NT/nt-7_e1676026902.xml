@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ulukhaktok - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nt-7_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nt-7_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-10T11:01:50Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230210110150</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Ulukhaktok</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-20T05:07:00Z</updated>
+ <published>2023-01-20T05:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_w1:20230120050700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -37.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-10T10:00:00Z</updated>
+ <published>2023-02-10T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ulukhaktok Airport 03:00 AM MST Friday 10 February 2023 <br/>
+<b>Temperature:</b> -37.2&deg;C <br/>
+<b>Pressure:</b> 102.3 kPa <br/>
+<b>Humidity:</b> 66 %<br/>
+<b>Wind Chill:</b> -49 <br/>
+<b>Dewpoint:</b> -41.3&deg;C <br/>
+<b>Wind:</b> NE 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_cc:20230210100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 37. Wind chill minus 43 this evening and minus 48 overnight. Frostbite in minutes. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc1:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 34. Wind chill near minus 47. Frostbite in minutes. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc2:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 38. Wind chill near minus 49. Frostbite in minutes. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc3:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 29. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc4:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 36. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc5:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc6:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc7:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc8:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc9:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc10:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc11:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-7_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 31. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-7_fc12:20230209230000</id>
+ </entry>
+ </feed>
+
