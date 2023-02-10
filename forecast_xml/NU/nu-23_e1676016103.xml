@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Igloolik - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-23_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-23_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-10T08:01:12Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230210080112</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Igloolik</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nu26"/>
+ <updated>2023-02-09T20:29:00Z</updated>
+ <published>2023-02-09T20:29:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:29 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_w1:202302092029</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -40.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-10T07:00:00Z</updated>
+ <published>2023-02-10T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Igloolik Airport 02:00 AM EST Friday 10 February 2023 <br/>
+<b>Temperature:</b> -40.2&deg;C <br/>
+<b>Pressure:</b> 101.3 kPa <br/>
+<b>Humidity:</b> 65 %<br/>
+<b>Wind Chill:</b> -54 <br/>
+<b>Dewpoint:</b> -44.2&deg;C <br/>
+<b>Wind:</b> WNW 16 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_cc:20230210070000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few clouds. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind northwest 20 km/h becoming light late this evening. Low minus 40. Wind chill minus 56 this evening and minus 49 overnight. Hazardous frostbite conditions. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc1:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 37. Wind chill near minus 49. Frostbite in minutes. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc2:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few clouds. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 40. Wind chill near minus 51. Frostbite in minutes. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc3:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 34. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc4:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc5:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 35. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc6:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 39.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 39. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc7:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 36. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc8:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc9:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc10:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc11:20230209210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-23_metric_e.html"/>
+ <updated>2023-02-09T21:00:00Z</updated>
+ <published>2023-02-09T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 4:00 PM EST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-23_fc12:20230209210000</id>
+ </entry>
+ </feed>
+
