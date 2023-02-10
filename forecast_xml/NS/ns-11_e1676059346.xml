@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Shelburne - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-11_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-11_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-10T20:02:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230210200224</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Shelburne</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-04T22:15:00Z</updated>
+ <published>2023-02-04T22:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_w1:20230204221500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 8.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T19:00:00Z</updated>
+ <published>2023-02-10T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Shelburne Sandy Point 3:00 PM AST Friday 10 February 2023 <br/>
+<b>Temperature:</b> 8.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.4 kPa falling<br/>
+<b>Humidity:</b> 100 %<br/>
+<b>Dewpoint:</b> 8.2&deg;C <br/>
+<b>Wind:</b> WSW 17 km/h gust 35 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_cc:20230210190000</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few clouds. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Fog patches dissipating early this evening. Wind southwest 30 km/h gusting to 50 becoming west 40 gusting to 60 early this evening then northwest 20 gusting to 40 after midnight. Low minus 1. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc1:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Increasing cloudiness. Temperature steady near minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Increasing cloudiness late in the morning. Wind northwest 30 km/h gusting to 50. Temperature steady near minus 1. Wind chill near minus 9. UV index 2 or low. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc2:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clearing. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the evening. Wind northwest 20 km/h gusting to 40 becoming light in the evening. Wind becoming southwest 20 before morning. Low minus 6. Wind chill minus 12 in the evening. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc3:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc4:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 3. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc5:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc6:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. Low minus 3. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc7:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High zero. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc8:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 3. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc9:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 5. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc10:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 3. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc11:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-11_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 8. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-11_fc12:20230210200000</id>
+ </entry>
+ </feed>
+
