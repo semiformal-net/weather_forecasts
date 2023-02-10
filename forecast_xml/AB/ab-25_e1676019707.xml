@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Peace River - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-25_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-25_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-10T09:00:04Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230210090004</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FREEZING RAIN WARNING , Peace River</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab32"/>
+ <updated>2023-02-10T03:08:00Z</updated>
+ <published>2023-02-10T03:08:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 8:08 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_w1:202302100308</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Freezing Rain, -1.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-10T08:42:00Z</updated>
+ <published>2023-02-10T08:42:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Peace River Airport 01:42 AM MST Friday 10 February 2023 <br/>
+<b>Condition:</b> Light Freezing Rain <br/>
+<b>Temperature:</b> -1.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.9 kPa falling<br/>
+<b>Visibility:</b> 19.3 km<br/>
+<b>Humidity:</b> 93 %<br/>
+<b>Wind Chill:</b> -3 <br/>
+<b>Dewpoint:</b> -2.3&deg;C <br/>
+<b>Wind:</b> NNE 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_cc:20230210084200</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Freezing rain mixed with snow. Low minus 7 with temperature rising to minus 4 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 30 percent chance of flurries early this evening. Freezing rain or snow beginning late this evening. Wind up to 15 km/h. Low minus 7 with temperature rising to minus 4 by morning. Wind chill minus 12 this evening. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc1:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Showers. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or snow changing to rain showers late in the morning. Wind becoming west 20 km/h gusting to 40 late in the morning. High plus 2. Wind chill minus 8 in the morning. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc2:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Showers. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers ending in the evening then clearing. Wind west 20 km/h gusting to 40 becoming light in the evening. Wind becoming west 20 gusting to 40 near midnight. Low minus 7. Wind chill minus 12 overnight. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc3:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc4:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc5:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc6:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Windy. Low minus 2. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc7:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 2. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc8:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 16. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 16. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc9:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 12. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc10:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 19. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc11:20230209230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-25_metric_e.html"/>
+ <updated>2023-02-09T23:00:00Z</updated>
+ <published>2023-02-09T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 9. Forecast issued 4:00 PM MST Thursday 09 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-25_fc12:20230209230000</id>
+ </entry>
+ </feed>
+
