@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Fredericton - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-29_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-29_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-10T22:00:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230210220008</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FREEZING DRIZZLE ADVISORY , Fredericton</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb12"/>
+ <updated>2023-02-10T20:01:00Z</updated>
+ <published>2023-02-10T20:01:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:01 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_w1:202302102001</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -3.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T21:59:00Z</updated>
+ <published>2023-02-10T21:59:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Fredericton Int'l Airport 5:59 PM AST Friday 10 February 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -3.3&deg;C <br/>
+<b>Pressure:</b> 100.2 kPa <br/>
+<b>Visibility:</b> 2.8 km<br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Dewpoint:</b> -4.1&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_cc:20230210215900</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of freezing drizzle changing to a few flurries and ending late this evening then cloudy with 30 percent chance of flurries. Risk of freezing rain early this evening. Wind becoming northwest 20 km/h near midnight. Low minus 7. Wind chill minus 4 this evening and minus 14 overnight. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc1:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of flurries in the morning. Clearing late in the afternoon. Wind northwest 20 km/h gusting to 40. High minus 4. Wind chill near minus 13. UV index 1 or low. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc2:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Increasing cloudiness. Low minus 12 with temperature rising to minus 6 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Increasing cloudiness near midnight. Wind up to 15 km/h. Low minus 12 with temperature rising to minus 6 by morning. Wind chill minus 16 in the evening. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc3:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc4:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 12. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc5:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc6:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 7. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc7:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc8:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc9:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc10:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of rain showers or flurries. Low minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of rain showers or flurries. Low minus 1. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc11:20230210200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+ <updated>2023-02-10T20:00:00Z</updated>
+ <published>2023-02-10T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 7. Forecast issued 4:00 PM AST Friday 10 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-29_fc12:20230210200000</id>
+ </entry>
+ </feed>
+
