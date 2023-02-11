@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Greenwood - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-35_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-35_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-11T14:01:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230211140108</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Greenwood</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-04T22:15:00Z</updated>
+ <published>2023-02-04T22:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_w1:20230204221500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snowshower, -3.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T13:37:00Z</updated>
+ <published>2023-02-11T13:37:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> CFB Greenwood 09:37 AM AST Saturday 11 February 2023 <br/>
+<b>Condition:</b> Light Snowshower <br/>
+<b>Temperature:</b> -3.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa rising<br/>
+<b>Visibility:</b> 8.1 km<br/>
+<b>Humidity:</b> 84 %<br/>
+<b>Wind Chill:</b> -11 <br/>
+<b>Dewpoint:</b> -6.2&deg;C <br/>
+<b>Wind:</b> NW 28 km/h gust 39 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_cc:20230211133700</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. Temperature falling to minus 3 this morning then steady. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries. Wind northwest 20 km/h gusting to 40. Temperature falling to minus 3 this morning then steady. Wind chill minus 10 this afternoon. UV index 1 or low. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc1:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Partly cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind northwest 20 km/h gusting to 40 becoming light this evening. Low minus 7. Wind chill minus 8 this evening and minus 13 overnight. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc2:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries in the morning. Clearing in the afternoon. Wind becoming southwest 20 km/h gusting to 40 in the morning then becoming northwest 20 gusting to 40 in the afternoon. High plus 3. Wind chill minus 11 in the morning. UV index 2 or low. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc3:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc4:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High zero. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc5:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 5. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc6:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 1. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc7:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 8. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc8:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 6. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc9:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. Low plus 4. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc10:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 12. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High 12. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc11:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low 7. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc12:20230211090000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-35_metric_e.html"/>
+ <updated>2023-02-11T09:00:00Z</updated>
+ <published>2023-02-11T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 11. Forecast issued 05:00 AM AST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-35_fc13:20230211090000</id>
+ </entry>
+ </feed>
+
