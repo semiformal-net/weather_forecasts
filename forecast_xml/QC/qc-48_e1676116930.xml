@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Beauceville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-48_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-48_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-11T12:03:02Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230211120302</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Beauceville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-09T08:30:00Z</updated>
+ <published>2023-02-09T08:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_w1:20230209083000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -9.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Beauceville 06:00 AM EST Saturday 11 February 2023 <br/>
+<b>Temperature:</b> -9.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa rising<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Wind Chill:</b> -13 <br/>
+<b>Dewpoint:</b> -12.8&deg;C <br/>
+<b>Wind:</b> WNW 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_cc:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Clearing. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this morning. Wind northwest 20 km/h gusting to 40 becoming light this afternoon. High minus 5. Wind chill minus 20 this morning and minus 9 this afternoon. UV index 2 or low. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc1:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 9. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 40 percent chance of flurries overnight. Wind becoming southwest 20 km/h late this evening. Low minus 9. Wind chill minus 17 this evening and minus 11 overnight. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc2:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Wind southwest 20 km/h becoming light near noon. High zero. Wind chill minus 11 in the morning. UV index 1 or low. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc3:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc4:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc5:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 6. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc6:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc7:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc8:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 6. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc9:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc10:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 8. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc11:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 1. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc12:20230211100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of rain or snow. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-48_metric_e.html"/>
+ <updated>2023-02-11T10:00:00Z</updated>
+ <published>2023-02-11T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or snow. High plus 3. Forecast issued 05:00 AM EST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-48_fc13:20230211100000</id>
+ </entry>
+ </feed>
+

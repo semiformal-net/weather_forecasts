@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Dauphin - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-58_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-58_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-11T11:10:34Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230211111034</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Dauphin</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-03T11:45:00Z</updated>
+ <published>2023-02-03T11:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_w1:20230203114500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, 2.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Dauphin Airport 05:00 AM CST Saturday 11 February 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> 2.1&deg;C <br/>
+<b>Pressure:</b> 100.7 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Dewpoint:</b> -1.2&deg;C <br/>
+<b>Wind:</b> W 30 km/h gust 39 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_cc:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High plus 4 with temperature falling to minus 3 this afternoon. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 30 percent chance of flurries this afternoon. Wind west 30 km/h gusting to 50 becoming light near noon. High plus 4 with temperature falling to minus 3 this afternoon. Wind chill minus 7 this afternoon. UV index 1 or low. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc1:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Partly cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing near midnight. Wind becoming west 20 km/h this evening. Low minus 6. Wind chill minus 7 this evening and minus 13 overnight. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc2:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind southwest 20 km/h becoming light near noon. High plus 1. Wind chill minus 13 in the morning. UV index 1 or low. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc3:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 8. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc4:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc5:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc6:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 1. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc7:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 20. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc8:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 13. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc9:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 23. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc10:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 15. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc11:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 16. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc12:20230211110000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-58_metric_e.html"/>
+ <updated>2023-02-11T11:00:00Z</updated>
+ <published>2023-02-11T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 05:00 AM CST Saturday 11 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-58_fc13:20230211110000</id>
+ </entry>
+ </feed>
+
