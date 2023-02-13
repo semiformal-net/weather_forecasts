@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Fort Chipewyan - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-28_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-28_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-13T07:00:21Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230213070021</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Fort Chipewyan</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab16"/>
+ <updated>2023-02-13T05:23:00Z</updated>
+ <published>2023-02-13T05:23:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:23 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_w1:202302130523</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -9.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-13T06:49:00Z</updated>
+ <published>2023-02-13T06:49:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Fort Chipewyan Airport 11:49 PM MST Sunday 12 February 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -9.7&deg;C <br/>
+<b>Pressure:</b> 98.9 kPa <br/>
+<b>Visibility:</b> 2.0 km<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -11.5&deg;C <br/>
+<b>Wind:</b> ENE 24 km/h gust 33 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_cc:20230213064900</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow at times heavy. Temperature rising to minus 4 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this evening then snow at times heavy. Risk of freezing rain overnight. Snowfall amount 5 to 10 cm. Wind up to 15 km/h. Temperature rising to minus 4 by morning. Wind chill minus 20 this evening and minus 8 overnight. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc1:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow at times heavy. Temperature falling to minus 11 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy changing to periods of light snow near noon. Risk of freezing rain early in the morning. Snowfall amount 5 to 10 cm. Wind becoming northwest 30 km/h gusting to 50 in the morning. Temperature falling to minus 11 in the afternoon. Wind chill minus 9 in the morning and minus 21 in the afternoon. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc2:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 24. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending early in the evening then mainly cloudy with 30 percent chance of flurries. Wind northwest 20 km/h. Low minus 24. Wind chill minus 20 in the evening and minus 32 overnight. Risk of frostbite. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc3:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 20. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 20. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc4:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 27. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc5:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 23. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc6:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 25. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc7:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 13. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc8:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 27. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc9:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 21. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 21. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc10:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc11:20230212230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-28_metric_e.html"/>
+ <updated>2023-02-12T23:00:00Z</updated>
+ <published>2023-02-12T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 4:00 PM MST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-28_fc12:20230212230000</id>
+ </entry>
+ </feed>
+
