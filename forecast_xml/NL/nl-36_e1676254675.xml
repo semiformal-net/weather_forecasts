@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>St. Lawrence - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-36_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-36_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-13T02:08:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230213020828</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WINTER STORM WATCH , St. Lawrence</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl5"/>
+ <updated>2023-02-12T19:32:00Z</updated>
+ <published>2023-02-12T19:32:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:02 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_w1:202302121932</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -1.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-13T02:00:00Z</updated>
+ <published>2023-02-13T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> St. Lawrence 10:30 PM NST Sunday 12 February 2023 <br/>
+<b>Temperature:</b> -1.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.0 kPa rising<br/>
+<b>Humidity:</b> 78 %<br/>
+<b>Wind Chill:</b> -8 <br/>
+<b>Dewpoint:</b> -5.1&deg;C <br/>
+<b>Wind:</b> W 25 km/h gust 37 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_cc:20230213020000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: A few flurries. Temperature steady near minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending this evening then mainly cloudy. Wind southwest 30 km/h gusting to 50. Temperature steady near minus 2. Wind chill minus 12 this evening and minus 7 overnight. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc1:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 40 percent chance of flurries in the morning. Wind becoming northwest 20 km/h in the morning. High zero. Wind chill minus 7 in the morning. UV index 2 or low. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc2:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow at times heavy and blowing snow. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow at times heavy beginning near midnight. Blowing snow overnight. Amount 10 cm. Wind becoming east 40 km/h gusting to 60 in the evening then northeast 60 gusting to 80 overnight. Low minus 3. Wind chill minus 4 in the evening and minus 13 overnight. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc3:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow and blowing snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Blowing snow. Windy. High minus 2. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc4:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Snow and blowing snow. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Blowing snow. Windy. Low minus 6. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc5:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc6:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc7:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow or rain. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 3. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc8:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 1. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc9:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Friday: Showers. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High plus 4. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc10:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc11:20230212193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain or snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-36_metric_e.html"/>
+ <updated>2023-02-12T19:30:00Z</updated>
+ <published>2023-02-12T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or periods of snow. Windy. High plus 1. Forecast issued 4:00 PM NST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-36_fc12:20230212193000</id>
+ </entry>
+ </feed>
+
