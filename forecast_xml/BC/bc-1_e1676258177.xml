@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Gibsons - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-1_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-1_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-13T03:09:30Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230213030930</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Gibsons</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc38"/>
+ <updated>2023-02-13T00:17:00Z</updated>
+ <published>2023-02-13T00:17:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:17 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_w1:202302130017</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 5.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T03:00:00Z</updated>
+ <published>2023-02-13T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sechelt 7:00 PM PST Sunday 12 February 2023 <br/>
+<b>Temperature:</b> 5.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa falling<br/>
+<b>Humidity:</b> 92 %<br/>
+<b>Dewpoint:</b> 3.9&deg;C <br/>
+<b>Wind:</b> ESE 19 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_cc:20230213030000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending after midnight then cloudy with 40 percent chance of showers. Wind southeast 40 km/h gusting to 60 becoming southwest 20 gusting to 40 late this evening. Low plus 3. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc1:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 40 percent chance of showers in the morning and early in the afternoon. Wind becoming northwest 30 km/h gusting to 50 except 60 gusting to 80 near the Strait of Georgia in the afternoon. High plus 5. UV index 1 or low. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc2:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming clear late in the evening. Wind northwest 30 km/h gusting to 50 except 60 gusting to 80 near the Strait of Georgia early in the evening. Low minus 1. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc3:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 3. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc4:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc5:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc6:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 2. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc7:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High plus 5. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc8:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of rain showers or flurries. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low zero. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc9:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 6. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc10:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 1. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc11:20230213000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-1_metric_e.html"/>
+ <updated>2023-02-13T00:00:00Z</updated>
+ <published>2023-02-13T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 7. Forecast issued 4:00 PM PST Sunday 12 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-1_fc12:20230213000000</id>
+ </entry>
+ </feed>
+
