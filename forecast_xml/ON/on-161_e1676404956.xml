@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Simcoe - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-161_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-161_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-14T20:03:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230214200335</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Simcoe</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on39"/>
+ <updated>2023-02-14T15:48:00Z</updated>
+ <published>2023-02-14T15:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:48 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_w1:202302141548</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 8.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T19:00:00Z</updated>
+ <published>2023-02-14T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Delhi 2:00 PM EST Tuesday 14 February 2023 <br/>
+<b>Temperature:</b> 8.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.6 kPa falling<br/>
+<b>Humidity:</b> 47 %<br/>
+<b>Dewpoint:</b> -2.4&deg;C <br/>
+<b>Wind:</b> SSW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_cc:20230214190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind south 20 km/h becoming light this afternoon. High 8. UV index 3 or moderate. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc1:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low plus 5 with temperature rising to 9 by morning. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this evening. 40 percent chance of showers before morning. Wind becoming south 20 km/h gusting to 40 after midnight. Low plus 5 with temperature rising to 9 by morning. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc2:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 13. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 70 percent chance of showers in the morning and early in the afternoon. Clearing late in the afternoon. Wind south 20 km/h gusting to 40 becoming southwest 40 gusting to 60 near noon. High 13. UV index 2 or low. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc3:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low zero. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc4:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain. High plus 5. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc5:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain or snow. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or snow. Low minus 8. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc6:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 4. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc7:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 10. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 10. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc8:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Windy. High plus 2. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc9:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc10:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc11:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low zero. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc12:20230214160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-02-14T16:00:00Z</updated>
+ <published>2023-02-14T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 11:00 AM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc13:20230214160000</id>
+ </entry>
+ </feed>
+
