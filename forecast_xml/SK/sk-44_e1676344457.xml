@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Uranium City - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-44_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-44_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-14T03:06:10Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230214030610</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Uranium City</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-13T17:30:00Z</updated>
+ <published>2023-02-13T17:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_w1:20230213173000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -24.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-14T03:00:00Z</updated>
+ <published>2023-02-14T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Uranium City 9:00 PM CST Monday 13 February 2023 <br/>
+<b>Temperature:</b> -24.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.8 kPa rising<br/>
+<b>Humidity:</b> 74 %<br/>
+<b>Wind Chill:</b> -29 <br/>
+<b>Dewpoint:</b> -28.1&deg;C <br/>
+<b>Wind:</b> N 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_cc:20230214030000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clearing. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing early this evening. Wind north 20 km/h gusting to 40 becoming light early this evening. Low minus 32. Wind chill minus 25 this evening and minus 38 overnight. Risk of frostbite. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc1:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 23. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny in the morning then a mix of sun and cloud with 30 percent chance of flurries late in the afternoon. Wind up to 15 km/h. High minus 23. Wind chill minus 38 in the morning and minus 31 in the afternoon. Risk of frostbite. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc2:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 33. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries early in the evening. Wind up to 15 km/h. Low minus 33. Wind chill minus 32 in the evening and minus 40 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc3:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc4:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 32. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc5:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 16. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc6:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of snow. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 29. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc7:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc8:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc9:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc10:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc11:20230213220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-44_metric_e.html"/>
+ <updated>2023-02-13T22:00:00Z</updated>
+ <published>2023-02-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 4:00 PM CST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-44_fc12:20230213220000</id>
+ </entry>
+ </feed>
+
