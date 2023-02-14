@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Port Hardy - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-89_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-89_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-14T11:02:12Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230214110212</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Port Hardy</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-29T12:45:00Z</updated>
+ <published>2023-01-29T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_w1:20230129124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Clear, -0.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T10:00:00Z</updated>
+ <published>2023-02-14T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Port Hardy Airport 02:00 AM PST Tuesday 14 February 2023 <br/>
+<b>Condition:</b> Clear <br/>
+<b>Temperature:</b> -0.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.7 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 90 %<br/>
+<b>Wind Chill:</b> -4 <br/>
+<b>Dewpoint:</b> -2.2&deg;C <br/>
+<b>Wind:</b> W 10 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_cc:20230214100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind northwest 20 km/h gusting to 40. Low minus 4. Wind chill minus 10 overnight. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc1:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind north 20 km/h gusting to 40 becoming light in the morning. High plus 4. Wind chill minus 8 in the morning. UV index 1 or low. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc2:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Wet snow. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy after midnight then wet snow. Wind becoming southeast 20 km/h before morning. Low minus 2. Wind chill minus 4 in the evening. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc3:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow or rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Windy. High plus 4. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc4:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. Low plus 2. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc5:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. High plus 4. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc6:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low zero. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc7:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High 6. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc8:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 2. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc9:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc10:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 4. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc11:20230214084900</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-02-14T08:49:00Z</updated>
+ <published>2023-02-14T08:49:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 12:49 AM PST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc12:20230214084900</id>
+ </entry>
+ </feed>
+
