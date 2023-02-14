@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Medicine Hat - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-51_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-51_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-14T06:46:12Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230214064612</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Medicine Hat</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-13T19:10:00Z</updated>
+ <published>2023-02-13T19:10:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_w1:20230213191000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -0.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-14T06:00:00Z</updated>
+ <published>2023-02-14T06:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Medicine Hat Airport 11:00 PM MST Monday 13 February 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -0.6&deg;C <br/>
+<b>Pressure:</b> 100.0 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 94 %<br/>
+<b>Wind Chill:</b> -6 <br/>
+<b>Dewpoint:</b> -1.5&deg;C <br/>
+<b>Wind:</b> W 18 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_cc:20230214060000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of rain showers or flurries early this evening then 60 percent chance of flurries this evening. Wind west 20 km/h gusting to 40 becoming light this evening. Wind becoming north 20 gusting to 40 after midnight. Low minus 9. Wind chill minus 17 overnight. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc1:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Clearing. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing late in the morning. Wind north 20 km/h gusting to 40 becoming light in the afternoon. High minus 5. Wind chill minus 17 in the morning and minus 9 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc2:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 12. Wind chill minus 11 in the evening and minus 18 overnight. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc3:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc4:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc5:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc6:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc7:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc8:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 11. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc9:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc10:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc11:20230213230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-02-13T23:00:00Z</updated>
+ <published>2023-02-13T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 5. Forecast issued 4:00 PM MST Monday 13 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc12:20230213230000</id>
+ </entry>
+ </feed>
+
