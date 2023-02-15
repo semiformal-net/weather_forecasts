@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cambridge - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-81_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-81_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-15T03:08:19Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230215030819</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Cambridge</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on38"/>
+ <updated>2023-02-14T23:44:00Z</updated>
+ <published>2023-02-14T23:44:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 6:44 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_w1:202302142344</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, 3.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-15T03:00:00Z</updated>
+ <published>2023-02-15T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Region of Waterloo Int'l Airport 10:00 PM EST Tuesday 14 February 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> 3.5&deg;C <br/>
+<b>Pressure:</b> 101.3 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 54 %<br/>
+<b>Dewpoint:</b> -4.9&deg;C <br/>
+<b>Wind:</b> ESE 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_cc:20230215030000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 40 percent chance of showers before morning. Wind south 20 km/h becoming light early this evening. Low plus 4. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc1:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A few showers. High 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few showers ending in the afternoon then a mix of sun and cloud. Wind south 20 km/h gusting to 40 becoming southwest 40 gusting to 70 in the morning. High 14. UV index 1 or low. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc2:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Mainly cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind west 30 km/h gusting to 50. Low minus 4. Wind chill minus 7 overnight. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc3:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 3. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc4:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of freezing rain or snow. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of freezing rain or flurries. Low minus 9. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc5:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High minus 5. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc6:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 11. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc7:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 1. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc8:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 3. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc9:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries or rain showers. High plus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries or rain showers. High plus 3. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc10:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries or rain showers. Low minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. Low minus 1. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc11:20230214203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries or rain showers. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-81_metric_e.html"/>
+ <updated>2023-02-14T20:30:00Z</updated>
+ <published>2023-02-14T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High plus 2. Forecast issued 3:30 PM EST Tuesday 14 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-81_fc12:20230214203000</id>
+ </entry>
+ </feed>
+
