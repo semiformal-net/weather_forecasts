@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cardston - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-64_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-64_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-15T19:09:39Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230215190939</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Cardston</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-14T16:30:00Z</updated>
+ <published>2023-02-14T16:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_w1:20230214163000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T19:00:00Z</updated>
+ <published>2023-02-15T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cardston 12:00 PM MST Wednesday 15 February 2023 <br/>
+<b>Temperature:</b> 0.7&deg;C <br/>
+<b>Humidity:</b> 38 %<br/>
+<b>Dewpoint:</b> -12.1&deg;C <br/>
+<b>Wind:</b> WSW 19 km/h gust 33 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_cc:20230215190000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind west 40 km/h gusting to 60. High zero. Wind chill minus 11 this afternoon. UV index 1 or low. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc1:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Partly cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind west 40 km/h gusting to 60. Low minus 4. Wind chill near minus 13. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc2:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Mainly cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind west 40 km/h gusting to 60 increasing to 60 gusting to 80 late in the morning. High plus 3. Wind chill minus 12 in the morning. UV index 1 or low. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc3:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc4:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc5:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc6:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc7:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc8:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 5. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc9:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain showers or flurries. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low minus 7. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc10:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 3. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc11:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 12. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc12:20230215180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-64_metric_e.html"/>
+ <updated>2023-02-15T18:00:00Z</updated>
+ <published>2023-02-15T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 10. Forecast issued 11:00 AM MST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-64_fc13:20230215180000</id>
+ </entry>
+ </feed>
+
