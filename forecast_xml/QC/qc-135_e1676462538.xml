@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sutton - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-135_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-135_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-15T12:02:39Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230215120239</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Sutton</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc43"/>
+ <updated>2023-02-15T09:46:00Z</updated>
+ <published>2023-02-15T09:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:46 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_w1:202302150946</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 1.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T11:00:00Z</updated>
+ <published>2023-02-15T11:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Frelighsburg 06:00 AM EST Wednesday 15 February 2023 <br/>
+<b>Temperature:</b> 1.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa falling<br/>
+<b>Humidity:</b> 54 %<br/>
+<b>Dewpoint:</b> -6.6&deg;C <br/>
+<b>Wind:</b> SSE 14 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_cc:20230215110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this morning. Periods of rain beginning this afternoon. Wind becoming southwest 20 km/h this afternoon. High 9. Wind chill minus 9 this morning. UV index 1 or low. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc1:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending late this evening then mainly cloudy. Wind southwest 20 km/h gusting to 40. Low plus 3. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc2:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High plus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of showers in the morning. Wind southwest 20 km/h gusting to 40 becoming light in the afternoon. High plus 5. UV index 2 or low. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc3:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries or rain showers. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or rain showers. Low minus 1. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc4:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of freezing rain or snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of freezing rain or snow. High minus 1. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc5:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. Low minus 16. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc6:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 2. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc7:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc8:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc9:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 3. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc10:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow or rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 5. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc11:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low minus 8. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of rain showers or flurries. Low minus 8. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc12:20230215100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-135_metric_e.html"/>
+ <updated>2023-02-15T10:00:00Z</updated>
+ <published>2023-02-15T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 4. Forecast issued 05:00 AM EST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-135_fc13:20230215100000</id>
+ </entry>
+ </feed>
+
