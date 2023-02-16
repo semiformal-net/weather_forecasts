@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Dalhousie - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-26_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-26_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-16T05:08:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230216050824</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Dalhousie</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-11T00:45:00Z</updated>
+ <published>2023-02-11T00:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_w1:20230211004500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -2.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-16T05:00:00Z</updated>
+ <published>2023-02-16T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Charlo 01:00 AM AST Thursday 16 February 2023 <br/>
+<b>Temperature:</b> -2.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.2 kPa falling<br/>
+<b>Humidity:</b> 98 %<br/>
+<b>Dewpoint:</b> -2.9&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_cc:20230216050000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of rain showers or flurries. Temperature rising to zero this evening then steady. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of rain showers or flurries or freezing rain late this evening and after midnight. Rain showers or periods of freezing rain beginning after midnight. Temperature rising to zero this evening then steady. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc1:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or periods of freezing rain ending in the morning then a mix of sun and cloud with 30 percent chance of rain showers. Wind becoming west 20 km/h gusting to 40 in the morning. High 8. UV index 2 or low. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc2:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy overnight then snow. Amount 2 to 4 cm. Wind west 20 km/h gusting to 40 becoming light in the evening. Low minus 7. Wind chill minus 13 overnight. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc3:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 1. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc4:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 14. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc5:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc6:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc7:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc8:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc9:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 1. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc10:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 4. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc11:20230215200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-26_metric_e.html"/>
+ <updated>2023-02-15T20:00:00Z</updated>
+ <published>2023-02-15T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 3. Forecast issued 4:00 PM AST Wednesday 15 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-26_fc12:20230215200000</id>
+ </entry>
+ </feed>
+
