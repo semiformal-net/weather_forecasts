@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kentville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-17_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-17_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-16T15:02:42Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230216150242</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Kentville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns9"/>
+ <updated>2023-02-16T14:56:00Z</updated>
+ <published>2023-02-16T14:56:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:56 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_w1:202302161456</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 9.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T14:00:00Z</updated>
+ <published>2023-02-16T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kentville AAFC 10:00 AM AST Thursday 16 February 2023 <br/>
+<b>Temperature:</b> 9.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.7 kPa rising<br/>
+<b>Humidity:</b> 63 %<br/>
+<b>Dewpoint:</b> 3.3&deg;C <br/>
+<b>Wind:</b> W 27 km/h gust 43 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_cc:20230216140000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind west 20 km/h gusting to 40. High 12. UV index 3 or moderate. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc1:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Periods of rain beginning before morning. Fog patches developing before morning. Wind west 20 km/h gusting to 40 becoming light this evening. Low plus 1. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc2:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain or freezing rain. High plus 5 with temperature falling to zero in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain changing to freezing rain or ice pellets late in the afternoon. Fog patches dissipating late in the afternoon. Rainfall amount 10 mm. Wind becoming northeast 20 km/h gusting to 40 late in the afternoon. High plus 5 with temperature falling to zero in the afternoon. UV index 1 or low. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc3:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Freezing rain or snow. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or snow. Low minus 9. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc4:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc5:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 9. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc6:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc7:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 1. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc8:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Monday: Showers. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 9. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc9:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc10:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 4. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc11:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 4. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc12:20230216150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-17_metric_e.html"/>
+ <updated>2023-02-16T15:00:00Z</updated>
+ <published>2023-02-16T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High zero. Forecast issued 11:00 AM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-17_fc13:20230216150000</id>
+ </entry>
+ </feed>
+
