@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>St. Stephen - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-35_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-35_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-16T23:08:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230216230835</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FREEZING RAIN WARNING , St. Stephen</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nb19"/>
+ <updated>2023-02-16T19:48:00Z</updated>
+ <published>2023-02-16T19:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:48 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_w1:202302161948</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 4.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T23:00:00Z</updated>
+ <published>2023-02-16T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> St. Stephen 7:00 PM AST Thursday 16 February 2023 <br/>
+<b>Temperature:</b> 4.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa rising<br/>
+<b>Humidity:</b> 67 %<br/>
+<b>Dewpoint:</b> -1.1&deg;C <br/>
+<b>Wind:</b> WNW 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_cc:20230216230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Freezing rain mixed with snow. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Freezing rain or snow at times mixed with rain beginning overnight. Wind west 20 km/h gusting to 40 becoming light this evening. Low zero. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc1:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Ice pellets mixed with freezing rain. Temperature falling to minus 4 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or snow changing to ice pellets mixed with freezing rain in the morning then to snow mixed with ice pellets late in the afternoon. Ice pellet amount 5 to 10 cm. Wind becoming northeast 20 km/h gusting to 40 in the morning. Temperature falling to minus 4 in the afternoon. Wind chill minus 11 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc2:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow mixed with ice pellets. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending near midnight then cloudy with 60 percent chance of flurries. Snow mixed with ice pellets early in the evening. Snow and ice pellet amount 5 cm. Wind northeast 20 km/h gusting to 40 becoming north 20 then light after midnight. Low minus 14. Wind chill minus 11 in the evening and minus 17 overnight. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc3:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc4:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc5:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc6:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 1. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc7:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 8. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc8:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low minus 3. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc9:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High plus 2. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc10:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 10. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc11:20230216200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Flurries. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-35_metric_e.html"/>
+ <updated>2023-02-16T20:00:00Z</updated>
+ <published>2023-02-16T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 3. Forecast issued 4:00 PM AST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-35_fc12:20230216200000</id>
+ </entry>
+ </feed>
+
