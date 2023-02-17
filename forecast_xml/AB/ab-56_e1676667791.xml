@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Whitecourt - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-56_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-56_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-17T20:10:16Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230217201016</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Whitecourt</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-08T12:45:00Z</updated>
+ <published>2023-02-08T12:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_w1:20230208124500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 0.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T20:00:00Z</updated>
+ <published>2023-02-17T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Whitecourt Airport 1:00 PM MST Friday 17 February 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 0.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 41 %<br/>
+<b>Dewpoint:</b> -11.1&deg;C <br/>
+<b>Wind:</b> NW 17 km/h gust 27 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_cc:20230217200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness near noon. 30 percent chance of flurries this afternoon. Wind becoming west 20 km/h gusting to 40 early this afternoon. High plus 1. Wind chill minus 9 this morning. UV index 1 or low. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc1:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. A few flurries beginning before morning. Wind west 20 km/h gusting to 40 becoming light this evening. Low minus 5. Wind chill near minus 9. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc2:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A few flurries. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Wind becoming northwest 20 km/h gusting to 40 late in the morning. High zero. Wind chill minus 9 in the morning. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc3:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 6. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc4:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow or rain. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. High plus 3. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc5:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain showers or flurries. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low minus 7. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc6:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 7. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc7:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 19. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc8:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc9:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc10:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc11:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc12:20230217180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+ <updated>2023-02-17T18:00:00Z</updated>
+ <published>2023-02-17T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 11:00 AM MST Friday 17 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-56_fc13:20230217180000</id>
+ </entry>
+ </feed>
+
