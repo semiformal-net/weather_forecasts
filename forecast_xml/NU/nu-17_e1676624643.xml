@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Chesterfield - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-17_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-17_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-17T09:01:05Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230217090105</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Chesterfield</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nu24"/>
+ <updated>2023-02-16T20:06:00Z</updated>
+ <published>2023-02-16T20:06:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 2:06 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_w1:202302162006</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -42.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-17T08:00:00Z</updated>
+ <published>2023-02-17T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Chesterfield Inlet Airport 02:00 AM CST Friday 17 February 2023 <br/>
+<b>Temperature:</b> -42.1&deg;C <br/>
+<b>Pressure:</b> 101.1 kPa <br/>
+<b>Humidity:</b> 64 %<br/>
+<b>Wind Chill:</b> -59 <br/>
+<b>Dewpoint:</b> -46.3&deg;C <br/>
+<b>Wind:</b> WNW 23 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_cc:20230217080000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Partly cloudy. Low minus 43.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Clearing overnight. Blowing snow at times this evening. Wind west 40 km/h. Low minus 43. Wind chill minus 58 this evening and minus 63 overnight. Hazardous frostbite conditions. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc1:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind west 30 km/h. High minus 40. Wind chill near minus 63. Hazardous frostbite conditions. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc2:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few clouds. Low minus 42.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind west 30 km/h. Low minus 42. Wind chill near minus 61. Hazardous frostbite conditions. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc3:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 38. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc4:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 43.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 43. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc5:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 36. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc6:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 42.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 42. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc7:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 35. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc8:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 40. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc9:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 37. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc10:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 43.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 43. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc11:20230216210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-02-16T21:00:00Z</updated>
+ <published>2023-02-16T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 36. Forecast issued 3:00 PM CST Thursday 16 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc12:20230216210000</id>
+ </entry>
+ </feed>
+
