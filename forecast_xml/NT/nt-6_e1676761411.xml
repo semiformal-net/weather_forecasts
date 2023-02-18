@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Whati - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nt-6_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nt-6_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-18T23:03:50Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230218230350</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Whati</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nt17"/>
+ <updated>2023-02-18T22:33:00Z</updated>
+ <published>2023-02-18T22:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:33 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_w1:202302182233</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -26.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T22:00:00Z</updated>
+ <published>2023-02-18T22:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Whati 3:00 PM MST Saturday 18 February 2023 <br/>
+<b>Temperature:</b> -26.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa falling<br/>
+<b>Humidity:</b> 72 %<br/>
+<b>Dewpoint:</b> -30.4&deg;C <br/>
+<b>Wind:</b>   km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_cc:20230218220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 42.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 42. Wind chill minus 38 this evening and minus 53 overnight. Frostbite in minutes. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc1:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 33. Wind chill minus 53 in the morning and minus 39 in the afternoon. Frostbite in minutes. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc2:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 40. Wind chill minus 39 in the evening and minus 51 overnight. Frostbite in minutes. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc3:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 32. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc4:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 39.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 39. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc5:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 28. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc6:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 39.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 39. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc7:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 28. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc8:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc9:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc10:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc11:20230218230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nt-6_metric_e.html"/>
+ <updated>2023-02-18T23:00:00Z</updated>
+ <published>2023-02-18T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 20. Forecast issued 4:00 PM MST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nt-6_fc12:20230218230000</id>
+ </entry>
+ </feed>
+
