@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Terra Nova (National Park) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-15_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-15_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-18T14:26:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230218142653</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING ENDED, Terra Nova (National Park)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl16"/>
+ <updated>2023-02-18T14:10:00Z</updated>
+ <published>2023-02-18T14:10:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:40 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_w1:202302181410</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -7.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:00:00Z</updated>
+ <published>2023-02-18T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Terra Nova National Park 10:30 AM NST Saturday 18 February 2023 <br/>
+<b>Temperature:</b> -7.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.1 kPa rising<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Wind Chill:</b> -13 <br/>
+<b>Dewpoint:</b> -8.2&deg;C <br/>
+<b>Wind:</b> N 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_cc:20230218140000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. Temperature steady near minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending this afternoon then cloudy. Blowing snow over exposed areas. Wind north 30 km/h gusting to 50. Temperature steady near minus 8. Wind chill near minus 19. UV index 1 or low. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc1:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Mainly cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Becoming partly cloudy near midnight. Wind northwest 20 km/h becoming light this evening. Low minus 16. Wind chill near minus 22. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc2:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind becoming southwest 20 km/h in the morning then becoming west 20 gusting to 40 in the afternoon. High minus 2. Wind chill minus 20 in the morning and minus 8 in the afternoon. UV index 2 or low. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc3:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc4:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Windy. High minus 1. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc5:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow or rain. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Windy. Low minus 1. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc6:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. High plus 5. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc7:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc8:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 3. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc9:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Flurries. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 9. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc10:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc11:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc12:20230218143000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-15_metric_e.html"/>
+ <updated>2023-02-18T14:30:00Z</updated>
+ <published>2023-02-18T14:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 11:00 AM NST Saturday 18 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-15_fc13:20230218143000</id>
+ </entry>
+ </feed>
+
