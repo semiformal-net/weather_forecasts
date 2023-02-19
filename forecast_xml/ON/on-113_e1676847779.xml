@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Moosonee - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-113_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-113_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-19T22:56:06Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230219225606</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Moosonee</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on55"/>
+ <updated>2023-02-19T16:33:00Z</updated>
+ <published>2023-02-19T16:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:33 AM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_w1:202302191633</id>
+ </entry>
+ <entry>
+ <title>SNOW SQUALL WATCH , Moosonee</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on55"/>
+ <updated>2023-02-19T22:32:00Z</updated>
+ <published>2023-02-19T22:32:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:32 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_w2:202302192232</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -13.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T22:55:00Z</updated>
+ <published>2023-02-19T22:55:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Moosonee Airport 5:55 PM EST Sunday 19 February 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -13.4&deg;C <br/>
+<b>Pressure:</b> 99.8 kPa <br/>
+<b>Visibility:</b> 1.6 km<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Wind Chill:</b> -24 <br/>
+<b>Dewpoint:</b> -16.3&deg;C <br/>
+<b>Wind:</b> NW 30 km/h gust 52 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_cc:20230219225500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow at times heavy. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy ending this evening then mainly cloudy with 30 percent chance of flurries. Risk of snow squalls early this evening. Local blowing snow this evening. Local amount 5 cm. Wind northwest 40 km/h gusting to 60 diminishing to 20 gusting to 40 this evening then becoming light after midnight. Low minus 34. Wind chill minus 8 this evening and minus 44 overnight. Frostbite in minutes. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc1:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 22. Wind chill minus 44 in the morning and minus 27 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc2:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 34. Wind chill minus 32 in the evening and minus 39 overnight. Risk of frostbite. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc3:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 20. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc4:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 36.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 36. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc5:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 23. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc6:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 41.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 41. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc7:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc8:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 34. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc9:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 21. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc10:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc11:20230219210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-113_metric_e.html"/>
+ <updated>2023-02-19T21:00:00Z</updated>
+ <published>2023-02-19T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 4:00 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-113_fc12:20230219210000</id>
+ </entry>
+ </feed>
+
