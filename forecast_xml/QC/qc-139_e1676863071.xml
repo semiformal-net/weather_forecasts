@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Témiscamingue - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-139_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-139_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-20T03:08:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230220030828</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FLASH FREEZE WARNING , Témiscamingue</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc55"/>
+ <updated>2023-02-19T20:42:00Z</updated>
+ <published>2023-02-19T20:42:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:42 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_w1:202302192042</id>
+ </entry>
+ <entry>
+ <title>SNOW SQUALL WATCH , Témiscamingue</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc55"/>
+ <updated>2023-02-20T02:53:00Z</updated>
+ <published>2023-02-20T02:53:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:53 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_w2:202302200253</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-20T03:00:00Z</updated>
+ <published>2023-02-20T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Temiskaming Dam 10:00 PM EST Sunday 19 February 2023 <br/>
+<b>Temperature:</b> 3.1&deg;C <br/>
+<b>Humidity:</b> 73 %<br/>
+<b>Dewpoint:</b> -1.3&deg;C <br/>
+<b>Wind:</b> S 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_cc:20230220030000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries at times heavy. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries at times heavy. Risk of snow squalls overnight. Amount 2 cm. Wind southwest 20 km/h gusting to 40 becoming northwest 30 gusting to 50 near midnight. Low minus 18. Wind chill minus 25 overnight. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc1:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Monday: Clearing. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the morning. Wind northwest 20 km/h gusting to 40 becoming light near noon. High minus 14. Wind chill minus 28 in the morning and minus 22 in the afternoon. Risk of frostbite. UV index 2 or low. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc2:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Increasing cloudiness after midnight. Wind up to 15 km/h. Low minus 21. Wind chill near minus 28. Risk of frostbite. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc3:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 10. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc4:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 26. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc5:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc6:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 22. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc7:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 16. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc8:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 28. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc9:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 16. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc10:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 23. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc11:20230219204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-139_metric_e.html"/>
+ <updated>2023-02-19T20:45:00Z</updated>
+ <published>2023-02-19T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 9. Forecast issued 3:45 PM EST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-139_fc12:20230219204500</id>
+ </entry>
+ </feed>
+
