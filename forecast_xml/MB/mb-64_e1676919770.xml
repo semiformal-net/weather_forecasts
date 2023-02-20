@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Gillam - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-64_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-64_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-20T18:11:37Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230220181137</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Gillam</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?mb30"/>
+ <updated>2023-02-20T16:22:00Z</updated>
+ <published>2023-02-20T16:22:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:22 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_w1:202302201622</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Sunny, -29.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T18:00:00Z</updated>
+ <published>2023-02-20T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Gillam Airport 12:00 PM CST Monday 20 February 2023 <br/>
+<b>Condition:</b> Sunny <br/>
+<b>Temperature:</b> -29.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.0 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 68 %<br/>
+<b>Wind Chill:</b> -41 <br/>
+<b>Dewpoint:</b> -33.5&deg;C <br/>
+<b>Wind:</b> W 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_cc:20230220180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 27. Wind chill minus 42 this morning and minus 36 this afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc1:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 38. Wind chill minus 38 this evening and minus 49 overnight. Frostbite in minutes. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc2:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 27. Wind chill minus 49 in the morning and minus 38 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc3:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc4:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc5:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc6:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc7:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc8:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc9:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc10:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 17. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc11:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 24. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 24. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc12:20230220170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-64_metric_e.html"/>
+ <updated>2023-02-20T17:00:00Z</updated>
+ <published>2023-02-20T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 17. Forecast issued 11:00 AM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-64_fc13:20230220170000</id>
+ </entry>
+ </feed>
+
