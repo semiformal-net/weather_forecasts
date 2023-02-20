@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Hope - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-36_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-36_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-20T16:54:46Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230220165446</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Hope</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc40"/>
+ <updated>2023-02-20T12:58:00Z</updated>
+ <published>2023-02-20T12:58:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:58 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_w1:202302201258</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Rain, 7.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T16:54:00Z</updated>
+ <published>2023-02-20T16:54:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Hope Airport 08:54 AM PST Monday 20 February 2023 <br/>
+<b>Condition:</b> Light Rain <br/>
+<b>Temperature:</b> 7.6&deg;C <br/>
+<b>Pressure:</b> 101.7 kPa <br/>
+<b>Visibility:</b> 8.1 km<br/>
+<b>Humidity:</b> 91 %<br/>
+<b>Dewpoint:</b> 6.2&deg;C <br/>
+<b>Wind:</b> W 28 km/h gust 37 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_cc:20230220165400</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 10 to 20 mm. Wind west 30 km/h gusting to 50. High 8. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc1:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Amount 15 to 25 mm. Wind west 30 km/h gusting to 50. Low plus 3. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc2:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc3:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Windy. Low minus 2. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc4:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Windy. High zero. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc5:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Windy. Low minus 5. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc6:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Windy. High zero. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc7:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc8:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 1. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc9:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 4. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc10:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries or rain showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 5. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc11:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Rain showers or flurries. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low minus 1. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc12:20230220130000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow or rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-36_metric_e.html"/>
+ <updated>2023-02-20T13:00:00Z</updated>
+ <published>2023-02-20T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High 6. Forecast issued 05:00 AM PST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-36_fc13:20230220130000</id>
+ </entry>
+ </feed>
+
