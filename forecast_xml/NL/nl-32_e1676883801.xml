@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cartwright - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-32_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-32_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-20T08:10:17Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230220081017</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Cartwright</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-05T08:45:00Z</updated>
+ <published>2023-02-05T08:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_w1:20230205084500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, -19.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-20T08:00:00Z</updated>
+ <published>2023-02-20T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cartwright Airport 04:00 AM AST Monday 20 February 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> -19.8&deg;C <br/>
+<b>Pressure:</b> 102.1 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 69 %<br/>
+<b>Wind Chill:</b> -27 <br/>
+<b>Dewpoint:</b> -24.1&deg;C <br/>
+<b>Wind:</b> SSW 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_cc:20230220080000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind west 20 km/h gusting to 40 becoming light this evening. Low minus 23. Wind chill minus 21 this evening and minus 32 overnight. Risk of frostbite. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc1:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Periods of snow beginning in the morning. Blowing snow over exposed areas late in the morning and in the afternoon. Amount 2 cm. Wind southeast 20 km/h gusting to 40 becoming south 40 gusting to 60 in the morning. High minus 1. Wind chill minus 32 in the morning and minus 5 in the afternoon. Risk of frostbite. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc2:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Amount 2 to 4 cm. Wind up to 15 km/h. Low minus 10. Wind chill minus 3 in the evening and minus 17 overnight. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc3:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Windy. High minus 8. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc4:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Flurries. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Windy. Low minus 18. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc5:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 11. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc6:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Flurries. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 25. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc7:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc8:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 30. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc9:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 22. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc10:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 30. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc11:20230219200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+ <updated>2023-02-19T20:00:00Z</updated>
+ <published>2023-02-19T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 4:30 PM AST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-32_fc12:20230219200000</id>
+ </entry>
+ </feed>
+

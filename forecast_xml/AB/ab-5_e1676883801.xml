@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Stettler - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-5_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-5_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-20T08:53:32Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230220085332</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Stettler</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-01-21T15:45:00Z</updated>
+ <published>2023-01-21T15:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_w1:20230121154500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -9.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-20T08:00:00Z</updated>
+ <published>2023-02-20T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Stettler 01:00 AM MST Monday 20 February 2023 <br/>
+<b>Temperature:</b> -9.4&deg;C <br/>
+<b>Humidity:</b> 90 %<br/>
+<b>Wind Chill:</b> -16 <br/>
+<b>Dewpoint:</b> -10.7&deg;C <br/>
+<b>Wind:</b> NNW 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_cc:20230220080000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries at times heavy or rain showers. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or wet flurries changing to flurries at times heavy this evening then to light snow overnight. Local snowfall amount 2 to 4 cm. Wind northwest 20 km/h gusting to 40 becoming light overnight. Low minus 8. Wind chill minus 12 overnight. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc1:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries. Wind up to 15 km/h. High minus 4. Wind chill minus 13 in the morning and minus 8 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc2:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 5 to 10 cm except 2 cm in areas east of Red Deer. Wind becoming northeast 20 km/h gusting to 40 in the evening. Low minus 18. Wind chill minus 10 in the evening and minus 26 overnight. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc3:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 18. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc4:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 24. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc5:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 21. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc6:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 27. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc7:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 22. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc8:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc9:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 13. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc10:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc11:20230219230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-5_metric_e.html"/>
+ <updated>2023-02-19T23:00:00Z</updated>
+ <published>2023-02-19T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 4:00 PM MST Sunday 19 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-5_fc12:20230219230000</id>
+ </entry>
+ </feed>
+
