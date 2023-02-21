@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Chibougamau - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-121_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-121_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-21T17:00:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230221170028</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Chibougamau</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc19"/>
+ <updated>2023-02-21T16:17:00Z</updated>
+ <published>2023-02-21T16:17:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:17 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_w1:202302211617</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, -22.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:00:00Z</updated>
+ <published>2023-02-21T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Chibougamau Chapais Airport 11:00 AM EST Tuesday 21 February 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> -22.2&deg;C <br/>
+<b>Pressure:</b> 100.7 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 75 %<br/>
+<b>Wind Chill:</b> -30 <br/>
+<b>Dewpoint:</b> -25.5&deg;C <br/>
+<b>Wind:</b> NE 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_cc:20230221160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Periods of snow beginning this afternoon. Wind up to 15 km/h. High minus 15. Wind chill minus 32 this afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc1:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow ending near midnight then clearing. Wind becoming west 20 km/h gusting to 40 near midnight. Low minus 26. Wind chill minus 22 this evening and minus 38 overnight. Risk of frostbite. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc2:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind becoming west 20 km/h in the morning. High minus 21. Wind chill near minus 36. Risk of frostbite. UV index 2 or low. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc3:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 38. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc4:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 22. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc5:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Periods of snow. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 33. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc6:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 22. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc7:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 31. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc8:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 16. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc9:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 23. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 23. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc10:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 10. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 10. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc11:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 20. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 20. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc12:20230221163000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-121_metric_e.html"/>
+ <updated>2023-02-21T16:30:00Z</updated>
+ <published>2023-02-21T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 7. Forecast issued 11:30 AM EST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-121_fc13:20230221163000</id>
+ </entry>
+ </feed>
+

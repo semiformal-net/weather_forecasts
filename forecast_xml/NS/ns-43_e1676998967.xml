@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>North Mountain (Cape Breton) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-43_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-43_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-21T17:00:54Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230221170054</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, North Mountain (Cape Breton)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-20T23:30:00Z</updated>
+ <published>2023-02-20T23:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_w1:20230220233000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T16:00:00Z</updated>
+ <published>2023-02-21T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> North Mountain 12:00 PM AST Tuesday 21 February 2023 <br/>
+<b>Temperature:</b> -5.2&deg;C <br/>
+<b>Humidity:</b> 98 %<br/>
+<b>Wind Chill:</b> -11 <br/>
+<b>Dewpoint:</b> -5.4&deg;C <br/>
+<b>Wind:</b> WNW 17 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_cc:20230221160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. Temperature falling to minus 6 this afternoon. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of flurries early this afternoon. Wind northwest 30 km/h gusting to 50 becoming light late this afternoon. Temperature falling to minus 6 this afternoon. Wind chill near minus 12. UV index 1 or low. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc1:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind becoming northeast 20 km/h this evening. Low minus 10. Wind chill near minus 15. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc2:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny in the morning and early in the afternoon then a mix of sun and cloud with 30 percent chance of flurries late in the afternoon. Wind becoming northwest 20 km/h gusting to 40 in the afternoon. High minus 4. Wind chill minus 14 in the morning and minus 9 in the afternoon. UV index 2 or low. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc3:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 8. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc4:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 8. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc5:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 10. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc6:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 6. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc7:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow and blowing snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Blowing snow. Windy. Low minus 11. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc8:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 10. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc9:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 16. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc10:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc11:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc12:20230221150000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-43_metric_e.html"/>
+ <updated>2023-02-21T15:00:00Z</updated>
+ <published>2023-02-21T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:00 AM AST Tuesday 21 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-43_fc13:20230221150000</id>
+ </entry>
+ </feed>
+
