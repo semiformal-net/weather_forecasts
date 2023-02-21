@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Gros Morne - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-7_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-7_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-21T03:07:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230221030714</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>RAINFALL WARNING , Gros Morne</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl8"/>
+ <updated>2023-02-21T02:38:00Z</updated>
+ <published>2023-02-21T02:38:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:08 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_w1:202302210238</id>
+ </entry>
+ <entry>
+ <title>SNOWFALL WARNING ENDED, Gros Morne</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl8"/>
+ <updated>2023-02-21T02:49:00Z</updated>
+ <published>2023-02-21T02:49:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:19 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_w2:202302210249</id>
+ </entry>
+ <entry>
+ <title>WIND WARNING ENDED, Gros Morne</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl8"/>
+ <updated>2023-02-21T02:47:00Z</updated>
+ <published>2023-02-21T02:47:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:17 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_w3:202302210247</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 2.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-21T03:00:00Z</updated>
+ <published>2023-02-21T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Berry Hill 11:30 PM NST Monday 20 February 2023 <br/>
+<b>Temperature:</b> 2.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.4 kPa falling<br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Dewpoint:</b> 2.1&deg;C <br/>
+<b>Wind:</b> S 11 km/h gust 31 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_cc:20230221030000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain at times heavy. Temperature steady near plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Snow over higher terrain early this evening. Fog patches developing this evening. Rainfall amount 15 to 25 mm. Local snowfall amount 10 cm inland and over higher terrain. Wind south 50 km/h gusting to 70 except gusting to 100 along parts of the coast this evening. Wind becoming south 30 gusting to 50 near midnight then southwest 20 gusting to 40. Temperature steady near plus 4. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc1:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Flurries or rain showers. Temperature falling to minus 5 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers changing to flurries in the morning. Fog patches dissipating in the morning. Local snowfall amount 2 to 4 cm. Wind southwest 20 km/h gusting to 40 becoming west 30 gusting to 50 in the afternoon. Temperature falling to minus 5 in the afternoon. Wind chill minus 12 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc2:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Flurries. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries ending near midnight then mainly cloudy. Wind west 20 km/h becoming light near midnight. Low minus 11. Wind chill near minus 16. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc3:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc4:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 12. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 12. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc5:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 12. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of flurries. High minus 12. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc6:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc7:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Friday: Flurries. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 12. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc8:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 21. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc9:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 16. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc10:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 20. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc11:20230220193000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-7_metric_e.html"/>
+ <updated>2023-02-20T19:30:00Z</updated>
+ <published>2023-02-20T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 12. Forecast issued 4:00 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-7_fc12:20230220193000</id>
+ </entry>
+ </feed>
+
