@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>La Grande Rivière - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-158_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-158_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-21T02:06:41Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230221020641</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , La Grande Rivière</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc1"/>
+ <updated>2023-02-20T20:26:00Z</updated>
+ <published>2023-02-20T20:26:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:26 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_w1:202302202026</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Clear, -32.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-21T02:00:00Z</updated>
+ <published>2023-02-21T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> La Grande Rivière Airport 9:00 PM EST Monday 20 February 2023 <br/>
+<b>Condition:</b> Clear <br/>
+<b>Temperature:</b> -32.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 75 %<br/>
+<b>Wind Chill:</b> -40 <br/>
+<b>Dewpoint:</b> -34.9&deg;C <br/>
+<b>Wind:</b> S 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_cc:20230221020000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 38. Wind chill minus 38 this evening and minus 48 overnight. Frostbite in minutes. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc1:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Increasing cloudiness. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Wind up to 15 km/h. High minus 23. Wind chill minus 49 in the morning and minus 31 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc2:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clearing. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the evening. Wind up to 15 km/h. Low minus 35. Wind chill minus 35 in the evening and minus 48 overnight. Frostbite in minutes. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc3:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 30. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc4:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 38.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 38. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc5:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc6:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 37. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc7:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc8:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 32. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc9:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 21. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc10:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 26. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc11:20230220204500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-158_metric_e.html"/>
+ <updated>2023-02-20T20:45:00Z</updated>
+ <published>2023-02-20T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 15. Forecast issued 3:45 PM EST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-158_fc12:20230220204500</id>
+ </entry>
+ </feed>
+

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Swan River - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/mb-46_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/mb-46_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-21T02:11:17Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230221021117</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Swan River</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-03T11:45:00Z</updated>
+ <published>2023-02-03T11:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_w1:20230203114500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -22.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-21T02:00:00Z</updated>
+ <published>2023-02-21T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Swan River 8:00 PM CST Monday 20 February 2023 <br/>
+<b>Temperature:</b> -22.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa falling<br/>
+<b>Humidity:</b> 78 %<br/>
+<b>Wind Chill:</b> -30 <br/>
+<b>Dewpoint:</b> -24.9&deg;C <br/>
+<b>Wind:</b> SW 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_cc:20230221020000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 29. Wind chill minus 24 this evening and minus 38 overnight. Risk of frostbite. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc1:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 22. Wind chill minus 38 in the morning and minus 30 in the afternoon. Risk of frostbite. UV index 2 or low. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc2:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 35. Wind chill minus 31 in the evening and minus 45 overnight. Frostbite in minutes. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc3:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc4:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc5:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 23. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc6:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 28. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc7:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 20. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc8:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 26. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc9:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 14. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc10:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 16. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc11:20230220220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/mb-46_metric_e.html"/>
+ <updated>2023-02-20T22:00:00Z</updated>
+ <published>2023-02-20T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 4:00 PM CST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:mb-46_fc12:20230220220000</id>
+ </entry>
+ </feed>
+
