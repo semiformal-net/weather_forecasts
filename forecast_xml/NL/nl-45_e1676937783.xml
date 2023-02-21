@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>L'Anse-au-Loup - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-45_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-45_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-21T00:00:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230221000055</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , L'Anse-au-Loup</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl31"/>
+ <updated>2023-02-20T19:49:00Z</updated>
+ <published>2023-02-20T19:49:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:19 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_w1:202302201949</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, 0.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T23:30:00Z</updated>
+ <published>2023-02-20T23:30:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Blanc-Sablon Airport 7:30 PM AST Monday 20 February 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> 0.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.1 kPa falling<br/>
+<b>Visibility:</b> 4.8 km<br/>
+<b>Humidity:</b> 98 %<br/>
+<b>Wind Chill:</b> -5 <br/>
+<b>Dewpoint:</b> -0.3&deg;C <br/>
+<b>Wind:</b> SE 21 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_cc:20230220233000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow mixed with rain. Temperature steady near plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times mixed with rain changing to rain before morning. Snow at times heavy inland and over higher terrain. Fog patches developing before morning. Snowfall amount 5 to 10 cm except 20 cm inland and over higher terrain. Rainfall amount 5 to 10 mm. Wind south 30 km/h gusting to 50 becoming southwest 20 overnight. Temperature steady near plus 1. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc1:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Flurries or rain showers. Temperature falling to minus 8 in the afternoon.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow changing to a few flurries in the morning. Fog patches dissipating in the morning. Wind southwest 20 km/h becoming northwest 20 gusting to 40 in the afternoon. Temperature falling to minus 8 in the afternoon. Wind chill minus 15 in the afternoon. UV index 1 or low. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc2:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 18. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries in the evening. Clearing overnight. Wind northwest 20 km/h becoming light after midnight. Low minus 18. Wind chill minus 15 in the evening and minus 25 overnight. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc3:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 7. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc4:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. Low minus 23. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc5:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Windy. High minus 21. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc6:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Windy. Low minus 27. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc7:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 19. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc8:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc9:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 20. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc10:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc11:20230220200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+ <updated>2023-02-20T20:00:00Z</updated>
+ <published>2023-02-20T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 18. Forecast issued 4:30 PM NST Monday 20 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-45_fc12:20230220200000</id>
+ </entry>
+ </feed>
+
