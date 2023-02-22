@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Wreckhouse - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-18_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-18_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-22T14:03:04Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230222140304</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Wreckhouse</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-21T07:30:00Z</updated>
+ <published>2023-02-21T07:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_w1:20230221073000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -4.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T13:00:00Z</updated>
+ <published>2023-02-22T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Wreckhouse 09:30 AM NST Wednesday 22 February 2023 <br/>
+<b>Temperature:</b> -4.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.6 kPa falling<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Wind:</b> N 26 km/h gust 39 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_cc:20230222130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind north 20 km/h becoming northwest 30 gusting to 50 this afternoon. High minus 1. Wind chill minus 14 this morning and minus 7 this afternoon. UV index 2 or low. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc1:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few flurries. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. A few flurries beginning this evening. Wind northwest 40 km/h gusting to 60. Low minus 7. Wind chill near minus 17. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc2:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. Temperature falling to minus 11 in the afternoon. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries. Wind northwest 40 km/h gusting to 60. Temperature falling to minus 11 in the afternoon. Wind chill minus 17 in the morning and minus 22 in the afternoon. UV index 2 or low. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc3:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 13. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc4:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Friday: Flurries. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 9. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc5:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 18. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc6:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 10. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc7:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 17. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 17. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc8:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 10. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc9:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 16. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc10:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 10. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc11:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 15. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc12:20230222090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Flurries. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-02-22T09:00:00Z</updated>
+ <published>2023-02-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 6. Forecast issued 05:30 AM NST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc13:20230222090000</id>
+ </entry>
+ </feed>
+
