@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Montmagny - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-124_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-124_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-23T05:01:10Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230223050110</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Montmagny</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-21T02:15:00Z</updated>
+ <published>2023-02-21T02:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_w1:20230221021500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -15.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-23T04:00:00Z</updated>
+ <published>2023-02-23T04:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> La Pocatière 11:00 PM EST Wednesday 22 February 2023 <br/>
+<b>Temperature:</b> -15.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.7 kPa rising<br/>
+<b>Humidity:</b> 57 %<br/>
+<b>Wind Chill:</b> -22 <br/>
+<b>Dewpoint:</b> -21.7&deg;C <br/>
+<b>Wind:</b> NE 12 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_cc:20230223040000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Increasing cloudiness. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Increasing cloudiness overnight. Wind southwest 20 km/h becoming northeast 20 gusting to 40 this evening. Low minus 17. Wind chill minus 15 this evening and minus 28 overnight. Risk of frostbite. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc1:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Periods of snow and local blowing snow beginning near noon. Wind northeast 30 km/h gusting to 50. High minus 15. Wind chill near minus 29. Risk of frostbite. UV index 2 or low. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc2:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow. Temperature steady near minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and local blowing snow. Amount 5 cm. Wind northeast 30 km/h gusting to 50. Temperature steady near minus 16. Wind chill near minus 27. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc3:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Friday: Flurries. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 12. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc4:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 22. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc5:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 14. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc6:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 18. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc7:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 10. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc8:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. Low minus 17. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc9:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 6. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc10:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 12. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc11:20230222204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-124_metric_e.html"/>
+ <updated>2023-02-22T20:45:00Z</updated>
+ <published>2023-02-22T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 6. Forecast issued 3:45 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-124_fc12:20230222204500</id>
+ </entry>
+ </feed>
+
