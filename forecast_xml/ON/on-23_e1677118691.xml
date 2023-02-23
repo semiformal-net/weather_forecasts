@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Leamington - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-23_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-23_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-23T02:06:06Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230223020606</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>FREEZING RAIN WARNING , Leamington</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on16"/>
+ <updated>2023-02-22T20:27:00Z</updated>
+ <published>2023-02-22T20:27:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:27 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_w1:202302222027</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-23T02:00:00Z</updated>
+ <published>2023-02-23T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Harrow AAFC 9:00 PM EST Wednesday 22 February 2023 <br/>
+<b>Temperature:</b> -0.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.7 kPa falling<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Wind Chill:</b> -1 <br/>
+<b>Dewpoint:</b> -0.6&deg;C <br/>
+<b>Wind:</b> NE 2 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_cc:20230223020000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain mixed with freezing rain. Temperature steady near plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain changing to periods of rain or freezing rain this evening. Local rainfall amount 20 to 30 mm. Wind northeast 30 km/h gusting to 50 becoming light after midnight. Temperature steady near plus 1. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc1:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of drizzle mixed with freezing drizzle. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of drizzle ending late in the afternoon then a mix of sun and cloud. Drizzle or periods of freezing drizzle early in the morning. Wind becoming west 40 km/h gusting to 60 in the afternoon. High 11. UV index 2 or low. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc2:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Mainly cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy in the evening. Wind west 30 km/h gusting to 60. Low minus 6. Wind chill minus 11 overnight. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc3:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc4:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 8. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc5:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries or rain showers. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 2. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc6:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc7:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc8:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 1. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc9:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain. High 7. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of rain. High 7. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc10:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 1. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc11:20230222235500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of rain showers or flurries. High plus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-23_metric_e.html"/>
+ <updated>2023-02-22T23:55:00Z</updated>
+ <published>2023-02-22T23:55:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of rain showers or flurries. High plus 5. Forecast issued 6:55 PM EST Wednesday 22 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-23_fc12:20230222235500</id>
+ </entry>
+ </feed>
+
