@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Tisdale - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-12_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-12_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-24T17:04:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230224170408</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Tisdale</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?sk20"/>
+ <updated>2023-02-24T16:33:00Z</updated>
+ <published>2023-02-24T16:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:33 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_w1:202302241633</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -26.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T16:00:00Z</updated>
+ <published>2023-02-24T16:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Melfort 10:00 AM CST Friday 24 February 2023 <br/>
+<b>Temperature:</b> -26.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.6 kPa falling<br/>
+<b>Humidity:</b> 61 %<br/>
+<b>Wind Chill:</b> -38 <br/>
+<b>Dewpoint:</b> -31.8&deg;C <br/>
+<b>Wind:</b> SSW 18 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_cc:20230224160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Becoming a mix of sun and cloud this afternoon. Wind up to 15 km/h. High minus 18. Wind chill minus 33 this morning and minus 22 this afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc1:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Partly cloudy. Low minus 32.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 32. Wind chill minus 24 this evening and minus 42 overnight. Frostbite in minutes. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc2:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly sunny. High minus 18.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 18. Wind chill minus 42 in the morning and minus 26 in the afternoon. Frostbite in minutes. UV index 2 or low. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc3:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc4:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 13. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc5:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 17. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of flurries. Low minus 17. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc6:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of snow. High minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 11. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc7:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 21. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc8:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc9:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 26. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc10:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 14. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc11:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc12:20230224170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-12_metric_e.html"/>
+ <updated>2023-02-24T17:00:00Z</updated>
+ <published>2023-02-24T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 11:00 AM CST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-12_fc13:20230224170000</id>
+ </entry>
+ </feed>
+
