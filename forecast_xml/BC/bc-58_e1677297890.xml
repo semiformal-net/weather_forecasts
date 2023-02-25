@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Powell River - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-58_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-58_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-25T03:10:44Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230225031044</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Powell River</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc38"/>
+ <updated>2023-02-24T22:04:00Z</updated>
+ <published>2023-02-24T22:04:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 2:04 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_w1:202302242204</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -1.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T03:00:00Z</updated>
+ <published>2023-02-25T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Powell River Airport 7:00 PM PST Friday 24 February 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -1.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa falling<br/>
+<b>Visibility:</b> 40.2 km<br/>
+<b>Humidity:</b> 68 %<br/>
+<b>Wind Chill:</b> -3 <br/>
+<b>Dewpoint:</b> -7.0&deg;C <br/>
+<b>Wind:</b> N 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_cc:20230225030000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Mainly cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind up to 15 km/h. Low minus 2. Wind chill minus 6 overnight. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc1:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning in the morning. Amount 5 to 10 cm. Wind becoming southeast 20 km/h gusting to 40 in the morning then increasing to 40 early in the afternoon except gusting to 80 near the Strait of Georgia in the afternoon. High zero. Wind chill minus 6 in the morning. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc2:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Snow or rain. Temperature rising to plus 2 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending overnight then cloudy with 30 percent chance of rain showers or flurries. Snowfall amount 5 to 10 cm. Wind southeast 40 km/h except gusting to 80 near the Strait of Georgia. Wind becoming light before morning. Temperature rising to plus 2 by morning. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc3:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of rain showers or flurries. High plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. High plus 4. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc4:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain showers or flurries. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low zero. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc5:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of rain showers or flurries. High plus 1. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of rain showers or flurries. High plus 1. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc6:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of showers. Low zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low zero. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc7:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High plus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 5. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc8:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc9:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 6. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc10:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 1. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc11:20230225000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of rain showers or flurries. High 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+ <updated>2023-02-25T00:00:00Z</updated>
+ <published>2023-02-25T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. High 8. Forecast issued 4:00 PM PST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-58_fc12:20230225000000</id>
+ </entry>
+ </feed>
+
