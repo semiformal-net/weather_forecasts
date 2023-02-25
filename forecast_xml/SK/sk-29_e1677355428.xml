@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cypress Hills (Provincial Park) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-29_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-29_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-25T20:03:08Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230225200308</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Cypress Hills (Provincial Park)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T17:46:00Z</updated>
+ <published>2023-02-24T17:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_w1:20230224174600</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T19:00:00Z</updated>
+ <published>2023-02-25T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cypress Hills Provincial Park 1:00 PM CST Saturday 25 February 2023 <br/>
+<b>Temperature:</b> -5.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.9 kPa falling<br/>
+<b>Humidity:</b> 58 %<br/>
+<b>Wind Chill:</b> -11 <br/>
+<b>Dewpoint:</b> -12.5&deg;C <br/>
+<b>Wind:</b> W 15 km/h gust 28 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_cc:20230225190000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly sunny. High minus 6 except minus 2 near the Alberta border.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 6 except minus 2 near the Alberta border. Wind chill minus 20 this morning and minus 10 this afternoon. UV index 3 or moderate. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc1:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: A few clouds. Low minus 16 except minus 8 near the Alberta border.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind becoming south 20 km/h near midnight. Low minus 16 except minus 8 near the Alberta border. Wind chill minus 24 this evening and minus 18 overnight. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc2:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High minus 1 except 6 near the Alberta border.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind southwest 30 km/h. High minus 1 except 6 near the Alberta border. Wind chill minus 18 in the morning and minus 8 in the afternoon. UV index 3 or moderate. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc3:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Windy. Low minus 10. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc4:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 5. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc5:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 14. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc6:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 8. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc7:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 13. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc8:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc9:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 19. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc10:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc11:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc12:20230225170000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-29_metric_e.html"/>
+ <updated>2023-02-25T17:00:00Z</updated>
+ <published>2023-02-25T17:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 11:00 AM CST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-29_fc13:20230225170000</id>
+ </entry>
+ </feed>
+
