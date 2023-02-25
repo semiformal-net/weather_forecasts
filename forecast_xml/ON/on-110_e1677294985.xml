@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Wingham - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-110_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-110_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-25T03:06:58Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230225030658</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Wingham</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T21:45:00Z</updated>
+ <published>2023-02-24T21:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_w1:20230224214500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -10.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-25T03:00:00Z</updated>
+ <published>2023-02-25T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Mount Forest 10:00 PM EST Friday 24 February 2023 <br/>
+<b>Temperature:</b> -10.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.7 kPa falling<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Wind Chill:</b> -13 <br/>
+<b>Dewpoint:</b> -13.1&deg;C <br/>
+<b>Wind:</b> WSW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_cc:20230225030000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries ending early this evening then mainly cloudy. Periods of snow beginning overnight. Wind northwest 20 km/h becoming light this evening. Low minus 12. Wind chill near minus 15. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc1:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow ending in the morning then cloudy. Amount 2 cm. Wind up to 15 km/h. High minus 2. Wind chill minus 15 in the morning and minus 6 in the afternoon. UV index 1 or low. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc2:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Mainly cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind becoming south 20 km/h near midnight then becoming west 20 gusting to 40. Low minus 5. Wind chill near minus 11. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc3:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High plus 1. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc4:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 9. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc5:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Monday: Freezing rain or snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or snow. Windy. High zero. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc6:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Freezing rain or rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Freezing rain or rain. Windy. Low zero. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc7:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Windy. High plus 2. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc8:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 5. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc9:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries or rain showers. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 4. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc10:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain or snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow. Low minus 1. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc11:20230224203000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-02-24T20:30:00Z</updated>
+ <published>2023-02-24T20:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 2. Forecast issued 3:30 PM EST Friday 24 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc12:20230224203000</id>
+ </entry>
+ </feed>
+
