@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Quesnel - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-64_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-64_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T12:00:09Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226120009</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WINTER STORM WARNING , Quesnel</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc24"/>
+ <updated>2023-02-25T23:52:00Z</updated>
+ <published>2023-02-25T23:52:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:52 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_w1:202302252352</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -4.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T11:16:00Z</updated>
+ <published>2023-02-26T11:16:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Quesnel Airport 03:16 AM PST Sunday 26 February 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -4.4&deg;C <br/>
+<b>Pressure:</b> 99.4 kPa <br/>
+<b>Visibility:</b> 2.0 km<br/>
+<b>Humidity:</b> 89 %<br/>
+<b>Wind Chill:</b> -9 <br/>
+<b>Dewpoint:</b> -6.0&deg;C <br/>
+<b>Wind:</b> SSE 13 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_cc:20230226111600</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Snow at times heavy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy. Amount 10 to 15 cm. Wind southeast 20 km/h gusting to 40 becoming light near midnight. Low minus 8. Wind chill near minus 13. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc1:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending in the morning then a mix of sun and cloud. Wind up to 15 km/h. High minus 2. Wind chill minus 13 in the morning and minus 4 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc2:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 12. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 40 percent chance of flurries. Wind up to 15 km/h. Low minus 12. Wind chill minus 11 in the evening. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc3:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc4:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc5:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc6:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 11. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc7:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Snow. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 3. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc8:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 6. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc9:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc10:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc11:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-64_fc12:20230226000000</id>
+ </entry>
+ </feed>
+
