@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kirkland Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-76_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-76_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T09:02:27Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226090227</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Kirkland Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-21T18:07:00Z</updated>
+ <published>2023-02-21T18:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_w1:20230221180700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -9.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-26T08:00:00Z</updated>
+ <published>2023-02-26T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Kirkland Lake 03:00 AM EST Sunday 26 February 2023 <br/>
+<b>Temperature:</b> -9.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.5 kPa falling<br/>
+<b>Humidity:</b> 86 %<br/>
+<b>Wind Chill:</b> -15 <br/>
+<b>Dewpoint:</b> -11.7&deg;C <br/>
+<b>Wind:</b> SSE 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_cc:20230226080000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 40 percent chance of flurries early this evening. Flurries beginning this evening. Amount 2 to 4 cm. Wind up to 15 km/h. Low minus 12. Wind chill minus 16 this evening and minus 10 overnight. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc1:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 60 percent chance of flurries in the morning and early in the afternoon. Wind up to 15 km/h. High minus 8. Wind chill minus 20 in the morning and minus 11 in the afternoon. UV index 2 or low. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc2:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clearing. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the evening. Wind northwest 20 km/h becoming light early in the evening. Low minus 23. Wind chill minus 15 in the evening and minus 27 overnight. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc3:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 6. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc4:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc5:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Periods of snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High plus 2. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc6:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc7:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High plus 2. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc8:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 15. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 15. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc9:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 7. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc10:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 20. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc11:20230225210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-76_metric_e.html"/>
+ <updated>2023-02-25T21:00:00Z</updated>
+ <published>2023-02-25T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 6. Forecast issued 4:00 PM EST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-76_fc12:20230225210000</id>
+ </entry>
+ </feed>
+
