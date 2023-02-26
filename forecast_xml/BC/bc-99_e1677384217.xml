@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>West Vancouver - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-99_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-99_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T03:57:25Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226035725</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , West Vancouver</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc42"/>
+ <updated>2023-02-25T23:47:00Z</updated>
+ <published>2023-02-25T23:47:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:47 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_w1:202302252347</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T03:00:00Z</updated>
+ <published>2023-02-26T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> West Vancouver 7:00 PM PST Saturday 25 February 2023 <br/>
+<b>Temperature:</b> -0.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.4 kPa falling<br/>
+<b>Humidity:</b> 96 %<br/>
+<b>Wind Chill:</b> -4 <br/>
+<b>Dewpoint:</b> -1.3&deg;C <br/>
+<b>Wind:</b> E 8 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_cc:20230226030000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Snow at times heavy. Temperature steady near zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Light snow changing to snow at times heavy this evening. Amount 15 to 25 cm. Wind east 20 km/h gusting to 40. Temperature steady near zero. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc1:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of rain showers or flurries. High plus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow mixed with rain ending in the morning then a mix of sun and cloud with 40 percent chance of rain showers. Risk of hail in the afternoon. Wind west 20 km/h gusting to 40 except gusting to 60 near the water in the morning. Wind becoming light near noon. High plus 4. UV index 2 or low. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc2:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of rain showers or flurries. Low zero. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of rain showers changing to 70 percent chance of flurries near midnight. Wind becoming east 20 km/h before morning. Low zero. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc3:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 3. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc4:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 1. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc5:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High plus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High plus 5. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc6:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 1. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc7:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc8:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc9:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 8. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc10:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of showers. Low plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. Low plus 1. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc11:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Showers. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-99_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 7. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-99_fc12:20230226000000</id>
+ </entry>
+ </feed>
+

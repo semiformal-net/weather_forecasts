@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Gulf Islands (Southern) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-93_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-93_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T03:57:25Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226035725</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Gulf Islands (Southern)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc51"/>
+ <updated>2023-02-25T23:50:00Z</updated>
+ <published>2023-02-25T23:50:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:50 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_w1:202302252350</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 1.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T03:00:00Z</updated>
+ <published>2023-02-26T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Saturna Island 7:00 PM PST Saturday 25 February 2023 <br/>
+<b>Temperature:</b> 1.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.4 kPa falling<br/>
+<b>Humidity:</b> 83 %<br/>
+<b>Dewpoint:</b> -1.5&deg;C <br/>
+<b>Wind:</b> E 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_cc:20230226030000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Snow or rain. Low zero with temperature rising to plus 2 by morning.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow changing to periods of rain mixed with wet snow near midnight and ending before morning then clearing. Snowfall amount 5 to 10 cm. Wind east 20 km/h becoming south 30 gusting to 50 this evening. Low zero with temperature rising to plus 2 by morning. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc1:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of showers in the afternoon. Wind northwest 30 km/h gusting to 50 becoming southwest 20 gusting to 40 in the morning. High 7. UV index 2 or low. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc2:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of showers. Wind southwest 20 km/h gusting to 40 becoming southeast 20 near midnight. Low zero. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc3:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Rain showers or flurries. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. High plus 4. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc4:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Rain showers or flurries. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Low zero. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc5:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 6. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc6:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc7:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High plus 5. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc8:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 2. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc9:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 10. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc10:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of rain showers or flurries. Low plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low plus 1. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc11:20230226000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of showers. High 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-93_metric_e.html"/>
+ <updated>2023-02-26T00:00:00Z</updated>
+ <published>2023-02-26T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 8. Forecast issued 4:00 PM PST Saturday 25 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-93_fc12:20230226000000</id>
+ </entry>
+ </feed>
+
