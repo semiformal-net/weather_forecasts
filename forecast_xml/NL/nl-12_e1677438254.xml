@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Wabush Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-12_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-12_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T19:03:16Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226190316</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Wabush Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-25T16:15:00Z</updated>
+ <published>2023-02-25T16:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_w1:20230225161500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, -16.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T18:00:00Z</updated>
+ <published>2023-02-26T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Wabush Airport 2:00 PM AST Sunday 26 February 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> -16.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 52 %<br/>
+<b>Wind Chill:</b> -24 <br/>
+<b>Dewpoint:</b> -24.4&deg;C <br/>
+<b>Wind:</b> W 10 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_cc:20230226180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High minus 17. Wind chill minus 25 this afternoon. UV index 1 or low. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc1:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: A few clouds. Low minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 34. Wind chill minus 23 this evening and minus 44 overnight. Frostbite in minutes. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc2:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly sunny. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 17. Wind chill minus 44 in the morning and minus 24 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc3:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 33. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc4:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 17. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc5:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc6:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc7:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc8:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc9:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 20. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 20. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc10:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 13. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc11:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 22. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 22. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc12:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-12_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 12. Forecast issued 11:30 AM AST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-12_fc13:20230226150000</id>
+ </entry>
+ </feed>
+
