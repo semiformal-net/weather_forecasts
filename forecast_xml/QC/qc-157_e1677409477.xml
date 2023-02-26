@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Victoriaville - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-157_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-157_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T11:05:32Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226110532</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Victoriaville</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-26T10:46:00Z</updated>
+ <published>2023-02-26T10:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_w1:20230226104600</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -24.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Lemieux 05:00 AM EST Sunday 26 February 2023 <br/>
+<b>Temperature:</b> -24.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.7 kPa falling<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -29 <br/>
+<b>Dewpoint:</b> -27.7&deg;C <br/>
+<b>Wind:</b> NE 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_cc:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 2 cm. Wind up to 15 km/h. High minus 9. Wind chill minus 28 this morning and minus 14 this afternoon. Risk of frostbite. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc1:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Partly cloudy. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 19. Wind chill minus 14 this evening and minus 22 overnight. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc2:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly sunny. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High minus 7. Wind chill minus 23 in the morning and minus 10 in the afternoon. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc3:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 11. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc4:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 1. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc5:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc6:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High plus 1. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc7:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain or snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow. Low minus 1. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc8:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Rain. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High plus 2. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc9:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 15. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc10:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc11:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 13. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 13. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc12:20230226100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-157_metric_e.html"/>
+ <updated>2023-02-26T10:00:00Z</updated>
+ <published>2023-02-26T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 4. Forecast issued 05:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-157_fc13:20230226100000</id>
+ </entry>
+ </feed>
+
