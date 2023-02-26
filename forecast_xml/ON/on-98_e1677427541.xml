@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>St. Thomas - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-98_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-98_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T16:02:06Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226160206</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , St. Thomas</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on47"/>
+ <updated>2023-02-26T15:35:00Z</updated>
+ <published>2023-02-26T15:35:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:35 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_w1:202302261535</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, 0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T15:00:00Z</updated>
+ <published>2023-02-26T15:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> London Int'l Airport 10:00 AM EST Sunday 26 February 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> 0.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 75 %<br/>
+<b>Dewpoint:</b> -3.7&deg;C <br/>
+<b>Wind:</b> WSW 27 km/h gust 43 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_cc:20230226150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Mainly sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind northwest 30 km/h gusting to 50. High plus 5. UV index 4 or moderate. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc1:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind becoming east 20 km/h overnight. Low minus 6. Wind chill minus 13 overnight. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc2:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Freezing rain mixed with ice pellets. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Becoming cloudy late in the morning then freezing rain or ice pellets. Wind east 20 km/h increasing to 40 gusting to 70 in the morning. High plus 2. Wind chill minus 11 in the morning. UV index 2 or low. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc3:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Showers. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 2. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc4:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers.  POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 40 percent chance of showers. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc5:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. </title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc6:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers.  POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of showers. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc7:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers.  POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of showers. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc8:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. </title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc9:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. </title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc10:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. </title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc11:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. </title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc12:20230226160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. </title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-98_metric_e.html"/>
+ <updated>2023-02-26T16:00:00Z</updated>
+ <published>2023-02-26T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Forecast issued 11:00 AM EST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-98_fc13:20230226160000</id>
+ </entry>
+ </feed>
+
