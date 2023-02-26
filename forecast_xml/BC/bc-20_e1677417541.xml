@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Nanaimo - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-20_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-20_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-26T13:08:47Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230226130847</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Nanaimo</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?bc46"/>
+ <updated>2023-02-26T11:58:00Z</updated>
+ <published>2023-02-26T11:58:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 03:58 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_w1:202302261158</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -0.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Nanaimo Airport 05:00 AM PST Sunday 26 February 2023 <br/>
+<b>Temperature:</b> -0.1&deg;C <br/>
+<b>Pressure:</b> 99.4 kPa <br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Wind Chill:</b> -3 <br/>
+<b>Dewpoint:</b> -0.8&deg;C <br/>
+<b>Wind:</b> WNW 9 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_cc:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries early this morning then a mix of sun and cloud. Wind southwest 20 km/h gusting to 40 becoming light this morning. High 6. UV index 2 or low. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc1:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Partly cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Low zero. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc2:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of rain showers or wet flurries. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 60 percent chance of rain showers or wet flurries late in the morning and in the afternoon. High plus 3. UV index 1 or low. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc3:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc4:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc5:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 2. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc6:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc7:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain or snow. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain or snow. Low plus 3. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc8:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Showers. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. High 8. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc9:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 1. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc10:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 7. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc11:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 1. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc12:20230226130000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-20_metric_e.html"/>
+ <updated>2023-02-26T13:00:00Z</updated>
+ <published>2023-02-26T13:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 05:00 AM PST Sunday 26 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-20_fc13:20230226130000</id>
+ </entry>
+ </feed>
+
