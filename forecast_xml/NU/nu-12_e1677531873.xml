@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Grise Fiord - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-12_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-12_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-27T21:04:43Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230227210443</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Grise Fiord</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2022-12-18T08:45:00Z</updated>
+ <published>2022-12-18T08:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_w1:20221218084500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Sunny, -35.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T20:00:00Z</updated>
+ <published>2023-02-27T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Grise Fiord Airport 3:00 PM EST Monday 27 February 2023 <br/>
+<b>Condition:</b> Mainly Sunny <br/>
+<b>Temperature:</b> -35.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.0 kPa falling<br/>
+<b>Visibility:</b> 11.3 km<br/>
+<b>Humidity:</b> 69 %<br/>
+<b>Wind Chill:</b> -38 <br/>
+<b>Dewpoint:</b> -39.0&deg;C <br/>
+<b>Wind:</b> N 2 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_cc:20230227200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 39.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 39. Wind chill minus 41 this evening and minus 46 overnight. Frostbite in minutes. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc1:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly sunny. Temperature steady near minus 39.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. Temperature steady near minus 39. Wind chill near minus 46. Frostbite in minutes. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc2:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: A few clouds. Low minus 40.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming partly cloudy before morning. Wind up to 15 km/h. Low minus 40. Wind chill minus 46 in the evening and minus 51 overnight. Frostbite in minutes. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc3:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 34.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 34. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc4:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc5:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc6:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 35. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc7:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 27. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc8:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 27.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 27. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc9:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc10:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc11:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-12_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 26. Forecast issued 4:00 PM EST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-12_fc12:20230227210000</id>
+ </entry>
+ </feed>
+
