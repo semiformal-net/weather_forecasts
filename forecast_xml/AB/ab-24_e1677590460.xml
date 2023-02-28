@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>High Level - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-24_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-24_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-28T13:20:57Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230228132057</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, High Level</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T18:45:00Z</updated>
+ <published>2023-02-24T18:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_w1:20230224184500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -16.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T13:20:00Z</updated>
+ <published>2023-02-28T13:20:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> High Level Airport 06:20 AM MST Tuesday 28 February 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -16.7&deg;C <br/>
+<b>Pressure:</b> 101.5 kPa <br/>
+<b>Visibility:</b> 8.1 km<br/>
+<b>Humidity:</b> 90 %<br/>
+<b>Wind Chill:</b> -20 <br/>
+<b>Dewpoint:</b> -18.0&deg;C <br/>
+<b>Wind:</b> N 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_cc:20230228132000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 13. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of flurries this morning and early this afternoon. Wind up to 15 km/h. High minus 13. Wind chill near minus 20. UV index 1 or low. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc1:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 20. Wind chill minus 20 this evening and minus 27 overnight. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc2:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind becoming south 20 km/h gusting to 40 late in the morning. High minus 9. Wind chill minus 24 in the morning and minus 16 in the afternoon. UV index 1 or low. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc3:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 11. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 11. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc4:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 1. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc5:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc6:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 9. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc7:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 21. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc8:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 15. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc9:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 25. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc10:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 13. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc11:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc12:20230228120000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-24_metric_e.html"/>
+ <updated>2023-02-28T12:00:00Z</updated>
+ <published>2023-02-28T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 13. Forecast issued 05:00 AM MST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-24_fc13:20230228120000</id>
+ </entry>
+ </feed>
+
