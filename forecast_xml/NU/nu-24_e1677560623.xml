@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Gjoa Haven - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-24_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-24_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-02-28T05:00:35Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230228050035</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>EXTREME COLD WARNING , Gjoa Haven</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nu8"/>
+ <updated>2023-02-28T04:21:00Z</updated>
+ <published>2023-02-28T04:21:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:21 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_w1:202302280421</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Clear, -38.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-28T04:00:00Z</updated>
+ <published>2023-02-28T04:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Gjoa Haven Airport 9:00 PM MST Monday 27 February 2023 <br/>
+<b>Condition:</b> Clear <br/>
+<b>Temperature:</b> -38.3&deg;C <br/>
+<b>Pressure:</b> 101.2 kPa <br/>
+<b>Visibility:</b> 12.9 km<br/>
+<b>Humidity:</b> 62 %<br/>
+<b>Wind Chill:</b> -54 <br/>
+<b>Dewpoint:</b> -42.9&deg;C <br/>
+<b>Wind:</b> NNE 21 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_cc:20230228040000</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few clouds. Low minus 41.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming partly cloudy after midnight. Ice fog patches developing after midnight. Wind becoming northwest 20 km/h late this evening. Low minus 41. Wind chill minus 49 this evening and minus 56 overnight. Hazardous frostbite conditions. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc1:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 35.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Ice fog patches dissipating in the morning. Wind becoming southwest 20 km/h late in the morning. High minus 35. Wind chill minus 54 in the morning and minus 49 in the afternoon. Frostbite in minutes. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc2:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Low minus 37.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind southwest 20 km/h becoming southeast 20 after midnight. Low minus 37. Wind chill minus 52 in the evening and minus 46 overnight. Frostbite in minutes. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc3:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 29. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc4:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc5:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 25. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc6:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 30.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 30. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc7:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc8:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 28. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc9:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc10:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 26. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc11:20230227210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-24_metric_e.html"/>
+ <updated>2023-02-27T21:00:00Z</updated>
+ <published>2023-02-27T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 24. Forecast issued 2:00 PM MST Monday 27 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-24_fc12:20230227210000</id>
+ </entry>
+ </feed>
+
