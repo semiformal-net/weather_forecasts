@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Estevan Point - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-15_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-15_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-01T02:11:20Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230301021120</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Estevan Point</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-26T14:45:00Z</updated>
+ <published>2023-02-26T14:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_w1:20230226144500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T02:00:00Z</updated>
+ <published>2023-03-01T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Estevan Point 6:00 PM PST Tuesday 28 February 2023 <br/>
+<b>Temperature:</b> 3.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.6 kPa rising<br/>
+<b>Humidity:</b> 74 %<br/>
+<b>Dewpoint:</b> -0.7&deg;C <br/>
+<b>Wind:</b>   km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_cc:20230301020000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind light except northwest 30 km/h gusting to 50 over exposed coastal sections this evening. Low minus 3. Wind chill minus 7 overnight. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc1:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Rain beginning in the afternoon. Wind becoming south 30 km/h in the afternoon. High plus 5. Wind chill minus 7 in the morning. UV index 1 or low. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc2:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain at times heavy. Temperature steady near plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain at times heavy. Wind south 40 km/h gusting to 60 except gusting to 80 over exposed coastal sections overnight. Wind becoming west 40 gusting to 60 before morning. Temperature steady near plus 4. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc3:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Windy. High plus 5. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc4:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Showers. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low plus 2. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc5:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High plus 5. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc6:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 3. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc7:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 6. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc8:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of rain showers or flurries. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low zero. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc9:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 8. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc10:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of showers. Low minus 1. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc11:20230301000000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-15_metric_e.html"/>
+ <updated>2023-03-01T00:00:00Z</updated>
+ <published>2023-03-01T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 8. Forecast issued 4:00 PM PST Tuesday 28 February 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-15_fc12:20230301000000</id>
+ </entry>
+ </feed>
+
