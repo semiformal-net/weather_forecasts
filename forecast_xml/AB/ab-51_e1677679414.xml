@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Medicine Hat - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-51_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-51_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-01T13:45:54Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230301134554</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Medicine Hat</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T22:31:00Z</updated>
+ <published>2023-02-24T22:31:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_w1:20230224223100</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -9.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T13:00:00Z</updated>
+ <published>2023-03-01T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Medicine Hat Airport 06:00 AM MST Wednesday 01 March 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -9.0&deg;C <br/>
+<b>Pressure:</b> 101.4 kPa <br/>
+<b>Visibility:</b> 9.7 km<br/>
+<b>Humidity:</b> 84 %<br/>
+<b>Dewpoint:</b> -11.2&deg;C <br/>
+<b>Wind:</b> N 1 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_cc:20230301130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries this morning then a mix of sun and cloud. Fog patches dissipating this morning. Wind becoming south 20 km/h this afternoon. High minus 2. Wind chill minus 16 this morning and minus 8 this afternoon. UV index 2 or low. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc1:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few clouds. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind southwest 30 km/h gusting to 50. Low minus 6. Wind chill near minus 14. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc2:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Mainly sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind west 40 km/h gusting to 60. High 6. Wind chill minus 10 in the morning. UV index 2 or low. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc3:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc4:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc5:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 8. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc6:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc7:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 12. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc8:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 5. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc9:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 14. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 14. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc10:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 9. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc11:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 16. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 16. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc12:20230301120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-51_metric_e.html"/>
+ <updated>2023-03-01T12:00:00Z</updated>
+ <published>2023-03-01T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 05:00 AM MST Wednesday 01 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-51_fc13:20230301120000</id>
+ </entry>
+ </feed>
+
