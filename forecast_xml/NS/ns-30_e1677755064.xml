@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Western Head - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-30_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-30_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-02T10:11:36Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230302101136</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Western Head</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns4"/>
+ <updated>2023-03-02T08:53:00Z</updated>
+ <published>2023-03-02T08:53:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:53 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_w1:202303020853</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -2.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T10:00:00Z</updated>
+ <published>2023-03-02T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Western Head 06:00 AM AST Thursday 02 March 2023 <br/>
+<b>Temperature:</b> -2.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.7 kPa falling<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Wind Chill:</b> -5 <br/>
+<b>Dewpoint:</b> -2.8&deg;C <br/>
+<b>Wind:</b> NE 6 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_cc:20230302100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this morning. Snow beginning early this afternoon except rain along the coast. Fog patches dissipating this morning. Amount 2 cm. Wind becoming southeast 30 km/h gusting to 50 this afternoon. High plus 2. UV index 2 or low. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc1:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow at times heavy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy changing to flurries overnight. Rain along the coast this evening. Blowing snow over exposed areas overnight. Snowfall amount 15 to 25 cm except rainfall amount 15 mm along parts of the coast. Wind east 30 km/h gusting to 50 becoming northeast 20 gusting to 40 this evening then northwest 40 gusting to 60 after midnight. Low minus 3. Wind chill minus 11 overnight. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc2:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Friday: A few flurries. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending in the morning then clearing. Blowing snow over exposed areas in the morning. Wind northwest 40 km/h gusting to 60 diminishing to 20 in the morning. High plus 2. Wind chill minus 11 in the morning. UV index 3 or moderate. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc3:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc4:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High minus 2. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc5:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 6. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc6:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc7:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc8:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 2. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc9:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 3. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc10:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries or rain showers. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries or rain showers. High plus 1. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc11:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 1. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc12:20230302090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries or rain showers. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-30_metric_e.html"/>
+ <updated>2023-03-02T09:00:00Z</updated>
+ <published>2023-03-02T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries or rain showers. High plus 1. Forecast issued 05:00 AM AST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-30_fc13:20230302090000</id>
+ </entry>
+ </feed>
+
