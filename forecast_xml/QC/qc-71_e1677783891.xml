@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>La Prairie - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-71_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-71_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-02T19:02:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230302190224</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, La Prairie</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-01T00:07:00Z</updated>
+ <published>2023-03-01T00:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_w1:20230301000700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, -0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T18:59:00Z</updated>
+ <published>2023-03-02T18:59:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Saint-Hubert Airport 1:59 PM EST Thursday 02 March 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> -0.3&deg;C <br/>
+<b>Pressure:</b> 100.4 kPa <br/>
+<b>Visibility:</b> 2.8 km<br/>
+<b>Humidity:</b> 90 %<br/>
+<b>Wind Chill:</b> -6 <br/>
+<b>Dewpoint:</b> -1.7&deg;C <br/>
+<b>Wind:</b> N 22 km/h gust 32 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_cc:20230302185900</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 2 to 4 cm. Wind north 20 km/h gusting to 40. High plus 1. UV index 1 or low. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc1:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clearing. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing this evening. Wind northwest 20 km/h gusting to 40 becoming light near midnight. Low minus 10. Wind chill minus 16 overnight. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc2:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind becoming northeast 20 km/h late in the afternoon. High minus 2. Wind chill minus 15 in the morning and minus 7 in the afternoon. UV index 3 or moderate. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc3:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 7. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc4:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High minus 1. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc5:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 3. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc6:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc7:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 4. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc8:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc9:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc10:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc11:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc12:20230302163000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-71_metric_e.html"/>
+ <updated>2023-03-02T16:30:00Z</updated>
+ <published>2023-03-02T16:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:30 AM EST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-71_fc13:20230302163000</id>
+ </entry>
+ </feed>
+
