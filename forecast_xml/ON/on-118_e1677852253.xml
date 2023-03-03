@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ottawa (Kanata - Orléans) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-118_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-118_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-03T14:00:18Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230303140018</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Ottawa (Kanata - Orléans)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on41"/>
+ <updated>2023-03-03T10:30:00Z</updated>
+ <published>2023-03-03T10:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 05:30 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_w1:202303031030</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Sunny, -10.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T13:00:00Z</updated>
+ <published>2023-03-03T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ottawa Macdonald-Cartier Int'l Airport 08:00 AM EST Friday 03 March 2023 <br/>
+<b>Condition:</b> Mainly Sunny <br/>
+<b>Temperature:</b> -10.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Wind Chill:</b> -17 <br/>
+<b>Dewpoint:</b> -14.7&deg;C <br/>
+<b>Wind:</b> NNE 15 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_cc:20230303130000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High zero. Wind chill minus 19 this morning. UV index 3 or moderate. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc1:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow at times heavy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy this evening. Snow at times heavy beginning near midnight. Amount 5 cm. Wind becoming northeast 20 km/h after midnight. Low minus 5. Wind chill near minus 12. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc2:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow at times heavy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy. Amount 5 to 10 cm. Wind northeast 30 km/h becoming light late in the afternoon. High zero. Wind chill minus 12 in the morning. UV index 1 or low. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc3:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 6. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc4:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High plus 3. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc5:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc6:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc7:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc8:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc9:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc10:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc11:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc12:20230303100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-118_metric_e.html"/>
+ <updated>2023-03-03T10:00:00Z</updated>
+ <published>2023-03-03T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 05:00 AM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-118_fc13:20230303100000</id>
+ </entry>
+ </feed>
+
