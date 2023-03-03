@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Marble Mountain - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-26_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-26_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-03T02:06:30Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230303020630</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Marble Mountain</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-27T10:07:00Z</updated>
+ <published>2023-02-27T10:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_w1:20230227100700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -6.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-03T02:00:00Z</updated>
+ <published>2023-03-03T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Corner Brook 10:30 PM NST Thursday 02 March 2023 <br/>
+<b>Temperature:</b> -6.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.3 kPa falling<br/>
+<b>Humidity:</b> 77 %<br/>
+<b>Wind Chill:</b> -10 <br/>
+<b>Dewpoint:</b> -10.0&deg;C <br/>
+<b>Wind:</b> SW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_cc:20230303020000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few flurries. Low minus 11 except minus 6 along parts of the coast.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending this evening then partly cloudy. Wind northwest 20 km/h gusting to 40 becoming north 20 before morning. Low minus 11 except minus 6 along parts of the coast. Wind chill minus 13 this evening and minus 19 overnight. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc1:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind north 20 km/h becoming northwest 20 gusting to 40 in the afternoon. High minus 5. Wind chill minus 19 in the morning and minus 12 in the afternoon. UV index 2 or low. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc2:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Mainly cloudy. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind northwest 30 km/h gusting to 50. Low minus 12. Wind chill minus 14 in the evening and minus 22 overnight. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc3:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 7. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 7. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc4:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 10. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 10. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc5:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 6. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc6:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc7:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 2. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc8:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 5. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc9:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries or rain showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 3. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc10:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low zero. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc11:20230302193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries or rain showers. High plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-26_metric_e.html"/>
+ <updated>2023-03-02T19:30:00Z</updated>
+ <published>2023-03-02T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High plus 2. Forecast issued 4:00 PM NST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-26_fc12:20230302193000</id>
+ </entry>
+ </feed>
+
