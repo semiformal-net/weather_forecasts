@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Port Hardy - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-89_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-89_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-03T04:11:18Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230303041118</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Port Hardy</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T13:45:00Z</updated>
+ <published>2023-02-24T13:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_w1:20230224134500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, 1.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T04:00:00Z</updated>
+ <published>2023-03-03T04:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Port Hardy Airport 8:00 PM PST Thursday 02 March 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> 1.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Dewpoint:</b> 0.6&deg;C <br/>
+<b>Wind:</b> SSW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_cc:20230303040000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few rain showers or wet flurries. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few rain showers or wet flurries ending near midnight then mainly cloudy with 40 percent chance of rain showers or wet flurries. Local snowfall amount 4 cm over higher terrain. Wind southwest 20 km/h gusting to 40 except gusting to 60 over exposed coastal sections this evening. Wind becoming light late this evening. Low plus 1. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc1:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Friday: A few rain showers or wet flurries. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers. Rain showers or a few wet flurries in the morning. Wind becoming southeast 20 km/h early in the afternoon. High 6. UV index 1 or low. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc2:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few rain showers or wet flurries. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or wet flurries. Wind southeast 20 km/h gusting to 40 except gusting to 60 over exposed coastal sections. Low plus 2. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc3:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain showers or flurries. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Windy. High 6. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc4:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 1. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc5:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 7. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc6:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc7:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 7. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc8:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc9:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High plus 5. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High plus 5. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc10:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low zero. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc11:20230303003300</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries or rain showers. High plus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-89_metric_e.html"/>
+ <updated>2023-03-03T00:33:00Z</updated>
+ <published>2023-03-03T00:33:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 5. Forecast issued 4:33 PM PST Thursday 02 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-89_fc12:20230303003300</id>
+ </entry>
+ </feed>
+
