@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Chambly - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-58_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-58_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-03T19:06:58Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230303190658</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Chambly</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc65"/>
+ <updated>2023-03-03T18:12:00Z</updated>
+ <published>2023-03-03T18:12:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 1:12 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_w1:202303031812</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Sunny, -5.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T19:00:00Z</updated>
+ <published>2023-03-03T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Saint-Hubert Airport 2:00 PM EST Friday 03 March 2023 <br/>
+<b>Condition:</b> Sunny <br/>
+<b>Temperature:</b> -5.6&deg;C <br/>
+<b>Pressure:</b> 102.0 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 55 %<br/>
+<b>Wind Chill:</b> -10 <br/>
+<b>Dewpoint:</b> -13.2&deg;C <br/>
+<b>Wind:</b> NE 9 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_cc:20230303190000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind becoming northeast 20 km/h late this afternoon. High minus 3. Wind chill minus 12 this afternoon. UV index 4 or moderate. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc1:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Snow beginning after midnight. Amount 5 cm across upper Richelieu. Wind northeast 20 km/h gusting to 40. Low minus 7. Wind chill minus 14 this evening. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc2:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 10 to 15 cm. Wind northeast 20 km/h gusting to 40 becoming light in the afternoon. High zero. Wind chill minus 8 in the morning. UV index 1 or low. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc3:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc4:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 2. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc5:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc6:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 3. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc7:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc8:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc9:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc10:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc11:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 3. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc12:20230303181300</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-58_metric_e.html"/>
+ <updated>2023-03-03T18:13:00Z</updated>
+ <published>2023-03-03T18:13:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 1:13 PM EST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-58_fc13:20230303181300</id>
+ </entry>
+ </feed>
+
