@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Vancouver - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-74_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-74_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-04T07:00:10Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230304070010</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Vancouver</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-02T17:45:00Z</updated>
+ <published>2023-03-02T17:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_w1:20230302174500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 3.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T06:39:00Z</updated>
+ <published>2023-03-04T06:39:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Vancouver Int'l Airport 10:39 PM PST Friday 03 March 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 3.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.6 kPa falling<br/>
+<b>Visibility:</b> 12.9 km<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Dewpoint:</b> 2.9&deg;C <br/>
+<b>Wind:</b> E 18 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_cc:20230304063900</id>
+ </entry>
+ <entry>
+ <title>Friday night: A few showers. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or wet snow except a few flurries over higher terrain. Risk of hail. Local snowfall amount 2 cm over higher terrain. Wind southeast 20 km/h except gusting to 50 near the Strait of Georgia. Low plus 2. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc1:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Wind east 20 km/h. High 6. UV index 1 or low. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc2:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of showers late in the evening and overnight. Low plus 2. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc3:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High 9. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc4:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of showers. Low zero. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc5:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 9. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc6:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of showers. Low plus 2. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of showers. Low plus 2. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc7:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High 10. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of showers. High 10. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc8:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of rain showers or flurries. Low plus 1. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc9:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 8. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc10:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 2. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc11:20230304000000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-74_metric_e.html"/>
+ <updated>2023-03-04T00:00:00Z</updated>
+ <published>2023-03-04T00:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 9. Forecast issued 4:00 PM PST Friday 03 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-74_fc12:20230304000000</id>
+ </entry>
+ </feed>
+
