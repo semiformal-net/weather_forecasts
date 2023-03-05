@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Southend Reindeer - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/sk-50_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/sk-50_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-05T11:01:11Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230305110111</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Southend Reindeer</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T18:45:00Z</updated>
+ <published>2023-02-24T18:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_w1:20230224184500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -25.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Southend 04:00 AM CST Sunday 05 March 2023 <br/>
+<b>Temperature:</b> -25.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.5 kPa rising<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Wind Chill:</b> -29 <br/>
+<b>Dewpoint:</b> -27.7&deg;C <br/>
+<b>Wind:</b> WSW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_cc:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 16. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. Wind up to 15 km/h. High minus 16. Wind chill minus 30 this morning and minus 20 this afternoon. Risk of frostbite. UV index 2 or low. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc1:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 29. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 29. Wind chill minus 20 this evening and minus 34 overnight. Risk of frostbite. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc2:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 17. Wind chill minus 34 in the morning and minus 21 in the afternoon. Risk of frostbite. UV index 2 or low. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc3:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 31. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc4:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc5:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 23. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc6:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 10. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc7:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 25. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc8:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc9:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 21. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc10:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc11:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc12:20230305110000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+ <updated>2023-03-05T11:00:00Z</updated>
+ <published>2023-03-05T11:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 05:00 AM CST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:sk-50_fc13:20230305110000</id>
+ </entry>
+ </feed>
+
