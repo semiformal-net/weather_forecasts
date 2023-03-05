@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Forillon - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-67_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-67_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-05T13:06:09Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230305130609</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>BLOWING SNOW ADVISORY , Forillon</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc38"/>
+ <updated>2023-03-05T09:24:00Z</updated>
+ <published>2023-03-05T09:24:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:24 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_w1:202303050924</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, -4.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T13:00:00Z</updated>
+ <published>2023-03-05T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Gaspé Airport 08:00 AM EST Sunday 05 March 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> -4.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.4 kPa falling<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 40 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -16.4&deg;C <br/>
+<b>Wind:</b> NW 24 km/h gust 48 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_cc:20230305130000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of light snow and blowing snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Increasing cloudiness late this morning then periods of light snow beginning this afternoon. Blowing snow this afternoon. Wind northwest 30 km/h gusting to 50 except gusting to 70 in Forillon Park this afternoon. High minus 2. Wind chill minus 18 this morning and minus 9 this afternoon. UV index 3 or moderate. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc1:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow and blowing snow. Temperature steady near minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and blowing snow. Amount 5 cm except 10 cm in Forillon Park. Wind northwest 30 km/h gusting to 50 except gusting to 70 in Forillon Park. Temperature steady near minus 3. Wind chill near minus 10. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc2:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending near noon then cloudy with 60 percent chance of flurries. Amount 2 to 4 cm except 5 cm in Forillon Park. Wind northwest 30 km/h gusting to 50 becoming light near noon. High plus 1. Wind chill minus 10 in the morning. UV index 2 or low. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc3:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low zero. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc4:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 2. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc5:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low zero. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc6:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc7:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 3. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc8:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc9:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc10:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High zero. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc11:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc12:20230305100000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-67_metric_e.html"/>
+ <updated>2023-03-05T10:00:00Z</updated>
+ <published>2023-03-05T10:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 2. Forecast issued 05:00 AM EST Sunday 05 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-67_fc13:20230305100000</id>
+ </entry>
+ </feed>
+
