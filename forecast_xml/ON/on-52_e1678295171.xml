@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Ottawa (Richmond - Metcalfe) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-52_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-52_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-08T17:06:22Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230308170622</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Ottawa (Richmond - Metcalfe)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-04T21:45:00Z</updated>
+ <published>2023-03-04T21:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_w1:20230304214500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -2.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T17:00:00Z</updated>
+ <published>2023-03-08T17:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ottawa Macdonald-Cartier Int'l Airport 12:00 PM EST Wednesday 08 March 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -2.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.9 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 59 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -9.0&deg;C <br/>
+<b>Wind:</b> NW 17 km/h gust 28 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_cc:20230308170000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Wind northwest 20 km/h becoming light late this afternoon. High minus 1. Wind chill minus 10 this morning and minus 5 this afternoon. UV index 2 or low. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc1:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 7. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 7. Wind chill minus 6 this evening and minus 14 overnight. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc2:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Wind northwest 30 km/h. High minus 1. Wind chill minus 14 in the morning and minus 7 in the afternoon. UV index 2 or low. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc3:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 7. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc4:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc5:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 6. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 6. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc6:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc7:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 8. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc8:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 3. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc9:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 7. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc10:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc11:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc12:20230308160000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-52_metric_e.html"/>
+ <updated>2023-03-08T16:00:00Z</updated>
+ <published>2023-03-08T16:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 11:00 AM EST Wednesday 08 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-52_fc13:20230308160000</id>
+ </entry>
+ </feed>
+
