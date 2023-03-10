@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Atlin - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-67_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-67_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-10T22:10:01Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230310221001</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Atlin</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-25T13:10:00Z</updated>
+ <published>2023-02-25T13:10:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_w1:20230225131000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, -9.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T22:00:00Z</updated>
+ <published>2023-03-10T22:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Teslin Airport 3:00 PM MST Friday 10 March 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> -9.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.4 kPa falling<br/>
+<b>Visibility:</b> 64.4 km<br/>
+<b>Humidity:</b> 39 %<br/>
+<b>Wind Chill:</b> -15 <br/>
+<b>Dewpoint:</b> -20.4&deg;C <br/>
+<b>Wind:</b> NNE 14 km/h gust 28 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_cc:20230310220000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Drifting snow. Wind north 30 km/h gusting to 50. High minus 12. Wind chill near minus 26. UV index 1 or low. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc1:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Partly cloudy. Low minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Drifting snow. Wind north 30 km/h gusting to 50. Low minus 21. Wind chill minus 23 this evening and minus 33 overnight. Risk of frostbite. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc2:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Mainly sunny. High minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind north 20 km/h. High minus 15. Wind chill minus 32 in the morning and minus 23 in the afternoon. Risk of frostbite. UV index 1 or low. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc3:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 29. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc4:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 16. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc5:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 24. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc6:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 14. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc7:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc8:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 10. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc9:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 19. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc10:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 7. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc11:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 15. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc12:20230310180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 4. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-67_metric_e.html"/>
+ <updated>2023-03-10T18:00:00Z</updated>
+ <published>2023-03-10T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 4. Forecast issued 11:00 AM PST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-67_fc13:20230310180000</id>
+ </entry>
+ </feed>
+
