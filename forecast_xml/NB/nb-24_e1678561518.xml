@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>St. Leonard - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nb-24_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nb-24_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-11T19:03:36Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230311190336</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, St. Leonard</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-03T17:22:00Z</updated>
+ <published>2023-03-03T17:22:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_w1:20230303172200</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. UV index 3 or moderate. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc1:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 13 except minus 18 in low lying areas.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13 except minus 18 in low lying areas. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc2:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High plus 5. Wind chill minus 16 in the morning. UV index 3 or moderate. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc3:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 11. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc4:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc5:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 3. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc6:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc7:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 4. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc8:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High plus 1. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc9:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc10:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc11:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc12:20230311150000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nb-24_metric_e.html"/>
+ <updated>2023-03-11T15:00:00Z</updated>
+ <published>2023-03-11T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 1. Forecast issued 11:00 AM AST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nb-24_fc13:20230311150000</id>
+ </entry>
+ </feed>
+
