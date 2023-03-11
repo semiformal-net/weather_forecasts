@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Deux-Montagnes - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-63_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-63_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-11T00:01:23Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230311000123</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Deux-Montagnes</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-03T19:45:00Z</updated>
+ <published>2023-03-03T19:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_w1:20230303194500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -3.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T23:00:00Z</updated>
+ <published>2023-03-10T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Sainte-Anne-de-Bellevue 6:00 PM EST Friday 10 March 2023 <br/>
+<b>Temperature:</b> -3.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa falling<br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Wind Chill:</b> -5 <br/>
+<b>Dewpoint:</b> -7.7&deg;C <br/>
+<b>Wind:</b> SE 5 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_cc:20230310230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Mainly cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind becoming northeast 20 km/h overnight. Low minus 5. Wind chill minus 12 overnight. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc1:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 30 percent chance of flurries in the morning. Wind northeast 20 km/h becoming light near noon. High plus 1. Wind chill minus 10 in the morning. UV index 2 or low. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc2:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Mainly cloudy. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind up to 15 km/h. Low minus 8. Wind chill minus 11 overnight. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc3:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc4:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 4. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc5:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 2. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc6:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 1. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc7:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Snow or rain. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. High plus 2. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc8:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of rain or snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or snow. Low minus 4. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc9:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High plus 5. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc10:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc11:20230310204500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-63_metric_e.html"/>
+ <updated>2023-03-10T20:45:00Z</updated>
+ <published>2023-03-10T20:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 3:45 PM EST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-63_fc12:20230310204500</id>
+ </entry>
+ </feed>
+
