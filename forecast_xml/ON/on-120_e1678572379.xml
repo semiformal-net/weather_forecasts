@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Pickle Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-120_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-120_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-11T22:03:23Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230311220323</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Pickle Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-23T17:15:00Z</updated>
+ <published>2023-02-23T17:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_w1:20230223171500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Partly Cloudy, -5.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Pickle Lake Airport 4:00 PM EST Saturday 11 March 2023 <br/>
+<b>Condition:</b> Partly Cloudy <br/>
+<b>Temperature:</b> -5.7&deg;C <br/>
+<b>Pressure:</b> 102.8 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 35 %<br/>
+<b>Wind Chill:</b> -12 <br/>
+<b>Dewpoint:</b> -18.7&deg;C <br/>
+<b>Wind:</b> ENE 18 km/h gust 28 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_cc:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Partly cloudy. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness early this evening. Wind up to 15 km/h. Low minus 16. Wind chill minus 12 this evening and minus 22 overnight. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc1:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 8. Wind chill minus 22 in the morning and minus 13 in the afternoon. UV index 2 or low. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc2:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 24. Wind chill minus 14 in the evening and minus 28 overnight. Risk of frostbite. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc3:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 6. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc4:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 16. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc5:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High minus 2. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc6:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of snow. Low minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of snow. Low minus 6. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc7:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Periods of snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High zero. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc8:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Flurries. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 15. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc9:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc10:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 22. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc11:20230311210000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-120_metric_e.html"/>
+ <updated>2023-03-11T21:00:00Z</updated>
+ <published>2023-03-11T21:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM EST Saturday 11 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-120_fc12:20230311210000</id>
+ </entry>
+ </feed>
+
