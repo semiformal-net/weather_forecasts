@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cape Race - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-28_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-28_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-11T03:10:47Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230311031047</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Cape Race</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-09T14:15:00Z</updated>
+ <published>2023-03-09T14:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_w1:20230309141500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-11T03:00:00Z</updated>
+ <published>2023-03-11T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cape Race 11:30 PM NST Friday 10 March 2023 <br/>
+<b>Temperature:</b> 0.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.1 kPa falling<br/>
+<b>Humidity:</b> 88 %<br/>
+<b>Dewpoint:</b> -1.3&deg;C <br/>
+<b>Wind:</b> WNW 84 km/h gust 122 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_cc:20230311030000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. 40 percent chance of flurries early this evening. Periods of snow beginning this evening. Amount 2 to 4 cm. Wind northwest 30 km/h gusting to 50. Low plus 1. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc1:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of snow or rain. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow changing to periods of rain mixed with snow near noon. Snowfall amount 2 to 4 cm. Rainfall amount 2 mm. Wind northwest 30 km/h gusting to 50. High plus 3. UV index 1 or low. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc2:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of snow mixed with rain. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow mixed with rain ending near midnight then cloudy with 40 percent chance of flurries. Wind north 30 km/h gusting to 50. Low zero. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc3:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc4:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 1. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc5:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc6:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc7:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc8:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc9:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries or rain showers. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 2. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc10:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low plus 1. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc11:20230310193000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Flurries or rain showers. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-28_metric_e.html"/>
+ <updated>2023-03-10T19:30:00Z</updated>
+ <published>2023-03-10T19:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or rain showers. High plus 3. Forecast issued 4:00 PM NST Friday 10 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-28_fc12:20230310193000</id>
+ </entry>
+ </feed>
+
