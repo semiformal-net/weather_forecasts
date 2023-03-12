@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Wreckhouse - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-18_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-18_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-12T22:02:46Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230312220246</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Wreckhouse</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-06T04:45:00Z</updated>
+ <published>2023-03-06T04:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_w1:20230306044500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 2.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T21:00:00Z</updated>
+ <published>2023-03-12T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Wreckhouse 6:30 PM NDT Sunday 12 March 2023 <br/>
+<b>Temperature:</b> 2.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa rising<br/>
+<b>Wind:</b> N 22 km/h gust 31 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_cc:20230312210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Partly cloudy. Low minus 5 except minus 9 north of Cape Ray.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Becoming partly cloudy this evening. Wind northeast 20 km/h gusting to 40. Low minus 5 except minus 9 north of Cape Ray. Wind chill minus 11 overnight. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc1:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind northeast 20 km/h becoming light near noon. High plus 5. Wind chill minus 12 in the morning. UV index 3 or moderate. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc2:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 5 except minus 9 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5 except minus 9 inland. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc3:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc4:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 4. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc5:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Windy. High zero. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc6:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Windy. Low minus 2. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc7:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of snow or rain. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 2. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc8:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 1. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc9:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 2. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc10:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 2. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc11:20230312183000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-18_metric_e.html"/>
+ <updated>2023-03-12T18:30:00Z</updated>
+ <published>2023-03-12T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 4:00 PM NDT Sunday 12 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-18_fc12:20230312183000</id>
+ </entry>
+ </feed>
+
