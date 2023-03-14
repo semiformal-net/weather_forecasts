@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Cochrane - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-1_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-1_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-14T08:04:44Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230314080444</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL AIR QUALITY STATEMENT , Cochrane</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ab1"/>
+ <updated>2023-03-14T01:39:00Z</updated>
+ <published>2023-03-14T01:39:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 7:39 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_w1:202303140139</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, -8.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-14T07:42:00Z</updated>
+ <published>2023-03-14T07:42:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Springbank Airport 01:42 AM MDT Tuesday 14 March 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> -8.7&deg;C <br/>
+<b>Pressure:</b> 100.2 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Wind Chill:</b> -18 <br/>
+<b>Dewpoint:</b> -13.2&deg;C <br/>
+<b>Wind:</b> N 32 km/h gust 42 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_cc:20230314074200</id>
+ </entry>
+ <entry>
+ <title>Monday night: A few flurries. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Becoming cloudy near midnight with a few flurries. Hazy this evening. Amount 2 cm. Wind becoming northwest 20 km/h gusting to 40 near midnight. Low minus 15. Wind chill minus 13 this evening and minus 24 overnight. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc1:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A few flurries. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending in the morning then clearing. Wind up to 15 km/h. High plus 2. Wind chill minus 14 in the morning. UV index 3 or moderate. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc2:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 19. Wind chill minus 23 overnight. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc3:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc4:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc5:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc6:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 14. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc7:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc8:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc9:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc10:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc11:20230313220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-1_metric_e.html"/>
+ <updated>2023-03-13T22:00:00Z</updated>
+ <published>2023-03-13T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 4:00 PM MDT Monday 13 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-1_fc12:20230313220000</id>
+ </entry>
+ </feed>
+
