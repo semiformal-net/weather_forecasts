@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Pembroke - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-131_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-131_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-15T04:04:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230315040453</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Pembroke</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on13"/>
+ <updated>2023-03-15T01:46:00Z</updated>
+ <published>2023-03-15T01:46:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:46 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_w1:202303150146</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -3.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-15T03:00:00Z</updated>
+ <published>2023-03-15T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Pembroke 11:00 PM EDT Tuesday 14 March 2023 <br/>
+<b>Temperature:</b> -3.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.7 kPa rising<br/>
+<b>Humidity:</b> 50 %<br/>
+<b>Wind Chill:</b> -10 <br/>
+<b>Dewpoint:</b> -12.5&deg;C <br/>
+<b>Wind:</b> NNW 22 km/h gust 40 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_cc:20230315030000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 11. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries early this evening. Wind northwest 20 km/h. Low minus 11. Wind chill minus 7 this evening and minus 18 overnight. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc1:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind northwest 20 km/h gusting to 40 becoming light in the afternoon. High plus 2. Wind chill minus 18 in the morning. UV index 4 or moderate. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc2:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of light snow. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. 40 percent chance of light snow before morning. Wind up to 15 km/h. Low minus 6. Wind chill minus 8 in the evening. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc3:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 3. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc4:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 3. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc5:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High zero. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc6:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 1. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc7:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Saturday: Flurries. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. High plus 3. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc8:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 14. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc9:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High plus 1. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc10:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 11. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 11. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc11:20230314221900</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 4. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-131_metric_e.html"/>
+ <updated>2023-03-14T22:19:00Z</updated>
+ <published>2023-03-14T22:19:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 4. Forecast issued 6:19 PM EDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-131_fc12:20230314221900</id>
+ </entry>
+ </feed>
+
