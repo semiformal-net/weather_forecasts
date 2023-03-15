@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Pitt Meadows - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-35_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-35_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-15T08:03:28Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230315080328</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Pitt Meadows</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-04T08:30:00Z</updated>
+ <published>2023-03-04T08:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_w1:20230304083000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 4.2&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-15T07:00:00Z</updated>
+ <published>2023-03-15T07:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Pitt Meadows 12:00 AM PDT Wednesday 15 March 2023 <br/>
+<b>Temperature:</b> 4.2&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.9 kPa rising<br/>
+<b>Humidity:</b> 82 %<br/>
+<b>Dewpoint:</b> 1.4&deg;C <br/>
+<b>Wind:</b> NE 2 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_cc:20230315070000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 60 percent chance of showers late this evening and overnight. Wind southeast 20 km/h becoming southwest 20 late this evening. Low plus 3. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc1:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Clearing. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the morning. High 9. UV index 3 or moderate. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc2:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few clouds. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Low zero. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc3:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 9 except 13 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 9 except 13 inland. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc4:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 1. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc5:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Friday: Sunny. High 11 except 14 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 11 except 14 inland. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc6:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 3. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc7:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High 12 except 15 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 12 except 15 inland. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc8:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 4. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc9:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 12. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc10:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc11:20230314230000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-35_metric_e.html"/>
+ <updated>2023-03-14T23:00:00Z</updated>
+ <published>2023-03-14T23:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 10. Forecast issued 4:00 PM PDT Tuesday 14 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-35_fc12:20230314230000</id>
+ </entry>
+ </feed>
+
