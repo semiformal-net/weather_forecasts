@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Whistler - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-86_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-86_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-16T15:01:29Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230316150129</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Whistler</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-02T20:07:00Z</updated>
+ <published>2023-03-02T20:07:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_w1:20230302200700</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -6.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T14:00:00Z</updated>
+ <published>2023-03-16T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Whistler 07:00 AM PDT Thursday 16 March 2023 <br/>
+<b>Temperature:</b> -6.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.0 kPa rising<br/>
+<b>Humidity:</b> 93 %<br/>
+<b>Dewpoint:</b> -7.4&deg;C <br/>
+<b>Wind:</b>   km/h<br/>
+<b>Air Quality Health Index:</b> 1 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_cc:20230316140000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Mainly sunny. High 8 except 11 near Pemberton.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High 8 except 11 near Pemberton. Wind chill minus 10 this morning. UV index 3 or moderate. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc1:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: A few clouds. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 6. Wind chill minus 10 overnight. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc2:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High 10 except 13 near Pemberton.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind up to 15 km/h. High 10 except 13 near Pemberton. Wind chill minus 10 in the morning. UV index 4 or moderate. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc3:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc4:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 11. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc5:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 3. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc6:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 10. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc7:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 1. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc8:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Monday: Periods of rain. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. High 7. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc9:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 1. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc10:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 10. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc11:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low plus 1. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc12:20230316120000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-86_metric_e.html"/>
+ <updated>2023-03-16T12:00:00Z</updated>
+ <published>2023-03-16T12:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 11. Forecast issued 05:00 AM PDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-86_fc13:20230316120000</id>
+ </entry>
+ </feed>
+
