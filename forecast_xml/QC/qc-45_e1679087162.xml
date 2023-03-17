@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>La Sarre - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-45_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-45_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-17T21:01:44Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230317210144</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , La Sarre</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc56"/>
+ <updated>2023-03-17T20:28:00Z</updated>
+ <published>2023-03-17T20:28:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:28 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_w1:202303172028</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T20:00:00Z</updated>
+ <published>2023-03-17T20:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Rouyn 4:00 PM EDT Friday 17 March 2023 <br/>
+<b>Temperature:</b> 0.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.0 kPa falling<br/>
+<b>Humidity:</b> 100 %<br/>
+<b>Dewpoint:</b> 0.3&deg;C <br/>
+<b>Wind:</b> ENE 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_cc:20230317200000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow at times heavy mixed with rain. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow at times heavy. Snow mixed with rain early this evening. Snowfall amount 5 cm. Wind east 20 km/h gusting to 40 becoming south 20 gusting to 40 near midnight. Low minus 10. Wind chill minus 14 overnight. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc1:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending in the morning then a mix of sun and cloud with 60 percent chance of flurries. Wind southwest 20 km/h gusting to 40 becoming light in the afternoon. High minus 3. Wind chill minus 18 in the morning and minus 7 in the afternoon. UV index 3 or moderate. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc2:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 15. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 60 percent chance of flurries in the evening. Wind northwest 20 km/h. Low minus 15. Wind chill minus 10 in the evening and minus 24 overnight. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc3:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 3. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc4:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 9. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 9. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc5:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 1. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc6:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 19. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc7:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 2. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc8:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 15. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc9:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High minus 1. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc10:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 10. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 10. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc11:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-45_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 1. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-45_fc12:20230317194500</id>
+ </entry>
+ </feed>
+
