@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Temiscouata - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-35_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-35_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-17T23:06:53Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230317230653</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Temiscouata</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-21T03:30:00Z</updated>
+ <published>2023-02-21T03:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_w1:20230221033000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T23:00:00Z</updated>
+ <published>2023-03-17T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Rivière-du-Loup 7:00 PM EDT Friday 17 March 2023 <br/>
+<b>Temperature:</b> 3.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.3 kPa falling<br/>
+<b>Humidity:</b> 72 %<br/>
+<b>Dewpoint:</b> -1.5&deg;C <br/>
+<b>Wind:</b> S 10 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_cc:20230317230000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 2 to 4 cm. Low zero. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc1:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of drizzle. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of drizzle ending near noon then cloudy. High plus 5. UV index 2 or low. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc2:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Flurries beginning in the evening. Wind southwest 20 km/h gusting to 40. Low minus 5. Wind chill minus 9 overnight. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc3:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 3. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc4:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc5:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 2. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc6:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc7:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of showers. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High plus 3. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc8:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Periods of snow. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 10. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc9:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 1. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc10:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 8. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc11:20230317194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-35_metric_e.html"/>
+ <updated>2023-03-17T19:45:00Z</updated>
+ <published>2023-03-17T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 3:45 PM EDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-35_fc12:20230317194500</id>
+ </entry>
+ </feed>
+
