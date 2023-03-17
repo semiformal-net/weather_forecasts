@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Lewisporte - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-9_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-9_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-17T14:04:38Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230317140438</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Lewisporte</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-16T19:15:00Z</updated>
+ <published>2023-03-16T19:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_w1:20230316191500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow, 0.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:00:00Z</updated>
+ <published>2023-03-17T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Gander Int'l Airport 10:30 AM NDT Friday 17 March 2023 <br/>
+<b>Condition:</b> Light Snow <br/>
+<b>Temperature:</b> 0.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.7 kPa rising<br/>
+<b>Visibility:</b> 4.8 km<br/>
+<b>Humidity:</b> 97 %<br/>
+<b>Dewpoint:</b> 0.1&deg;C <br/>
+<b>Wind:</b> N 30 km/h gust 41 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_cc:20230317130000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. Temperature steady near plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Wind north 20 km/h gusting to 40 becoming northwest 40 gusting to 60 except gusting to 80 along parts of the coast late this afternoon. Temperature steady near plus 1. UV index 1 or low. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc1:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow with risk of freezing drizzle. Amount 2 cm. Wind northwest 40 km/h gusting to 60 except gusting to 80 along parts of the coast early this evening. Low minus 1. Wind chill near minus 8. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc2:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or drizzle. Risk of freezing drizzle in the morning. Wind northwest 30 km/h gusting to 50 becoming light in the afternoon. High plus 1. Wind chill minus 8 in the morning. UV index 2 or low. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc3:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc4:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of snow or rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 4. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc5:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low minus 5. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of showers. Low minus 5. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc6:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High zero. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High zero. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc7:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Windy. Low minus 5. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc8:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Windy. High minus 1. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc9:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 6. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc10:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc11:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc12:20230317133000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+ <updated>2023-03-17T13:30:00Z</updated>
+ <published>2023-03-17T13:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 11:00 AM NDT Friday 17 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-9_fc13:20230317133000</id>
+ </entry>
+ </feed>
+
