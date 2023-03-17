@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Mine Centre - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-48_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-48_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-17T05:06:15Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230317050615</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>WEATHER ADVISORY , Mine Centre</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?on37"/>
+ <updated>2023-03-16T22:33:00Z</updated>
+ <published>2023-03-16T22:33:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:33 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_w1:202303162233</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -5.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-17T05:00:00Z</updated>
+ <published>2023-03-17T05:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Atikokan 12:00 AM EST Friday 17 March 2023 <br/>
+<b>Temperature:</b> -5.3&deg;C <br/>
+<b>Pressure / Tendency:</b> 100.8 kPa falling<br/>
+<b>Humidity:</b> 88 %<br/>
+<b>Wind Chill:</b> -9 <br/>
+<b>Dewpoint:</b> -7.0&deg;C <br/>
+<b>Wind:</b> NE 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_cc:20230317050000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and local blowing snow. Amount 5 cm. Wind northwest 20 km/h gusting to 40. Low minus 11. Wind chill minus 9 this evening and minus 18 overnight. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc1:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and local blowing snow. Amount 2 cm. Wind north 20 km/h gusting to 40. High minus 9. Wind chill near minus 19. UV index 1 or low. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc2:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and local blowing snow. Amount 2 cm. Wind north 20 km/h gusting to 40. Low minus 14. Wind chill minus 17 in the evening and minus 22 overnight. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc3:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Saturday: Sunny. High minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 3. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc4:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 16.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 16. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc5:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 1. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc6:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc7:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 1. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc8:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc9:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High zero. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc10:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 9. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc11:20230316224800</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-48_metric_e.html"/>
+ <updated>2023-03-16T22:48:00Z</updated>
+ <published>2023-03-16T22:48:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High zero. Forecast issued 6:48 PM CDT Thursday 16 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-48_fc12:20230316224800</id>
+ </entry>
+ </feed>
+
