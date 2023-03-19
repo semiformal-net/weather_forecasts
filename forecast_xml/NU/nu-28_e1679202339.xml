@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Rankin Inlet - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-28_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-28_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-19T05:05:33Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230319050533</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Rankin Inlet</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-23T22:11:00Z</updated>
+ <published>2023-02-23T22:11:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_w1:20230223221100</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snow and Blowing Snow, -19.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T04:39:00Z</updated>
+ <published>2023-03-19T04:39:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Rankin Inlet Airport 11:39 PM CDT Saturday 18 March 2023 <br/>
+<b>Condition:</b> Light Snow and Blowing Snow <br/>
+<b>Temperature:</b> -19.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.3 kPa rising<br/>
+<b>Visibility:</b> 4.8 km<br/>
+<b>Humidity:</b> 81 %<br/>
+<b>Wind Chill:</b> -30 <br/>
+<b>Dewpoint:</b> -22.1&deg;C <br/>
+<b>Wind:</b> NE 20 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_cc:20230319043900</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of light snow. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow ending overnight then cloudy. Wind becoming northeast 20 km/h near midnight. Low minus 23. Wind chill minus 27 this evening and minus 33 overnight. Risk of frostbite. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc1:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Becoming a mix of sun and cloud in the morning. Wind north 20 km/h. High minus 20. Wind chill near minus 34. Risk of frostbite. UV index 1 or low. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc2:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Partly cloudy. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind north 20 km/h becoming light in the evening. Low minus 28. Wind chill minus 34 in the evening and minus 39 overnight. Risk of frostbite. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc3:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 22.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 22. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc4:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 29.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 29. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc5:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 24.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 24. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc6:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 33.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 33. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc7:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 23. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc8:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 28. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc9:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 21.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 21. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc10:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 28.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 28. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc11:20230319011000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-28_metric_e.html"/>
+ <updated>2023-03-19T01:10:00Z</updated>
+ <published>2023-03-19T01:10:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 20. Forecast issued 8:10 PM CDT Saturday 18 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-28_fc12:20230319011000</id>
+ </entry>
+ </feed>
+
