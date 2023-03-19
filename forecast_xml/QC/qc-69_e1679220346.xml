@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Baie-James - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-69_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-69_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-19T10:03:38Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230319100338</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Baie-James</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T17:15:00Z</updated>
+ <published>2023-02-24T17:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_w1:20230224171500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -19.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Waskaganish Airport 05:00 AM EDT Sunday 19 March 2023 <br/>
+<b>Temperature:</b> -19.3&deg;C <br/>
+<b>Pressure:</b> 100.2 kPa <br/>
+<b>Humidity:</b> 80 %<br/>
+<b>Wind Chill:</b> -27 <br/>
+<b>Dewpoint:</b> -21.9&deg;C <br/>
+<b>Wind:</b> SE 11 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_cc:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Periods of light snow. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow. Wind becoming north 20 km/h this morning. High minus 8. Wind chill minus 20 this morning and minus 14 this afternoon. UV index 1 or low. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc1:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Periods of light snow. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of light snow. Wind up to 15 km/h. Low minus 14. Wind chill minus 15 this evening and minus 21 overnight. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc2:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 60 percent chance of flurries. Wind becoming west 20 km/h near noon. High minus 8. Wind chill minus 22 in the morning and minus 14 in the afternoon. UV index 2 or low. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc3:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 15. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc4:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 10. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc5:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 20.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 20. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc6:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 9. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc7:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of snow. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. Low minus 14. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc8:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High zero. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc9:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Flurries. Low minus 15.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries. Low minus 15. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc10:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High minus 8. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc11:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 17. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc12:20230319090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-69_metric_e.html"/>
+ <updated>2023-03-19T09:00:00Z</updated>
+ <published>2023-03-19T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 8. Forecast issued 05:00 AM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-69_fc13:20230319090000</id>
+ </entry>
+ </feed>
+
