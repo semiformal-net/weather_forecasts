@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Rodney - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-172_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-172_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-19T22:04:51Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230319220451</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Rodney</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-10T23:45:00Z</updated>
+ <published>2023-03-10T23:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_w1:20230310234500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T21:00:00Z</updated>
+ <published>2023-03-19T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Ridgetown 5:00 PM EDT Sunday 19 March 2023 <br/>
+<b>Temperature:</b> 3.1&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa falling<br/>
+<b>Humidity:</b> 38 %<br/>
+<b>Dewpoint:</b> -9.8&deg;C <br/>
+<b>Wind:</b> WSW 23 km/h gust 36 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_cc:20230319210000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Clear. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind southwest 20 km/h gusting to 40 becoming light before morning. Low minus 4. Wind chill minus 9 overnight. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc1:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind becoming southwest 30 km/h gusting to 50 in the morning. High 7. Wind chill minus 9 in the morning. UV index 5 or moderate. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc2:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of rain showers or flurries. Low plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the evening with 30 percent chance of rain showers or flurries in the evening and overnight. Wind southwest 20 km/h gusting to 40 becoming light overnight. Low plus 1. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc3:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 7. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc4:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of rain showers or flurries. Low plus 1. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low plus 1. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc5:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of showers. High 8. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc6:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of showers. Low plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc7:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of showers. High 12. POP 70%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 70 percent chance of showers. High 12. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc8:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low plus 1. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc9:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of rain showers or flurries. High 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of rain showers or flurries. High 6. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc10:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc11:20230319193200</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of rain showers or flurries. High 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-172_metric_e.html"/>
+ <updated>2023-03-19T19:32:00Z</updated>
+ <published>2023-03-19T19:32:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of rain showers or flurries. High 6. Forecast issued 3:32 PM EDT Sunday 19 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-172_fc12:20230319193200</id>
+ </entry>
+ </feed>
+
