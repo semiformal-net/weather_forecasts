@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Nain - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-40_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-40_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-20T15:05:00Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230320150500</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>BLIZZARD WARNING , Nain</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?nl23"/>
+ <updated>2023-03-20T13:42:00Z</updated>
+ <published>2023-03-20T13:42:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:42 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_w1:202303201342</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Light Snowshower, -8.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Nain Airport 11:00 AM ADT Monday 20 March 2023 <br/>
+<b>Condition:</b> Light Snowshower <br/>
+<b>Temperature:</b> -8.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 99.7 kPa rising<br/>
+<b>Visibility:</b> 22.5 km<br/>
+<b>Humidity:</b> 79 %<br/>
+<b>Wind Chill:</b> -20 <br/>
+<b>Dewpoint:</b> -11.6&deg;C <br/>
+<b>Wind:</b> NW 53 km/h gust 73 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_cc:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Monday: Snow and blowing snow. High minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow and blowing snow. Amount 2 to 4 cm except 10 cm in the Natuashish area. Wind northwest 50 km/h gusting to 80. High minus 6. Wind chill minus 19 this afternoon. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc1:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Periods of snow and blowing snow. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow and blowing snow ending before morning then cloudy. Amount 5 cm in the Natuashish area. Wind northwest 40 km/h gusting to 70 diminishing to 20 gusting to 40 before morning. Low minus 11. Wind chill near minus 18. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc2:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly cloudy. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Clearing in the afternoon. Wind northwest 20 km/h. High minus 7. Wind chill minus 20 in the morning and minus 14 in the afternoon. UV index 2 or low. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc3:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 12. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc4:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 8. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc5:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 13. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc6:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 7. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc7:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 12. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc8:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High minus 6. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 6. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc9:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 11. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc10:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 7. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 7. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc11:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 13. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 13. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc12:20230320140000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-40_metric_e.html"/>
+ <updated>2023-03-20T14:00:00Z</updated>
+ <published>2023-03-20T14:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 8. Forecast issued 11:30 AM ADT Monday 20 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-40_fc13:20230320140000</id>
+ </entry>
+ </feed>
+
