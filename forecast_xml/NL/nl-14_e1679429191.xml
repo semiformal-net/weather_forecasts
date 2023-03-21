@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Bonavista - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nl-14_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nl-14_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-21T20:05:14Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230321200514</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Bonavista</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-21T07:30:00Z</updated>
+ <published>2023-03-21T07:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_w1:20230321073000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T19:00:00Z</updated>
+ <published>2023-03-21T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Bonavista 4:30 PM NDT Tuesday 21 March 2023 <br/>
+<b>Temperature:</b> 0.8&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.3 kPa rising<br/>
+<b>Humidity:</b> 85 %<br/>
+<b>Dewpoint:</b> -1.4&deg;C <br/>
+<b>Wind:</b> WNW 38 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_cc:20230321190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 5 except minus 11 in low lying inland areas. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. 40 percent chance of flurries this evening. Wind northwest 20 km/h gusting to 40. Low minus 5 except minus 11 in low lying inland areas. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc1:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High plus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Increasing cloudiness early in the afternoon then 40 percent chance of flurries late in the afternoon. Wind northwest 20 km/h gusting to 40 becoming west 20 in the morning then light in the afternoon. High plus 1. Wind chill minus 12 in the morning. UV index 4 or moderate. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc2:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: A few flurries. Low minus 6 except minus 11 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A few flurries ending overnight then partly cloudy. Local amount 2 cm. Wind becoming northwest 30 km/h gusting to 50 before morning. Low minus 6 except minus 11 inland. Wind chill minus 5 in the evening and minus 13 overnight. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc3:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High minus 1. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 1. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc4:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc5:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow. High minus 2. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc6:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow and blowing snow. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Blowing snow. Windy. Low minus 4. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc7:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 1. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc8:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Flurries or rain showers. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or rain showers. Low minus 3. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc9:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 1. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc10:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 4. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc11:20230321183000</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+ <updated>2023-03-21T18:30:00Z</updated>
+ <published>2023-03-21T18:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High zero. Forecast issued 4:00 PM NDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nl-14_fc12:20230321183000</id>
+ </entry>
+ </feed>
+
