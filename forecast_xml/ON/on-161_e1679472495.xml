@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Simcoe - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-161_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-161_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-22T08:09:39Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230322080939</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Simcoe</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-19T03:15:00Z</updated>
+ <published>2023-03-19T03:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_w1:20230319031500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-22T08:00:00Z</updated>
+ <published>2023-03-22T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Delhi 04:00 AM EDT Wednesday 22 March 2023 <br/>
+<b>Temperature:</b> 0.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.5 kPa falling<br/>
+<b>Humidity:</b> 81 %<br/>
+<b>Dewpoint:</b> -2.2&deg;C <br/>
+<b>Wind:</b> NW 4 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_cc:20230322080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Low zero. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc1:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of showers. High 8. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 40 percent chance of showers late in the morning and in the afternoon. High 8. UV index 5 or moderate. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc2:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Periods of rain. Temperature steady near 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Risk of a thunderstorm overnight. Wind south 20 km/h becoming light in the evening. Wind becoming southwest 20 gusting to 40 after midnight. Temperature steady near 7. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc3:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Thursday: Showers. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Windy. High 11. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc4:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low zero. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc5:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 8. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc6:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low zero. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc7:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Windy. High plus 3. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc8:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of rain showers or flurries. Low zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low zero. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc9:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 8. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc10:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low plus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low plus 1. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc11:20230321222600</id>
+ </entry>
+ <entry>
+ <title>Monday: Flurries or rain showers. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-161_metric_e.html"/>
+ <updated>2023-03-21T22:26:00Z</updated>
+ <published>2023-03-21T22:26:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or rain showers. High 6. Forecast issued 6:26 PM EDT Tuesday 21 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-161_fc12:20230321222600</id>
+ </entry>
+ </feed>
+

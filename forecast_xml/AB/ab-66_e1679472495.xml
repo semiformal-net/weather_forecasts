@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Waterton Park - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-66_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-66_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-22T08:07:47Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230322080747</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Waterton Park</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-11T12:30:00Z</updated>
+ <published>2023-03-11T12:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_w1:20230311123000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -11.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T08:00:00Z</updated>
+ <published>2023-03-22T08:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Waterton Park Gate 02:00 AM MDT Wednesday 22 March 2023 <br/>
+<b>Temperature:</b> -11.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.4 kPa falling<br/>
+<b>Humidity:</b> 87 %<br/>
+<b>Dewpoint:</b> -13.3&deg;C <br/>
+<b>Wind:</b>  0 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_cc:20230322080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Partly cloudy. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Fog patches. Wind up to 15 km/h. Low minus 10. Wind chill minus 15 overnight. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc1:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the morning. Fog patches dissipating in the morning. Wind up to 15 km/h. High 10. Wind chill minus 15 in the morning. UV index 3 or moderate. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc2:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 7. Wind chill minus 16 overnight. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc3:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 8. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc4:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 2. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc5:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc6:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 7. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc7:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc8:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc9:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc10:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 8. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc11:20230322060300</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-66_metric_e.html"/>
+ <updated>2023-03-22T06:03:00Z</updated>
+ <published>2023-03-22T06:03:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 12:03 AM MDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-66_fc12:20230322060300</id>
+ </entry>
+ </feed>
+
