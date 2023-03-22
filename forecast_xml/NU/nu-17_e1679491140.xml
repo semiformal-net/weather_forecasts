@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Chesterfield - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/nu-17_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/nu-17_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-22T13:06:42Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230322130642</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Chesterfield</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T10:45:00Z</updated>
+ <published>2023-02-24T10:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_w1:20230224104500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -33.3&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T13:00:00Z</updated>
+ <published>2023-03-22T13:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Chesterfield Inlet Airport 08:00 AM CDT Wednesday 22 March 2023 <br/>
+<b>Temperature:</b> -33.3&deg;C <br/>
+<b>Pressure:</b> 102.8 kPa <br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Wind Chill:</b> -42 <br/>
+<b>Dewpoint:</b> -36.9&deg;C <br/>
+<b>Wind:</b> WNW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_cc:20230322130000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Becoming a mix of sun and cloud this afternoon. Wind west 20 km/h becoming light early this afternoon. High minus 23. Wind chill minus 47 this morning and minus 28 this afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc1:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Partly cloudy. Low minus 31.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 31. Wind chill minus 31 this evening and minus 40 overnight. Frostbite in minutes. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc2:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 19. Wind chill minus 40 in the morning and minus 26 in the afternoon. Frostbite in minutes. UV index 1 or low. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc3:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 23. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc4:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 19. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc5:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 23.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 23. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc6:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 19. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc7:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 26.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 26. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc8:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 19. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc9:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 25. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc10:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 19.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 19. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc11:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 25.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 25. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc12:20230322090000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High minus 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/nu-17_metric_e.html"/>
+ <updated>2023-03-22T09:00:00Z</updated>
+ <published>2023-03-22T09:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 17. Forecast issued 04:00 AM CDT Wednesday 22 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:nu-17_fc13:20230322090000</id>
+ </entry>
+ </feed>
+
