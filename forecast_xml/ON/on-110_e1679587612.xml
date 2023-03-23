@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Wingham - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-110_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-110_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-23T16:00:24Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230323160024</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Wingham</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-23T15:45:00Z</updated>
+ <published>2023-03-23T15:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_w1:20230323154500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 3.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Mount Forest 11:00 AM EDT Thursday 23 March 2023 <br/>
+<b>Temperature:</b> 3.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.0 kPa rising<br/>
+<b>Humidity:</b> 98 %<br/>
+<b>Dewpoint:</b> 3.6&deg;C <br/>
+<b>Wind:</b> NW 10 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_cc:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Periods of rain. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain ending early this afternoon then a mix of sun and cloud. Fog patches dissipating near noon. Wind northwest 20 km/h gusting to 40. High 6. UV index 4 or moderate. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc1:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Partly cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind northwest 20 km/h becoming light this evening. Low minus 5. Wind chill minus 9 overnight. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc2:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Friday: Mainly sunny. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. Wind up to 15 km/h. High 7. Wind chill minus 8 in the morning. UV index 6 or high. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc3:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy. Low zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low zero. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc4:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Periods of rain or snow. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain or snow. Windy. High 7. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc5:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Rain showers or flurries. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries. Windy. Low minus 2. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc6:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High plus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Windy. High plus 3. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc7:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc8:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc9:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 4. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc10:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc11:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc12:20230323150000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-110_metric_e.html"/>
+ <updated>2023-03-23T15:00:00Z</updated>
+ <published>2023-03-23T15:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:00 AM EDT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-110_fc13:20230323150000</id>
+ </entry>
+ </feed>
+
