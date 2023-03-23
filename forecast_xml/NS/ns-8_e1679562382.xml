@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Guysborough - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-8_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-8_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-23T09:06:18Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230323090618</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SPECIAL WEATHER STATEMENT , Guysborough</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?ns18"/>
+ <updated>2023-03-23T07:48:00Z</updated>
+ <published>2023-03-23T07:48:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 04:48 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_w1:202303230748</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -4.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T09:00:00Z</updated>
+ <published>2023-03-23T09:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Tracadie 06:00 AM ADT Thursday 23 March 2023 <br/>
+<b>Temperature:</b> -4.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.8 kPa falling<br/>
+<b>Humidity:</b> 70 %<br/>
+<b>Wind Chill:</b> -8 <br/>
+<b>Dewpoint:</b> -9.1&deg;C <br/>
+<b>Wind:</b> W 7 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_cc:20230323090000</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness this morning. Wind becoming southeast 20 km/h this afternoon. High plus 2. Wind chill minus 10 this morning. UV index 3 or moderate. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc1:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow beginning this evening. Amount 10 to 15 cm. Wind southeast 20 km/h becoming east 30 gusting to 50 this evening. Low minus 1. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc2:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High plus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow ending in the morning then cloudy with 60 percent chance of flurries. Wind northeast 30 km/h gusting to 50 becoming north 20 gusting to 40 in the morning. High plus 2. UV index 2 or low. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc3:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Chance of flurries. Low minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 2. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc4:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing. High plus 3. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc5:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low minus 2. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc6:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 2. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc7:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Snow or rain. Low plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. Low plus 1. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc8:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High plus 4. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc9:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 2. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc10:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 30 percent chance of flurries. High plus 2. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc11:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 5. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc12:20230323080000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+ <updated>2023-03-23T08:00:00Z</updated>
+ <published>2023-03-23T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 05:00 AM ADT Thursday 23 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-8_fc13:20230323080000</id>
+ </entry>
+ </feed>
+
