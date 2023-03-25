@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Kakabeka Falls - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-145_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-145_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-25T04:06:15Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230325040615</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Kakabeka Falls</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-22T18:09:00Z</updated>
+ <published>2023-03-22T18:09:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_w1:20230322180900</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Clear, -3.9&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-25T03:00:00Z</updated>
+ <published>2023-03-25T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Thunder Bay Airport 11:00 PM EDT Friday 24 March 2023 <br/>
+<b>Condition:</b> Clear <br/>
+<b>Temperature:</b> -3.9&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 75 %<br/>
+<b>Wind Chill:</b> -7 <br/>
+<b>Dewpoint:</b> -7.6&deg;C <br/>
+<b>Wind:</b> NW 6 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_cc:20230325030000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind up to 15 km/h. Low minus 13. Wind chill minus 16 overnight. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc1:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Saturday: A mix of sun and cloud. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Fog patches dissipating in the morning. Wind becoming north 20 km/h in the afternoon. High 6. Wind chill minus 15 in the morning. UV index 4 or moderate. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc2:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of flurries. Low minus 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Becoming cloudy in the evening with 30 percent chance of flurries late in the evening and overnight. Wind north 20 km/h. Low minus 8. Wind chill minus 13 overnight. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc3:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc4:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc5:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Monday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc6:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 16. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 16. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc7:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Chance of flurries. High minus 3. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 40 percent chance of flurries. High minus 3. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc8:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 13. POP 40%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 40 percent chance of flurries. Low minus 13. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc9:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc10:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 14.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 14. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc11:20230324200000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-145_metric_e.html"/>
+ <updated>2023-03-24T20:00:00Z</updated>
+ <published>2023-03-24T20:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 1. Forecast issued 4:00 PM EDT Friday 24 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-145_fc12:20230324200000</id>
+ </entry>
+ </feed>
+
