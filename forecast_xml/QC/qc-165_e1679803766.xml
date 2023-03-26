@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Baie-Saint-Paul - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-165_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-165_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-26T04:05:49Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230326040549</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>SNOWFALL WARNING , Baie-Saint-Paul</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/report_e.html?qc49"/>
+ <updated>2023-03-26T02:23:00Z</updated>
+ <published>2023-03-26T02:23:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:23 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_w1:202303260223</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 0.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-26T03:00:00Z</updated>
+ <published>2023-03-26T03:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Cap Tourmente 11:00 PM EDT Saturday 25 March 2023 <br/>
+<b>Temperature:</b> 0.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.2 kPa falling<br/>
+<b>Humidity:</b> 90 %<br/>
+<b>Dewpoint:</b> -1.1&deg;C <br/>
+<b>Wind:</b> NE 19 km/h gust 30 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_cc:20230326030000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Snow at times heavy. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Snow at times heavy beginning this evening. Amount 10 to 15 cm. Wind up to 15 km/h. Low minus 4. Wind chill minus 9 this evening. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc1:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Snow. High zero.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Amount 5 cm. Wind up to 15 km/h. High zero. Wind chill minus 5 in the morning. UV index 1 or low. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc2:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Flurries. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries ending before morning then cloudy. Wind up to 15 km/h. Low minus 2. Wind chill minus 6 overnight. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc3:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc4:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Cloudy. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 5. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc5:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: A mix of sun and cloud. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc6:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 13.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 13. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc7:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 1. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc8:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 6. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 6. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc9:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of flurries. High zero. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High zero. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc10:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 9. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc11:20230325194500</id>
+ </entry>
+ <entry>
+ <title>Friday: Chance of flurries. High zero. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-165_metric_e.html"/>
+ <updated>2023-03-25T19:45:00Z</updated>
+ <published>2023-03-25T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High zero. Forecast issued 3:45 PM EDT Saturday 25 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-165_fc12:20230325194500</id>
+ </entry>
+ </feed>
+
