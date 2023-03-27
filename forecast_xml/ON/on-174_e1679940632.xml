@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Sudbury (Greater) - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/on-174_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/on-174_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-27T18:10:55Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230327181055</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Sudbury (Greater)</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-26T13:15:00Z</updated>
+ <published>2023-03-26T13:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_w1:20230326131500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mostly Cloudy, 1.4&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Greater Sudbury Airport 2:00 PM EDT Monday 27 March 2023 <br/>
+<b>Condition:</b> Mostly Cloudy <br/>
+<b>Temperature:</b> 1.4&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.1 kPa steady<br/>
+<b>Visibility:</b> 32.2 km<br/>
+<b>Humidity:</b> 57 %<br/>
+<b>Dewpoint:</b> -6.2&deg;C <br/>
+<b>Wind:</b> NNE 17 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_cc:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High plus 2. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of flurries early this afternoon. Wind up to 15 km/h. High plus 2. Wind chill minus 7 this morning. UV index 4 or moderate. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc1:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Partly cloudy. Low minus 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 11. Wind chill minus 13 overnight. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc2:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. Wind becoming southwest 20 km/h late in the afternoon. High plus 4. Wind chill minus 14 in the morning. UV index 3 or moderate. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc3:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Chance of flurries. Low minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 4. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc4:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Chance of flurries. High minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 2. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc5:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 13. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 13. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc6:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 1. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc7:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Chance of flurries. Low minus 5. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc8:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow or rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 4. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc9:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 9. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc10:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High minus 1. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc11:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Clear. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 10. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc12:20230327153000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Cloudy. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/on-174_metric_e.html"/>
+ <updated>2023-03-27T15:30:00Z</updated>
+ <published>2023-03-27T15:30:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High plus 2. Forecast issued 11:30 AM EDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:on-174_fc13:20230327153000</id>
+ </entry>
+ </feed>
+

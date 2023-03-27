@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Williams Lake - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-76_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-76_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-27T18:06:04Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230327180604</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Williams Lake</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-24T17:45:00Z</updated>
+ <published>2023-03-24T17:45:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_w1:20230324174500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Sunny, -1.6&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Williams Lake Airport 11:00 AM PDT Monday 27 March 2023 <br/>
+<b>Condition:</b> Sunny <br/>
+<b>Temperature:</b> -1.6&deg;C <br/>
+<b>Pressure / Tendency:</b> 102.9 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 63 %<br/>
+<b>Wind Chill:</b> -5 <br/>
+<b>Dewpoint:</b> -7.7&deg;C <br/>
+<b>Wind:</b> NW 11 km/h<br/>
+<b>Air Quality Health Index:</b> 2 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_cc:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Sunny. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind northwest 20 km/h. High plus 2. Wind chill minus 9 this morning. UV index 2 or low. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc1:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Clear. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind northwest 20 km/h becoming light this evening. Low minus 9. Wind chill minus 12 overnight. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc2:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind up to 15 km/h. High plus 3. Wind chill minus 13 in the morning. UV index 3 or moderate. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc3:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc4:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 8. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc5:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 6. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc6:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 9. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc7:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 5. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc8:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High 11.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 11. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc9:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 2. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc10:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High 8. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc11:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of showers. Low minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. Low minus 4. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc12:20230327180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-76_metric_e.html"/>
+ <updated>2023-03-27T18:00:00Z</updated>
+ <published>2023-03-27T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High 7. Forecast issued 11:00 AM PDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-76_fc13:20230327180000</id>
+ </entry>
+ </feed>
+
