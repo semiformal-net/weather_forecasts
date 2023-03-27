@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Athabasca - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ab-10_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ab-10_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-27T23:06:54Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230327230654</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Athabasca</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-24T22:30:00Z</updated>
+ <published>2023-02-24T22:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_w1:20230224223000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: -4.5&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T23:00:00Z</updated>
+ <published>2023-03-27T23:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Athabasca 5:00 PM MDT Monday 27 March 2023 <br/>
+<b>Temperature:</b> -4.5&deg;C <br/>
+<b>Pressure / Tendency:</b> 103.0 kPa falling<br/>
+<b>Humidity:</b> 40 %<br/>
+<b>Wind Chill:</b> -10 <br/>
+<b>Dewpoint:</b> -16.0&deg;C <br/>
+<b>Wind:</b> NNW 15 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_cc:20230327230000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 17. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. 30 percent chance of flurries early this evening. Wind up to 15 km/h. Low minus 17. Wind chill minus 6 this evening and minus 21 overnight. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc1:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly sunny. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clearing in the morning. Wind becoming southwest 20 km/h early in the afternoon. High plus 3. Wind chill minus 21 in the morning. UV index 3 or moderate. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc2:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Increasing cloudiness. Low minus 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness late in the evening. Wind southwest 20 km/h becoming light early in the evening. Low minus 8. Wind chill minus 13 overnight. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc3:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. High plus 2. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc4:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 7. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc5:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Cloudy. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High minus 2. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc6:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. Low minus 6. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc7:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Friday: Cloudy. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 3. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc8:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Cloudy periods. Low minus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 3. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc9:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc10:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Chance of rain showers or flurries. Low minus 4. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low minus 4. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc11:20230327220000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of flurries. High minus 1. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ab-10_metric_e.html"/>
+ <updated>2023-03-27T22:00:00Z</updated>
+ <published>2023-03-27T22:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 4:00 PM MDT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ab-10_fc12:20230327220000</id>
+ </entry>
+ </feed>
+
