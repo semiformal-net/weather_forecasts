@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Donnacona - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-65_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-65_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-27T02:07:26Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230327020726</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Donnacona</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-26T16:30:00Z</updated>
+ <published>2023-03-26T16:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_w1:20230326163000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: 1.1&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-27T02:00:00Z</updated>
+ <published>2023-03-27T02:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Deschambault 10:00 PM EDT Sunday 26 March 2023 <br/>
+<b>Temperature:</b> 1.1&deg;C <br/>
+<b>Humidity:</b> 95 %<br/>
+<b>Dewpoint:</b> 0.4&deg;C <br/>
+<b>Wind:</b> WSW 8 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_cc:20230327020000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Rain showers or flurries. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers or flurries ending after midnight then partly cloudy. Fog patches developing overnight. Wind west 20 km/h. Low minus 1. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc1:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Mainly sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Fog patches dissipating in the morning. Wind southwest 20 km/h. High 6. UV index 4 or moderate. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc2:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Monday night: Chance of flurries. Low minus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 3. Wind chill near minus 7. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc3:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Cloudy. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy. High plus 4. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc4:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Cloudy periods. Low minus 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 6. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc5:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 5. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc6:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Chance of flurries. Low minus 12. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 12. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc7:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: A mix of sun and cloud. High minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc8:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 10. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc9:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Friday: Snow. High plus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. High plus 1. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc10:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Snow. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow. Low minus 1. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc11:20230326194500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Snow or rain. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-65_metric_e.html"/>
+ <updated>2023-03-26T19:45:00Z</updated>
+ <published>2023-03-26T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Snow or rain. High plus 4. Forecast issued 3:45 PM EDT Sunday 26 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-65_fc12:20230326194500</id>
+ </entry>
+ </feed>
+
