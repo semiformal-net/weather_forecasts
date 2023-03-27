@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Yarmouth - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/ns-29_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/ns-29_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-27T12:07:31Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230327120731</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Yarmouth</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-14T22:30:00Z</updated>
+ <published>2023-03-14T22:30:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_w1:20230314223000</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Sunny, 5.0&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T12:00:00Z</updated>
+ <published>2023-03-27T12:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Yarmouth Airport 09:00 AM ADT Monday 27 March 2023 <br/>
+<b>Condition:</b> Mainly Sunny <br/>
+<b>Temperature:</b> 5.0&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.5 kPa rising<br/>
+<b>Visibility:</b> 24.1 km<br/>
+<b>Humidity:</b> 71 %<br/>
+<b>Dewpoint:</b> 0.2&deg;C <br/>
+<b>Wind:</b> NW 34 km/h gust 45 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_cc:20230327120000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries. High 8. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. 30 percent chance of flurries early this morning. Wind northwest 20 km/h gusting to 40 becoming light this afternoon. High 8. UV index 4 or moderate. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc1:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Monday night: Partly cloudy. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Low minus 1. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc2:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Mainly cloudy. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly cloudy. High 6. UV index 3 or moderate. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc3:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 1. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc4:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Sunny. High 6.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 6. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc5:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Cloudy periods. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Low minus 1. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc6:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Chance of rain showers or flurries. High plus 3. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Windy. High plus 3. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc7:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy periods. Low minus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods. Windy. Low minus 4. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc8:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Friday: A mix of sun and cloud. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. Windy. High plus 3. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc9:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Flurries or rain showers. Low minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Flurries or rain showers. Low minus 1. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc10:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain. High 8.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 8. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc11:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Showers. Low minus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low minus 2. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc12:20230327080000</id>
+ </entry>
+ <entry>
+ <title>Sunday: A mix of sun and cloud. High plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+ <updated>2023-03-27T08:00:00Z</updated>
+ <published>2023-03-27T08:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 05:00 AM ADT Monday 27 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:ns-29_fc13:20230327080000</id>
+ </entry>
+ </feed>
+
