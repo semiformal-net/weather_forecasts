@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Langley - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/bc-100_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/bc-100_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-28T22:04:46Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230328220446</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Langley</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-02-28T20:15:00Z</updated>
+ <published>2023-02-28T20:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_w1:20230228201500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Mainly Sunny, 15.7&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T21:00:00Z</updated>
+ <published>2023-03-28T21:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Abbotsford Airport 2:00 PM PDT Tuesday 28 March 2023 <br/>
+<b>Condition:</b> Mainly Sunny <br/>
+<b>Temperature:</b> 15.7&deg;C <br/>
+<b>Pressure / Tendency:</b> 101.1 kPa falling<br/>
+<b>Visibility:</b> 48.3 km<br/>
+<b>Humidity:</b> 22 %<br/>
+<b>Dewpoint:</b> -6.1&deg;C <br/>
+<b>Wind:</b> NNE 39 km/h gust 54 km/h<br/>
+<b>Air Quality Health Index:</b> 3 <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_cc:20230328210000</id>
+ </entry>
+ <entry>
+ <title>Tuesday: Sunny. High 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Wind northeast 30 km/h gusting to 50. High 17. UV index 3 or moderate. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc1:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: Clear. Low 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Wind northeast 30 km/h. Low 7. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc2:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High 17.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Mainly sunny. Wind northeast 30 km/h becoming light in the morning. High 17. UV index 4 or moderate. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc3:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Clear. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low plus 4. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc4:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High 13 except 16 inland.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High 13 except 16 inland. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc5:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Cloudy. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Increasing cloudiness. Low plus 4. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc6:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Friday: Rain. High 10.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 10. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc7:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Friday night: Rain. Low plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. Low plus 4. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc8:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Saturday: Chance of showers. High 11. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 11. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc9:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Periods of rain. Low plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 3. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc10:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Sunday: Chance of showers. High 9. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of showers. High 9. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc11:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of showers. Low plus 3. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 3. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc12:20230328180000</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of showers. High 11. POP 30%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/bc-100_metric_e.html"/>
+ <updated>2023-03-28T18:00:00Z</updated>
+ <published>2023-03-28T18:00:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 11. Forecast issued 11:00 AM PDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:bc-100_fc13:20230328180000</id>
+ </entry>
+ </feed>
+
