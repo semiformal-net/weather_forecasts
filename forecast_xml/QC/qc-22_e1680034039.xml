@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+ 
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+
+ <title>Saint-Hyacinthe - Weather - Environment Canada</title>
+ <link rel="related" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html" type="text/html"/>
+ <link rel="self" href="https://www.weather.gc.ca/rss/city/qc-22_e.xml" type="application/atom+xml"/>
+ <link rel="alternate" hreflang="fr-ca" href="https://www.meteo.gc.ca/rss/city/qc-22_f.xml" type="application/atom+xml"/>
+ <author>
+ <name>Environment Canada</name>
+ <uri>https://www.weather.gc.ca</uri>
+ </author>
+ <updated>2023-03-28T20:03:06Z</updated>
+ <id>tag:weather.gc.ca,2013-04-16:20230328200306</id>
+ <logo>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+ <icon>https://www.weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+ <rights>Copyright 2023, Environment Canada</rights>
+ <entry>
+ <title>No watches or warnings in effect, Saint-Hyacinthe</title>
+ <link type="text/html" href="https://www.weather.gc.ca/warnings/index_e.html"/>
+ <updated>2023-03-23T16:15:00Z</updated>
+ <published>2023-03-23T16:15:00Z</published>
+ <category term="Warnings and Watches"/>
+ <summary type="html">No watches or warnings in effect.</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_w1:20230323161500</id>
+ </entry>
+ <entry>
+ <title>Current Conditions: Cloudy, 3.8&#xB0;C</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:00:00Z</updated>
+ <published>2023-03-28T19:00:00Z</published>
+ <category term="Current Conditions"/>
+ <summary type="html"><![CDATA[<b>Observed at:</b> Saint-Hubert Airport 3:00 PM EDT Tuesday 28 March 2023 <br/>
+<b>Condition:</b> Cloudy <br/>
+<b>Temperature:</b> 3.8&deg;C <br/>
+<b>Pressure:</b> 102.0 kPa <br/>
+<b>Visibility:</b> 16.1 km<br/>
+<b>Humidity:</b> 55 %<br/>
+<b>Dewpoint:</b> -4.5&deg;C <br/>
+<b>Wind:</b> W 13 km/h<br/>
+<b>Air Quality Health Index:</b> N/A <br/>
+]]></summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_cc:20230328190000</id>
+ </entry>
+ <entry>
+ <title>Tuesday night: A few clouds. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Partly cloudy. Clearing near midnight. Wind up to 15 km/h. Low minus 7. Wind chill minus 12 overnight. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc1:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday: Mainly sunny. High plus 5.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. Becoming a mix of sun and cloud in the afternoon. Wind becoming south 20 km/h gusting to 40 near noon. High plus 5. Wind chill minus 13 in the morning. UV index 4 or moderate. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc2:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Wednesday night: Rain showers or flurries. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain showers changing to flurries near midnight and ending overnight then mainly cloudy. Wind south 30 km/h gusting to 60 becoming west 40 gusting to 60 near midnight. Low minus 9. Wind chill minus 18 overnight. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc3:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Thursday: Sunny. High minus 1.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High minus 1. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc4:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Thursday night: Clear. Low minus 7.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Clear. Low minus 7. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc5:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Friday: Periods of snow or rain. High plus 3.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of snow or rain. High plus 3. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc6:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Friday night: Periods of rain. Low plus 2.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Periods of rain. Low plus 2. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc7:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Saturday: Rain. High 12.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Rain. High 12. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc8:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Saturday night: Showers. Low minus 9.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Showers. Low minus 9. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc9:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Sunday: Sunny. High plus 4.</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Sunny. High plus 4. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc10:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Sunday night: Chance of flurries. Low minus 2. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 2. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc11:20230328194500</id>
+ </entry>
+ <entry>
+ <title>Monday: Chance of flurries or rain showers. High 8. POP 60%</title>
+ <link type="text/html" href="https://www.weather.gc.ca/city/pages/qc-22_metric_e.html"/>
+ <updated>2023-03-28T19:45:00Z</updated>
+ <published>2023-03-28T19:45:00Z</published>
+ <category term="Weather Forecasts"/>
+ <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High 8. Forecast issued 3:45 PM EDT Tuesday 28 March 2023</summary>
+ <id>tag:weather.gc.ca,2013-04-16:qc-22_fc12:20230328194500</id>
+ </entry>
+ </feed>
+
