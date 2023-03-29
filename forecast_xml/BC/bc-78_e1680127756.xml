@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Fort St. John - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-78_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-78_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-29T22:05:05Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230329220505</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Fort St. John</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-25T18:45:23Z</updated>
+  <published>2023-03-25T18:45:23Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_w1:20230325184523</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, 0.4°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T22:00:00Z</updated>
+  <published>2023-03-29T22:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fort St. John Airport 3:00 PM MST Wednesday 29 March 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> 0.4&deg;C<br/> <b>Pressure / Tendency:</b> 101.7 kPa rising<br/> <b>Visibility:</b> 4 km<br/> <b>Humidity:</b> 94 %<br/> <b>Dewpoint:</b> -0.4&deg;C<br/> <b>Wind:</b> ESE 6 km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_cc:20230329220000</id>
+</entry>
+<entry>
+  <title>Wednesday: Light snow. Temperature steady near zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Light snow ending this afternoon then cloudy with 60 percent chance of flurries. Amount 2 cm. Wind north 20 km/h. Temperature steady near zero. UV index 1 or low. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc0:20230329180000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of flurries. Low minus 6. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries. Wind north 20 km/h becoming east 20 late this evening. Low minus 6. Wind chill minus 13 overnight. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc1:20230329180000</id>
+</entry><entry>
+  <title>Thursday: Chance of flurries. High minus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of flurries in the morning. Wind southeast 30 km/h. High minus 2. Wind chill minus 13 in the morning and minus 8 in the afternoon. UV index 2 or low. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc2:20230329180000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 6. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc3:20230329180000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 6. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc4:20230329180000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 6. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc5:20230329180000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc6:20230329180000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 5. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc7:20230329180000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 1. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc8:20230329180000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 6. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc9:20230329180000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High zero. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc10:20230329180000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 10. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc11:20230329180000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-03-29T18:00:00Z</updated>
+  <published>2023-03-29T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 11:00 AM MST Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc12:20230329180000</id>
+</entry>
+</feed>
