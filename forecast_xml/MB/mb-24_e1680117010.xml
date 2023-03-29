@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Fisher Branch - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/mb-24_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/mb-24_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-29T19:01:19Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230329190119</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Fisher Branch</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-02-24T11:47:11Z</updated>
+  <published>2023-02-24T11:47:11Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_w1:20230224114711</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -5.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fisher Branch 2:00 PM CDT Wednesday 29 March 2023<br/> <b>Temperature:</b> -5.7&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa falling<br/> <b>Humidity:</b> 47 %<br/> <b>Wind Chill:</b> -12<br/> <b>Dewpoint:</b> -15.3&deg;C<br/> <b>Wind:</b> SSW 18 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_cc:20230329190000</id>
+</entry>
+<entry>
+  <title>Wednesday: Mainly sunny. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind becoming southwest 30 km/h early this afternoon. High minus 3. Wind chill minus 15 this morning and minus 9 this afternoon. UV index 3 or moderate. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc0:20230329160000</id>
+</entry><entry>
+  <title>Wednesday night: Partly cloudy. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind southwest 20 km/h becoming light overnight. Low minus 9. Wind chill near minus 14. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc1:20230329160000</id>
+</entry><entry>
+  <title>Thursday: Chance of light snow. High zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of light snow. Wind up to 15 km/h. High zero. Wind chill minus 14 in the morning. UV index 3 or moderate. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc2:20230329160000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 10. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc3:20230329160000</id>
+</entry><entry>
+  <title>Friday: Sunny. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 1. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc4:20230329160000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 12. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc5:20230329160000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Windy. High plus 1. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc6:20230329160000</id>
+</entry><entry>
+  <title>Saturday night: Chance of flurries. Low minus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 5. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc7:20230329160000</id>
+</entry><entry>
+  <title>Sunday: Snow. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High plus 1. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc8:20230329160000</id>
+</entry><entry>
+  <title>Sunday night: Flurries. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries. Low minus 9. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc9:20230329160000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc10:20230329160000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 13. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc11:20230329160000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-24_metric_e.html"/>
+  <updated>2023-03-29T16:00:00Z</updated>
+  <published>2023-03-29T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 3. Forecast issued 11:00 AM CDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-24_fc12:20230329160000</id>
+</entry>
+</feed>

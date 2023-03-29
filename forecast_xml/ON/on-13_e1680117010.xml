@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Orillia - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-13_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-13_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-13_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-29T19:01:58Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230329190158</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WEATHER ADVISORY, Orillia</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm20"/>
+  <updated>2023-03-29T18:29:12Z</updated>
+  <published>2023-03-29T18:29:12Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 2:29 p.m. EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_w1:20230329182912</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -2.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Lake Simcoe Regional Airport 3:00 PM EDT Wednesday 29 March 2023<br/> <b>Temperature:</b> -2.2&deg;C<br/> <b>Pressure / Tendency:</b> 101.5 kPa rising<br/> <b>Humidity:</b> 86 %<br/> <b>Wind Chill:</b> -10<br/> <b>Dewpoint:</b> -4.3&deg;C<br/> <b>Wind:</b> WNW 41 km/h gust 55 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_cc:20230329190000</id>
+</entry>
+<entry>
+  <title>Wednesday: Flurries at times heavy or rain showers. High plus 5 with temperature falling to minus 3 this afternoon.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Rain showers or flurries at times heavy beginning near noon then changing to flurries at times heavy this afternoon. Local snowfall amount 2 to 4 cm. Wind becoming west 40 km/h gusting to 60 early this afternoon. High plus 5 with temperature falling to minus 3 this afternoon. Wind chill minus 10 this afternoon. UV index 1 or low. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc0:20230329150200</id>
+</entry><entry>
+  <title>Wednesday night: Flurries. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries ending after midnight then partly cloudy with 40 percent chance of flurries. Local amount 2 cm. Wind west 40 km/h gusting to 60 becoming northwest 20 late this evening then light overnight. Low minus 8. Wind chill near minus 12. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc1:20230329150200</id>
+</entry><entry>
+  <title>Thursday: Chance of flurries. High plus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 30 percent chance of flurries early in the morning. Wind becoming southwest 30 km/h in the morning then light late in the afternoon. High plus 2. Wind chill minus 13 in the morning. UV index 4 or moderate. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc2:20230329150200</id>
+</entry><entry>
+  <title>Thursday night: Chance of flurries or rain showers. Low minus 6. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 40 percent chance of flurries or rain showers. Low minus 6. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc3:20230329150200</id>
+</entry><entry>
+  <title>Friday: Periods of snow or rain. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High 6. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc4:20230329150200</id>
+</entry><entry>
+  <title>Friday night: Periods of rain. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low 6. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc5:20230329150200</id>
+</entry><entry>
+  <title>Saturday: Flurries or rain showers. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries or rain showers. High 6. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc6:20230329150200</id>
+</entry><entry>
+  <title>Saturday night: Chance of flurries. Low minus 12. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of flurries. Low minus 12. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc7:20230329150200</id>
+</entry><entry>
+  <title>Sunday: Sunny. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 3. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc8:20230329150200</id>
+</entry><entry>
+  <title>Sunday night: Chance of rain showers or flurries. Low minus 1. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low minus 1. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc9:20230329150200</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 9. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc10:20230329150200</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc11:20230329150200</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-13_metric_e.html"/>
+  <updated>2023-03-29T15:02:00Z</updated>
+  <published>2023-03-29T15:02:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 6. Forecast issued 11:02 AM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-13_fc12:20230329150200</id>
+</entry>
+</feed>
