@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Shawinigan - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-132_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-132_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-29T21:01:24Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230329210124</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SNOW SQUALL WATCH, Shawinigan</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?qcrm69"/>
+  <updated>2023-03-29T19:37:05Z</updated>
+  <published>2023-03-29T19:37:05Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:37 p.m. EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_w1:20230329193705</id>
+</entry>
+<entry>
+  <title>Current Conditions:  5.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T21:00:00Z</updated>
+  <published>2023-03-29T21:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Shawinigan 5:00 PM EDT Wednesday 29 March 2023<br/> <b>Temperature:</b> 5.3&deg;C<br/> <b>Pressure / Tendency:</b> 101.0 kPa falling<br/> <b>Humidity:</b> 48 %<br/> <b>Dewpoint:</b> -4.8&deg;C<br/> <b>Wind:</b> SSE 15 km/h gust 32 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_cc:20230329210000</id>
+</entry>
+<entry>
+  <title>Wednesday night: Rain showers or flurries. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Rain showers beginning early this evening then changing to flurries at times heavy near midnight and ending before morning. Risk of snow squalls late this evening and overnight. Local blowing snow overnight. Snowfall amount 2 cm except 5 cm over northern sections. Wind south 30 km/h gusting to 60 becoming west 40 gusting to 60 near midnight. Low minus 10. Wind chill minus 17 overnight. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc0:20230329194500</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind west 20 km/h gusting to 40. High minus 2. Wind chill minus 18 in the morning and minus 7 in the afternoon. UV index 3 or moderate. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc1:20230329194500</id>
+</entry><entry>
+  <title>Thursday night: Mainly cloudy. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind up to 15 km/h. Low minus 8. Wind chill minus 7 in the evening and minus 12 overnight. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc2:20230329194500</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. High plus 2. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc3:20230329194500</id>
+</entry><entry>
+  <title>Friday night: Snow. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low zero. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc4:20230329194500</id>
+</entry><entry>
+  <title>Saturday: Snow or rain. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow or rain. High plus 3. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc5:20230329194500</id>
+</entry><entry>
+  <title>Saturday night: Showers. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low minus 12. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc6:20230329194500</id>
+</entry><entry>
+  <title>Sunday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc7:20230329194500</id>
+</entry><entry>
+  <title>Sunday night: Chance of flurries. Low minus 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 6. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc8:20230329194500</id>
+</entry><entry>
+  <title>Monday: Snow or rain. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow or periods of rain. High 6. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc9:20230329194500</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low zero. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. Low zero. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc10:20230329194500</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-132_metric_e.html"/>
+  <updated>2023-03-29T19:45:00Z</updated>
+  <published>2023-03-29T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 7. Forecast issued 3:45 PM EDT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-132_fc11:20230329194500</id>
+</entry>
+</feed>
