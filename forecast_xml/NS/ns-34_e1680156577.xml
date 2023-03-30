@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Caribou - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-34_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-34_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-30T06:01:49Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230330060149</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Caribou</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-24T08:00:35Z</updated>
+  <published>2023-03-24T08:00:35Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_w1:20230324080035</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -6.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-30T06:00:00Z</updated>
+  <published>2023-03-30T06:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Collegeville 3:00 AM ADT Thursday 30 March 2023<br/> <b>Temperature:</b> -6.7&deg;C<br/> <b>Pressure / Tendency:</b> 101.8 kPa falling<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> -6.7&deg;C<br/> <b>Wind:</b>  calm km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_cc:20230330060000</id>
+</entry>
+<entry>
+  <title>Wednesday night: A few clouds. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Clearing this evening. Fog patches developing overnight. Wind up to 15 km/h. Low minus 4. Wind chill minus 6 overnight. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc0:20230329190000</id>
+</entry><entry>
+  <title>Thursday: Showers. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Showers beginning late in the afternoon. Fog patches dissipating in the morning. Wind becoming south 20 km/h gusting to 40 in the afternoon. High plus 5. UV index 3 or moderate. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc1:20230329190000</id>
+</entry><entry>
+  <title>Thursday night: Chance of flurries. Low minus 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers changing to snow and ending near midnight then cloudy with 30 percent chance of flurries. Snowfall amount 5 to 10 cm. Wind northwest 30 km/h gusting to 50. Low minus 7. Wind chill minus 15 overnight. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc2:20230329190000</id>
+</entry><entry>
+  <title>Friday: Chance of flurries. High plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of flurries. High plus 4. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc3:20230329190000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 5. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc4:20230329190000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 6. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc5:20230329190000</id>
+</entry><entry>
+  <title>Saturday night: Rain. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low 6. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc6:20230329190000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc7:20230329190000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 7. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc8:20230329190000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc9:20230329190000</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low zero. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc10:20230329190000</id>
+</entry><entry>
+  <title>Tuesday: Chance of flurries. High 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-34_metric_e.html"/>
+  <updated>2023-03-29T19:00:00Z</updated>
+  <published>2023-03-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. High 6. Forecast issued 4:00 PM ADT Wednesday 29 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-34_fc11:20230329190000</id>
+</entry>
+</feed>
