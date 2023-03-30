@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Tracadie - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-28_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-28_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-30T09:01:28Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230330090128</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Tracadie</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-24T08:00:21Z</updated>
+  <published>2023-03-24T08:00:21Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_w1:20230324080021</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -3.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T09:00:00Z</updated>
+  <published>2023-03-30T09:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Tracadie 6:00 AM ADT Thursday 30 March 2023<br/> <b>Temperature:</b> -3.7&deg;C<br/> <b>Pressure / Tendency:</b> 101.9 kPa falling<br/> <b>Humidity:</b> 96 %<br/> <b>Wind Chill:</b> -5<br/> <b>Dewpoint:</b> -4.3&deg;C<br/> <b>Wind:</b> NE 3 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_cc:20230330090000</id>
+</entry>
+<entry>
+  <title>Thursday: Chance of showers. High plus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Becoming cloudy this afternoon with 30 percent chance of showers late this afternoon. Fog patches dissipating this morning. Wind becoming south 20 km/h gusting to 40 this afternoon. High plus 5. Wind chill minus 6 this morning. UV index 3 or moderate. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc0:20230330080000</id>
+</entry><entry>
+  <title>Thursday night: Snow or rain. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 30 percent chance of rain showers early this evening. Snow beginning early this evening then changing to 60 percent chance of flurries after midnight. Snowfall amount 5 to 10 cm. Wind southeast 20 km/h gusting to 40 becoming northwest 30 gusting to 50 near midnight. Low minus 6. Wind chill minus 14 overnight. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc1:20230330080000</id>
+</entry><entry>
+  <title>Friday: Chance of flurries. High plus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Wind northwest 30 km/h gusting to 50. High plus 2. Wind chill minus 14 in the morning. UV index 1 or low. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc2:20230330080000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Low minus 5. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc3:20230330080000</id>
+</entry><entry>
+  <title>Saturday: Periods of snow or rain. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High 6. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc4:20230330080000</id>
+</entry><entry>
+  <title>Saturday night: Rain. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low plus 2. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc5:20230330080000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High plus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High plus 2. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc6:20230330080000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 6. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc7:20230330080000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc8:20230330080000</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low zero. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc9:20230330080000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 7. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc10:20230330080000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc11:20230330080000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-28_metric_e.html"/>
+  <updated>2023-03-30T08:00:00Z</updated>
+  <published>2023-03-30T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High plus 5. Forecast issued 5:00 AM ADT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-28_fc12:20230330080000</id>
+</entry>
+</feed>
