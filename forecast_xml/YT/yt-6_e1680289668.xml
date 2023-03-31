@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Dawson - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/yt-6_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/yt-6_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-31T19:02:50Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230331190250</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Dawson</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-01-21T13:15:07Z</updated>
+  <published>2023-01-21T13:15:07Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_w1:20230121131507</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, -6.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T19:00:00Z</updated>
+  <published>2023-03-31T19:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Dawson Airport 12:00 PM MST Friday 31 March 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> -6.3&deg;C<br/> <b>Pressure / Tendency:</b> 99.8 kPa falling<br/> <b>Visibility:</b> 3 km<br/> <b>Humidity:</b> 86 %<br/> <b>Wind Chill:</b> -11<br/> <b>Dewpoint:</b> -8.2&deg;C<br/> <b>Wind:</b> SW 10 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_cc:20230331190000</id>
+</entry>
+<entry>
+  <title>Friday: Snow. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Amount 2 to 4 cm. Wind up to 15 km/h. High minus 3. Wind chill minus 10 this morning and minus 5 this afternoon. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc0:20230331180000</id>
+</entry><entry>
+  <title>Friday night: Chance of flurries. Low minus 11. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 30 percent chance of flurries. Wind up to 15 km/h. Low minus 11. Wind chill minus 6 this evening and minus 18 overnight. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc1:20230331180000</id>
+</entry><entry>
+  <title>Saturday: Chance of flurries. High minus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 30 percent chance of flurries. Wind becoming northwest 20 km/h gusting to 40 late in the morning. High minus 5. Wind chill minus 18 in the morning and minus 12 in the afternoon. UV index 1 or low. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc2:20230331180000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 19. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc3:20230331180000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 2. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc4:20230331180000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low minus 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 19. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc5:20230331180000</id>
+</entry><entry>
+  <title>Monday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc6:20230331180000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 13. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc7:20230331180000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 2. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc8:20230331180000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 10. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc9:20230331180000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc10:20230331180000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 9. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc11:20230331180000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-6_metric_e.html"/>
+  <updated>2023-03-31T18:00:00Z</updated>
+  <published>2023-03-31T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High zero. Forecast issued 11:00 AM MST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-6_fc12:20230331180000</id>
+</entry>
+</feed>
