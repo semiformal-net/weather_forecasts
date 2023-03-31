@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Kirkland Lake - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-76_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-76_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-76_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-31T13:01:57Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230331130157</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Kirkland Lake</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm91"/>
+  <updated>2023-03-31T09:14:01Z</updated>
+  <published>2023-03-31T09:14:01Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:14 a.m. EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_w1:20230331091401</id>
+</entry>
+<entry>
+  <title>Current Conditions: Cloudy, -6.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T13:00:00Z</updated>
+  <published>2023-03-31T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Earlton Airport 9:00 AM EDT Friday 31 March 2023<br/> <b>Condition:</b> Cloudy<br/> <b>Temperature:</b> -6.1&deg;C<br/> <b>Pressure:</b> 101.8 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 84 %<br/> <b>Wind Chill:</b> -10<br/> <b>Dewpoint:</b> -8.4&deg;C<br/> <b>Wind:</b> SE 8 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_cc:20230331130000</id>
+</entry>
+<entry>
+  <title>Friday: Periods of snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Becoming cloudy this morning then periods of snow. Local amount 2 cm. Wind up to 15 km/h. High zero. Wind chill minus 14 this morning. UV index 1 or low. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc0:20230331093000</id>
+</entry><entry>
+  <title>Friday night: Periods of snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow ending this evening then cloudy. Snow at times heavy and local blowing snow beginning before morning. Local amount 2 cm. Wind becoming northeast 30 km/h gusting to 50 overnight. Low minus 4. Wind chill minus 9 overnight. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc1:20230331093000</id>
+</entry><entry>
+  <title>Saturday: Snow at times heavy. Temperature falling to minus 9 in the afternoon.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow at times heavy and local blowing snow ending in the afternoon then clearing. Amount 5 to 10 cm. Wind north 40 km/h gusting to 60. Temperature falling to minus 9 in the afternoon. Wind chill minus 9 in the morning and minus 20 in the afternoon. UV index 1 or low. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc2:20230331093000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 16. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc3:20230331093000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. High minus 1. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc4:20230331093000</id>
+</entry><entry>
+  <title>Sunday night: Chance of flurries. Low minus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 3. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc5:20230331093000</id>
+</entry><entry>
+  <title>Monday: Chance of flurries or rain showers. High plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 5. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc6:20230331093000</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low minus 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of flurries. Low minus 9. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc7:20230331093000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High zero. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc8:20230331093000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of snow. Low minus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of snow. Low minus 4. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc9:20230331093000</id>
+</entry><entry>
+  <title>Wednesday: Periods of rain or snow. High plus 5. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of rain or snow. High plus 5. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc10:20230331093000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of flurries. Low minus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 3. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc11:20230331093000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-76_metric_e.html"/>
+  <updated>2023-03-31T09:30:00Z</updated>
+  <published>2023-03-31T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 2. Forecast issued 5:30 AM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-76_fc12:20230331093000</id>
+</entry>
+</feed>
