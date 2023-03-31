@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Coral Harbour - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nu-9_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nu-9_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-03-31T02:04:50Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230331020450</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>BLIZZARD WARNING, Coral Harbour</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?nu4"/>
+  <updated>2023-03-30T17:28:52Z</updated>
+  <published>2023-03-30T17:28:52Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 12:28 p.m. CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_w1:20230330172852</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow and Blowing Snow, -16.4°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-31T02:00:00Z</updated>
+  <published>2023-03-31T02:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Coral Harbour Airport 9:00 PM EST Thursday 30 March 2023<br/> <b>Condition:</b> Light Snow and Blowing Snow<br/> <b>Temperature:</b> -16.4&deg;C<br/> <b>Pressure / Tendency:</b> 101.6 kPa falling<br/> <b>Visibility:</b> 2 km<br/> <b>Humidity:</b> 89 %<br/> <b>Wind Chill:</b> -29<br/> <b>Dewpoint:</b> -17.8&deg;C<br/> <b>Wind:</b> ENE 38 km/h gust 48 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_cc:20230331020000</id>
+</entry>
+<entry>
+  <title>Thursday night: Blizzard. Temperature rising to minus 14 by morning.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Blizzard developing this evening. Blowing snow early this evening. Snowfall amount 2 to 4 cm. Wind northeast 50 km/h gusting to 70. Temperature rising to minus 14 by morning. Wind chill near minus 32. Risk of frostbite. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc0:20230330200000</id>
+</entry><entry>
+  <title>Friday: Blizzard. High minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Blizzard changing to periods of snow in the morning and ending in the afternoon then cloudy. Wind northeast 50 km/h gusting to 70 becoming east 30 in the morning. High minus 13. Wind chill minus 28 in the morning and minus 21 in the afternoon. Risk of frostbite. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc1:20230330200000</id>
+</entry><entry>
+  <title>Friday night: Mainly cloudy. Low minus 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind becoming east 20 km/h after midnight. Low minus 20. Wind chill minus 21 in the evening and minus 30 overnight. Risk of frostbite. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc2:20230330200000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 13. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc3:20230330200000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 24. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc4:20230330200000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High minus 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 15. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc5:20230330200000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 27.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 27. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc6:20230330200000</id>
+</entry><entry>
+  <title>Monday: Sunny. High minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 16. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc7:20230330200000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low minus 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 23. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc8:20230330200000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High minus 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 14. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc9:20230330200000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low minus 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 24. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc10:20230330200000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High minus 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-03-30T20:00:00Z</updated>
+  <published>2023-03-30T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 14. Forecast issued 3:00 PM CDT Thursday 30 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc11:20230330200000</id>
+</entry>
+</feed>
