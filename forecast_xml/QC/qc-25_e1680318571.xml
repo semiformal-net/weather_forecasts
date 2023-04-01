@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Berthierville - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-25_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-25_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-01T03:00:52Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230401030052</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Berthierville</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-31T09:46:17Z</updated>
+  <published>2023-03-31T09:46:17Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_w1:20230331094617</id>
+</entry>
+<entry>
+  <title>Current Conditions:  0.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-04-01T03:00:00Z</updated>
+  <published>2023-04-01T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> L'Assomption 11:00 PM EDT Friday 31 March 2023<br/> <b>Temperature:</b> 0.5&deg;C<br/> <b>Pressure / Tendency:</b> 101.4 kPa falling<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 0.5&deg;C<br/> <b>Wind:</b> ENE 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_cc:20230401030000</id>
+</entry>
+<entry>
+  <title>Friday night: Snow mixed with rain. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Snow mixed with rain beginning early this evening then changing to rain before morning. Risk of freezing rain overnight. Snowfall amount 2 to 4 cm. Low zero. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc0:20230331194500</id>
+</entry><entry>
+  <title>Saturday: Rain. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain ending early in the afternoon then cloudy with 40 percent chance of showers. Amount 10 to 20 mm. Wind becoming southwest 30 km/h gusting to 60 in the afternoon. High 12. UV index 3 or moderate. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc1:20230331194500</id>
+</entry><entry>
+  <title>Saturday night: Clearing. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. Wind southwest 30 km/h gusting to 60 becoming northwest 30 gusting to 60 in the evening. Low minus 9. Wind chill minus 14 overnight. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc2:20230331194500</id>
+</entry><entry>
+  <title>Sunday: Sunny. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 2. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc3:20230331194500</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Low minus 8. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc4:20230331194500</id>
+</entry><entry>
+  <title>Monday: Cloudy. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 5. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc5:20230331194500</id>
+</entry><entry>
+  <title>Monday night: Rain. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low plus 3. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc6:20230331194500</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 10. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc7:20230331194500</id>
+</entry><entry>
+  <title>Tuesday night: Chance of flurries. Low zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of flurries. Low zero. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc8:20230331194500</id>
+</entry><entry>
+  <title>Wednesday: Rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 10. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc9:20230331194500</id>
+</entry><entry>
+  <title>Wednesday night: Periods of rain. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low 9. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc10:20230331194500</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 11. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-25_metric_e.html"/>
+  <updated>2023-03-31T19:45:00Z</updated>
+  <published>2023-03-31T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. High 11. Forecast issued 3:45 PM EDT Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-25_fc11:20230331194500</id>
+</entry>
+</feed>
