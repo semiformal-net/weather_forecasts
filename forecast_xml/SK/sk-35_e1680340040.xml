@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Last Mountain Lake (Sanctuary) - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-35_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-35_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-01T09:01:58Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230401090158</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Last Mountain Lake (Sanctuary)</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-02-25T17:34:33Z</updated>
+  <published>2023-02-25T17:34:33Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_w1:20230225173433</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -11.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-04-01T09:00:00Z</updated>
+  <published>2023-04-01T09:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Last Mountain 3:00 AM CST Saturday 1 April 2023<br/> <b>Temperature:</b> -11.9&deg;C<br/> <b>Pressure / Tendency:</b> 100.9 kPa falling<br/> <b>Humidity:</b> 89 %<br/> <b>Wind Chill:</b> -19<br/> <b>Dewpoint:</b> -13.3&deg;C<br/> <b>Wind:</b> SSE 15 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_cc:20230401090000</id>
+</entry>
+<entry>
+  <title>Friday night: A few clouds. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind south 20 km/h gusting to 40 becoming light overnight. Low minus 12. Wind chill minus 7 this evening and minus 20 overnight. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc0:20230331220000</id>
+</entry><entry>
+  <title>Saturday: Mainly sunny. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud near noon. Wind up to 15 km/h. High plus 1. Wind chill minus 19 in the morning. UV index 4 or moderate. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc1:20230331220000</id>
+</entry><entry>
+  <title>Saturday night: Chance of flurries. Low minus 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy near midnight with 30 percent chance of flurries overnight. Wind up to 15 km/h. Low minus 9. Wind chill minus 16 overnight. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc2:20230331220000</id>
+</entry><entry>
+  <title>Sunday: Snow. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High minus 1. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc3:20230331220000</id>
+</entry><entry>
+  <title>Sunday night: Chance of flurries. Low minus 12. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of flurries. Low minus 12. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc4:20230331220000</id>
+</entry><entry>
+  <title>Monday: Cloudy. High minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 5. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc5:20230331220000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 16. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc6:20230331220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc7:20230331220000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 13. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc8:20230331220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 2. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc9:20230331220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 11. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc10:20230331220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-35_metric_e.html"/>
+  <updated>2023-03-31T22:00:00Z</updated>
+  <published>2023-03-31T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 2. Forecast issued 4:00 PM CST Friday 31 March 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-35_fc11:20230331220000</id>
+</entry>
+</feed>
