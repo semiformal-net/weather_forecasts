@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Morden - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/mb-17_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/mb-17_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-01T14:01:21Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230401140121</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Morden</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-18T03:15:17Z</updated>
+  <published>2023-03-18T03:15:17Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_w1:20230318031517</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -8.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T14:00:00Z</updated>
+  <published>2023-04-01T14:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Morden AAFC 9:00 AM CDT Saturday 1 April 2023<br/> <b>Temperature:</b> -8.9&deg;C<br/> <b>Pressure / Tendency:</b> 101.6 kPa rising<br/> <b>Humidity:</b> 58 %<br/> <b>Wind Chill:</b> -13<br/> <b>Dewpoint:</b> -15.6&deg;C<br/> <b>Wind:</b> S 8 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_cc:20230401140000</id>
+</entry>
+<entry>
+  <title>Saturday: Mainly sunny. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud this morning. Wind becoming south 30 km/h gusting to 50 early this afternoon. High plus 1. Wind chill minus 18 this morning. UV index 4 or moderate. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc0:20230401100000</id>
+</entry><entry>
+  <title>Saturday night: Partly cloudy. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy before morning. Risk of freezing rain before morning. Wind south 30 km/h gusting to 50. Low minus 6. Wind chill minus 12 overnight. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc1:20230401100000</id>
+</entry><entry>
+  <title>Sunday: Light snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Light snow beginning in the morning. Risk of freezing rain in the morning. Wind southeast 20 km/h becoming northeast 20 early in the afternoon. High zero. Wind chill minus 13 in the morning. UV index 1 or low. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc2:20230401100000</id>
+</entry><entry>
+  <title>Sunday night: Periods of snow. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 6. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc3:20230401100000</id>
+</entry><entry>
+  <title>Monday: Chance of flurries. High minus 4. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of flurries. High minus 4. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc4:20230401100000</id>
+</entry><entry>
+  <title>Monday night: Cloudy. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 12. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc5:20230401100000</id>
+</entry><entry>
+  <title>Tuesday: Flurries. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries. High minus 3. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc6:20230401100000</id>
+</entry><entry>
+  <title>Tuesday night: Periods of snow. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 10. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc7:20230401100000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. Windy. High minus 4. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc8:20230401100000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 11. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc9:20230401100000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 2. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc10:20230401100000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 6. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc11:20230401100000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-17_metric_e.html"/>
+  <updated>2023-04-01T10:00:00Z</updated>
+  <published>2023-04-01T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 6. Forecast issued 5:00 AM CDT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-17_fc12:20230401100000</id>
+</entry>
+</feed>
