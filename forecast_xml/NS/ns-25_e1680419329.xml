@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Truro - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-25_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-25_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-02T07:01:38Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230402070138</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Truro</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-15T15:00:41Z</updated>
+  <published>2023-03-15T15:00:41Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_w1:20230315150041</id>
+</entry>
+<entry>
+  <title>Current Conditions:  4.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-02T07:00:00Z</updated>
+  <published>2023-04-02T07:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Debert 4:00 AM ADT Sunday 2 April 2023<br/> <b>Temperature:</b> 4.2&deg;C<br/> <b>Pressure / Tendency:</b> 98.9 kPa falling<br/> <b>Humidity:</b> 98 %<br/> <b>Dewpoint:</b> 4.0&deg;C<br/> <b>Wind:</b> E 4 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_cc:20230402070000</id>
+</entry>
+<entry>
+  <title>Saturday night: Periods of rain. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain ending near midnight then cloudy with 30 percent chance of showers or drizzle overnight. Fog patches. Amount 2 to 4 mm. Wind southeast 30 km/h gusting to 50 becoming light this evening. Low plus 5. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc0:20230401190000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers or drizzle. Temperature falling to plus 1 in the afternoon. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 30 percent chance of showers or drizzle in the morning and early in the afternoon. Clearing late in the afternoon. Fog patches dissipating in the morning. Wind becoming northwest 30 km/h gusting to 50 near noon. Temperature falling to plus 1 in the afternoon. UV index 4 or moderate. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc1:20230401190000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Wind up to 15 km/h. Low minus 6. Wind chill minus 12 overnight. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc2:20230401190000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc3:20230401190000</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low minus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 2. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc4:20230401190000</id>
+</entry><entry>
+  <title>Tuesday: Chance of flurries or rain showers. High 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High 12. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc5:20230401190000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc6:20230401190000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc7:20230401190000</id>
+</entry><entry>
+  <title>Wednesday night: Snow or rain. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow or rain. Low minus 1. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc8:20230401190000</id>
+</entry><entry>
+  <title>Thursday: Rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 11. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc9:20230401190000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc10:20230401190000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-25_metric_e.html"/>
+  <updated>2023-04-01T19:00:00Z</updated>
+  <published>2023-04-01T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 4:00 PM ADT Saturday 1 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-25_fc11:20230401190000</id>
+</entry>
+</feed>
