@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Burgeo - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-31_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-31_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-03T21:01:35Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230403210135</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Burgeo</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-02T04:15:06Z</updated>
+  <published>2023-04-02T04:15:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_w1:20230402041506</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -1.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T21:00:00Z</updated>
+  <published>2023-04-03T21:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Burgeo 6:30 PM NDT Monday 3 April 2023<br/> <b>Temperature:</b> -1.2&deg;C<br/> <b>Pressure / Tendency:</b> 101.4 kPa rising<br/> <b>Humidity:</b> 72 %<br/> <b>Wind Chill:</b> -8<br/> <b>Dewpoint:</b> -5.5&deg;C<br/> <b>Wind:</b> WNW 29 km/h gust 50 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_cc:20230403210000</id>
+</entry>
+<entry>
+  <title>Monday night: Light snow. Temperature steady near minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy after midnight then light snow. Amount 2 cm. Wind west 40 km/h gusting to 60 diminishing to 20 gusting to 40 this evening. Temperature steady near minus 1. Wind chill minus 9 this evening. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc0:20230403183000</id>
+</entry><entry>
+  <title>Tuesday: Chance of flurries. High plus 2. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Light snow ending in the morning then mainly cloudy with 40 percent chance of flurries. Wind southwest 20 km/h gusting to 40. High plus 2. UV index 3 or moderate. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc1:20230403183000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of flurries or rain showers. Low minus 1. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 40 percent chance of flurries or rain showers. Wind becoming west 30 km/h gusting to 50 near midnight. Low minus 1. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc2:20230403183000</id>
+</entry><entry>
+  <title>Wednesday: Chance of flurries. High minus 4. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries. Windy. High minus 4. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc3:20230403183000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 5. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc4:20230403183000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 1. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc5:20230403183000</id>
+</entry><entry>
+  <title>Thursday night: Freezing rain or rain. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Freezing rain or rain. Low minus 2. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc6:20230403183000</id>
+</entry><entry>
+  <title>Friday: Freezing rain. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Freezing rain or rain showers. High plus 3. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc7:20230403183000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 5. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc8:20230403183000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Windy. High minus 1. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc9:20230403183000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Windy. Low minus 5. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc10:20230403183000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-31_metric_e.html"/>
+  <updated>2023-04-03T18:30:00Z</updated>
+  <published>2023-04-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High zero. Forecast issued 4:00 PM NDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-31_fc11:20230403183000</id>
+</entry>
+</feed>
