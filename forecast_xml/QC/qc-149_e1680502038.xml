@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Val-d'Or - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-149_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-149_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-03T06:02:43Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230403060243</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Val-d'Or</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-01T21:00:47Z</updated>
+  <published>2023-04-01T21:00:47Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_w1:20230401210047</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, -3.4°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-03T06:00:00Z</updated>
+  <published>2023-04-03T06:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Val-d'Or Regional Airport 2:00 AM EDT Monday 3 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> -3.4&deg;C<br/> <b>Pressure:</b> 101.2 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 76 %<br/> <b>Wind Chill:</b> -9<br/> <b>Dewpoint:</b> -7.0&deg;C<br/> <b>Wind:</b> SSW 15 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_cc:20230403060000</id>
+</entry>
+<entry>
+  <title>Sunday night: Snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Snow beginning after midnight. Wind southwest 20 km/h. Low minus 4. Wind chill minus 10 overnight. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc0:20230402194500</id>
+</entry><entry>
+  <title>Monday: Snow mixed with rain. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow becoming mixed with rain in the afternoon. Snowfall amount 5 cm. Wind up to 15 km/h. High plus 2. Wind chill minus 9 in the morning. UV index 1 or low. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc1:20230402194500</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low minus 16. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 40 percent chance of flurries in the evening and after midnight. Clearing before morning. Wind northwest 20 km/h. Low minus 16. Wind chill minus 22 overnight. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc2:20230402194500</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 2. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc3:20230402194500</id>
+</entry><entry>
+  <title>Tuesday night: Snow. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low minus 8. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc4:20230402194500</id>
+</entry><entry>
+  <title>Wednesday: Periods of snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. High zero. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc5:20230402194500</id>
+</entry><entry>
+  <title>Wednesday night: Periods of snow or rain. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. Low zero. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc6:20230402194500</id>
+</entry><entry>
+  <title>Thursday: Rain showers or flurries. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. Windy. High plus 3. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc7:20230402194500</id>
+</entry><entry>
+  <title>Thursday night: Chance of flurries. Low minus 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 12. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc8:20230402194500</id>
+</entry><entry>
+  <title>Friday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc9:20230402194500</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 9. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc10:20230402194500</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-149_metric_e.html"/>
+  <updated>2023-04-02T19:45:00Z</updated>
+  <published>2023-04-02T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 7. Forecast issued 3:45 PM EDT Sunday 2 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-149_fc11:20230402194500</id>
+</entry>
+</feed>
