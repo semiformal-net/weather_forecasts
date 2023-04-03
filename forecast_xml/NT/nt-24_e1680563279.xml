@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Yellowknife - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nt-24_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nt-24_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-03T23:00:48Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230403230048</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Yellowknife</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-02-22T02:00:04Z</updated>
+  <published>2023-02-22T02:00:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_w1:20230222020004</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, -8.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T23:00:00Z</updated>
+  <published>2023-04-03T23:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Yellowknife Airport 5:00 PM MDT Monday 3 April 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> -8.0&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa rising<br/> <b>Visibility:</b> 10 km<br/> <b>Humidity:</b> 59 %<br/> <b>Dewpoint:</b> -14.7&deg;C<br/> <b>Wind:</b> N calm km/h<br/> <b>Air Quality Health Index:</b> 1<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_cc:20230403230000</id>
+</entry>
+<entry>
+  <title>Monday night: Chance of flurries. Low minus 22. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of flurries this evening. Wind up to 15 km/h. Low minus 22. Wind chill minus 12 this evening and minus 27 overnight. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc0:20230403220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High minus 10. Wind chill minus 27 in the morning and minus 15 in the afternoon. UV index 2 or low. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc1:20230403220000</id>
+</entry><entry>
+  <title>Tuesday night: A few clouds. Low minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 16. Wind chill minus 23 overnight. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc2:20230403220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc3:20230403220000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 5. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc4:20230403220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 3. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc5:20230403220000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 3. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc6:20230403220000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc7:20230403220000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 7. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc8:20230403220000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High zero. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc9:20230403220000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 8. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc10:20230403220000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-24_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 4:00 PM MDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-24_fc11:20230403220000</id>
+</entry>
+</feed>
