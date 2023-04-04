@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Kejimkujik (National Park) - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-42_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-42_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-04T17:00:53Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230404170053</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Kejimkujik (National Park)</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?ns8"/>
+  <updated>2023-04-04T13:39:39Z</updated>
+  <published>2023-04-04T13:39:39Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:39 a.m. ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_w1:20230404133939</id>
+</entry>
+<entry>
+  <title>Current Conditions:  8.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T17:00:00Z</updated>
+  <published>2023-04-04T17:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Kejimkujik Park 2:00 PM ADT Tuesday 4 April 2023<br/> <b>Temperature:</b> 8.3&deg;C<br/> <b>Pressure / Tendency:</b> 101.9 kPa falling<br/> <b>Humidity:</b> 64 %<br/> <b>Dewpoint:</b> 2.0&deg;C<br/> <b>Wind:</b> WSW 6 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_cc:20230404170000</id>
+</entry>
+<entry>
+  <title>Tuesday: Mainly cloudy. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind southwest 20 km/h gusting to 40. High 12. UV index 4 or moderate. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc0:20230404140000</id>
+</entry><entry>
+  <title>Tuesday night: Partly cloudy. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind southwest 20 km/h gusting to 40 becoming light this evening. Wind becoming north 20 overnight. Low minus 2. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc1:20230404140000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Becoming cloudy in the afternoon. Wind north 20 km/h becoming light in the morning. High plus 5. Wind chill minus 8 in the morning. UV index 6 or high. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc2:20230404140000</id>
+</entry><entry>
+  <title>Wednesday night: Rain or freezing rain. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain or freezing rain. Low zero. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc3:20230404140000</id>
+</entry><entry>
+  <title>Thursday: Periods of snow or rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High 10. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc4:20230404140000</id>
+</entry><entry>
+  <title>Thursday night: Rain. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low plus 5. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc5:20230404140000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc6:20230404140000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 4. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc7:20230404140000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 4. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc8:20230404140000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 7. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc9:20230404140000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 6. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc10:20230404140000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 4. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc11:20230404140000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-42_metric_e.html"/>
+  <updated>2023-04-04T14:00:00Z</updated>
+  <published>2023-04-04T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 12. Forecast issued 11:00 AM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-42_fc12:20230404140000</id>
+</entry>
+</feed>
