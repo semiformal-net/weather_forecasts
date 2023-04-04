@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>St. Catharines - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-107_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-107_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-107_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-04T02:10:03Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230404021003</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, St. Catharines</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-01T20:00:17Z</updated>
+  <published>2023-04-01T20:00:17Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_w1:20230401200017</id>
+</entry>
+<entry>
+  <title>Current Conditions:  9.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T02:00:00Z</updated>
+  <published>2023-04-04T02:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> St. Catharines / Niagara District Airport 10:00 PM EDT Monday 3 April 2023<br/> <b>Temperature:</b> 9.6&deg;C<br/> <b>Pressure:</b> 101.3 kPa <br/> <b>Humidity:</b> 72 %<br/> <b>Dewpoint:</b> 4.8&deg;C<br/> <b>Wind:</b> S 9 km/h<br/> <b>Air Quality Health Index:</b> 3<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_cc:20230404020000</id>
+</entry>
+<entry>
+  <title>Monday night: Periods of rain or drizzle. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of rain beginning this evening. Rain mixed with drizzle overnight. Amount 10 to 20 mm. Low 6. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc0:20230404002100</id>
+</entry><entry>
+  <title>Tuesday: Periods of drizzle or rain. High 8. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain mixed with drizzle ending in the morning then cloudy with 40 percent chance of drizzle. Amount 5 mm. Wind becoming northeast 20 km/h in the morning. High 8. UV index 4 or moderate. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc1:20230404002100</id>
+</entry><entry>
+  <title>Tuesday night: Periods of rain or drizzle. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of drizzle early in the evening. Periods of rain beginning in the evening. Wind east 20 km/h. Low 6. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc2:20230404002100</id>
+</entry><entry>
+  <title>Wednesday: Showers or thunderstorms. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers or thunderstorms. High 14. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc3:20230404002100</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 6. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc4:20230404002100</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. High 6. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc5:20230404002100</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc6:20230404002100</id>
+</entry><entry>
+  <title>Friday: Sunny. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 5. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc7:20230404002100</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc8:20230404002100</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 8. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc9:20230404002100</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 4. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc10:20230404002100</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-107_metric_e.html"/>
+  <updated>2023-04-04T00:21:00Z</updated>
+  <published>2023-04-04T00:21:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 12. Forecast issued 8:21 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-107_fc11:20230404002100</id>
+</entry>
+</feed>
