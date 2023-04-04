@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Bécancour - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-50_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-50_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-04T04:01:38Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230404040138</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Bécancour</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-30T08:15:07Z</updated>
+  <published>2023-03-30T08:15:07Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_w1:20230330081507</id>
+</entry>
+<entry>
+  <title>Current Conditions: Cloudy, 0.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-04T04:00:00Z</updated>
+  <published>2023-04-04T04:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Trois-Rivières Airport 12:00 AM EDT Tuesday 4 April 2023<br/> <b>Condition:</b> Cloudy<br/> <b>Temperature:</b> 0.5&deg;C<br/> <b>Pressure:</b> 101.2 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 93 %<br/> <b>Dewpoint:</b> -0.5&deg;C<br/> <b>Wind:</b>  calm km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_cc:20230404040000</id>
+</entry>
+<entry>
+  <title>Monday night: Periods of rain mixed with snow. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain mixed with snow ending this evening then clearing. Wind southwest 20 km/h becoming light after midnight. Low minus 3. Wind chill minus 8 overnight. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc0:20230403194500</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind becoming north 20 km/h in the afternoon. High plus 4. Wind chill minus 7 in the morning. UV index 5 or moderate. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc1:20230403194500</id>
+</entry><entry>
+  <title>Tuesday night: A few clouds. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Increasing cloudiness before morning. Wind becoming northeast 20 km/h in the evening. Low minus 7. Wind chill minus 14 overnight. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc2:20230403194500</id>
+</entry><entry>
+  <title>Wednesday: Snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High zero. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc3:20230403194500</id>
+</entry><entry>
+  <title>Wednesday night: Freezing rain or rain. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Freezing rain or rain. Low zero. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc4:20230403194500</id>
+</entry><entry>
+  <title>Thursday: Rain. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 7. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc5:20230403194500</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low zero. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc6:20230403194500</id>
+</entry><entry>
+  <title>Friday: Chance of flurries. High plus 4. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of flurries. High plus 4. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc7:20230403194500</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 6. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc8:20230403194500</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 6. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc9:20230403194500</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 4. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc10:20230403194500</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-50_metric_e.html"/>
+  <updated>2023-04-03T19:45:00Z</updated>
+  <published>2023-04-03T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 9. Forecast issued 3:45 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-50_fc11:20230403194500</id>
+</entry>
+</feed>

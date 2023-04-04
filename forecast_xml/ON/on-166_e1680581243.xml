@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Sioux Narrows - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-166_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-166_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-166_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-04T04:02:30Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230404040230</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WINTER STORM WARNING, Sioux Narrows</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm5"/>
+  <updated>2023-04-04T01:59:08Z</updated>
+  <published>2023-04-04T01:59:08Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:59 p.m. EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_w1:20230404015908</id>
+</entry>
+<entry>
+  <title>Current Conditions: Cloudy, -5.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-04T04:00:00Z</updated>
+  <published>2023-04-04T04:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Kenora Airport 11:00 PM CDT Monday 3 April 2023<br/> <b>Condition:</b> Cloudy<br/> <b>Temperature:</b> -5.0&deg;C<br/> <b>Pressure / Tendency:</b> 102.0 kPa rising<br/> <b>Visibility:</b> 32 km<br/> <b>Humidity:</b> 56 %<br/> <b>Wind Chill:</b> -11<br/> <b>Dewpoint:</b> -12.4&deg;C<br/> <b>Wind:</b> ENE 15 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_cc:20230404040000</id>
+</entry>
+<entry>
+  <title>Monday night: Chance of flurries. Low minus 8. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of flurries this evening. Wind northeast 20 km/h becoming light late this evening. Low minus 8. Wind chill minus 9 this evening and minus 14 overnight. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc0:20230403224600</id>
+</entry><entry>
+  <title>Tuesday: Periods of light snow. High minus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 60 percent chance of light snow in the afternoon. Wind east 20 km/h becoming light early in the morning. Wind becoming east 30 gusting to 50 in the morning. High minus 2. Wind chill minus 14 in the morning and minus 9 in the afternoon. UV index 3 or moderate. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc1:20230403224600</id>
+</entry><entry>
+  <title>Tuesday night: Snow. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 60 percent chance of light snow early in the evening. Snow and local blowing snow beginning in the evening. Amount 5 to 10 cm. Wind east 30 km/h gusting to 50. Low minus 10. Wind chill minus 9 in the evening and minus 19 overnight. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc2:20230403224600</id>
+</entry><entry>
+  <title>Wednesday: Snow. High minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High minus 5. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc3:20230403224600</id>
+</entry><entry>
+  <title>Wednesday night: Periods of snow. Low minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 11. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc4:20230403224600</id>
+</entry><entry>
+  <title>Thursday: Chance of flurries. High minus 2. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries. High minus 2. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc5:20230403224600</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 13. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc6:20230403224600</id>
+</entry><entry>
+  <title>Friday: Sunny. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 4. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc7:20230403224600</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 4. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc8:20230403224600</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 10. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc9:20230403224600</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc10:20230403224600</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-166_metric_e.html"/>
+  <updated>2023-04-03T22:46:00Z</updated>
+  <published>2023-04-03T22:46:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 10. Forecast issued 6:46 PM EDT Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-166_fc11:20230403224600</id>
+</entry>
+</feed>
