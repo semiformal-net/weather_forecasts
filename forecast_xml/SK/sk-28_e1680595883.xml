@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Val Marie - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-28_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-28_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-04T08:01:22Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230404080122</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Val Marie</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-25T17:46:28Z</updated>
+  <published>2023-03-25T17:46:28Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_w1:20230325174628</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -10.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-04T08:00:00Z</updated>
+  <published>2023-04-04T08:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Val Marie 2:00 AM CST Tuesday 4 April 2023<br/> <b>Temperature:</b> -10.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.9 kPa falling<br/> <b>Humidity:</b> 86 %<br/> <b>Wind Chill:</b> -17<br/> <b>Dewpoint:</b> -11.8&deg;C<br/> <b>Wind:</b> NNE 15 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_cc:20230404080000</id>
+</entry>
+<entry>
+  <title>Monday night: Chance of light snow. Low minus 15 except minus 9 near the Trans-Canada Highway. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 40 percent chance of light snow. Wind up to 15 km/h. Low minus 15 except minus 9 near the Trans-Canada Highway. Wind chill minus 13 this evening and minus 21 overnight. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc0:20230403220000</id>
+</entry><entry>
+  <title>Tuesday: Chance of light snow. High minus 7 except minus 3 near the Trans-Canada Highway. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 30 percent chance of light snow in the morning. Wind up to 15 km/h. High minus 7 except minus 3 near the Trans-Canada Highway. Wind chill minus 21 in the morning and minus 12 in the afternoon. UV index 4 or moderate. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc1:20230403220000</id>
+</entry><entry>
+  <title>Tuesday night: Partly cloudy. Low minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 16. Wind chill minus 13 in the evening and minus 22 overnight. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc2:20230403220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 2. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc3:20230403220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 16. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc4:20230403220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc5:20230403220000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 5. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc6:20230403220000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 8. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc7:20230403220000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 4. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc8:20230403220000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc9:20230403220000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc10:20230403220000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-28_metric_e.html"/>
+  <updated>2023-04-03T22:00:00Z</updated>
+  <published>2023-04-03T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 18. Forecast issued 4:00 PM CST Monday 3 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-28_fc11:20230403220000</id>
+</entry>
+</feed>
