@@ -1,0 +1,126 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Gogama - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-37_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-37_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-37_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-05T00:00:00Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230405000000</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>FREEZING RAIN WARNING, Gogama</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm40"/>
+  <updated>2023-04-04T22:03:27Z</updated>
+  <published>2023-04-04T22:03:27Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 6:03 p.m. EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_w1:20230404220327</id>
+</entry>
+
+<entry>
+  <title>Tuesday night: Periods of snow mixed with ice pellets. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of snow beginning this evening. Snow mixed with ice pellets overnight. Snow and ice pellet amount 5 cm. Wind east 20 km/h gusting to 40. Low minus 7. Wind chill near minus 14. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc0:20230404220700</id>
+</entry><entry>
+  <title>Wednesday: Periods of ice pellets or snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow at times mixed with ice pellets changing to ice pellets in the morning then to freezing rain and a few flurries late in the afternoon. Risk of freezing rain in the morning and afternoon. Snow and ice pellet amount 2 to 4 cm. Wind east 40 km/h gusting to 60 diminishing to 20 gusting to 50 in the morning. High zero. Wind chill minus 17 in the morning and minus 7 in the afternoon. UV index 2 or low. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc1:20230404220700</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Temperature rising to 8 by morning. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of freezing rain and a few flurries ending late in the evening then cloudy with 40 percent chance of rain showers changing to 60 percent chance of flurries before morning. Wind east 20 km/h gusting to 40 becoming south 20 gusting to 50 near midnight then west 30 gusting to 60 overnight. Temperature rising to 8 by morning. Wind chill minus 8 overnight. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc2:20230404220700</id>
+</entry><entry>
+  <title>Thursday: Flurries. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries. High minus 3. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc3:20230404220700</id>
+</entry><entry>
+  <title>Thursday night: Chance of flurries. Low minus 11. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 11. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc4:20230404220700</id>
+</entry><entry>
+  <title>Friday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc5:20230404220700</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 14. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc6:20230404220700</id>
+</entry><entry>
+  <title>Saturday: Sunny. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 5. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc7:20230404220700</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc8:20230404220700</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 9. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc9:20230404220700</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 2. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc10:20230404220700</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-37_metric_e.html"/>
+  <updated>2023-04-04T22:07:00Z</updated>
+  <published>2023-04-04T22:07:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 6:07 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-37_fc11:20230404220700</id>
+</entry>
+</feed>
