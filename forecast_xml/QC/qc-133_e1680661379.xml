@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Québec - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-133_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-133_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-05T02:00:57Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230405020057</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>FREEZING RAIN WARNING, Québec</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?qcrm134"/>
+  <updated>2023-04-04T19:49:04Z</updated>
+  <published>2023-04-04T19:49:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:49 p.m. EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_w1:20230404194904</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mainly Clear, -1.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-05T02:00:00Z</updated>
+  <published>2023-04-05T02:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Quebec Lesage Int'l Airport 10:00 PM EDT Tuesday 4 April 2023<br/> <b>Condition:</b> Mainly Clear<br/> <b>Temperature:</b> -1.6&deg;C<br/> <b>Pressure / Tendency:</b> 103.0 kPa rising<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 46 %<br/> <b>Wind Chill:</b> -4<br/> <b>Dewpoint:</b> -11.6&deg;C<br/> <b>Wind:</b> N 7 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_cc:20230405020000</id>
+</entry>
+<entry>
+  <title>Tuesday night: A few clouds. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Increasing cloudiness before morning. Wind up to 15 km/h. Low minus 10. Wind chill minus 16 overnight. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc0:20230404194500</id>
+</entry><entry>
+  <title>Wednesday: Snow or ice pellets. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Snow and local blowing snow beginning late in the morning then changing to ice pellets late in the afternoon. Snow and ice pellet amount 5 to 10 cm. Wind northeast 20 km/h gusting to 40 increasing to 40 gusting to 60 late in the morning. High minus 4. Wind chill near minus 16. UV index 2 or low. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc1:20230404194500</id>
+</entry><entry>
+  <title>Wednesday night: Freezing rain or ice pellets. Temperature rising to minus 1 by morning.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Ice pellets changing to freezing rain in the evening. Wind northeast 40 km/h gusting to 60. Temperature rising to minus 1 by morning. Wind chill minus 13 in the evening and minus 8 overnight. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc2:20230404194500</id>
+</entry><entry>
+  <title>Thursday: Periods of snow or rain. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High 9. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc3:20230404194500</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc4:20230404194500</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 3. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc5:20230404194500</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 10. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc6:20230404194500</id>
+</entry><entry>
+  <title>Saturday: Sunny. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 1. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc7:20230404194500</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 8. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc8:20230404194500</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 9. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc9:20230404194500</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc10:20230404194500</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-133_metric_e.html"/>
+  <updated>2023-04-04T19:45:00Z</updated>
+  <published>2023-04-04T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 3:45 PM EDT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-133_fc11:20230404194500</id>
+</entry>
+</feed>
