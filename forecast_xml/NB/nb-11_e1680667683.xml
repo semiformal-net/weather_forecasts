@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Oromocto - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-11_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-11_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-05T04:00:00Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230405040000</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>FREEZING RAIN WARNING, Oromocto</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?nb13"/>
+  <updated>2023-04-05T00:23:22Z</updated>
+  <published>2023-04-05T00:23:22Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:23 p.m. ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_w1:20230405002322</id>
+</entry>
+<entry>
+  <title>Current Conditions: Partly Cloudy, 2.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-05T03:00:00Z</updated>
+  <published>2023-04-05T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> CFB Gagetown 12:00 AM ADT Wednesday 5 April 2023<br/> <b>Condition:</b> Partly Cloudy<br/> <b>Temperature:</b> 2.2&deg;C<br/> <b>Pressure / Tendency:</b> 102.5 kPa rising<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 56 %<br/> <b>Dewpoint:</b> -5.7&deg;C<br/> <b>Wind:</b> NNW 18 km/h gust 28 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_cc:20230405030000</id>
+</entry>
+<entry>
+  <title>Tuesday night: Partly cloudy. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing this evening. Wind southwest 20 km/h becoming northwest 20 this evening. Low minus 7. Wind chill minus 12 overnight. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc0:20230404190000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High plus 3 with temperature falling to plus 2 in the afternoon.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Becoming cloudy in the afternoon. Wind up to 15 km/h. High plus 3 with temperature falling to plus 2 in the afternoon. Wind chill minus 10 in the morning. UV index 6 or high. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc1:20230404190000</id>
+</entry><entry>
+  <title>Wednesday night: Freezing rain or snow. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Snow mixed with ice pellets beginning in the evening then changing to freezing rain mixed with ice pellets near midnight. Snow and ice pellet amount 5 cm. Wind becoming east 20 km/h overnight. Low minus 1. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc2:20230404190000</id>
+</entry><entry>
+  <title>Thursday: Freezing rain or rain. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Freezing rain or rain. High plus 5. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc3:20230404190000</id>
+</entry><entry>
+  <title>Thursday night: Periods of rain. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 2. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc4:20230404190000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc5:20230404190000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 8. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc6:20230404190000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc7:20230404190000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 9. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc8:20230404190000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 8. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc9:20230404190000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 4. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc10:20230404190000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-04T19:00:00Z</updated>
+  <published>2023-04-04T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 12. Forecast issued 4:00 PM ADT Tuesday 4 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc11:20230404190000</id>
+</entry>
+</feed>
