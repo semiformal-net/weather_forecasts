@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Oromocto - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-11_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-11_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-08T17:01:28Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230408170128</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Oromocto</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T12:00:09Z</updated>
+  <published>2023-04-06T12:00:09Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_w1:20230406120009</id>
+</entry>
+<entry>
+  <title>Current Conditions: Sunny, 0.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T17:00:00Z</updated>
+  <published>2023-04-08T17:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fredericton Int'l Airport 2:00 PM ADT Saturday 8 April 2023<br/> <b>Condition:</b> Sunny<br/> <b>Temperature:</b> 0.9&deg;C<br/> <b>Pressure:</b> 102.5 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 26 %<br/> <b>Dewpoint:</b> -16.3&deg;C<br/> <b>Wind:</b> WNW 18 km/h gust 39 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_cc:20230408170000</id>
+</entry>
+<entry>
+  <title>Saturday: Mainly sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud this afternoon. Wind northwest 20 km/h gusting to 40. High zero. Wind chill minus 9 this morning. UV index 5 or moderate. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc0:20230408140000</id>
+</entry><entry>
+  <title>Saturday night: Partly cloudy. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Clearing before morning. Wind northwest 20 km/h becoming light this evening. Low minus 9. Wind chill minus 3 this evening and minus 12 overnight. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc1:20230408140000</id>
+</entry><entry>
+  <title>Sunday: Mainly sunny. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind becoming west 20 km/h late in the afternoon. High 7. Wind chill minus 12 in the morning. UV index 4 or moderate. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc2:20230408140000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 2. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc3:20230408140000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 14. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc4:20230408140000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low zero. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc5:20230408140000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 14. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 14. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc6:20230408140000</id>
+</entry><entry>
+  <title>Tuesday night: Showers. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 3. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc7:20230408140000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 8. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc8:20230408140000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc9:20230408140000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 18. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc10:20230408140000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 5. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc11:20230408140000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 17. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-11_metric_e.html"/>
+  <updated>2023-04-08T14:00:00Z</updated>
+  <published>2023-04-08T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 17. Forecast issued 11:00 AM ADT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-11_fc12:20230408140000</id>
+</entry>
+</feed>
