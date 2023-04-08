@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Fort Good Hope - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nt-5_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nt-5_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-08T00:03:00Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230408000300</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Fort Good Hope</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-22T19:15:03Z</updated>
+  <published>2023-03-22T19:15:03Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_w1:20230322191503</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -9.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-08T00:00:00Z</updated>
+  <published>2023-04-08T00:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fort Good Hope Airport 6:00 PM MDT Friday 7 April 2023<br/> <b>Temperature:</b> -9.5&deg;C<br/> <b>Pressure / Tendency:</b> 99.9 kPa rising<br/> <b>Humidity:</b> 66 %<br/> <b>Wind Chill:</b> -17<br/> <b>Dewpoint:</b> -14.8&deg;C<br/> <b>Wind:</b> W 17 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_cc:20230408000000</id>
+</entry>
+<entry>
+  <title>Friday night: Partly cloudy. Low minus 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy overnight. Wind west 20 km/h gusting to 40 becoming light this evening. Low minus 18. Wind chill minus 14 this evening and minus 22 overnight. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc0:20230407220000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Wind up to 15 km/h. High minus 6. Wind chill minus 22 in the morning and minus 10 in the afternoon. UV index 1 or low. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc1:20230407220000</id>
+</entry><entry>
+  <title>Saturday night: Mainly cloudy. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind up to 15 km/h. Low minus 13. Wind chill minus 10 in the evening and minus 19 overnight. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc2:20230407220000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 1. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc3:20230407220000</id>
+</entry><entry>
+  <title>Sunday night: Chance of flurries. Low minus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 3. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc4:20230407220000</id>
+</entry><entry>
+  <title>Monday: Snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High zero. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc5:20230407220000</id>
+</entry><entry>
+  <title>Monday night: Snow. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low minus 8. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc6:20230407220000</id>
+</entry><entry>
+  <title>Tuesday: Snow. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High minus 4. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc7:20230407220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 12. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc8:20230407220000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 5. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc9:20230407220000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low minus 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 14. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc10:20230407220000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-5_metric_e.html"/>
+  <updated>2023-04-07T22:00:00Z</updated>
+  <published>2023-04-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 6. Forecast issued 4:00 PM MDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-5_fc11:20230407220000</id>
+</entry>
+</feed>
