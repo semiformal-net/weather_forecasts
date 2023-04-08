@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Malahat - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-29_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-29_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-08T03:01:02Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230408030102</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Malahat</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bc43"/>
+  <updated>2023-04-07T23:17:13Z</updated>
+  <published>2023-04-07T23:17:13Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:17 p.m. PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_w1:20230407231713</id>
+</entry>
+<entry>
+  <title>Current Conditions:  5.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-08T03:00:00Z</updated>
+  <published>2023-04-08T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Malahat 8:00 PM PDT Friday 7 April 2023<br/> <b>Temperature:</b> 5.7&deg;C<br/> <b>Pressure / Tendency:</b> 100.9 kPa rising<br/> <b>Humidity:</b> 69 %<br/> <b>Dewpoint:</b> 0.4&deg;C<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_cc:20230408030000</id>
+</entry>
+<entry>
+  <title>Friday night: Chance of showers. Low 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of showers early this evening. 60 percent chance of showers overnight. Wind southwest 20 km/h gusting to 40 except west 40 gusting to 60 near Juan de Fuca Strait early this evening. Wind becoming light early this evening. Low 6. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc0:20230407230000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Wind southeast 20 km/h except 40 near Haro Strait. High 10. UV index 2 or low. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc1:20230407230000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Wind light except southeast 30 km/h near Haro Strait overnight. Low 7. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc2:20230407230000</id>
+</entry><entry>
+  <title>Sunday: Periods of rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 11. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc3:20230407230000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc4:20230407230000</id>
+</entry><entry>
+  <title>Monday: Showers. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 9. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc5:20230407230000</id>
+</entry><entry>
+  <title>Monday night: Rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low plus 4. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc6:20230407230000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 9. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 9. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc7:20230407230000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 3. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc8:20230407230000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc9:20230407230000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 2. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc10:20230407230000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-29_metric_e.html"/>
+  <updated>2023-04-07T23:00:00Z</updated>
+  <published>2023-04-07T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 12. Forecast issued 4:00 PM PDT Friday 7 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-29_fc11:20230407230000</id>
+</entry>
+</feed>
