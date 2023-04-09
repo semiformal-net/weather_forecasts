@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Powell River - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-58_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-58_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-09T10:00:44Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230409100044</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WIND WARNING, Powell River</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bcrm1514"/>
+  <updated>2023-04-09T01:25:05Z</updated>
+  <published>2023-04-09T01:25:05Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 6:25 p.m. PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_w1:20230409012505</id>
+</entry><entry>
+<title>SPECIAL WEATHER STATEMENT, Powell River</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bcrm1514"/>
+  <updated>2023-04-08T23:31:01Z</updated>
+  <published>2023-04-08T23:31:01Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:31 p.m. PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_w2:20230408233101</id>
+</entry>
+<entry>
+  <title>Current Conditions:  7.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T10:00:00Z</updated>
+  <published>2023-04-09T10:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Powell River Airport 3:00 AM PDT Sunday 9 April 2023<br/> <b>Temperature:</b> 7.3&deg;C<br/> <b>Pressure:</b> 101.2 kPa <br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 7.3&deg;C<br/> <b>Wind:</b> ESE 23 km/h gust 42 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_cc:20230409100000</id>
+</entry>
+<entry>
+  <title>Saturday night: Periods of rain. Temperature steady near 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Amount 10 mm. Wind southeast 40 km/h gusting to 60 except 80 near the Strait of Georgia overnight. Temperature steady near 7. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc0:20230409012700</id>
+</entry><entry>
+  <title>Sunday: Rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain ending late in the afternoon then cloudy. Amount 15 to 25 mm. Wind southeast 50 km/h gusting to 70 except gusting to 90 near the Strait of Georgia in the morning and early in the afternoon. Wind becoming southwest 20 gusting to 40 in the afternoon. High 11. UV index 1 or low. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc1:20230409012700</id>
+</entry><entry>
+  <title>Sunday night: Partly cloudy. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind southwest 20 km/h gusting to 40 becoming light in the evening. Low plus 4. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc2:20230409012700</id>
+</entry><entry>
+  <title>Monday: Cloudy. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 10. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc3:20230409012700</id>
+</entry><entry>
+  <title>Monday night: Periods of rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 4. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc4:20230409012700</id>
+</entry><entry>
+  <title>Tuesday: Rain. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 9. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc5:20230409012700</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc6:20230409012700</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 11. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc7:20230409012700</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc8:20230409012700</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc9:20230409012700</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc10:20230409012700</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-58_metric_e.html"/>
+  <updated>2023-04-09T01:27:00Z</updated>
+  <published>2023-04-09T01:27:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 12. Forecast issued 6:27 PM PDT Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-58_fc11:20230409012700</id>
+</entry>
+</feed>
