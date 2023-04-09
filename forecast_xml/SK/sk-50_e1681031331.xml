@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Southend Reindeer - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-50_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-50_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-09T09:01:01Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230409090101</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Southend Reindeer</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-15T14:45:03Z</updated>
+  <published>2023-03-15T14:45:03Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_w1:20230315144503</id>
+</entry>
+<entry>
+  <title>Current Conditions:  1.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-09T09:00:00Z</updated>
+  <published>2023-04-09T09:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Southend 3:00 AM CST Sunday 9 April 2023<br/> <b>Temperature:</b> 1.0&deg;C<br/> <b>Pressure / Tendency:</b> 100.5 kPa rising<br/> <b>Humidity:</b> 93 %<br/> <b>Dewpoint:</b> -0.1&deg;C<br/> <b>Wind:</b> SSE 2 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_cc:20230409090000</id>
+</entry>
+<entry>
+  <title>Saturday night: Chance of showers. Low plus 1. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness then 30 percent chance of showers late this evening and after midnight. Becoming partly cloudy overnight. Wind south 20 km/h becoming light this evening. Low plus 1. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc0:20230408220000</id>
+</entry><entry>
+  <title>Sunday: Mainly sunny. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Becoming sunny in the morning. High 12. UV index 4 or moderate. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc1:20230408220000</id>
+</entry><entry>
+  <title>Sunday night: Increasing cloudiness. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness near midnight. Wind up to 15 km/h. Low minus 4. Wind chill minus 6 overnight. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc2:20230408220000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 12. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc3:20230408220000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Low minus 5. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc4:20230408220000</id>
+</entry><entry>
+  <title>Tuesday: Rain or snow. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain or snow. High plus 2. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc5:20230408220000</id>
+</entry><entry>
+  <title>Tuesday night: Snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low minus 4. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc6:20230408220000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc7:20230408220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 7. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc8:20230408220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 5. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc9:20230408220000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 5. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc10:20230408220000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-50_metric_e.html"/>
+  <updated>2023-04-08T22:00:00Z</updated>
+  <published>2023-04-08T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 7. Forecast issued 4:00 PM CST Saturday 8 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-50_fc11:20230408220000</id>
+</entry>
+</feed>
