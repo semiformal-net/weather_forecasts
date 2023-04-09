@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Bloodvein - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/mb-37_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/mb-37_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-09T19:01:07Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230409190107</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Bloodvein</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T06:30:51Z</updated>
+  <published>2023-04-06T06:30:51Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_w1:20230406063051</id>
+</entry>
+<entry>
+  <title>Current Conditions:  6.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T19:00:00Z</updated>
+  <published>2023-04-09T19:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Berens River Airport 2:00 PM CDT Sunday 9 April 2023<br/> <b>Temperature:</b> 6.6&deg;C<br/> <b>Pressure / Tendency:</b> 101.2 kPa rising<br/> <b>Humidity:</b> 52 %<br/> <b>Dewpoint:</b> -2.4&deg;C<br/> <b>Wind:</b> S 13 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_cc:20230409190000</id>
+</entry>
+<entry>
+  <title>Sunday: Mainly sunny. High 11 except 6 near lake Winnipeg.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. High 11 except 6 near lake Winnipeg. UV index 4 or moderate. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc0:20230409160000</id>
+</entry><entry>
+  <title>Sunday night: A few clouds. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Becoming partly cloudy overnight. Wind up to 15 km/h. Low minus 4. Wind chill minus 8 overnight. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc1:20230409160000</id>
+</entry><entry>
+  <title>Monday: Mainly sunny. High 9 except plus 5 near lake Winnipeg.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind becoming south 20 km/h early in the afternoon. High 9 except plus 5 near lake Winnipeg. Wind chill minus 8 in the morning. UV index 5 or moderate. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc2:20230409160000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 4. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc3:20230409160000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 15. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc4:20230409160000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc5:20230409160000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 7. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc6:20230409160000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 3. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc7:20230409160000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 5. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc8:20230409160000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 3. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc9:20230409160000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 6. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc10:20230409160000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 4. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc11:20230409160000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-37_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 6. Forecast issued 11:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-37_fc12:20230409160000</id>
+</entry>
+</feed>
