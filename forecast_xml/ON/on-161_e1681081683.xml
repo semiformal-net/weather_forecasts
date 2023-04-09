@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Simcoe - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-161_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-161_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-161_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-09T23:00:55Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230409230055</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Simcoe</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-05T22:00:37Z</updated>
+  <published>2023-04-05T22:00:37Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_w1:20230405220037</id>
+</entry>
+<entry>
+  <title>Current Conditions:  9.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T23:00:00Z</updated>
+  <published>2023-04-09T23:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Delhi 7:00 PM EDT Sunday 9 April 2023<br/> <b>Temperature:</b> 9.5&deg;C<br/> <b>Pressure / Tendency:</b> 103.2 kPa falling<br/> <b>Humidity:</b> 43 %<br/> <b>Dewpoint:</b> -2.4&deg;C<br/> <b>Wind:</b> SW 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_cc:20230409230000</id>
+</entry>
+<entry>
+  <title>Sunday night: Clear. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low zero. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc0:20230409193000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 17 except 12 near Lake Erie.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Wind becoming southwest 20 km/h near noon. High 17 except 12 near Lake Erie. UV index 6 or high. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc1:20230409193000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Wind southwest 20 km/h becoming light in the evening. Low plus 4. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc2:20230409193000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. High 15. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc3:20230409193000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. Low 10. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc4:20230409193000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 20. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc5:20230409193000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 12. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc6:20230409193000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 20. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc7:20230409193000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc8:20230409193000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 24. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc9:20230409193000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 11. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc10:20230409193000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 20. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-161_metric_e.html"/>
+  <updated>2023-04-09T19:30:00Z</updated>
+  <published>2023-04-09T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 20. Forecast issued 3:30 PM EDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-161_fc11:20230409193000</id>
+</entry>
+</feed>
