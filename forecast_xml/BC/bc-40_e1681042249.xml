@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Esquimalt - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-40_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-40_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-09T12:02:06Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230409120206</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Esquimalt</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-08T13:00:07Z</updated>
+  <published>2023-04-08T13:00:07Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_w1:20230408130007</id>
+</entry>
+<entry>
+  <title>Current Conditions:  8.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Esquimalt Harbour 5:00 AM PDT Sunday 9 April 2023<br/> <b>Temperature:</b> 8.3&deg;C<br/> <b>Pressure / Tendency:</b> 101.3 kPa falling<br/> <b>Humidity:</b> 89 %<br/> <b>Dewpoint:</b> 6.6&deg;C<br/> <b>Wind:</b> N 8 km/h<br/> <b>Air Quality Health Index:</b> 1<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_cc:20230409120000</id>
+</entry>
+<entry>
+  <title>Sunday: Chance of showers. High 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers this morning. Periods of rain beginning near noon. Wind becoming southeast 20 km/h gusting to 40 except 50 gusting to 70 near Haro Strait this afternoon. Wind becoming west 30 gusting to 50 late this afternoon. High 12. UV index 2 or low. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc0:20230409120000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low 6. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Becoming cloudy this evening. 30 percent chance of showers overnight. Wind west 30 km/h gusting to 50 except 60 gusting to 80 near Juan de Fuca Strait this evening. Wind becoming light late this evening. Low 6. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc1:20230409120000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 9. UV index 2 or low. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc2:20230409120000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 4. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc3:20230409120000</id>
+</entry><entry>
+  <title>Tuesday: Showers. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 8. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc4:20230409120000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc5:20230409120000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 12. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc6:20230409120000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 1. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc7:20230409120000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 10. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc8:20230409120000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc9:20230409120000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 12. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 12. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc10:20230409120000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low plus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 5. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc11:20230409120000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 14. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-40_metric_e.html"/>
+  <updated>2023-04-09T12:00:00Z</updated>
+  <published>2023-04-09T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 14. Forecast issued 5:00 AM PDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-40_fc12:20230409120000</id>
+</entry>
+</feed>
