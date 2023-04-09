@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Naujaat - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nu-3_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nu-3_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-09T16:06:22Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230409160622</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Naujaat</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-06T10:15:08Z</updated>
+  <published>2023-03-06T10:15:08Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_w1:20230306101508</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow and Blowing Snow, -12.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T16:00:00Z</updated>
+  <published>2023-04-09T16:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Naujaat 11:00 AM CDT Sunday 9 April 2023<br/> <b>Condition:</b> Light Snow and Blowing Snow<br/> <b>Temperature:</b> -12.1&deg;C<br/> <b>Pressure / Tendency:</b> 100.0 kPa falling<br/> <b>Visibility:</b> 0.0 km<br/> <b>Humidity:</b> 87 %<br/> <b>Wind Chill:</b> -24<br/> <b>Dewpoint:</b> -13.8&deg;C<br/> <b>Wind:</b> ESE 41 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_cc:20230409160000</id>
+</entry>
+<entry>
+  <title>Sunday: Near blizzard. High minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Near blizzard. Snowfall amount 5 to 10 cm. Wind southeast 40 km/h gusting to 60. High minus 7. Wind chill near minus 19. UV index 1 or low. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc0:20230409150000</id>
+</entry><entry>
+  <title>Sunday night: Periods of light snow. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of light snow. Wind east 30 km/h gusting to 50. Low minus 13. Wind chill minus 16 this evening and minus 23 overnight. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc1:20230409150000</id>
+</entry><entry>
+  <title>Monday: Periods of light snow. High minus 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of light snow in the morning and early in the afternoon. Clearing late in the afternoon. Wind northeast 30 km/h. High minus 10. Wind chill minus 23 in the morning and minus 18 in the afternoon. UV index 1 or low. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc2:20230409150000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low minus 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 18. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc3:20230409150000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High minus 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 15. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc4:20230409150000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low minus 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 18. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc5:20230409150000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 11. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc6:20230409150000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 16. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc7:20230409150000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 11. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc8:20230409150000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 17. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc9:20230409150000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc10:20230409150000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 17. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc11:20230409150000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High minus 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-3_metric_e.html"/>
+  <updated>2023-04-09T15:00:00Z</updated>
+  <published>2023-04-09T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 11. Forecast issued 10:00 AM CDT Sunday 9 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-3_fc12:20230409150000</id>
+</entry>
+</feed>
