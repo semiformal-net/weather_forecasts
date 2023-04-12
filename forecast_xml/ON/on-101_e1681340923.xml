@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Ogoki - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-101_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-101_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-101_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-12T23:02:08Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230412230208</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Ogoki</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T07:45:23Z</updated>
+  <published>2023-04-06T07:45:23Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_w1:20230406074523</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 10.4°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T23:00:00Z</updated>
+  <published>2023-04-12T23:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Ogoki Post Airport 7:00 PM EDT Wednesday 12 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 10.4&deg;C<br/> <b>Pressure:</b> 100.1 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 45 %<br/> <b>Dewpoint:</b> -1.1&deg;C<br/> <b>Wind:</b> E 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_cc:20230412230000</id>
+</entry>
+<entry>
+  <title>Wednesday night: Partly cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Fog patches developing near midnight. Wind becoming west 20 km/h late this evening. Low minus 1. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc0:20230412200000</id>
+</entry><entry>
+  <title>Thursday: Mainly cloudy. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Fog patches dissipating in the morning. Wind becoming northwest 20 km/h in the afternoon. High 6. UV index 4 or moderate. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc1:20230412200000</id>
+</entry><entry>
+  <title>Thursday night: Periods of snow. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of snow beginning before morning. Wind northwest 20 km/h becoming light in the evening. Low minus 7. Wind chill minus 12 overnight. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc2:20230412200000</id>
+</entry><entry>
+  <title>Friday: Chance of flurries. High zero. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of flurries. High zero. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc3:20230412200000</id>
+</entry><entry>
+  <title>Friday night: Chance of snow. Low minus 5. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of snow. Low minus 5. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc4:20230412200000</id>
+</entry><entry>
+  <title>Saturday: Snow. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High plus 1. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc5:20230412200000</id>
+</entry><entry>
+  <title>Saturday night: Snow. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low minus 1. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc6:20230412200000</id>
+</entry><entry>
+  <title>Sunday: Snow or rain. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow or rain. High plus 3. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc7:20230412200000</id>
+</entry><entry>
+  <title>Sunday night: Rain or snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain or snow. Low minus 4. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc8:20230412200000</id>
+</entry><entry>
+  <title>Monday: Snow. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High plus 2. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc9:20230412200000</id>
+</entry><entry>
+  <title>Monday night: Periods of snow. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 6. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc10:20230412200000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-101_metric_e.html"/>
+  <updated>2023-04-12T20:00:00Z</updated>
+  <published>2023-04-12T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 4. Forecast issued 4:00 PM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-101_fc11:20230412200000</id>
+</entry>
+</feed>
