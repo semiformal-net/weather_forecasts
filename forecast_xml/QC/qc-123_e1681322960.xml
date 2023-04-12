@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Mirabel - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-123_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-123_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-12T18:02:13Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230412180213</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Mirabel</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T07:45:16Z</updated>
+  <published>2023-04-06T07:45:16Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_w1:20230406074516</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 11.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T18:00:00Z</updated>
+  <published>2023-04-12T18:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Montréal-Mirabel Int'l Airport 2:00 PM EDT Wednesday 12 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 11.2&deg;C<br/> <b>Pressure / Tendency:</b> 101.0 kPa falling<br/> <b>Visibility:</b> 72 km<br/> <b>Humidity:</b> 44 %<br/> <b>Dewpoint:</b> -0.7&deg;C<br/> <b>Wind:</b> SW 15 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_cc:20230412180000</id>
+</entry>
+<entry>
+  <title>Wednesday: Mainly cloudy. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. High 14. UV index 5 or moderate. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc0:20230412153000</id>
+</entry><entry>
+  <title>Wednesday night: A few clouds. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing late this evening. Low plus 5. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc1:20230412153000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Wind becoming southwest 20 km/h near noon. High 22. Humidex 25. UV index 8 or very high. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc2:20230412153000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 9. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc3:20230412153000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc4:20230412153000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc5:20230412153000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 18. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc6:20230412153000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc7:20230412153000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 22. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc8:20230412153000</id>
+</entry><entry>
+  <title>Sunday night: Rain. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low 8. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc9:20230412153000</id>
+</entry><entry>
+  <title>Monday: Rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 11. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc10:20230412153000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 2. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc11:20230412153000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 8. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-123_metric_e.html"/>
+  <updated>2023-04-12T15:30:00Z</updated>
+  <published>2023-04-12T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 11:30 AM EDT Wednesday 12 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-123_fc12:20230412153000</id>
+</entry>
+</feed>
