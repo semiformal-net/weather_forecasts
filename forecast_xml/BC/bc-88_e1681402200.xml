@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Sandspit - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-88_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-88_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-13T16:02:05Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230413160205</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Sandspit</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-09T18:15:03Z</updated>
+  <published>2023-04-09T18:15:03Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_w1:20230409181503</id>
+</entry>
+<entry>
+  <title>Current Conditions: Cloudy, 5.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T16:00:00Z</updated>
+  <published>2023-04-13T16:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Sandspit Airport 9:00 AM PDT Thursday 13 April 2023<br/> <b>Condition:</b> Cloudy<br/> <b>Temperature:</b> 5.1&deg;C<br/> <b>Pressure:</b> 101.4 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 88 %<br/> <b>Dewpoint:</b> 3.3&deg;C<br/> <b>Wind:</b> W 18 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_cc:20230413160000</id>
+</entry>
+<entry>
+  <title>Thursday: Chance of showers. High 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few showers ending this morning then mainly cloudy with 60 percent chance of showers. Wind northwest 20 km/h. High 6. UV index 3 or moderate. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc0:20230413120000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 2. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of showers this evening and after midnight. Wind becoming southeast 20 km/h before morning. Low plus 2. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc1:20230413120000</id>
+</entry><entry>
+  <title>Friday: Rain. High 6 with temperature falling to plus 3 in the afternoon.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Rain beginning in the morning. Wind southeast 20 km/h increasing to 40 gusting to 60 late in the morning then to 70 gusting to 90 late in the afternoon. High 6 with temperature falling to plus 3 in the afternoon. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc2:20230413120000</id>
+</entry><entry>
+  <title>Friday night: Periods of rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Very windy. Low plus 4. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc3:20230413120000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 7. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc4:20230413120000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc5:20230413120000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 7. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc6:20230413120000</id>
+</entry><entry>
+  <title>Sunday night: Showers. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 3. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc7:20230413120000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 8. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 40 percent chance of showers. High 8. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc8:20230413120000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc9:20230413120000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 8. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc10:20230413120000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc11:20230413120000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-88_metric_e.html"/>
+  <updated>2023-04-13T12:00:00Z</updated>
+  <published>2023-04-13T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 9. Forecast issued 5:00 AM PDT Thursday 13 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-88_fc12:20230413120000</id>
+</entry>
+</feed>
