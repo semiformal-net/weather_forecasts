@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Greenstone (Nakina) - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-97_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-97_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-97_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-15T07:01:54Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230415070154</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>FREEZING RAIN WARNING, Greenstone (Nakina)</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm108"/>
+  <updated>2023-04-14T23:49:04Z</updated>
+  <published>2023-04-14T23:49:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 7:49 p.m. EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_w1:20230414234904</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, -0.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-15T07:00:00Z</updated>
+  <published>2023-04-15T07:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Geraldton Airport 3:00 AM EDT Saturday 15 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> -0.8&deg;C<br/> <b>Pressure:</b> 101.0 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 78 %<br/> <b>Wind Chill:</b> -5<br/> <b>Dewpoint:</b> -4.2&deg;C<br/> <b>Wind:</b> NNE 13 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_cc:20230415070000</id>
+</entry>
+<entry>
+  <title>Friday night: Periods of freezing rain. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy near midnight then periods of freezing rain. Wind east 20 km/h gusting to 40 becoming light this evening. Low minus 1. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc0:20230414235800</id>
+</entry><entry>
+  <title>Saturday: Periods of freezing rain. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of freezing rain ending near noon then cloudy. Risk of freezing rain in the afternoon. Wind becoming northeast 20 km/h late in the afternoon. High plus 2. UV index 4 or moderate. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc1:20230414235800</id>
+</entry><entry>
+  <title>Saturday night: Periods of freezing rain mixed with ice pellets. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of freezing rain or ice pellets beginning in the evening. Risk of freezing rain early in the evening. Wind northeast 20 km/h becoming light in the evening. Low minus 4. Wind chill minus 9 overnight. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc2:20230414235800</id>
+</entry><entry>
+  <title>Sunday: Periods of freezing rain or snow. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of freezing rain or snow. High plus 1. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc3:20230414235800</id>
+</entry><entry>
+  <title>Sunday night: Periods of snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 4. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc4:20230414235800</id>
+</entry><entry>
+  <title>Monday: Periods of snow. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. High plus 2. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc5:20230414235800</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low minus 10. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of flurries. Low minus 10. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc6:20230414235800</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 6. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc7:20230414235800</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 12. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc8:20230414235800</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 7. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc9:20230414235800</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 6. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc10:20230414235800</id>
+</entry><entry>
+  <title>Thursday: Chance of flurries or rain showers. High plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-14T23:58:00Z</updated>
+  <published>2023-04-14T23:58:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High plus 4. Forecast issued 7:58 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc11:20230414235800</id>
+</entry>
+</feed>
