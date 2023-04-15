@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Leamington - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-23_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-23_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-23_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-15T02:00:57Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230415020057</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL AIR QUALITY STATEMENT ENDED, Leamington</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm26"/>
+  <updated>2023-04-15T01:47:32Z</updated>
+  <published>2023-04-15T01:47:32Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:47 p.m. EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_w1:20230415014732</id>
+</entry>
+<entry>
+  <title>Current Conditions:  12.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-15T02:00:00Z</updated>
+  <published>2023-04-15T02:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Harrow AAFC 10:00 PM EDT Friday 14 April 2023<br/> <b>Temperature:</b> 12.6&deg;C<br/> <b>Pressure / Tendency:</b> 101.0 kPa rising<br/> <b>Humidity:</b> 75 %<br/> <b>Dewpoint:</b> 8.2&deg;C<br/> <b>Wind:</b> SSE 4 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_cc:20230415020000</id>
+</entry>
+<entry>
+  <title>Friday night: A few clouds. Low 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Becoming partly cloudy this evening. Low 13. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc0:20230414214700</id>
+</entry><entry>
+  <title>Saturday: Clearing. High 27 except 21 near the lake.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Clearing early in the afternoon. High 27 except 21 near the lake. UV index 8 or very high. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc1:20230414214700</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 12. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc2:20230414214700</id>
+</entry><entry>
+  <title>Sunday: Chance of showers or thunderstorms. High 22. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 70 percent chance of showers or thunderstorms. High 22. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc3:20230414214700</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low 8. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. Low 8. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc4:20230414214700</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 8. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc5:20230414214700</id>
+</entry><entry>
+  <title>Monday night: Chance of rain showers or flurries. Low plus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of rain showers or flurries. Low plus 3. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc6:20230414214700</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc7:20230414214700</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc8:20230414214700</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 18. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc9:20230414214700</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 10. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc10:20230414214700</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-23_metric_e.html"/>
+  <updated>2023-04-14T21:47:00Z</updated>
+  <published>2023-04-14T21:47:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 20. Forecast issued 5:47 PM EDT Friday 14 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-23_fc11:20230414214700</id>
+</entry>
+</feed>
