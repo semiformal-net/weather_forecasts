@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Inukjuak - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-131_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-131_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-16T19:11:50Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230416191150</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Inukjuak</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-02-24T21:30:12Z</updated>
+  <published>2023-02-24T21:30:12Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_w1:20230224213012</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, -9.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T19:11:00Z</updated>
+  <published>2023-04-16T19:11:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Inukjuak Airport 3:11 PM EDT Sunday 16 April 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> -9.3&deg;C<br/> <b>Pressure:</b> 102.6 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 81 %<br/> <b>Wind Chill:</b> -19<br/> <b>Dewpoint:</b> -11.9&deg;C<br/> <b>Wind:</b> NNE 33 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_cc:20230416191100</id>
+</entry>
+<entry>
+  <title>Sunday: Periods of light snow. High minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of light snow ending this morning then a mix of sun and cloud. Wind north 20 km/h. High minus 6. Wind chill minus 20 this morning and minus 13 this afternoon. UV index 4 or moderate. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc0:20230416083000</id>
+</entry><entry>
+  <title>Sunday night: Mainly cloudy. Low minus 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy after midnight. Wind northeast 20 km/h. Low minus 14. Wind chill minus 14 this evening and minus 24 overnight. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc1:20230416083000</id>
+</entry><entry>
+  <title>Monday: Periods of light snow. High minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of light snow beginning late in the afternoon. Wind northeast 30 km/h gusting to 50. High minus 6. Wind chill minus 24 in the morning and minus 14 in the afternoon. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc2:20230416083000</id>
+</entry><entry>
+  <title>Monday night: Snow and blowing snow. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Blowing snow. Windy. Low minus 9. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc3:20230416083000</id>
+</entry><entry>
+  <title>Tuesday: Snow and blowing snow. High minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Blowing snow. Windy. High minus 5. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc4:20230416083000</id>
+</entry><entry>
+  <title>Tuesday night: Snow and blowing snow. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Blowing snow. Windy. Low minus 7. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc5:20230416083000</id>
+</entry><entry>
+  <title>Wednesday: Flurries. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries. Local blowing snow. Windy. High minus 4. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc6:20230416083000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of flurries. Low minus 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of flurries. Local blowing snow. Windy. Low minus 7. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc7:20230416083000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Local blowing snow. Windy. High minus 4. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc8:20230416083000</id>
+</entry><entry>
+  <title>Thursday night: Chance of flurries. Low minus 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc9:20230416083000</id>
+</entry><entry>
+  <title>Friday: Chance of flurries. High minus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of flurries. High minus 3. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc10:20230416083000</id>
+</entry><entry>
+  <title>Friday night: Cloudy. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 6. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc11:20230416083000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-131_metric_e.html"/>
+  <updated>2023-04-16T08:30:00Z</updated>
+  <published>2023-04-16T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 1. Forecast issued 4:30 AM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-131_fc12:20230416083000</id>
+</entry>
+</feed>
