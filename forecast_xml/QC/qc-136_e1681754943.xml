@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Sherbrooke - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-136_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-136_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-17T18:08:01Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230417180801</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Sherbrooke</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T06:30:52Z</updated>
+  <published>2023-04-06T06:30:52Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_w1:20230406063052</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 15.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T18:07:00Z</updated>
+  <published>2023-04-17T18:07:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Sherbrooke Airport 2:07 PM EDT Monday 17 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 15.5&deg;C<br/> <b>Pressure:</b> 100.1 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 70 %<br/> <b>Dewpoint:</b> 10.1&deg;C<br/> <b>Wind:</b> SE 18 km/h gust 35 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_cc:20230417180700</id>
+</entry>
+<entry>
+  <title>Monday: Rain. Temperature falling to 12 this afternoon.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Rain beginning early this afternoon. Wind southeast 20 km/h gusting to 40. Temperature falling to 12 this afternoon. UV index 2 or low. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc0:20230417153000</id>
+</entry><entry>
+  <title>Monday night: Rain. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Wind southeast 20 km/h gusting to 40 becoming light near midnight. Low plus 5. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc1:20230417153000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 8. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of showers in the afternoon. High 8. UV index 6 or high. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc2:20230417153000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc3:20230417153000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 7. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc4:20230417153000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 1. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc5:20230417153000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 11. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc6:20230417153000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 2. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc7:20230417153000</id>
+</entry><entry>
+  <title>Friday: Periods of rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 11. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc8:20230417153000</id>
+</entry><entry>
+  <title>Friday night: Periods of rain. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 5. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc9:20230417153000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 15. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc10:20230417153000</id>
+</entry><entry>
+  <title>Saturday night: Rain. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low 7. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc11:20230417153000</id>
+</entry><entry>
+  <title>Sunday: Periods of rain. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-17T15:30:00Z</updated>
+  <published>2023-04-17T15:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 12. Forecast issued 11:30 AM EDT Monday 17 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc12:20230417153000</id>
+</entry>
+</feed>
