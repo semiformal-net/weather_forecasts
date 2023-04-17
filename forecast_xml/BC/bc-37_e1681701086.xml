@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Nelson - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-37_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-37_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-17T03:00:49Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230417030049</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Nelson</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-12T09:00:06Z</updated>
+  <published>2023-04-12T09:00:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_w1:20230412090006</id>
+</entry>
+<entry>
+  <title>Current Conditions:  6.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-17T03:00:00Z</updated>
+  <published>2023-04-17T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Nelson 8:00 PM PDT Sunday 16 April 2023<br/> <b>Temperature:</b> 6.9&deg;C<br/> <b>Pressure / Tendency:</b> 100.9 kPa falling<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 6.9&deg;C<br/> <b>Wind:</b> N 5 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_cc:20230417030000</id>
+</entry>
+<entry>
+  <title>Sunday night: Rain or snow. Low plus 2 with risk of frost.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain changing to flurries and rain showers near midnight. Snow level 1600 metres lowering to valley bottom near midnight. Local snowfall amount 2 to 4 cm. Wind south 20 km/h becoming light this evening. Wind becoming south 20 gusting to 40 near midnight. Low plus 2 with risk of frost. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc0:20230416220000</id>
+</entry><entry>
+  <title>Monday: Mainly sunny. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind south 20 km/h gusting to 40. High 9. UV index 4 or moderate. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc1:20230416220000</id>
+</entry><entry>
+  <title>Monday night: Flurries. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Flurries beginning overnight. Wind south 20 km/h becoming light in the evening. Low plus 1. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc2:20230416220000</id>
+</entry><entry>
+  <title>Tuesday: Flurries or rain showers. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries or rain showers. High 11. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc3:20230416220000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc4:20230416220000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 9. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc5:20230416220000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of rain showers or flurries. Low plus 1. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of rain showers or flurries. Low plus 1. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc6:20230416220000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc7:20230416220000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc8:20230416220000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc9:20230416220000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc10:20230416220000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 15. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-04-16T22:00:00Z</updated>
+  <published>2023-04-16T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 40 percent chance of showers. High 15. Forecast issued 4:00 PM MDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc11:20230416220000</id>
+</entry>
+</feed>

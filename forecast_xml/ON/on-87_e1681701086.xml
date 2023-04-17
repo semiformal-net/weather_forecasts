@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Lansdowne House - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-87_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-87_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-87_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-17T03:01:41Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230417030141</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WINTER STORM WARNING, Lansdowne House</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm14"/>
+  <updated>2023-04-16T21:25:50Z</updated>
+  <published>2023-04-16T21:25:50Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:25 p.m. EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_w1:20230416212550</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, -6.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-17T03:00:00Z</updated>
+  <published>2023-04-17T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Lansdowne House Airport 11:00 PM EDT Sunday 16 April 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> -6.8&deg;C<br/> <b>Pressure:</b> 101.8 kPa <br/> <b>Visibility:</b> 1.2 km<br/> <b>Humidity:</b> 100 %<br/> <b>Wind Chill:</b> -13<br/> <b>Dewpoint:</b> -6.8&deg;C<br/> <b>Wind:</b> N 17 km/h gust 30 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_cc:20230417030000</id>
+</entry>
+<entry>
+  <title>Sunday night: Snow at times heavy mixed with ice pellets. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow at times heavy mixed with ice pellets and risk of freezing rain. Local blowing snow. Snow and ice pellet amount 10 to 20 cm. Wind north 30 km/h gusting to 50. Low minus 10. Wind chill minus 12 this evening and minus 20 overnight. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc0:20230416204500</id>
+</entry><entry>
+  <title>Monday: Snow at times heavy. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow at times heavy and local blowing snow with risk of freezing rain. Snowfall amount 15 to 25 cm. Wind north 40 km/h gusting to 60. High minus 4. Wind chill minus 20 in the morning and minus 12 in the afternoon. UV index 1 or low. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc1:20230416204500</id>
+</entry><entry>
+  <title>Monday night: Snow. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow and local blowing snow. Amount 5 to 10 cm. Wind north 40 km/h gusting to 60. Low minus 12. Wind chill minus 13 in the evening and minus 21 overnight. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc2:20230416204500</id>
+</entry><entry>
+  <title>Tuesday: Flurries. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries. Local blowing snow. High minus 2. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc3:20230416204500</id>
+</entry><entry>
+  <title>Tuesday night: Flurries. Low minus 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries. Low minus 12. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc4:20230416204500</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc5:20230416204500</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 13. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc6:20230416204500</id>
+</entry><entry>
+  <title>Thursday: Sunny. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 1. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc7:20230416204500</id>
+</entry><entry>
+  <title>Thursday night: Cloudy. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 8. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc8:20230416204500</id>
+</entry><entry>
+  <title>Friday: Chance of flurries. High minus 1. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. High minus 1. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc9:20230416204500</id>
+</entry><entry>
+  <title>Friday night: Chance of flurries. Low minus 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 7. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc10:20230416204500</id>
+</entry><entry>
+  <title>Saturday: Chance of flurries. High zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-87_metric_e.html"/>
+  <updated>2023-04-16T20:45:00Z</updated>
+  <published>2023-04-16T20:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. High zero. Forecast issued 4:45 PM EDT Sunday 16 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-87_fc11:20230416204500</id>
+</entry>
+</feed>
