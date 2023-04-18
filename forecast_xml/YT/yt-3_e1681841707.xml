@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Rancheria - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/yt-3_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/yt-3_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-18T18:02:05Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230418180205</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Rancheria</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-02T03:00:06Z</updated>
+  <published>2023-03-02T03:00:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_w1:20230302030006</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, 1.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Watson Lake Airport 11:00 AM MST Tuesday 18 April 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> 1.0&deg;C<br/> <b>Pressure / Tendency:</b> 100.7 kPa rising<br/> <b>Visibility:</b> 5 km<br/> <b>Humidity:</b> 90 %<br/> <b>Dewpoint:</b> -0.5&deg;C<br/> <b>Wind:</b> E 18 km/h gust 30 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_cc:20230418180000</id>
+</entry>
+<entry>
+  <title>Tuesday: Snow. Temperature steady near zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Amount 5 cm. Wind northeast 20 km/h. Temperature steady near zero. Wind chill minus 7 this morning. UV index 1 or low. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc0:20230418180000</id>
+</entry><entry>
+  <title>Tuesday night: Periods of snow. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow ending late this evening then cloudy. Wind northeast 20 km/h. Low minus 6. Wind chill minus 7 this evening and minus 13 overnight. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc1:20230418180000</id>
+</entry><entry>
+  <title>Wednesday: Chance of flurries. High zero. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 30 percent chance of flurries. Wind northeast 20 km/h. High zero. Wind chill minus 13 in the morning and minus 7 in the afternoon. UV index 3 or moderate. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc2:20230418180000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of flurries. Low minus 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Low minus 6. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc3:20230418180000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High zero. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc4:20230418180000</id>
+</entry><entry>
+  <title>Thursday night: Chance of flurries. Low minus 4. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 4. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc5:20230418180000</id>
+</entry><entry>
+  <title>Friday: Cloudy. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 2. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc6:20230418180000</id>
+</entry><entry>
+  <title>Friday night: Periods of snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 4. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc7:20230418180000</id>
+</entry><entry>
+  <title>Saturday: Snow. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High 7. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc8:20230418180000</id>
+</entry><entry>
+  <title>Saturday night: Chance of rain showers or flurries. Low minus 1. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low minus 1. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc9:20230418180000</id>
+</entry><entry>
+  <title>Sunday: Chance of flurries or rain showers. High 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High 7. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc10:20230418180000</id>
+</entry><entry>
+  <title>Sunday night: Chance of rain showers or flurries. Low minus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low minus 2. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc11:20230418180000</id>
+</entry><entry>
+  <title>Monday: Chance of flurries or rain showers. High 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries or rain showers. High 6. Forecast issued 11:00 AM MST Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc12:20230418180000</id>
+</entry>
+</feed>

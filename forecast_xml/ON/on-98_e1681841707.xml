@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>St. Thomas - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-98_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-98_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-98_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-18T18:01:26Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230418180126</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, St. Thomas</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-15T02:46:12Z</updated>
+  <published>2023-04-15T02:46:12Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_w1:20230415024612</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, 1.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T18:00:00Z</updated>
+  <published>2023-04-18T18:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> London Int'l Airport 2:00 PM EDT Tuesday 18 April 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> 1.1&deg;C<br/> <b>Pressure / Tendency:</b> 101.0 kPa rising<br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 75 %<br/> <b>Dewpoint:</b> -2.9&deg;C<br/> <b>Wind:</b> W 25 km/h gust 35 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_cc:20230418180000</id>
+</entry>
+<entry>
+  <title>Tuesday: Chance of rain showers or flurries. High 6. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of flurries near noon then 30 percent chance of rain showers. Wind west 30 km/h gusting to 50. High 6. UV index 6 or high. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc0:20230418150000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of rain showers or flurries. Low minus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of rain showers or flurries this evening. Wind west 20 km/h becoming light this evening. Low minus 3. Wind chill minus 6 overnight. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc1:20230418150000</id>
+</entry><entry>
+  <title>Wednesday: Clearing. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Clearing late in the morning. Wind northwest 20 km/h becoming light near noon. High 10. Wind chill minus 7 in the morning. UV index 7 or high. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc2:20230418150000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 5. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 40 percent chance of showers. Low plus 5. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc3:20230418150000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 22. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 22. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc4:20230418150000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low 12. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low 12. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc5:20230418150000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 17. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 17. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc6:20230418150000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low 8. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. Low 8. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc7:20230418150000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 13. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc8:20230418150000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low plus 4. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Low plus 4. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc9:20230418150000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 7. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc10:20230418150000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc11:20230418150000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-98_metric_e.html"/>
+  <updated>2023-04-18T15:00:00Z</updated>
+  <published>2023-04-18T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 8. Forecast issued 11:00 AM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-98_fc12:20230418150000</id>
+</entry>
+</feed>
