@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Sherbrooke - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-136_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-136_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-19T05:02:09Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230419050209</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Sherbrooke</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T06:30:32Z</updated>
+  <published>2023-04-06T06:30:32Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_w1:20230406063032</id>
+</entry>
+<entry>
+  <title>Current Conditions: Partly Cloudy, 3.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-19T05:00:00Z</updated>
+  <published>2023-04-19T05:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Sherbrooke Airport 1:00 AM EDT Wednesday 19 April 2023<br/> <b>Condition:</b> Partly Cloudy<br/> <b>Temperature:</b> 3.8&deg;C<br/> <b>Pressure:</b> 100.9 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 71 %<br/> <b>Dewpoint:</b> -0.9&deg;C<br/> <b>Wind:</b> SW 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_cc:20230419050000</id>
+</entry>
+<entry>
+  <title>Tuesday night: Chance of showers. Low plus 1. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 60 percent chance of rain showers or snow. Low plus 1. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc0:20230418194500</id>
+</entry><entry>
+  <title>Wednesday: Chance of flurries or rain showers. High 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of flurries in the morning then 40 percent chance of rain showers in the afternoon. Wind west 20 km/h. High 7. UV index 5 or moderate. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc1:20230418194500</id>
+</entry><entry>
+  <title>Wednesday night: Partly cloudy. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind up to 15 km/h. Low minus 4. Wind chill minus 9 overnight. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc2:20230418194500</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 10. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc3:20230418194500</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. Low minus 2. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc4:20230418194500</id>
+</entry><entry>
+  <title>Friday: Cloudy. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 12. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc5:20230418194500</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 6. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc6:20230418194500</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 20. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc7:20230418194500</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 9. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc8:20230418194500</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 16. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. High 16. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc9:20230418194500</id>
+</entry><entry>
+  <title>Sunday night: Rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low plus 4. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc10:20230418194500</id>
+</entry><entry>
+  <title>Monday: Periods of rain. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-136_metric_e.html"/>
+  <updated>2023-04-18T19:45:00Z</updated>
+  <published>2023-04-18T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 9. Forecast issued 3:45 PM EDT Tuesday 18 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-136_fc11:20230418194500</id>
+</entry>
+</feed>
