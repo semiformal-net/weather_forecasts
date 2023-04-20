@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Rancheria - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/yt-3_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/yt-3_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-20T13:03:12Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230420130312</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Rancheria</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-02T03:00:06Z</updated>
+  <published>2023-03-02T03:00:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_w1:20230302030006</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, -0.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T13:00:00Z</updated>
+  <published>2023-04-20T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Watson Lake Airport 6:00 AM MST Thursday 20 April 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> -0.6&deg;C<br/> <b>Pressure / Tendency:</b> 102.9 kPa rising<br/> <b>Visibility:</b> 5 km<br/> <b>Humidity:</b> 99 %<br/> <b>Wind Chill:</b> -2<br/> <b>Dewpoint:</b> -0.8&deg;C<br/> <b>Wind:</b> SSW 3 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_cc:20230420130000</id>
+</entry>
+<entry>
+  <title>Thursday: Chance of rain showers or flurries. High plus 3. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of rain showers or flurries late this afternoon. Wind up to 15 km/h. High plus 3. Wind chill minus 8 this morning. UV index 2 or low. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc0:20230420120000</id>
+</entry><entry>
+  <title>Thursday night: Chance of rain showers or flurries. Low minus 5. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of rain showers or flurries early this evening. Wind up to 15 km/h. Low minus 5. Wind chill minus 9 overnight. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc1:20230420120000</id>
+</entry><entry>
+  <title>Friday: Mainly cloudy. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind up to 15 km/h. High plus 4. Wind chill minus 9 in the morning. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc2:20230420120000</id>
+</entry><entry>
+  <title>Friday night: Cloudy. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 6. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc3:20230420120000</id>
+</entry><entry>
+  <title>Saturday: Snow. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High plus 1. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc4:20230420120000</id>
+</entry><entry>
+  <title>Saturday night: Snow. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low minus 2. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc5:20230420120000</id>
+</entry><entry>
+  <title>Sunday: Periods of snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. High zero. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc6:20230420120000</id>
+</entry><entry>
+  <title>Sunday night: Snow. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Low minus 6. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc7:20230420120000</id>
+</entry><entry>
+  <title>Monday: Periods of snow. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. High 6. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc8:20230420120000</id>
+</entry><entry>
+  <title>Monday night: Cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 1. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc9:20230420120000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 8. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc10:20230420120000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 1. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc11:20230420120000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/yt-3_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 11. Forecast issued 5:00 AM MST Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:yt-3_fc12:20230420120000</id>
+</entry>
+</feed>
