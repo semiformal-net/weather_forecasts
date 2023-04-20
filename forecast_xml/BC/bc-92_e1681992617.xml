@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Courtenay - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-92_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-92_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-20T12:08:43Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230420120843</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WIND WARNING, Courtenay</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bcrm1512"/>
+  <updated>2023-04-20T11:55:16Z</updated>
+  <published>2023-04-20T11:55:16Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:55 a.m. PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_w1:20230420115516</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 5.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Comox Airport 5:00 AM PDT Thursday 20 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 5.3&deg;C<br/> <b>Pressure / Tendency:</b> 102.5 kPa falling<br/> <b>Visibility:</b> 32 km<br/> <b>Humidity:</b> 79 %<br/> <b>Dewpoint:</b> 2.0&deg;C<br/> <b>Wind:</b> SE 24 km/h<br/> <b>Air Quality Health Index:</b> 1<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_cc:20230420120000</id>
+</entry>
+<entry>
+  <title>Thursday: Rain. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Rain beginning this morning. Periods of snow inland this morning. Wind becoming southeast 40 km/h gusting to 60 except 70 gusting to 90 over exposed coastal sections late this morning and this afternoon. High 6. UV index 1 or low. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc0:20230420120000</id>
+</entry><entry>
+  <title>Thursday night: Periods of rain. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain ending this evening then cloudy. Wind southeast 40 km/h gusting to 60 except 70 gusting to 90 over exposed coastal sections early this evening. Wind becoming southeast 20 this evening then light near midnight. Low plus 3. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc1:20230420120000</id>
+</entry><entry>
+  <title>Friday: Periods of rain. High 9. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of rain in the afternoon. Wind becoming southeast 20 km/h in the afternoon. High 9. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc2:20230420120000</id>
+</entry><entry>
+  <title>Friday night: Periods of rain. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low 6. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc3:20230420120000</id>
+</entry><entry>
+  <title>Saturday: Showers. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 9. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc4:20230420120000</id>
+</entry><entry>
+  <title>Saturday night: Showers. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 7. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc5:20230420120000</id>
+</entry><entry>
+  <title>Sunday: Periods of rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 11. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc6:20230420120000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 5. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 70 percent chance of showers. Low plus 5. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc7:20230420120000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc8:20230420120000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc9:20230420120000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 16. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc10:20230420120000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc11:20230420120000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-92_metric_e.html"/>
+  <updated>2023-04-20T12:00:00Z</updated>
+  <published>2023-04-20T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 17. Forecast issued 5:00 AM PDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-92_fc12:20230420120000</id>
+</entry>
+</feed>
