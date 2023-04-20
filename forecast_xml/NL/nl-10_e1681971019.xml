@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Musgrave Harbour - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-10_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-10_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-20T06:02:11Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230420060211</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Musgrave Harbour</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-29T12:15:06Z</updated>
+  <published>2023-03-29T12:15:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_w1:20230329121506</id>
+</entry>
+<entry>
+  <title>Current Conditions:  0.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T06:00:00Z</updated>
+  <published>2023-04-20T06:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Pool's Island 3:30 AM NDT Thursday 20 April 2023<br/> <b>Temperature:</b> 0.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.7 kPa falling<br/> <b>Humidity:</b> 97 %<br/> <b>Dewpoint:</b> -0.5&deg;C<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_cc:20230420060000</id>
+</entry>
+<entry>
+  <title>Wednesday night: Periods of rain mixed with snow. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain mixed with snow and risk of freezing rain. Rainfall amount 5 mm. Wind southeast 20 km/h gusting to 40. Low zero. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc0:20230420041800</id>
+</entry><entry>
+  <title>Thursday: Periods of rain mixed with snow. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain mixed with snow. Fog patches developing in the morning. Rainfall amount 5 mm. Wind east 30 km/h gusting to 50. High plus 2. UV index 2 or low. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc1:20230420041800</id>
+</entry><entry>
+  <title>Thursday night: Periods of snow. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Amount 2 cm. Wind northeast 30 km/h gusting to 60. Low plus 1. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc2:20230420041800</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High plus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High plus 2. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc3:20230420041800</id>
+</entry><entry>
+  <title>Friday night: Flurries or rain showers. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries or rain showers. Low zero. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc4:20230420041800</id>
+</entry><entry>
+  <title>Saturday: Showers. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High plus 3. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc5:20230420041800</id>
+</entry><entry>
+  <title>Saturday night: Showers. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 2. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc6:20230420041800</id>
+</entry><entry>
+  <title>Sunday: Showers. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 6. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc7:20230420041800</id>
+</entry><entry>
+  <title>Sunday night: Cloudy. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 1. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc8:20230420041800</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 10. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc9:20230420041800</id>
+</entry><entry>
+  <title>Monday night: Chance of flurries. Low zero. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 40 percent chance of flurries. Low zero. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc10:20230420041800</id>
+</entry><entry>
+  <title>Tuesday: Chance of flurries or rain showers. High 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-10_metric_e.html"/>
+  <updated>2023-04-20T04:18:00Z</updated>
+  <published>2023-04-20T04:18:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High 7. Forecast issued 1:48 AM NDT Thursday 20 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-10_fc11:20230420041800</id>
+</entry>
+</feed>
