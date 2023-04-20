@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>St. John's - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-24_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-24_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-20T03:02:09Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230420030209</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, St. John's</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-29T12:15:20Z</updated>
+  <published>2023-03-29T12:15:20Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_w1:20230329121520</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Rain and Fog, 0.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-20T03:00:00Z</updated>
+  <published>2023-04-20T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> St. John's Int'l Airport 12:30 AM NDT Thursday 20 April 2023<br/> <b>Condition:</b> Light Rain and Fog<br/> <b>Temperature:</b> 0.2&deg;C<br/> <b>Pressure / Tendency:</b> 101.9 kPa falling<br/> <b>Visibility:</b> 0.6 km<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 0.2&deg;C<br/> <b>Wind:</b> SSE 16 km/h gust 28 km/h<br/> <b>Air Quality Health Index:</b> 3<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_cc:20230420030000</id>
+</entry>
+<entry>
+  <title>Wednesday night: Periods of rain. Temperature steady near plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of rain beginning early this evening. Fog patches developing overnight. Amount 5 mm. Wind southeast 20 km/h gusting to 40. Temperature steady near plus 2. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc0:20230419183000</id>
+</entry><entry>
+  <title>Thursday: Rain mixed with snow. Temperature steady near plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain becoming mixed with snow in the afternoon. Fog patches. Rainfall amount 5 to 10 mm. Wind east 30 km/h gusting to 50. Temperature steady near plus 2. UV index 1 or low. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc1:20230419183000</id>
+</entry><entry>
+  <title>Thursday night: Snow or rain. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain mixed with snow changing to snow late in the evening. Fog patches dissipating late in the evening. Rainfall amount 2 mm. Snowfall amount 5 cm. Wind northeast 30 km/h gusting to 60. Low zero. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc2:20230419183000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High plus 1. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High plus 1. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc3:20230419183000</id>
+</entry><entry>
+  <title>Friday night: Flurries or rain showers. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Flurries or rain showers. Low zero. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc4:20230419183000</id>
+</entry><entry>
+  <title>Saturday: Showers. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High plus 2. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc5:20230419183000</id>
+</entry><entry>
+  <title>Saturday night: Showers. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 1. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc6:20230419183000</id>
+</entry><entry>
+  <title>Sunday: Showers. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High plus 4. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc7:20230419183000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 1. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc8:20230419183000</id>
+</entry><entry>
+  <title>Monday: Cloudy. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 5. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc9:20230419183000</id>
+</entry><entry>
+  <title>Monday night: Cloudy. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low zero. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc10:20230419183000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-24_metric_e.html"/>
+  <updated>2023-04-19T18:30:00Z</updated>
+  <published>2023-04-19T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 4. Forecast issued 4:00 PM NDT Wednesday 19 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-24_fc11:20230419183000</id>
+</entry>
+</feed>
