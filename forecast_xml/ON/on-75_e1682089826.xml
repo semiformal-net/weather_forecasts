@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Cobourg - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-75_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-75_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-75_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-21T15:00:59Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230421150059</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Cobourg</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-15T02:45:54Z</updated>
+  <published>2023-04-15T02:45:54Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_w1:20230415024554</id>
+</entry>
+<entry>
+  <title>Current Conditions:  11.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T15:00:00Z</updated>
+  <published>2023-04-21T15:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Cobourg 11:00 AM EDT Friday 21 April 2023<br/> <b>Temperature:</b> 11.6&deg;C<br/> <b>Pressure / Tendency:</b> 101.3 kPa falling<br/> <b>Humidity:</b> 62 %<br/> <b>Dewpoint:</b> 4.5&deg;C<br/> <b>Wind:</b> ESE 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_cc:20230421150000</id>
+</entry>
+<entry>
+  <title>Friday: Chance of showers. High 20. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 40 percent chance of showers early this morning and late this afternoon. High 20. UV index 8 or very high. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc0:20230421090000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 60 percent chance of showers. Showers beginning before morning. Risk of a thunderstorm early this evening. Low 9. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc1:20230421090000</id>
+</entry><entry>
+  <title>Saturday: Showers at times heavy. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers at times heavy. Risk of a thunderstorm late in the afternoon. Amount 15 to 25 mm. Wind southeast 20 km/h gusting to 40 increasing to 40 gusting to 60 in the afternoon then becoming southwest 20 gusting to 40. High 18. UV index 3 or moderate. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc2:20230421090000</id>
+</entry><entry>
+  <title>Saturday night: Periods of rain. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 5. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc3:20230421090000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 10. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 40 percent chance of showers. High 10. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc4:20230421090000</id>
+</entry><entry>
+  <title>Sunday night: Chance of rain showers or flurries. Low plus 1. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of rain showers or flurries. Low plus 1. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc5:20230421090000</id>
+</entry><entry>
+  <title>Monday: Chance of rain showers or flurries. High 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of rain showers or flurries. High 9. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc6:20230421090000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 1. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 1. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc7:20230421090000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 10. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc8:20230421090000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc9:20230421090000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc10:20230421090000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc11:20230421090000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-75_metric_e.html"/>
+  <updated>2023-04-21T09:00:00Z</updated>
+  <published>2023-04-21T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 14. Forecast issued 5:00 AM EDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-75_fc12:20230421090000</id>
+</entry>
+</feed>
