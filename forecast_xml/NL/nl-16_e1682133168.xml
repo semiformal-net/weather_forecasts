@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Gander - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-16_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-16_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-22T03:02:06Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230422030206</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Gander</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-29T12:15:21Z</updated>
+  <published>2023-03-29T12:15:21Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_w1:20230329121521</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Freezing Drizzle, 0.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-22T03:00:00Z</updated>
+  <published>2023-04-22T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Gander Int'l Airport 12:30 AM NDT Saturday 22 April 2023<br/> <b>Condition:</b> Light Freezing Drizzle<br/> <b>Temperature:</b> 0.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.6 kPa rising<br/> <b>Visibility:</b> 0.4 km<br/> <b>Humidity:</b> 100 %<br/> <b>Wind Chill:</b> -6<br/> <b>Dewpoint:</b> 0.0&deg;C<br/> <b>Wind:</b> N 30 km/h gust 41 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_cc:20230422030000</id>
+</entry>
+<entry>
+  <title>Friday night: Periods of snow. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 60 percent chance of flurries or rain showers early this evening. Periods of snow or drizzle beginning this evening. Risk of freezing drizzle late this evening and overnight. Local snowfall amount 2 cm over higher terrain. Wind north 40 km/h gusting to 60. Low zero. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc0:20230421183000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain or snow. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow changing to periods of rain or drizzle in the morning. Snow over higher terrain late in the morning and early afternoon. Rainfall amount 2 to 4 mm. Wind north 40 km/h gusting to 60. High plus 3. UV index 2 or low. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc1:20230421183000</id>
+</entry><entry>
+  <title>Saturday night: Periods of drizzle. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of drizzle or rain showers and flurries. Fog patches developing in the evening. Rainfall amount 2 mm. Wind north 30 km/h gusting to 50. Low plus 1. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc2:20230421183000</id>
+</entry><entry>
+  <title>Sunday: Rain showers or flurries. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. High plus 4. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc3:20230421183000</id>
+</entry><entry>
+  <title>Sunday night: Rain showers or flurries. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. Low plus 1. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc4:20230421183000</id>
+</entry><entry>
+  <title>Monday: Rain showers or flurries. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. High plus 4. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc5:20230421183000</id>
+</entry><entry>
+  <title>Monday night: Rain showers or flurries. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. Low zero. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc6:20230421183000</id>
+</entry><entry>
+  <title>Tuesday: Chance of rain showers or flurries. High 8. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of rain showers or flurries. High 8. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc7:20230421183000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of flurries. Low minus 2. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 2. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc8:20230421183000</id>
+</entry><entry>
+  <title>Wednesday: Chance of flurries or rain showers. High plus 3. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High plus 3. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc9:20230421183000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of flurries. Low minus 2. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries. Low minus 2. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc10:20230421183000</id>
+</entry><entry>
+  <title>Thursday: Chance of flurries or rain showers. High 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-16_metric_e.html"/>
+  <updated>2023-04-21T18:30:00Z</updated>
+  <published>2023-04-21T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. High 7. Forecast issued 4:00 PM NDT Friday 21 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-16_fc11:20230421183000</id>
+</entry>
+</feed>
