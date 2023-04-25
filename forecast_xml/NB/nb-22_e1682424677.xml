@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Bas-Caraquet - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-22_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-22_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-25T12:00:54Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230425120054</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Bas-Caraquet</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-27T07:45:11Z</updated>
+  <published>2023-03-27T07:45:11Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_w1:20230327074511</id>
+</entry>
+<entry>
+  <title>Current Conditions:  2.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T12:00:00Z</updated>
+  <published>2023-04-25T12:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Bas Caraquet 9:00 AM ADT Tuesday 25 April 2023<br/> <b>Temperature:</b> 2.5&deg;C<br/> <b>Pressure / Tendency:</b> 102.6 kPa rising<br/> <b>Humidity:</b> 91 %<br/> <b>Dewpoint:</b> 1.2&deg;C<br/> <b>Wind:</b> NNE 6 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_cc:20230425120000</id>
+</entry>
+<entry>
+  <title>Tuesday: Periods of drizzle. High 11 except 6 in onshore winds. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 30 percent chance of drizzle this morning. Becoming a mix of sun and cloud this afternoon. Fog patches dissipating this morning. High 11 except 6 in onshore winds. UV index 5 or moderate. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc0:20230425080000</id>
+</entry><entry>
+  <title>Tuesday night: Mainly cloudy. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy after midnight. Low plus 3. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc1:20230425080000</id>
+</entry><entry>
+  <title>Wednesday: Mainly cloudy. High 12 except 6 in onshore winds.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Becoming a mix of sun and cloud near noon. High 12 except 6 in onshore winds. UV index 5 or moderate. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc2:20230425080000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc3:20230425080000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 13. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 13. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc4:20230425080000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 2. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc5:20230425080000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 15. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc6:20230425080000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc7:20230425080000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 14. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc8:20230425080000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc9:20230425080000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 10. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc10:20230425080000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc11:20230425080000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-22_metric_e.html"/>
+  <updated>2023-04-25T08:00:00Z</updated>
+  <published>2023-04-25T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 7. Forecast issued 5:00 AM ADT Tuesday 25 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-22_fc12:20230425080000</id>
+</entry>
+</feed>
