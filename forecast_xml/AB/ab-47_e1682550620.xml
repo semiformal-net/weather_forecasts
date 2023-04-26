@@ -1,0 +1,126 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Suffield - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-47_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-47_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-26T23:00:00Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230426230000</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WIND WARNING, Suffield</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?abrm250"/>
+  <updated>2023-04-26T16:37:19Z</updated>
+  <published>2023-04-26T16:37:19Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:37 a.m. MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_w1:20230426163719</id>
+</entry>
+
+<entry>
+  <title>Wednesday night: Showers. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 30 percent chance of showers late this evening and after midnight. Showers beginning after midnight. Wind west 20 km/h gusting to 40 becoming northwest 60 gusting to 90 overnight. Low plus 3. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc0:20230426220000</id>
+</entry><entry>
+  <title>Thursday: Showers. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers ending near noon then a mix of sun and cloud. Wind northwest 60 km/h gusting to 90 diminishing to 30 gusting to 50 in the morning. High 12. UV index 5 or moderate. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc1:20230426220000</id>
+</entry><entry>
+  <title>Thursday night: A few clouds. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind northwest 20 km/h gusting to 40 becoming light in the evening. Low plus 2. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc2:20230426220000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc3:20230426220000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 4. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc4:20230426220000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 18. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc5:20230426220000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 5. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc6:20230426220000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 22. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc7:20230426220000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 5. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc8:20230426220000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc9:20230426220000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 6. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc10:20230426220000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-47_metric_e.html"/>
+  <updated>2023-04-26T22:00:00Z</updated>
+  <published>2023-04-26T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 26. Forecast issued 4:00 PM MDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-47_fc11:20230426220000</id>
+</entry>
+</feed>
