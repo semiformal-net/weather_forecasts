@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Saint Andrews - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-18_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-18_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-26T14:02:20Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230426140220</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Saint Andrews</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T12:00:09Z</updated>
+  <published>2023-04-06T12:00:09Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_w1:20230406120009</id>
+</entry>
+<entry>
+  <title>Current Conditions:  6.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Point Lepreau 11:00 AM ADT Wednesday 26 April 2023<br/> <b>Temperature:</b> 6.6&deg;C<br/> <b>Pressure / Tendency:</b> 102.6 kPa rising<br/> <b>Humidity:</b> 82 %<br/> <b>Dewpoint:</b> 3.8&deg;C<br/> <b>Wind:</b> SSE 8 km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_cc:20230426140000</id>
+</entry>
+<entry>
+  <title>Wednesday: Cloudy. High 12 except 8 along parts of the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 12 except 8 along parts of the coast. UV index 4 or moderate. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc0:20230426140000</id>
+</entry><entry>
+  <title>Wednesday night: Mainly cloudy. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Low zero. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc1:20230426140000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 14. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 60 percent chance of showers in the afternoon. High 14. UV index 4 or moderate. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc2:20230426140000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 2. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc3:20230426140000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 16. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc4:20230426140000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc5:20230426140000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 12. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc6:20230426140000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc7:20230426140000</id>
+</entry><entry>
+  <title>Sunday: Showers. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 7. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc8:20230426140000</id>
+</entry><entry>
+  <title>Sunday night: Showers. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 4. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc9:20230426140000</id>
+</entry><entry>
+  <title>Monday: Showers. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 8. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc10:20230426140000</id>
+</entry><entry>
+  <title>Monday night: Showers. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 6. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc11:20230426140000</id>
+</entry><entry>
+  <title>Tuesday: Showers. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-26T14:00:00Z</updated>
+  <published>2023-04-26T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 8. Forecast issued 11:00 AM ADT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc12:20230426140000</id>
+</entry>
+</feed>
