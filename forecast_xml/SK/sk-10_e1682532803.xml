@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Oxbow - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-10_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-10_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-26T18:01:58Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230426180158</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Oxbow</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-20T15:30:57Z</updated>
+  <published>2023-04-20T15:30:57Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_w1:20230420153057</id>
+</entry>
+<entry>
+  <title>Current Conditions: Sunny, 11.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T18:00:00Z</updated>
+  <published>2023-04-26T18:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Estevan Airport 12:00 PM CST Wednesday 26 April 2023<br/> <b>Condition:</b> Sunny<br/> <b>Temperature:</b> 11.3&deg;C<br/> <b>Pressure:</b> 101.5 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 42 %<br/> <b>Dewpoint:</b> -1.1&deg;C<br/> <b>Wind:</b> NNW 32 km/h gust 46 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_cc:20230426180000</id>
+</entry>
+<entry>
+  <title>Wednesday: Mainly sunny. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing near noon. Wind northwest 30 km/h gusting to 50. High 13. UV index 4 or moderate. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc0:20230426170000</id>
+</entry><entry>
+  <title>Wednesday night: A few showers. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. A few showers beginning overnight. Wind northwest 30 km/h gusting to 50 becoming light this evening. Low plus 2. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc1:20230426170000</id>
+</entry><entry>
+  <title>Thursday: A few showers. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few showers ending near noon then a mix of sun and cloud. Wind becoming northeast 20 km/h in the morning then north 40 gusting to 60 in the afternoon. High 12. UV index 4 or moderate. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc2:20230426170000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 4. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc3:20230426170000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc4:20230426170000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 2. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc5:20230426170000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 16. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc6:20230426170000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 4. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc7:20230426170000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 15. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc8:20230426170000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc9:20230426170000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 21. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc10:20230426170000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 1. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc11:20230426170000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-10_metric_e.html"/>
+  <updated>2023-04-26T17:00:00Z</updated>
+  <published>2023-04-26T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 11:00 AM CST Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-10_fc12:20230426170000</id>
+</entry>
+</feed>
