@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Happy Valley-Goose Bay - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-23_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-23_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-27T05:01:01Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230427050101</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Happy Valley-Goose Bay</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-03T04:15:10Z</updated>
+  <published>2023-04-03T04:15:10Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_w1:20230403041510</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, 0.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-27T05:00:00Z</updated>
+  <published>2023-04-27T05:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> CFB Goose Bay 2:00 AM ADT Thursday 27 April 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> 0.1&deg;C<br/> <b>Pressure / Tendency:</b> 102.4 kPa rising<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 87 %<br/> <b>Dewpoint:</b> -1.8&deg;C<br/> <b>Wind:</b> ESE 4 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_cc:20230427050000</id>
+</entry>
+<entry>
+  <title>Wednesday night: A few clouds. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind northeast 20 km/h becoming light early this evening. Low minus 1. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc0:20230426190000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind up to 15 km/h. High 10. Wind chill minus 3 in the morning. UV index 5 or moderate. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc1:20230426190000</id>
+</entry><entry>
+  <title>Thursday night: Mainly cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy near midnight. Low minus 1. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc2:20230426190000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 7. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc3:20230426190000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc4:20230426190000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 10. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc5:20230426190000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 3. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc6:20230426190000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 12. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc7:20230426190000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 2. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc8:20230426190000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 10. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc9:20230426190000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 3. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc10:20230426190000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-23_metric_e.html"/>
+  <updated>2023-04-26T19:00:00Z</updated>
+  <published>2023-04-26T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 8. Forecast issued 4:30 PM NDT Wednesday 26 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-23_fc11:20230426190000</id>
+</entry>
+</feed>
