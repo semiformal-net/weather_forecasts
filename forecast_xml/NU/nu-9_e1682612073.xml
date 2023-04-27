@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Coral Harbour - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nu-9_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nu-9_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-27T16:03:09Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230427160309</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Coral Harbour</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-31T15:15:04Z</updated>
+  <published>2023-03-31T15:15:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_w1:20230331151504</id>
+</entry>
+<entry>
+  <title>Current Conditions: Partly Cloudy, 0.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T16:00:00Z</updated>
+  <published>2023-04-27T16:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Coral Harbour Airport 11:00 AM EST Thursday 27 April 2023<br/> <b>Condition:</b> Partly Cloudy<br/> <b>Temperature:</b> 0.1&deg;C<br/> <b>Pressure / Tendency:</b> 102.4 kPa falling<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 71 %<br/> <b>Dewpoint:</b> -4.6&deg;C<br/> <b>Wind:</b> NNE 26 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_cc:20230427160000</id>
+</entry>
+<entry>
+  <title>Thursday: Chance of light snow. High minus 1. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 30 percent chance of light snow and risk of freezing drizzle. Wind becoming north 20 km/h near noon. High minus 1. Wind chill near minus 7. UV index 4 or moderate. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc0:20230427150000</id>
+</entry><entry>
+  <title>Thursday night: Periods of snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Risk of freezing drizzle this evening. Fog at times overnight. Amount 2 cm. Wind north 20 km/h becoming light this evening. Low minus 4. Wind chill near minus 9. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc1:20230427150000</id>
+</entry><entry>
+  <title>Friday: Periods of snow. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Fog at times in the morning. Amount 2 cm. Wind becoming south 20 km/h in the morning. High minus 2. Wind chill near minus 9. UV index 1 or low. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc2:20230427150000</id>
+</entry><entry>
+  <title>Friday night: Cloudy. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 5. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc3:20230427150000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 3. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc4:20230427150000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 6. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc5:20230427150000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 4. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc6:20230427150000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 7. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc7:20230427150000</id>
+</entry><entry>
+  <title>Monday: Cloudy. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 3. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc8:20230427150000</id>
+</entry><entry>
+  <title>Monday night: Cloudy. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 7. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc9:20230427150000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 3. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc10:20230427150000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy. Low minus 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 6. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc11:20230427150000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-9_metric_e.html"/>
+  <updated>2023-04-27T15:00:00Z</updated>
+  <published>2023-04-27T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High zero. Forecast issued 10:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-9_fc12:20230427150000</id>
+</entry>
+</feed>
