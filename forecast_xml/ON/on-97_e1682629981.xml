@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Greenstone (Nakina) - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-97_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-97_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-97_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-27T21:01:53Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230427210153</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Greenstone (Nakina)</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-21T19:45:13Z</updated>
+  <published>2023-04-21T19:45:13Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_w1:20230421194513</id>
+</entry>
+<entry>
+  <title>Current Conditions: Cloudy, 1.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T21:00:00Z</updated>
+  <published>2023-04-27T21:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Geraldton Airport 5:00 PM EDT Thursday 27 April 2023<br/> <b>Condition:</b> Cloudy<br/> <b>Temperature:</b> 1.9&deg;C<br/> <b>Pressure:</b> 101.3 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 94 %<br/> <b>Dewpoint:</b> 1.0&deg;C<br/> <b>Wind:</b> S 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_cc:20230427210000</id>
+</entry>
+<entry>
+  <title>Thursday night: Chance of flurries or rain showers. Low minus 3. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of rain showers changing to 40 percent chance of flurries or rain showers late this evening. Fog patches developing near midnight. Wind up to 15 km/h. Low minus 3. Wind chill minus 5 overnight. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc0:20230427200000</id>
+</entry><entry>
+  <title>Friday: Chance of rain showers or flurries. High 6. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of flurries changing to 40 percent chance of rain showers or flurries in the morning. Fog patches dissipating in the morning. Wind up to 15 km/h. High 6. Wind chill minus 5 in the morning. UV index 2 or low. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc1:20230427200000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low zero. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of rain showers in the evening. Periods of rain or light snow beginning near midnight. Low zero. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc2:20230427200000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain or snow. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain or snow. High plus 3. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc3:20230427200000</id>
+</entry><entry>
+  <title>Saturday night: Periods of snow or rain. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. Low minus 1. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc4:20230427200000</id>
+</entry><entry>
+  <title>Sunday: Periods of snow or rain. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High plus 2. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc5:20230427200000</id>
+</entry><entry>
+  <title>Sunday night: Periods of snow or rain. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. Low minus 1. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc6:20230427200000</id>
+</entry><entry>
+  <title>Monday: Periods of rain or snow. High plus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of rain or snow. High plus 2. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc7:20230427200000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain or snow. Low plus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of rain or snow. Low plus 2. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc8:20230427200000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 8. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc9:20230427200000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc10:20230427200000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-97_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 12. Forecast issued 4:00 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-97_fc11:20230427200000</id>
+</entry>
+</feed>
