@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Pukatawagan - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/mb-67_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/mb-67_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-27T13:01:56Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230427130156</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Pukatawagan</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-15T17:00:12Z</updated>
+  <published>2023-03-15T17:00:12Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_w1:20230315170012</id>
+</entry>
+<entry>
+  <title>Current Conditions: Cloudy, 1.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T13:00:00Z</updated>
+  <published>2023-04-27T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Flin Flon Airport 8:00 AM CDT Thursday 27 April 2023<br/> <b>Condition:</b> Cloudy<br/> <b>Temperature:</b> 1.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.3 kPa rising<br/> <b>Visibility:</b> 19 km<br/> <b>Humidity:</b> 96 %<br/> <b>Dewpoint:</b> 0.4&deg;C<br/> <b>Wind:</b> ENE 6 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_cc:20230427130000</id>
+</entry>
+<entry>
+  <title>Thursday: A mix of sun and cloud. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud this morning. Wind east 20 km/h becoming light this afternoon. High 8. Wind chill minus 8 this morning. UV index 3 or moderate. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc0:20230427100000</id>
+</entry><entry>
+  <title>Thursday night: Partly cloudy. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Increasing cloudiness overnight. Wind up to 15 km/h. Low minus 5. Wind chill minus 9 overnight. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc1:20230427100000</id>
+</entry><entry>
+  <title>Friday: Periods of rain or snow. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Periods of light snow mixed with rain beginning in the morning then changing to rain near noon. Wind becoming south 20 km/h in the morning. High 9. Wind chill minus 7 in the morning. UV index 1 or low. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc2:20230427100000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low zero. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc3:20230427100000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 7. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc4:20230427100000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc5:20230427100000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 9. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc6:20230427100000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc7:20230427100000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 14. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc8:20230427100000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc9:20230427100000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 18. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc10:20230427100000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc11:20230427100000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-67_metric_e.html"/>
+  <updated>2023-04-27T10:00:00Z</updated>
+  <published>2023-04-27T10:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 15. Forecast issued 5:00 AM CDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-67_fc12:20230427100000</id>
+</entry>
+</feed>
