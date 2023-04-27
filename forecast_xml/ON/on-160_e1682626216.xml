@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Goderich - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-160_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-160_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-160_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-27T20:00:55Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230427200055</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Goderich</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-15T02:46:11Z</updated>
+  <published>2023-04-15T02:46:11Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_w1:20230415024611</id>
+</entry>
+<entry>
+  <title>Current Conditions:  11.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T20:00:00Z</updated>
+  <published>2023-04-27T20:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Goderich 4:00 PM EDT Thursday 27 April 2023<br/> <b>Temperature:</b> 11.2&deg;C<br/> <b>Pressure / Tendency:</b> 101.9 kPa falling<br/> <b>Humidity:</b> 47 %<br/> <b>Dewpoint:</b> 0.3&deg;C<br/> <b>Wind:</b> WSW 11 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_cc:20230427200000</id>
+</entry>
+<entry>
+  <title>Thursday night: Clear. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 4. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc0:20230427193000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 17. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Increasing cloudiness. 40 percent chance of showers late in the morning and early afternoon. Rain beginning in the afternoon. Amount 5 mm. Wind becoming east 30 km/h late in the afternoon. High 17. UV index 4 or moderate. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc1:20230427193000</id>
+</entry><entry>
+  <title>Friday night: Rain. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Amount 5 to 10 mm. Wind east 30 km/h becoming light after midnight. Low 8. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc2:20230427193000</id>
+</entry><entry>
+  <title>Saturday: Periods of rain. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 12. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc3:20230427193000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low 8. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. Low 8. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc4:20230427193000</id>
+</entry><entry>
+  <title>Sunday: Periods of rain. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 16. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc5:20230427193000</id>
+</entry><entry>
+  <title>Sunday night: Periods of rain. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 3. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc6:20230427193000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 8. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. High 8. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc7:20230427193000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 4. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. Low plus 4. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc8:20230427193000</id>
+</entry><entry>
+  <title>Tuesday: Rain. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 8. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc9:20230427193000</id>
+</entry><entry>
+  <title>Tuesday night: Periods of rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 4. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc10:20230427193000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-160_metric_e.html"/>
+  <updated>2023-04-27T19:30:00Z</updated>
+  <published>2023-04-27T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 10. Forecast issued 3:30 PM EDT Thursday 27 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-160_fc11:20230427193000</id>
+</entry>
+</feed>
