@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Kinngait - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nu-2_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nu-2_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-28T20:01:21Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230428200121</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Kinngait</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-28T18:15:03Z</updated>
+  <published>2023-04-28T18:15:03Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_w1:20230428181503</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mist, -0.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Kinngait (Cape Dorset Airport) 4:00 PM EDT Friday 28 April 2023<br/> <b>Condition:</b> Mist<br/> <b>Temperature:</b> -0.2&deg;C<br/> <b>Pressure / Tendency:</b> 102.3 kPa falling<br/> <b>Visibility:</b> 10 km<br/> <b>Humidity:</b> 100 %<br/> <b>Wind Chill:</b> -4<br/> <b>Dewpoint:</b> -0.2&deg;C<br/> <b>Wind:</b> SE 12 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_cc:20230428200000</id>
+</entry>
+<entry>
+  <title>Friday night: Periods of light snow mixed with freezing drizzle. Low minus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 60 percent chance of light snow or freezing drizzle. Fog at times. Wind up to 15 km/h. Low minus 3. Wind chill minus 7 overnight. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc0:20230428200000</id>
+</entry><entry>
+  <title>Saturday: Periods of light snow. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of light snow. Wind up to 15 km/h. High zero. Wind chill minus 7 in the morning. UV index 1 or low. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc1:20230428200000</id>
+</entry><entry>
+  <title>Saturday night: Periods of light snow. Low minus 4. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 30 percent chance of light snow in the evening and after midnight. Wind up to 15 km/h. Low minus 4. Wind chill minus 6 overnight. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc2:20230428200000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 1. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc3:20230428200000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 3. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc4:20230428200000</id>
+</entry><entry>
+  <title>Monday: Snow. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. High plus 1. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc5:20230428200000</id>
+</entry><entry>
+  <title>Monday night: Snow. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Windy. Low zero. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc6:20230428200000</id>
+</entry><entry>
+  <title>Tuesday: Snow or rain. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow or rain. Windy. High plus 3. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc7:20230428200000</id>
+</entry><entry>
+  <title>Tuesday night: Periods of rain or snow. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain or snow. Low minus 1. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc8:20230428200000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 1. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc9:20230428200000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 4. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc10:20230428200000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-2_metric_e.html"/>
+  <updated>2023-04-28T20:00:00Z</updated>
+  <published>2023-04-28T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High zero. Forecast issued 4:00 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-2_fc11:20230428200000</id>
+</entry>
+</feed>
