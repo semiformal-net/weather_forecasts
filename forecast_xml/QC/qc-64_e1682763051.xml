@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Dolbeau-Mistassini - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-64_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-64_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-29T10:00:54Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230429100054</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Dolbeau-Mistassini</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T13:30:15Z</updated>
+  <published>2023-04-06T13:30:15Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_w1:20230406133015</id>
+</entry>
+<entry>
+  <title>Current Conditions:  1.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T10:00:00Z</updated>
+  <published>2023-04-29T10:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Normandin 6:00 AM EDT Saturday 29 April 2023<br/> <b>Temperature:</b> 1.7&deg;C<br/> <b>Pressure / Tendency:</b> 102.0 kPa rising<br/> <b>Humidity:</b> 84 %<br/> <b>Dewpoint:</b> -0.7&deg;C<br/> <b>Wind:</b> NW 10 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_cc:20230429100000</id>
+</entry>
+<entry>
+  <title>Saturday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Becoming cloudy this afternoon. Wind becoming southeast 20 km/h near noon. High 14. UV index 6 or high. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc0:20230429090000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low 8. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 30 percent chance of showers overnight. Wind southeast 20 km/h. Low 8. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc1:20230429090000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 11. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of showers in the morning. Wind southeast 20 km/h gusting to 40. High 11. UV index 4 or moderate. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc2:20230429090000</id>
+</entry><entry>
+  <title>Sunday night: Showers. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 4. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc3:20230429090000</id>
+</entry><entry>
+  <title>Monday: Showers. High 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Windy. High 7. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc4:20230429090000</id>
+</entry><entry>
+  <title>Monday night: Showers. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 4. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc5:20230429090000</id>
+</entry><entry>
+  <title>Tuesday: Showers. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 9. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc6:20230429090000</id>
+</entry><entry>
+  <title>Tuesday night: Periods of rain. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 1. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc7:20230429090000</id>
+</entry><entry>
+  <title>Wednesday: Periods of snow or rain. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High 6. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc8:20230429090000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 2. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc9:20230429090000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc10:20230429090000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc11:20230429090000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-64_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-64_fc12:20230429090000</id>
+</entry>
+</feed>
