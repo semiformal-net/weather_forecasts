@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Halifax (Shearwater) - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-40_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-40_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-29T05:01:44Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230429050144</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Halifax (Shearwater)</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T13:30:14Z</updated>
+  <published>2023-04-06T13:30:14Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_w1:20230406133014</id>
+</entry>
+<entry>
+  <title>Current Conditions:  5.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-29T05:00:00Z</updated>
+  <published>2023-04-29T05:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Shearwater Airport 2:00 AM ADT Saturday 29 April 2023<br/> <b>Temperature:</b> 5.8&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa falling<br/> <b>Humidity:</b> 78 %<br/> <b>Dewpoint:</b> 2.3&deg;C<br/> <b>Wind:</b> NNE 7 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_cc:20230429050000</id>
+</entry>
+<entry>
+  <title>Friday night: Clear. Low plus 2 except minus 1 in low lying inland areas.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Fog patches developing overnight. Low plus 2 except minus 1 in low lying inland areas. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc0:20230428190000</id>
+</entry><entry>
+  <title>Saturday: Mainly sunny. High 15 except 9 along parts of the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud in the afternoon. Fog patches dissipating in the morning. High 15 except 9 along parts of the coast. UV index 7 or high. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc1:20230428190000</id>
+</entry><entry>
+  <title>Saturday night: Clearing. Low plus 1 except minus 2 in low lying inland areas.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing in the evening. Low plus 1 except minus 2 in low lying inland areas. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc2:20230428190000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 11. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc3:20230428190000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 4. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 4. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc4:20230428190000</id>
+</entry><entry>
+  <title>Monday: Rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Windy. High 10. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc5:20230428190000</id>
+</entry><entry>
+  <title>Monday night: Showers. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 6. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc6:20230428190000</id>
+</entry><entry>
+  <title>Tuesday: Showers. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 15. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc7:20230428190000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc8:20230428190000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 9. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc9:20230428190000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. Low plus 3. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc10:20230428190000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-40_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 7. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-40_fc11:20230428190000</id>
+</entry>
+</feed>
