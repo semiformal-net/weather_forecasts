@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Dunchurch - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-35_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-35_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-35_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-29T12:00:58Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230429120058</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Dunchurch</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm38"/>
+  <updated>2023-04-29T08:56:41Z</updated>
+  <published>2023-04-29T08:56:41Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:56 a.m. EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_w1:20230429085641</id>
+</entry>
+<entry>
+  <title>Current Conditions:  8.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T12:00:00Z</updated>
+  <published>2023-04-29T12:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Parry Sound Harbour 8:00 AM EDT Saturday 29 April 2023<br/> <b>Temperature:</b> 8.1&deg;C<br/> <b>Pressure / Tendency:</b> 100.8 kPa falling<br/> <b>Humidity:</b> 88 %<br/> <b>Dewpoint:</b> 6.2&deg;C<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_cc:20230429120000</id>
+</entry>
+<entry>
+  <title>Saturday: Rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Amount 5 to 10 mm. Wind southeast 20 km/h gusting to 40. High 10. UV index 2 or low. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc0:20230429090000</id>
+</entry><entry>
+  <title>Saturday night: Rain. Temperature steady near 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Amount 5 to 10 mm. Wind southeast 20 km/h gusting to 40 becoming light after midnight. Temperature steady near 10. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc1:20230429090000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 14. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers in the morning and early in the afternoon. Rain beginning in the afternoon. Amount 5 to 10 mm. Wind becoming southeast 20 km/h gusting to 40 in the morning. High 14. UV index 2 or low. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc2:20230429090000</id>
+</entry><entry>
+  <title>Sunday night: Periods of rain. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low 6. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc3:20230429090000</id>
+</entry><entry>
+  <title>Monday: Periods of rain. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 11. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc4:20230429090000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low plus 4. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc5:20230429090000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 9. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc6:20230429090000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of rain showers or flurries. Low plus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 3. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc7:20230429090000</id>
+</entry><entry>
+  <title>Wednesday: Chance of rain showers or flurries. High 13. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of rain showers or flurries. High 13. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc8:20230429090000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc9:20230429090000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc10:20230429090000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 5. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc11:20230429090000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-35_metric_e.html"/>
+  <updated>2023-04-29T09:00:00Z</updated>
+  <published>2023-04-29T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 5:00 AM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-35_fc12:20230429090000</id>
+</entry>
+</feed>
