@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Vanier - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-41_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-41_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-29T08:01:46Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230429080146</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Vanier</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?qcrm134"/>
+  <updated>2023-04-29T03:09:05Z</updated>
+  <published>2023-04-29T03:09:05Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 11:09 p.m. EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_w1:20230429030905</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 4.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-29T08:00:00Z</updated>
+  <published>2023-04-29T08:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Quebec Lesage Int'l Airport 4:00 AM EDT Saturday 29 April 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 4.2&deg;C<br/> <b>Pressure / Tendency:</b> 102.0 kPa falling<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 72 %<br/> <b>Dewpoint:</b> -0.4&deg;C<br/> <b>Wind:</b> NNE 5 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_cc:20230429080000</id>
+</entry>
+<entry>
+  <title>Friday night: A few clouds. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Becoming partly cloudy overnight. Low plus 4. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc0:20230428194500</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind east 20 km/h. High 15. UV index 6 or high. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc1:20230428194500</id>
+</entry><entry>
+  <title>Saturday night: Rain. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Becoming cloudy late in the evening. Rain beginning overnight. Wind becoming east 20 km/h overnight. Low 6. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc2:20230428194500</id>
+</entry><entry>
+  <title>Sunday: Periods of rain. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 12. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc3:20230428194500</id>
+</entry><entry>
+  <title>Sunday night: Rain. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low 7. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc4:20230428194500</id>
+</entry><entry>
+  <title>Monday: Rain. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 9. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc5:20230428194500</id>
+</entry><entry>
+  <title>Monday night: Periods of rain. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low 6. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc6:20230428194500</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 13. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. High 13. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc7:20230428194500</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 6. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc8:20230428194500</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 10. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 10. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc9:20230428194500</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc10:20230428194500</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-41_metric_e.html"/>
+  <updated>2023-04-28T19:45:00Z</updated>
+  <published>2023-04-28T19:45:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 12. Forecast issued 3:45 PM EDT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-41_fc11:20230428194500</id>
+</entry>
+</feed>
