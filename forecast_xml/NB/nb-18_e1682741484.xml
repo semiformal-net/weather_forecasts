@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Saint Andrews - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-18_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-18_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-29T04:01:10Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230429040110</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Saint Andrews</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T12:00:09Z</updated>
+  <published>2023-04-06T12:00:09Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_w1:20230406120009</id>
+</entry>
+<entry>
+  <title>Current Conditions:  3.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-29T04:00:00Z</updated>
+  <published>2023-04-29T04:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Point Lepreau 1:00 AM ADT Saturday 29 April 2023<br/> <b>Temperature:</b> 3.9&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa falling<br/> <b>Humidity:</b> 91 %<br/> <b>Dewpoint:</b> 2.5&deg;C<br/> <b>Wind:</b> NW 10 km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_cc:20230429040000</id>
+</entry>
+<entry>
+  <title>Friday night: Partly cloudy. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Fog patches developing overnight. Low plus 3. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc0:20230428190000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 13 except 8 along parts of the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Fog patches dissipating in the morning. High 13 except 8 along parts of the coast. UV index 7 or high. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc1:20230428190000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low plus 2 except minus 3 in low lying areas.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2 except minus 3 in low lying areas. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc2:20230428190000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 13. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc3:20230428190000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 4. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc4:20230428190000</id>
+</entry><entry>
+  <title>Monday: Periods of rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Windy. High 10. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc5:20230428190000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Low 7. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc6:20230428190000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 13. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 13. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc7:20230428190000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc8:20230428190000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 9. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc9:20230428190000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc10:20230428190000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 8. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-18_metric_e.html"/>
+  <updated>2023-04-28T19:00:00Z</updated>
+  <published>2023-04-28T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 8. Forecast issued 4:00 PM ADT Friday 28 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-18_fc11:20230428190000</id>
+</entry>
+</feed>
