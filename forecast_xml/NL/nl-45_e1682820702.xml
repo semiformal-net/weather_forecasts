@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>L'Anse-au-Loup - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-45_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-45_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-30T02:06:04Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230430020604</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, L'Anse-au-Loup</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-02T20:00:06Z</updated>
+  <published>2023-04-02T20:00:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_w1:20230402200006</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, -0.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-30T02:00:00Z</updated>
+  <published>2023-04-30T02:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Blanc-Sablon Airport 10:00 PM AST Saturday 29 April 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> -0.9&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa rising<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 82 %<br/> <b>Wind Chill:</b> -4<br/> <b>Dewpoint:</b> -3.6&deg;C<br/> <b>Wind:</b> NNE 8 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_cc:20230430020000</id>
+</entry>
+<entry>
+  <title>Saturday night: A few clouds. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind up to 15 km/h. Low minus 4. Wind chill minus 9 overnight. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc0:20230429190000</id>
+</entry><entry>
+  <title>Sunday: Mainly sunny. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind up to 15 km/h. High 9. Wind chill minus 9 in the morning. UV index 5 or moderate. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc1:20230429190000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Wind up to 15 km/h. Low minus 4. Wind chill minus 8 overnight. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc2:20230429190000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 5. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc3:20230429190000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc4:20230429190000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 5. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc5:20230429190000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 2. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc6:20230429190000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 6. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 6. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc7:20230429190000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 3. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Low plus 3. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc8:20230429190000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High plus 5. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High plus 5. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc9:20230429190000</id>
+</entry><entry>
+  <title>Thursday night: Chance of rain showers or flurries. Low plus 1. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of rain showers or flurries. Low plus 1. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc10:20230429190000</id>
+</entry><entry>
+  <title>Friday: Chance of rain showers or flurries. High 6. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-45_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of rain showers or flurries. High 6. Forecast issued 4:30 PM NDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-45_fc11:20230429190000</id>
+</entry>
+</feed>
