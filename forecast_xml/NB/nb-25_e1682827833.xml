@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Miramichi - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-25_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-25_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-30T04:00:55Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230430040055</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Miramichi</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-27T07:45:06Z</updated>
+  <published>2023-03-27T07:45:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_w1:20230327074506</id>
+</entry>
+<entry>
+  <title>Current Conditions:  3.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-30T04:00:00Z</updated>
+  <published>2023-04-30T04:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Miramichi 1:00 AM ADT Sunday 30 April 2023<br/> <b>Temperature:</b> 3.7&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa rising<br/> <b>Humidity:</b> 91 %<br/> <b>Dewpoint:</b> 2.4&deg;C<br/> <b>Wind:</b> NNE 6 km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_cc:20230430040000</id>
+</entry>
+<entry>
+  <title>Saturday night: A few clouds. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Fog patches developing overnight. Low plus 2. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc0:20230429190000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 16 except 6 along parts of the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Fog patches dissipating in the morning. Wind becoming southeast 20 km/h in the afternoon. High 16 except 6 along parts of the coast. UV index 6 or high. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc1:20230429190000</id>
+</entry><entry>
+  <title>Sunday night: Partly cloudy. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind southeast 20 km/h. Low plus 4. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc2:20230429190000</id>
+</entry><entry>
+  <title>Monday: Rain. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High plus 5. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc3:20230429190000</id>
+</entry><entry>
+  <title>Monday night: Rain. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Low plus 3. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc4:20230429190000</id>
+</entry><entry>
+  <title>Tuesday: Rain. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High plus 5. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc5:20230429190000</id>
+</entry><entry>
+  <title>Tuesday night: Rain showers or flurries. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. Low plus 2. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc6:20230429190000</id>
+</entry><entry>
+  <title>Wednesday: Rain showers or flurries. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. High plus 3. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc7:20230429190000</id>
+</entry><entry>
+  <title>Wednesday night: Rain showers or flurries. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or flurries. Low plus 3. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc8:20230429190000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 6. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc9:20230429190000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 3. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 3. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc10:20230429190000</id>
+</entry><entry>
+  <title>Friday: Cloudy. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-25_metric_e.html"/>
+  <updated>2023-04-29T19:00:00Z</updated>
+  <published>2023-04-29T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 8. Forecast issued 4:00 PM ADT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-25_fc11:20230429190000</id>
+</entry>
+</feed>
