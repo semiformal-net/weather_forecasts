@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Longueuil - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-109_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-109_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-30T05:01:59Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230430050159</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>RAINFALL WARNING, Longueuil</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?qcrm4"/>
+  <updated>2023-04-30T02:55:27Z</updated>
+  <published>2023-04-30T02:55:27Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 10:55 p.m. EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_w1:20230430025527</id>
+</entry>
+<entry>
+  <title>Current Conditions: Rain, 7.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-30T05:00:00Z</updated>
+  <published>2023-04-30T05:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Saint-Hubert Airport 1:00 AM EDT Sunday 30 April 2023<br/> <b>Condition:</b> Rain<br/> <b>Temperature:</b> 7.9&deg;C<br/> <b>Pressure:</b> 101.2 kPa <br/> <b>Visibility:</b> 10 km<br/> <b>Humidity:</b> 90 %<br/> <b>Dewpoint:</b> 6.4&deg;C<br/> <b>Wind:</b> E 13 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_cc:20230430050000</id>
+</entry>
+<entry>
+  <title>Saturday night: Rain. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Amount 5 to 10 mm. Wind southeast 20 km/h gusting to 40. Low 7. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc0:20230429233300</id>
+</entry><entry>
+  <title>Sunday: Rain. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain ending in the morning then cloudy. Wind east 20 km/h gusting to 40. High 13. UV index 2 or low. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc1:20230429233300</id>
+</entry><entry>
+  <title>Sunday night: Rain at times heavy. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain at times heavy. Amount 15 to 25 mm. Wind northeast 30 km/h gusting to 60. Low 9. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc2:20230429233300</id>
+</entry><entry>
+  <title>Monday: Rain. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Windy. High 12. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc3:20230429233300</id>
+</entry><entry>
+  <title>Monday night: Showers. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 5. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc4:20230429233300</id>
+</entry><entry>
+  <title>Tuesday: Rain. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 12. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc5:20230429233300</id>
+</entry><entry>
+  <title>Tuesday night: Showers. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 5. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc6:20230429233300</id>
+</entry><entry>
+  <title>Wednesday: Periods of rain. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 9. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc7:20230429233300</id>
+</entry><entry>
+  <title>Wednesday night: Showers. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 6. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc8:20230429233300</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 14. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 14. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc9:20230429233300</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc10:20230429233300</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-109_metric_e.html"/>
+  <updated>2023-04-29T23:33:00Z</updated>
+  <published>2023-04-29T23:33:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 17. Forecast issued 7:33 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-109_fc11:20230429233300</id>
+</entry>
+</feed>
