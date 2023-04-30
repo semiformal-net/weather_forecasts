@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>100 Mile House - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-7_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-7_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-30T15:01:58Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230430150158</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, 100 Mile House</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-04T11:15:31Z</updated>
+  <published>2023-04-04T11:15:31Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_w1:20230404111531</id>
+</entry>
+<entry>
+  <title>Current Conditions: Sunny, 11.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T15:00:00Z</updated>
+  <published>2023-04-30T15:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Clinton 8:00 AM PDT Sunday 30 April 2023<br/> <b>Condition:</b> Sunny<br/> <b>Temperature:</b> 11.5&deg;C<br/> <b>Pressure:</b> 100.9 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 43 %<br/> <b>Dewpoint:</b> -0.7&deg;C<br/> <b>Wind:</b> ESE 13 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_cc:20230430150000</id>
+</entry>
+<entry>
+  <title>Sunday: Increasing cloudiness. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Increasing cloudiness this afternoon. Wind becoming south 20 km/h gusting to 50 near noon. High 24. UV index 6 or high. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc0:20230430120000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 60 percent chance of showers. Wind northwest 20 km/h gusting to 40 becoming light late this evening. Low 9. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc1:20230430120000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 19. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 60 percent chance of showers in the morning. Wind becoming northwest 20 km/h gusting to 40 in the morning. High 19. UV index 6 or high. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc2:20230430120000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 12. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc3:20230430120000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 26. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc4:20230430120000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc5:20230430120000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc6:20230430120000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 12. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc7:20230430120000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 21. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc8:20230430120000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low 8. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low 8. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc9:20230430120000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 23. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 23. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc10:20230430120000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low 8. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low 8. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc11:20230430120000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-7_metric_e.html"/>
+  <updated>2023-04-30T12:00:00Z</updated>
+  <published>2023-04-30T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 21. Forecast issued 5:00 AM PDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-7_fc12:20230430120000</id>
+</entry>
+</feed>
