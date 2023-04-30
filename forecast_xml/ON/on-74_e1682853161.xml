@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Kemptville - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-74_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-74_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-74_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-30T11:01:20Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230430110120</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Kemptville</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm90"/>
+  <updated>2023-04-30T07:12:40Z</updated>
+  <published>2023-04-30T07:12:40Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:12 a.m. EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_w1:20230430071240</id>
+</entry>
+<entry>
+  <title>Current Conditions:  8.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T11:00:00Z</updated>
+  <published>2023-04-30T11:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Kemptville 7:00 AM EDT Sunday 30 April 2023<br/> <b>Temperature:</b> 8.5&deg;C<br/> <b>Pressure / Tendency:</b> 100.5 kPa falling<br/> <b>Humidity:</b> 90 %<br/> <b>Dewpoint:</b> 6.9&deg;C<br/> <b>Wind:</b> ENE 5 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_cc:20230430110000</id>
+</entry>
+<entry>
+  <title>Sunday: Chance of showers. High 15. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers this morning. Rain beginning near noon. Amount 5 to 10 mm. Wind becoming east 40 km/h gusting to 60 this morning. High 15. UV index 4 or moderate. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc0:20230430090000</id>
+</entry><entry>
+  <title>Sunday night: Rain at times heavy. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain at times heavy. Amount 20 to 30 mm. Wind east 40 km/h gusting to 60. Low 9. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc1:20230430090000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 12. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain ending in the morning then mainly cloudy with 40 percent chance of showers in the morning and early in the afternoon. A few showers beginning in the afternoon. Wind southeast 20 km/h becoming southwest 20 late in the morning. High 12. UV index 6 or high. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc2:20230430090000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low 6. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 6. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc3:20230430090000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 12. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. High 12. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc4:20230430090000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low 6. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. Low 6. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc5:20230430090000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 11. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 70 percent chance of showers. High 11. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc6:20230430090000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 4. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 4. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc7:20230430090000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 14. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 14. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc8:20230430090000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc9:20230430090000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 13. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 13. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc10:20230430090000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. Low 7. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc11:20230430090000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-74_metric_e.html"/>
+  <updated>2023-04-30T09:00:00Z</updated>
+  <published>2023-04-30T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 14. Forecast issued 5:00 AM EDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-74_fc12:20230430090000</id>
+</entry>
+</feed>
