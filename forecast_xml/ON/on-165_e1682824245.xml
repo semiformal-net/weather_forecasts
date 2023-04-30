@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Haliburton - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-165_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-165_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-165_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-04-30T03:00:51Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230430030051</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Haliburton</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm7"/>
+  <updated>2023-04-29T20:12:36Z</updated>
+  <published>2023-04-29T20:12:36Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:12 p.m. EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_w1:20230429201236</id>
+</entry>
+<entry>
+  <title>Current Conditions:  7.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-30T03:00:00Z</updated>
+  <published>2023-04-30T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Bancroft 11:00 PM EDT Saturday 29 April 2023<br/> <b>Temperature:</b> 7.9&deg;C<br/> <b>Pressure / Tendency:</b> 100.5 kPa falling<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 7.9&deg;C<br/> <b>Wind:</b> SE 7 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_cc:20230430030000</id>
+</entry>
+<entry>
+  <title>Saturday night: Periods of rain or drizzle. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain becoming mixed with drizzle this evening and ending overnight then cloudy with 40 percent chance of showers. Amount 5 mm. Wind southeast 20 km/h gusting to 40 becoming light near midnight. Low 7. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc0:20230429193000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 10. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of showers in the morning. Rain beginning near noon. Amount 15 to 25 mm. Wind southeast 20 km/h gusting to 40. High 10. UV index 4 or moderate. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc1:20230429193000</id>
+</entry><entry>
+  <title>Sunday night: Rain at times heavy. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain at times heavy. Amount 15 to 25 mm. Wind east 30 km/h becoming light near midnight. Wind becoming west 30 after midnight. Low plus 4. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc2:20230429193000</id>
+</entry><entry>
+  <title>Monday: Periods of rain. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 10. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc3:20230429193000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain or snow. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain or snow. Low plus 4. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc4:20230429193000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 11. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 11. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc5:20230429193000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of rain showers or flurries. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of rain showers or flurries. Low plus 4. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc6:20230429193000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 11. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 11. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc7:20230429193000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 2. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc8:20230429193000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 14. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc9:20230429193000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 5. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc10:20230429193000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 13. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-165_metric_e.html"/>
+  <updated>2023-04-29T19:30:00Z</updated>
+  <published>2023-04-29T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 13. Forecast issued 3:30 PM EDT Saturday 29 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-165_fc11:20230429193000</id>
+</entry>
+</feed>
