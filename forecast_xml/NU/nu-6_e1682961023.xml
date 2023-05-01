@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Whale Cove - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nu-6_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nu-6_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-01T17:05:01Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230501170501</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Whale Cove</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-02-23T22:00:04Z</updated>
+  <published>2023-02-23T22:00:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_w1:20230223220004</id>
+</entry>
+<entry>
+  <title>Current Conditions: Partly Cloudy, -5.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T17:00:00Z</updated>
+  <published>2023-05-01T17:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Whale Cove Airport 12:00 PM CDT Monday 1 May 2023<br/> <b>Condition:</b> Partly Cloudy<br/> <b>Temperature:</b> -5.1&deg;C<br/> <b>Pressure / Tendency:</b> 102.4 kPa falling<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 94 %<br/> <b>Wind Chill:</b> -9<br/> <b>Dewpoint:</b> -5.9&deg;C<br/> <b>Wind:</b> E 9 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_cc:20230501170000</id>
+</entry>
+<entry>
+  <title>Monday: Mainly cloudy. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Fog at times late this morning. Wind up to 15 km/h. High minus 1. Wind chill minus 12 this morning and minus 6 this afternoon. UV index 3 or moderate. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc0:20230501150000</id>
+</entry><entry>
+  <title>Monday night: Mainly cloudy. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind becoming southeast 20 km/h before morning. Low minus 7. Wind chill minus 7 this evening and minus 14 overnight. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc1:20230501150000</id>
+</entry><entry>
+  <title>Tuesday: Chance of flurries. High minus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. Wind southeast 20 km/h. High minus 2. Wind chill minus 14 in the morning and minus 8 in the afternoon. UV index 3 or moderate. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc2:20230501150000</id>
+</entry><entry>
+  <title>Tuesday night: Periods of snow. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low minus 4. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc3:20230501150000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. High plus 1. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc4:20230501150000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 5. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc5:20230501150000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 2. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc6:20230501150000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 2. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc7:20230501150000</id>
+</entry><entry>
+  <title>Friday: Cloudy. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 4. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc8:20230501150000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 3. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc9:20230501150000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 5. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc10:20230501150000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 2. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc11:20230501150000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-6_metric_e.html"/>
+  <updated>2023-05-01T15:00:00Z</updated>
+  <published>2023-05-01T15:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High plus 5. Forecast issued 10:00 AM CDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-6_fc12:20230501150000</id>
+</entry>
+</feed>
