@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Eastend - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-45_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-45_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-01T00:01:23Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230501000123</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Eastend</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-17T21:50:49Z</updated>
+  <published>2023-04-17T21:50:49Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_w1:20230417215049</id>
+</entry>
+<entry>
+  <title>Current Conditions:  16.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-05-01T00:00:00Z</updated>
+  <published>2023-05-01T00:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Eastend 6:00 PM CST Sunday 30 April 2023<br/> <b>Temperature:</b> 16.6&deg;C<br/> <b>Pressure / Tendency:</b> 101.6 kPa falling<br/> <b>Humidity:</b> 25 %<br/> <b>Dewpoint:</b> -3.7&deg;C<br/> <b>Wind:</b> SE 23 km/h gust 33 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_cc:20230501000000</id>
+</entry>
+<entry>
+  <title>Sunday night: A few clouds. Low plus 2 except 7 near the Trans-Canada Highway.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind southeast 30 km/h gusting to 50 becoming light this evening. Low plus 2 except 7 near the Trans-Canada Highway. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc0:20230430220000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 18 except 22 near the Trans-Canada Highway.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Wind becoming southeast 30 km/h gusting to 50 in the morning. High 18 except 22 near the Trans-Canada Highway. UV index 7 or high. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc1:20230430220000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low plus 3 except 8 near the Trans-Canada Highway.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Wind southeast 30 km/h gusting to 50 becoming light overnight. Low plus 3 except 8 near the Trans-Canada Highway. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc2:20230430220000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 25. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc3:20230430220000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 4. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc4:20230430220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc5:20230430220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 9. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc6:20230430220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 26. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc7:20230430220000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc8:20230430220000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc9:20230430220000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 7. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc10:20230430220000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-45_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 26. Forecast issued 4:00 PM CST Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-45_fc11:20230430220000</id>
+</entry>
+</feed>
