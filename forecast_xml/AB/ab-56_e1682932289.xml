@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Whitecourt - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-56_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-56_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-01T09:01:31Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230501090131</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Whitecourt</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-12T04:15:51Z</updated>
+  <published>2023-04-12T04:15:51Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_w1:20230412041551</id>
+</entry>
+<entry>
+  <title>Current Conditions:  11.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Whitecourt Airport 3:00 AM MDT Monday 1 May 2023<br/> <b>Temperature:</b> 11.9&deg;C<br/> <b>Pressure:</b> 100.7 kPa <br/> <b>Humidity:</b> 39 %<br/> <b>Dewpoint:</b> -1.5&deg;C<br/> <b>Wind:</b> E 21 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_cc:20230501090000</id>
+</entry>
+<entry>
+  <title>Sunday night: Partly cloudy. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind northeast 20 km/h gusting to 40 becoming light this evening. Low 6. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc0:20230430220000</id>
+</entry><entry>
+  <title>Monday: Mainly sunny. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. High 26. UV index 7 or high. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc1:20230430220000</id>
+</entry><entry>
+  <title>Monday night: Partly cloudy. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Low 8. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc2:20230430220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 22. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc3:20230430220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc4:20230430220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 24. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc5:20230430220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 9. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc6:20230430220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc7:20230430220000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low plus 4. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 4. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc8:20230430220000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 25. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc9:20230430220000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc10:20230430220000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 21. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-56_metric_e.html"/>
+  <updated>2023-04-30T22:00:00Z</updated>
+  <published>2023-04-30T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 21. Forecast issued 4:00 PM MDT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-56_fc11:20230430220000</id>
+</entry>
+</feed>
