@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Yarmouth - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-29_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-29_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-01T05:01:48Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230501050148</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>RAINFALL WARNING, Yarmouth</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?ns6"/>
+  <updated>2023-05-01T00:13:04Z</updated>
+  <published>2023-05-01T00:13:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:13 p.m. ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_w1:20230501001304</id>
+</entry><entry>
+<title>SPECIAL WEATHER STATEMENT, Yarmouth</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?ns6"/>
+  <updated>2023-05-01T00:16:47Z</updated>
+  <published>2023-05-01T00:16:47Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 9:16 p.m. ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_w2:20230501001647</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 8.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T05:00:00Z</updated>
+  <published>2023-05-01T05:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Yarmouth Airport 2:00 AM ADT Monday 1 May 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 8.6&deg;C<br/> <b>Pressure / Tendency:</b> 100.9 kPa falling<br/> <b>Visibility:</b> 19 km<br/> <b>Humidity:</b> 90 %<br/> <b>Dewpoint:</b> 7.0&deg;C<br/> <b>Wind:</b> ESE 38 km/h gust 55 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_cc:20230501050000</id>
+</entry>
+<entry>
+  <title>Sunday night: Rain. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 30 percent chance of showers late this evening. Rain beginning late this evening. Fog patches developing near midnight. Amount 5 mm. Wind southeast 40 km/h gusting to 60 except gusting to 80 along parts of the coast. Low plus 5. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc0:20230501002800</id>
+</entry><entry>
+  <title>Monday: Rain at times heavy. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain at times heavy with risk of a thundershower. Fog patches dissipating in the morning. Amount 50 mm. Wind southeast 40 km/h gusting to 60 except gusting to 80 along parts of the coast. Wind becoming southwest 30 gusting to 50 late in the afternoon. High 12. UV index 1 or low. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc1:20230501002800</id>
+</entry><entry>
+  <title>Monday night: Chance of showers or drizzle. Low plus 3 except minus 1 in low lying areas. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy with 60 percent chance of showers or drizzle early in the evening then clear. Fog patches developing late in the evening. Wind southwest 30 km/h gusting to 50 becoming light in the evening. Low plus 3 except minus 1 in low lying areas. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc2:20230501002800</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 14 except 8 along parts of the coast. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 14 except 8 along parts of the coast. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc3:20230501002800</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc4:20230501002800</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 11. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 11. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc5:20230501002800</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 4. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. Low plus 4. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc6:20230501002800</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 10. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 10. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc7:20230501002800</id>
+</entry><entry>
+  <title>Thursday night: Cloudy. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 4. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc8:20230501002800</id>
+</entry><entry>
+  <title>Friday: Cloudy. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 10. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc9:20230501002800</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc10:20230501002800</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-29_metric_e.html"/>
+  <updated>2023-05-01T00:28:00Z</updated>
+  <published>2023-05-01T00:28:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 9:28 PM ADT Sunday 30 April 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-29_fc11:20230501002800</id>
+</entry>
+</feed>
