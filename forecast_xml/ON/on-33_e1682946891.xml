@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Cochrane - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-33_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-33_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-33_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-01T13:01:54Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230501130154</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Cochrane</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?onrm36"/>
+  <updated>2023-05-01T09:35:15Z</updated>
+  <published>2023-05-01T09:35:15Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:35 a.m. EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_w1:20230501093515</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Rain, 5.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T13:00:00Z</updated>
+  <published>2023-05-01T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Timmins Victor Power Airport 9:00 AM EDT Monday 1 May 2023<br/> <b>Condition:</b> Light Rain<br/> <b>Temperature:</b> 5.5&deg;C<br/> <b>Pressure / Tendency:</b> 98.5 kPa falling<br/> <b>Visibility:</b> 4 km<br/> <b>Humidity:</b> 96 %<br/> <b>Dewpoint:</b> 4.9&deg;C<br/> <b>Wind:</b> NE 17 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_cc:20230501130000</id>
+</entry>
+<entry>
+  <title>Monday: Periods of rain. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. Amount 10 to 15 mm. Wind becoming north 20 km/h late this morning. High 9. UV index 1 or low. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc0:20230501093000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain mixed with snow. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain becoming mixed with snow after midnight. Rainfall amount 5 mm. Wind north 20 km/h. Low plus 1. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc1:20230501093000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Wind northwest 20 km/h. High 12. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc2:20230501093000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of rain showers or flurries. Low zero. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of rain showers or flurries. Low zero. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc3:20230501093000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. High 7. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc4:20230501093000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low plus 1. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Low plus 1. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc5:20230501093000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 12. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 12. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc6:20230501093000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc7:20230501093000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc8:20230501093000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc9:20230501093000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 18. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc10:20230501093000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc11:20230501093000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 20. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-33_metric_e.html"/>
+  <updated>2023-05-01T09:30:00Z</updated>
+  <published>2023-05-01T09:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 20. Forecast issued 5:30 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-33_fc12:20230501093000</id>
+</entry>
+</feed>

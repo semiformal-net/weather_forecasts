@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>La Vérendrye (Réserve faunique) - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-30_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-30_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-01T13:02:57Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230501130257</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>RAINFALL WARNING, La Vérendrye (Réserve faunique)</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?qcrm28"/>
+  <updated>2023-05-01T08:51:28Z</updated>
+  <published>2023-05-01T08:51:28Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:51 a.m. EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_w1:20230501085128</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Rain, 6.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T13:00:00Z</updated>
+  <published>2023-05-01T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Val-d'Or Regional Airport 9:00 AM EDT Monday 1 May 2023<br/> <b>Condition:</b> Light Rain<br/> <b>Temperature:</b> 6.5&deg;C<br/> <b>Pressure / Tendency:</b> 98.3 kPa falling<br/> <b>Visibility:</b> 6 km<br/> <b>Humidity:</b> 99 %<br/> <b>Dewpoint:</b> 6.3&deg;C<br/> <b>Wind:</b> ENE 12 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_cc:20230501130000</id>
+</entry>
+<entry>
+  <title>Monday: Rain. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. Amount 10 to 20 mm. High 8. UV index 1 or low. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc0:20230501090000</id>
+</entry><entry>
+  <title>Monday night: Rain. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain ending near midnight then cloudy with 40 percent chance of showers. Wind southeast 20 km/h. Low plus 2. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc1:20230501090000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 10. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Wind southeast 20 km/h becoming light near noon. High 10. UV index 4 or moderate. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc2:20230501090000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc3:20230501090000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 11. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc4:20230501090000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 3. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc5:20230501090000</id>
+</entry><entry>
+  <title>Thursday: Cloudy. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 10. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc6:20230501090000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 1. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc7:20230501090000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 15. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc8:20230501090000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc9:20230501090000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 20. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc10:20230501090000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc11:20230501090000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-30_metric_e.html"/>
+  <updated>2023-05-01T09:00:00Z</updated>
+  <published>2023-05-01T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 22. Forecast issued 5:00 AM EDT Monday 1 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-30_fc12:20230501090000</id>
+</entry>
+</feed>
