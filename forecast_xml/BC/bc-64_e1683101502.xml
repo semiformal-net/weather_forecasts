@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Quesnel - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-64_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-64_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-03T08:01:58Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230503080158</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Quesnel</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-27T02:30:09Z</updated>
+  <published>2023-04-27T02:30:09Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_w1:20230427023009</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, 7.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-03T08:00:00Z</updated>
+  <published>2023-05-03T08:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Quesnel Airport 1:00 AM PDT Wednesday 3 May 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> 7.9&deg;C<br/> <b>Pressure:</b> 100.8 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 84 %<br/> <b>Dewpoint:</b> 5.3&deg;C<br/> <b>Wind:</b> NE 4 km/h<br/> <b>Air Quality Health Index:</b> 1<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_cc:20230503080000</id>
+</entry>
+<entry>
+  <title>Tuesday night: Clearing. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing early this evening. Wind north 20 km/h becoming light this evening. Low 7. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc0:20230502230000</id>
+</entry><entry>
+  <title>Wednesday: Mainly sunny. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud late in the afternoon. High 26. UV index 7 or high. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc1:20230502230000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low 11. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy with 30 percent chance of showers. Risk of a thunderstorm in the evening. Low 11. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc2:20230502230000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 26. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc3:20230502230000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc4:20230502230000</id>
+</entry><entry>
+  <title>Friday: Showers or thunderstorms. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers or thunderstorms. High 26. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc5:20230502230000</id>
+</entry><entry>
+  <title>Friday night: Rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain or thunderstorms. Low plus 4. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc6:20230502230000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 12. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc7:20230502230000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low plus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 2. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc8:20230502230000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 16. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc9:20230502230000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 2. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 2. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc10:20230502230000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-64_metric_e.html"/>
+  <updated>2023-05-02T23:00:00Z</updated>
+  <published>2023-05-02T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 14. Forecast issued 4:00 PM PDT Tuesday 2 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-64_fc11:20230502230000</id>
+</entry>
+</feed>
