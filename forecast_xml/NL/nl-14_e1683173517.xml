@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Bonavista - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-14_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-14_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-04T04:02:09Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230504040209</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Bonavista</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-29T12:15:17Z</updated>
+  <published>2023-03-29T12:15:17Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_w1:20230329121517</id>
+</entry>
+<entry>
+  <title>Current Conditions:  1.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-04T04:00:00Z</updated>
+  <published>2023-05-04T04:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Bonavista 1:30 AM NDT Thursday 4 May 2023<br/> <b>Temperature:</b> 1.8&deg;C<br/> <b>Pressure / Tendency:</b> 101.3 kPa falling<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 1.8&deg;C<br/> <b>Wind:</b> NE 30 km/h gust 39 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_cc:20230504040000</id>
+</entry>
+<entry>
+  <title>Wednesday night: Showers or drizzle. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Showers or periods of drizzle beginning early this evening. Fog patches developing early this evening. Amount 2 to 4 mm. Wind northeast 20 km/h gusting to 40. Low plus 2. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc0:20230503183000</id>
+</entry><entry>
+  <title>Thursday: Showers or drizzle. High plus 5 except temperature steady near plus 2 along parts of the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers or periods of drizzle. Fog patches. Amount 2 to 4 mm. Wind northeast 30 km/h gusting to 50. High plus 5 except temperature steady near plus 2 along parts of the coast. UV index 2 or low. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc1:20230503183000</id>
+</entry><entry>
+  <title>Thursday night: Rain showers or flurries. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain showers or periods of drizzle ending overnight then cloudy with 60 percent chance of flurries or freezing drizzle. Fog patches dissipating overnight. Rainfall amount 2 to 4 mm. Wind northeast 30 km/h gusting to 50. Low zero. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc2:20230503183000</id>
+</entry><entry>
+  <title>Friday: Drizzle. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Drizzle or showers. High plus 2. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc3:20230503183000</id>
+</entry><entry>
+  <title>Friday night: Cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 1. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc4:20230503183000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 4. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc5:20230503183000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 1. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc6:20230503183000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 6. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc7:20230503183000</id>
+</entry><entry>
+  <title>Sunday night: Chance of rain showers or flurries. Low zero. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of rain showers or flurries. Low zero. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc8:20230503183000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 7. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc9:20230503183000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 3. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Low plus 3. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc10:20230503183000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 8. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-14_metric_e.html"/>
+  <updated>2023-05-03T18:30:00Z</updated>
+  <published>2023-05-03T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 8. Forecast issued 4:00 PM NDT Wednesday 3 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-14_fc11:20230503183000</id>
+</entry>
+</feed>
