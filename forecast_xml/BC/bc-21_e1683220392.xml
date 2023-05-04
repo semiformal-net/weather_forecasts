@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Castlegar - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-21_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-21_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-04T17:05:06Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230504170506</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Castlegar</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-12T09:00:06Z</updated>
+  <published>2023-04-12T09:00:06Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_w1:20230412090006</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mainly Sunny, 18.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Castlegar Airport 10:00 AM PDT Thursday 4 May 2023<br/> <b>Condition:</b> Mainly Sunny<br/> <b>Temperature:</b> 18.9&deg;C<br/> <b>Pressure / Tendency:</b> 100.6 kPa rising<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 46 %<br/> <b>Dewpoint:</b> 6.9&deg;C<br/> <b>Wind:</b> N 12 km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_cc:20230504170000</id>
+</entry>
+<entry>
+  <title>Thursday: Chance of showers. High 29. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny early this afternoon then a mix of sun and cloud with 30 percent chance of showers late this afternoon. Risk of a thunderstorm late this afternoon. Wind becoming north 20 km/h this afternoon. High 29. Humidex 31. UV index 6 or high. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc0:20230504170000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. 60 percent chance of showers this evening. Risk of a thunderstorm early this evening. Wind north 20 km/h becoming light this evening. Low 12. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc1:20230504170000</id>
+</entry><entry>
+  <title>Friday: A few showers. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. A few showers beginning in the morning. Risk of a thunderstorm in the afternoon. High 16. UV index 3 or moderate. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc2:20230504170000</id>
+</entry><entry>
+  <title>Friday night: Showers. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 9. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc3:20230504170000</id>
+</entry><entry>
+  <title>Saturday: Showers. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 12. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc4:20230504170000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 7. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc5:20230504170000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 14. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 14. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc6:20230504170000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. Low plus 4. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc7:20230504170000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 16. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 16. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc8:20230504170000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 7. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc9:20230504170000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 19. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 19. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc10:20230504170000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 7. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc11:20230504170000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-21_metric_e.html"/>
+  <updated>2023-05-04T17:00:00Z</updated>
+  <published>2023-05-04T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 23. Forecast issued 11:00 AM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-21_fc12:20230504170000</id>
+</entry>
+</feed>
