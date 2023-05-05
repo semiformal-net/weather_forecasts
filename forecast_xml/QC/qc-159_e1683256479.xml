@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Kangirsuk - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-159_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-159_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-05T03:00:54Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230505030054</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Kangirsuk</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-19T20:30:05Z</updated>
+  <published>2023-04-19T20:30:05Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_w1:20230419203005</id>
+</entry>
+<entry>
+  <title>Current Conditions:  -1.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-05T03:00:00Z</updated>
+  <published>2023-05-05T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Kangirsuk Airport 11:00 PM EDT Thursday 4 May 2023<br/> <b>Temperature:</b> -1.0&deg;C<br/> <b>Pressure:</b> 103.0 kPa <br/> <b>Humidity:</b> 87 %<br/> <b>Wind Chill:</b> -3<br/> <b>Dewpoint:</b> -2.9&deg;C<br/> <b>Wind:</b> N 6 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_cc:20230505030000</id>
+</entry>
+<entry>
+  <title>Thursday night: A few clouds. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Becoming partly cloudy near midnight. Fog patches developing near midnight. Wind northeast 20 km/h becoming light early this evening. Low minus 3. Wind chill minus 7 overnight. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc0:20230504193000</id>
+</entry><entry>
+  <title>Friday: Mainly sunny. High 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind becoming west 20 km/h in the morning. High 6. Wind chill minus 7 in the morning. UV index 5 or moderate. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc1:20230504193000</id>
+</entry><entry>
+  <title>Friday night: Partly cloudy. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Increasing cloudiness after midnight. Wind west 20 km/h becoming light near midnight. Low minus 2. Wind chill minus 7 overnight. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc2:20230504193000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High zero. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc3:20230504193000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy. Low minus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 4. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc4:20230504193000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 3. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc5:20230504193000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 5. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc6:20230504193000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High minus 1. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc7:20230504193000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 8. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc8:20230504193000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High plus 1. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc9:20230504193000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 5. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc10:20230504193000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-159_metric_e.html"/>
+  <updated>2023-05-04T19:30:00Z</updated>
+  <published>2023-05-04T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 2. Forecast issued 3:30 PM EDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-159_fc11:20230504193000</id>
+</entry>
+</feed>
