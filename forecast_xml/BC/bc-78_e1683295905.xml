@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Fort St. John - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-78_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-78_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-05T14:04:40Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230505140440</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Fort St. John</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-10T06:15:05Z</updated>
+  <published>2023-04-10T06:15:05Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_w1:20230410061505</id>
+</entry>
+<entry>
+  <title>Current Conditions: Smoke, 10.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T14:00:00Z</updated>
+  <published>2023-05-05T14:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fort St. John Airport 7:00 AM MST Friday 5 May 2023<br/> <b>Condition:</b> Smoke<br/> <b>Temperature:</b> 10.9&deg;C<br/> <b>Pressure / Tendency:</b> 100.8 kPa falling<br/> <b>Visibility:</b> 6 km<br/> <b>Humidity:</b> 61 %<br/> <b>Dewpoint:</b> 3.6&deg;C<br/> <b>Wind:</b> N 17 km/h<br/> <b>Air Quality Health Index:</b> 5<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_cc:20230505140000</id>
+</entry>
+<entry>
+  <title>Friday: A mix of sun and cloud. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing this morning. Wind northeast 20 km/h becoming east 40 gusting to 60 this morning. High 28. UV index 6 or high. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc0:20230505120000</id>
+</entry><entry>
+  <title>Friday night: Clearing. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Clearing late this evening. 60 percent chance of showers near the Rockies early this evening. Wind east 40 km/h gusting to 60. Low 11. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc1:20230505120000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Wind east 30 km/h gusting to 50. High 21. UV index 6 or high. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc2:20230505120000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 9. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc3:20230505120000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 19. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc4:20230505120000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc5:20230505120000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 20. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc6:20230505120000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc7:20230505120000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc8:20230505120000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc9:20230505120000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc10:20230505120000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc11:20230505120000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 24. Forecast issued 5:00 AM MST Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc12:20230505120000</id>
+</entry>
+</feed>
