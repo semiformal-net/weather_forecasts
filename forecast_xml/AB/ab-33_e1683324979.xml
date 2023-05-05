@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Mildred Lake - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-33_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-33_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-05T22:01:47Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230505220147</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL AIR QUALITY STATEMENT, Mildred Lake</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?abrm296"/>
+  <updated>2023-05-05T21:54:17Z</updated>
+  <published>2023-05-05T21:54:17Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:54 p.m. MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_w1:20230505215417</id>
+</entry><entry>
+<title>HEAT WARNING ENDED, Mildred Lake</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?abrm296"/>
+  <updated>2023-05-05T21:52:50Z</updated>
+  <published>2023-05-05T21:52:50Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:52 p.m. MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_w2:20230505215250</id>
+</entry>
+<entry>
+  <title>Current Conditions: Sunny, 24.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fort McMurray Airport 4:00 PM MDT Friday 5 May 2023<br/> <b>Condition:</b> Sunny<br/> <b>Temperature:</b> 24.9&deg;C<br/> <b>Pressure:</b> 101.7 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 24 %<br/> <b>Dewpoint:</b> 3.1&deg;C<br/> <b>Wind:</b> ESE 30 km/h gust 45 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_cc:20230505220000</id>
+</entry>
+<entry>
+  <title>Friday night: Clear. Low 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Local smoke. Wind southeast 30 km/h gusting to 50 becoming light overnight. Low 12. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc0:20230505220000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Local smoke. Wind becoming southeast 20 km/h gusting to 40 in the morning. High 22. UV index 5 or moderate. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc1:20230505220000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Local smoke. Wind east 20 km/h gusting to 40 becoming light in the evening. Low 11. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc2:20230505220000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 20. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc3:20230505220000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 14. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc4:20230505220000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 23. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc5:20230505220000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 9. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc6:20230505220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 25. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc7:20230505220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc8:20230505220000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 26. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc9:20230505220000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 7. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc10:20230505220000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-33_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 28. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-33_fc11:20230505220000</id>
+</entry>
+</feed>
