@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Sackville - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-15_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-15_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-05T12:02:46Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230505120246</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Sackville</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-04T19:45:16Z</updated>
+  <published>2023-04-04T19:45:16Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_w1:20230404194516</id>
+</entry>
+<entry>
+  <title>Current Conditions:  3.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T12:00:00Z</updated>
+  <published>2023-05-05T12:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Nappan AAFC 9:00 AM ADT Friday 5 May 2023<br/> <b>Temperature:</b> 3.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.8 kPa rising<br/> <b>Humidity:</b> 88 %<br/> <b>Dewpoint:</b> 1.2&deg;C<br/> <b>Wind:</b> NNE 30 km/h gust 41 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_cc:20230505120000</id>
+</entry>
+<entry>
+  <title>Friday: Chance of drizzle. High 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 30 percent chance of drizzle early this morning. Clearing this morning. Wind northeast 20 km/h gusting to 40 becoming north 20 early this morning. High 9. UV index 6 or high. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc0:20230505080000</id>
+</entry><entry>
+  <title>Friday night: A few clouds. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Clearing near midnight. Low plus 2. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc1:20230505080000</id>
+</entry><entry>
+  <title>Saturday: Mainly sunny. High 16 except 11 along the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Becoming sunny near noon. High 16 except 11 along the coast. UV index 6 or high. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc2:20230505080000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 5. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc3:20230505080000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 20. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 20. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc4:20230505080000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of showers. Low plus 4. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc5:20230505080000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 10. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc6:20230505080000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 3. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc7:20230505080000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc8:20230505080000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc9:20230505080000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc10:20230505080000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 2. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc11:20230505080000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-15_metric_e.html"/>
+  <updated>2023-05-05T08:00:00Z</updated>
+  <published>2023-05-05T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 17. Forecast issued 5:00 AM ADT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-15_fc12:20230505080000</id>
+</entry>
+</feed>
