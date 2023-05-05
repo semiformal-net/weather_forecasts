@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Wekweeti - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nt-9_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nt-9_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-05T07:02:15Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230505070215</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Wekweeti</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-10T19:15:04Z</updated>
+  <published>2023-04-10T19:15:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_w1:20230410191504</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, 2.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-05T07:00:00Z</updated>
+  <published>2023-05-05T07:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Wekweeti Airport 1:00 AM MDT Friday 5 May 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> 2.0&deg;C<br/> <b>Pressure:</b> 102.6 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 67 %<br/> <b>Dewpoint:</b> -3.5&deg;C<br/> <b>Wind:</b> ENE 15 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_cc:20230505070000</id>
+</entry>
+<entry>
+  <title>Thursday night: Clear. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Wind east 20 km/h. Low plus 2. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc0:20230504220000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud in the morning. Wind east 20 km/h. High 17. UV index 4 or moderate. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc1:20230504220000</id>
+</entry><entry>
+  <title>Friday night: A few clouds. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Low 8. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc2:20230504220000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 24. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc3:20230504220000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc4:20230504220000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 21. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc5:20230504220000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 5. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc6:20230504220000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc7:20230504220000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc8:20230504220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc9:20230504220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc10:20230504220000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nt-9_metric_e.html"/>
+  <updated>2023-05-04T22:00:00Z</updated>
+  <published>2023-05-04T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 17. Forecast issued 4:00 PM MDT Thursday 4 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nt-9_fc11:20230504220000</id>
+</entry>
+</feed>
