@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Fredericton - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-29_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-29_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-06T17:01:38Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230506170138</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Fredericton</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-06T12:00:10Z</updated>
+  <published>2023-04-06T12:00:10Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_w1:20230406120010</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 20.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T17:00:00Z</updated>
+  <published>2023-05-06T17:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fredericton Int'l Airport 2:00 PM ADT Saturday 6 May 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 20.3&deg;C<br/> <b>Pressure:</b> 101.3 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 33 %<br/> <b>Dewpoint:</b> 3.7&deg;C<br/> <b>Wind:</b> NE 13 km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_cc:20230506170000</id>
+</entry>
+<entry>
+  <title>Saturday: Mainly sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud this afternoon. Wind becoming northwest 20 km/h this afternoon. High 20. UV index 6 or high. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc0:20230506140000</id>
+</entry><entry>
+  <title>Saturday night: A few clouds. Low plus 4 except minus 1 in low lying areas.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind northwest 20 km/h becoming light this evening. Low plus 4 except minus 1 in low lying areas. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc1:20230506140000</id>
+</entry><entry>
+  <title>Sunday: Mainly sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. High 21. UV index 6 or high. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc2:20230506140000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc3:20230506140000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 14. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc4:20230506140000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 1. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc5:20230506140000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 14. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc6:20230506140000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 1. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc7:20230506140000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 15. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc8:20230506140000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc9:20230506140000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 24. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc10:20230506140000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 7. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc11:20230506140000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-29_metric_e.html"/>
+  <updated>2023-05-06T14:00:00Z</updated>
+  <published>2023-05-06T14:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 24. Forecast issued 11:00 AM ADT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-29_fc12:20230506140000</id>
+</entry>
+</feed>
