@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Peterborough - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-121_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-121_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-121_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-06T04:01:50Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230506040150</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Peterborough</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-05-01T08:00:10Z</updated>
+  <published>2023-05-01T08:00:10Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_w1:20230501080010</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, 5.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-06T04:00:00Z</updated>
+  <published>2023-05-06T04:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Peterborough Municipal Airport 12:00 AM EDT Saturday 6 May 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> 5.1&deg;C<br/> <b>Pressure:</b> 102.6 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 100 %<br/> <b>Dewpoint:</b> 5.1&deg;C<br/> <b>Wind:</b>  calm km/h<br/> <b>Air Quality Health Index:</b> 2<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_cc:20230506040000</id>
+</entry>
+<entry>
+  <title>Friday night: Chance of showers. Low plus 1. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy with 40 percent chance of showers early this evening. Otherwise clear. Fog patches developing overnight. Low plus 1. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc0:20230505230000</id>
+</entry><entry>
+  <title>Saturday: Mainly sunny. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Becoming a mix of sun and cloud near noon. Fog patches dissipating in the morning. High 18. UV index 6 or high. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc1:20230505230000</id>
+</entry><entry>
+  <title>Saturday night: Partly cloudy. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Becoming partly cloudy in the evening. Low plus 5. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc2:20230505230000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 17. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc3:20230505230000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Low 7. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc4:20230505230000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 22. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc5:20230505230000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc6:20230505230000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 17. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc7:20230505230000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc8:20230505230000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc9:20230505230000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc10:20230505230000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-121_metric_e.html"/>
+  <updated>2023-05-05T23:00:00Z</updated>
+  <published>2023-05-05T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 21. Forecast issued 7:00 PM EDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-121_fc11:20230505230000</id>
+</entry>
+</feed>
