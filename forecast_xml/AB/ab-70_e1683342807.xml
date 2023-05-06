@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Jasper - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-70_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-70_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-06T03:01:21Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230506030121</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Jasper</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-11T22:45:11Z</updated>
+  <published>2023-04-11T22:45:11Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_w1:20230411224511</id>
+</entry>
+<entry>
+  <title>Current Conditions:  19.7°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-06T03:00:00Z</updated>
+  <published>2023-05-06T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Jasper Warden Station 9:00 PM MDT Friday 5 May 2023<br/> <b>Temperature:</b> 19.7&deg;C<br/> <b>Pressure / Tendency:</b> 100.5 kPa rising<br/> <b>Humidity:</b> 21 %<br/> <b>Dewpoint:</b> -3.0&deg;C<br/> <b>Wind:</b> E 4 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_cc:20230506030000</id>
+</entry>
+<entry>
+  <title>Friday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc0:20230505220000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 15. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Increasing cloudiness late in the morning then 60 percent chance of showers in the afternoon. High 15. UV index 6 or high. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc1:20230505220000</id>
+</entry><entry>
+  <title>Saturday night: Rain. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 60 percent chance of showers early in the evening. Rain beginning in the evening. Snow level lowering to 2100 metres overnight. Amount 5 to 10 mm. Low plus 4. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc2:20230505220000</id>
+</entry><entry>
+  <title>Sunday: Rain. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 13. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc3:20230505220000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 2. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc4:20230505220000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 15. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 15. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc5:20230505220000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc6:20230505220000</id>
+</entry><entry>
+  <title>Tuesday: Periods of rain. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 13. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc7:20230505220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc8:20230505220000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 19. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc9:20230505220000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc10:20230505220000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-70_metric_e.html"/>
+  <updated>2023-05-05T22:00:00Z</updated>
+  <published>2023-05-05T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 20. Forecast issued 4:00 PM MDT Friday 5 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-70_fc11:20230505220000</id>
+</entry>
+</feed>
