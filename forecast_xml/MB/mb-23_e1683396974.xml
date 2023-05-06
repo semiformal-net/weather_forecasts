@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Sprague - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/mb-23_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/mb-23_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-06T18:01:11Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230506180111</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Sprague</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-27T17:00:43Z</updated>
+  <published>2023-04-27T17:00:43Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_w1:20230427170043</id>
+</entry>
+<entry>
+  <title>Current Conditions:  9.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T18:00:00Z</updated>
+  <published>2023-05-06T18:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Sprague 1:00 PM CDT Saturday 6 May 2023<br/> <b>Temperature:</b> 9.6&deg;C<br/> <b>Pressure / Tendency:</b> 101.8 kPa falling<br/> <b>Humidity:</b> 75 %<br/> <b>Dewpoint:</b> 5.4&deg;C<br/> <b>Wind:</b> ENE 21 km/h gust 34 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_cc:20230506180000</id>
+</entry>
+<entry>
+  <title>Saturday: Mainly cloudy. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Becoming a mix of sun and cloud this afternoon. Wind east 20 km/h gusting to 40. High 18. UV index 6 or high. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc0:20230506163600</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low 9. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming cloudy near midnight with 60 percent chance of showers overnight. Wind east 20 km/h gusting to 40. Low 9. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc1:20230506163600</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 15. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. Wind northeast 20 km/h. High 15. UV index 5 or moderate. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc2:20230506163600</id>
+</entry><entry>
+  <title>Sunday night: Showers. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 8. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc3:20230506163600</id>
+</entry><entry>
+  <title>Monday: Rain. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High 13. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc4:20230506163600</id>
+</entry><entry>
+  <title>Monday night: Showers. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 9. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc5:20230506163600</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 16. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 16. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc6:20230506163600</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc7:20230506163600</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 21. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc8:20230506163600</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low 12. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low 12. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc9:20230506163600</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 26. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc10:20230506163600</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 13. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc11:20230506163600</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 27.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/mb-23_metric_e.html"/>
+  <updated>2023-05-06T16:36:00Z</updated>
+  <published>2023-05-06T16:36:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 27. Forecast issued 11:36 AM CDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:mb-23_fc12:20230506163600</id>
+</entry>
+</feed>
