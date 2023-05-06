@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Maple Creek - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-16_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-16_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-06T22:01:45Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230506220145</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Maple Creek</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-17T21:46:15Z</updated>
+  <published>2023-04-17T21:46:15Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_w1:20230417214615</id>
+</entry>
+<entry>
+  <title>Current Conditions:  9.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Maple Creek 4:00 PM CST Saturday 6 May 2023<br/> <b>Temperature:</b> 9.9&deg;C<br/> <b>Pressure / Tendency:</b> 101.4 kPa falling<br/> <b>Humidity:</b> 74 %<br/> <b>Dewpoint:</b> 5.5&deg;C<br/> <b>Wind:</b> E 29 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_cc:20230506220000</id>
+</entry>
+<entry>
+  <title>Saturday night: A few showers. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Wind southeast 30 km/h gusting to 50 becoming light overnight. Low plus 4. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc0:20230506220000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 11 except 16 near the Trans-Canada Highway. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Risk of a thunderstorm late in the afternoon. Wind southeast 20 km/h gusting to 40. High 11 except 16 near the Trans-Canada Highway. UV index 5 or moderate. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc1:20230506220000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 60 percent chance of showers early in the evening with risk of a thunderstorm. Wind southeast 20 km/h gusting to 40 becoming light in the evening. Low plus 5. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc2:20230506220000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc3:20230506220000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc4:20230506220000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 15. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc5:20230506220000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 4. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 40 percent chance of showers. Low plus 4. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc6:20230506220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 17. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc7:20230506220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc8:20230506220000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 23. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc9:20230506220000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc10:20230506220000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-16_metric_e.html"/>
+  <updated>2023-05-06T22:00:00Z</updated>
+  <published>2023-05-06T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 22. Forecast issued 4:00 PM CST Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-16_fc11:20230506220000</id>
+</entry>
+</feed>
