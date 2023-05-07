@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Lewisporte - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-9_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-9_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T17:01:29Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507170129</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Lewisporte</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-29T12:15:11Z</updated>
+  <published>2023-03-29T12:15:11Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_w1:20230329121511</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mostly Cloudy, 10.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Gander Int'l Airport 2:30 PM NDT Sunday 7 May 2023<br/> <b>Condition:</b> Mostly Cloudy<br/> <b>Temperature:</b> 10.1&deg;C<br/> <b>Pressure / Tendency:</b> 100.3 kPa falling<br/> <b>Visibility:</b> 32 km<br/> <b>Humidity:</b> 49 %<br/> <b>Dewpoint:</b> -0.2&deg;C<br/> <b>Wind:</b> W 22 km/h gust 33 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_cc:20230507170000</id>
+</entry>
+<entry>
+  <title>Sunday: Chance of showers. High 7 except 12 inland. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of showers. High 7 except 12 inland. UV index 5 or moderate. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc0:20230507133000</id>
+</entry><entry>
+  <title>Sunday night: Chance of rain showers or flurries. Low minus 1. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 40 percent chance of rain showers changing to 40 percent chance of flurries or rain showers overnight. Low minus 1. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc1:20230507133000</id>
+</entry><entry>
+  <title>Monday: Showers. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Showers beginning near noon. Amount 2 mm. High plus 3. UV index 2 or low. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc2:20230507133000</id>
+</entry><entry>
+  <title>Monday night: Periods of rain or snow. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain or snow. Low zero. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc3:20230507133000</id>
+</entry><entry>
+  <title>Tuesday: Periods of snow or rain. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow or rain. High plus 3. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc4:20230507133000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of flurries or rain showers. Low zero. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of flurries or rain showers. Windy. Low zero. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc5:20230507133000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 9. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc6:20230507133000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc7:20230507133000</id>
+</entry><entry>
+  <title>Thursday: Chance of showers. High 12. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 40 percent chance of showers. High 12. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc8:20230507133000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc9:20230507133000</id>
+</entry><entry>
+  <title>Friday: Cloudy. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 17. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc10:20230507133000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low 8. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. Low 8. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc11:20230507133000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 13. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-9_metric_e.html"/>
+  <updated>2023-05-07T13:30:00Z</updated>
+  <published>2023-05-07T13:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 13. Forecast issued 11:00 AM NDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-9_fc12:20230507133000</id>
+</entry>
+</feed>
