@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Edmundston - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nb-32_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nb-32_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T23:02:11Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507230211</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Edmundston</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-24T08:00:41Z</updated>
+  <published>2023-03-24T08:00:41Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_w1:20230324080041</id>
+</entry>
+<entry>
+  <title>Current Conditions:  16.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T23:00:00Z</updated>
+  <published>2023-05-07T23:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Edmundston 8:00 PM ADT Sunday 7 May 2023<br/> <b>Temperature:</b> 16.5&deg;C<br/> <b>Pressure / Tendency:</b> 100.4 kPa steady<br/> <b>Humidity:</b> 26 %<br/> <b>Dewpoint:</b> -3.0&deg;C<br/> <b>Wind:</b> WNW 10 km/h<br/> <b>Air Quality Health Index:</b> 3<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_cc:20230507230000</id>
+</entry>
+<entry>
+  <title>Sunday night: Partly cloudy. Low plus 2 except minus 4 in low lying areas.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Becoming partly cloudy this evening. Wind northwest 20 km/h becoming light this evening. Low plus 2 except minus 4 in low lying areas. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc0:20230507190000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. Wind becoming northwest 20 km/h gusting to 40 in the morning. High 10. UV index 5 or moderate. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc1:20230507190000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low minus 1 except minus 6 in low lying areas. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy with 30 percent chance of showers early in the evening. Clearing in the evening. Wind northwest 20 km/h becoming light late in the evening. Low minus 1 except minus 6 in low lying areas. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc2:20230507190000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 12. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc3:20230507190000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 1. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc4:20230507190000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 17. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc5:20230507190000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 5. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc6:20230507190000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 24. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc7:20230507190000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 10. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc8:20230507190000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 20. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc9:20230507190000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 7. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc10:20230507190000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nb-32_metric_e.html"/>
+  <updated>2023-05-07T19:00:00Z</updated>
+  <published>2023-05-07T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 14. Forecast issued 4:00 PM ADT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nb-32_fc11:20230507190000</id>
+</entry>
+</feed>

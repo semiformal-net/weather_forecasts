@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Beaverlodge - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-57_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-57_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T23:01:05Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507230105</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL AIR QUALITY STATEMENT, Beaverlodge</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?abrm96"/>
+  <updated>2023-05-07T21:54:50Z</updated>
+  <published>2023-05-07T21:54:50Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 3:54 p.m. MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_w1:20230507215450</id>
+</entry>
+<entry>
+  <title>Current Conditions:  15.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T23:00:00Z</updated>
+  <published>2023-05-07T23:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Beaverlodge 5:00 PM MDT Sunday 7 May 2023<br/> <b>Temperature:</b> 15.1&deg;C<br/> <b>Pressure / Tendency:</b> 101.0 kPa rising<br/> <b>Humidity:</b> 40 %<br/> <b>Dewpoint:</b> 1.7&deg;C<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_cc:20230507230000</id>
+</entry>
+<entry>
+  <title>Sunday night: Chance of showers. Low plus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy with 30 percent chance of showers this evening and risk of a thunderstorm. Clearing overnight. Local smoke. Wind east 20 km/h gusting to 40 becoming southwest 20 gusting to 40 this evening then light after midnight. Low plus 5. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc0:20230507220000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 18. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny in the morning then a mix of sun and cloud with 30 percent chance of showers in the afternoon. Local smoke. High 18. UV index 5 or moderate. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc1:20230507220000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. 30 percent chance of showers early in the evening. Local smoke. Low 7. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc2:20230507220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 21. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc3:20230507220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc4:20230507220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 21. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc5:20230507220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 6. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc6:20230507220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc7:20230507220000</id>
+</entry><entry>
+  <title>Thursday night: Chance of showers. Low 6. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low 6. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc8:20230507220000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 27.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 27. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc9:20230507220000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc10:20230507220000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 30.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-57_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 30. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-57_fc11:20230507220000</id>
+</entry>
+</feed>
