@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Tobermory - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/on-157_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/on-157_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/on-157_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T07:01:04Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507070104</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Tobermory</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-05T21:00:30Z</updated>
+  <published>2023-04-05T21:00:30Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_w1:20230405210030</id>
+</entry>
+<entry>
+  <title>Current Conditions:  10.4°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-07T07:00:00Z</updated>
+  <published>2023-05-07T07:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Tobermory 3:00 AM EDT Sunday 7 May 2023<br/> <b>Temperature:</b> 10.4&deg;C<br/> <b>Pressure / Tendency:</b> 102.0 kPa falling<br/> <b>Humidity:</b> 58 %<br/> <b>Dewpoint:</b> 2.4&deg;C<br/> <b>Wind:</b> ESE 8 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_cc:20230507070000</id>
+</entry>
+<entry>
+  <title>Saturday night: Chance of showers. Low 7. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Increasing cloudiness near midnight then 30 percent chance of showers overnight. Low 7. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc0:20230506193000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 14. POP 70%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 30 percent chance of showers changing to 70 percent chance of showers in the morning. High 14. UV index 5 or moderate. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc1:20230506193000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 60 percent chance of showers in the evening. Low plus 4. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc2:20230506193000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc3:20230506193000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc4:20230506193000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 16. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc5:20230506193000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc6:20230506193000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 19. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc7:20230506193000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 6. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc8:20230506193000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 23. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc9:20230506193000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 9. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc10:20230506193000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/on-157_metric_e.html"/>
+  <updated>2023-05-06T19:30:00Z</updated>
+  <published>2023-05-06T19:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 24. Forecast issued 3:30 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:on-157_fc11:20230506193000</id>
+</entry>
+</feed>

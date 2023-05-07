@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Osoyoos - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-69_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-69_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T07:01:12Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507070112</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Osoyoos</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bcrm2"/>
+  <updated>2023-05-06T21:28:36Z</updated>
+  <published>2023-05-06T21:28:36Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 2:28 p.m. PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_w1:20230506212836</id>
+</entry>
+<entry>
+  <title>Current Conditions:  12.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-07T07:00:00Z</updated>
+  <published>2023-05-07T07:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Osoyoos 12:00 AM PDT Sunday 7 May 2023<br/> <b>Temperature:</b> 12.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.2 kPa rising<br/> <b>Humidity:</b> 89 %<br/> <b>Dewpoint:</b> 10.2&deg;C<br/> <b>Wind:</b> SSE 2 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_cc:20230507070000</id>
+</entry>
+<entry>
+  <title>Saturday night: Chance of showers. Low 9. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. 40 percent chance of showers early this evening. Wind south 30 km/h becoming light this evening. Low 9. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc0:20230506230000</id>
+</entry><entry>
+  <title>Sunday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind becoming north 20 km/h in the afternoon. High 17. UV index 6 or high. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc1:20230506230000</id>
+</entry><entry>
+  <title>Sunday night: Partly cloudy. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind north 20 km/h becoming light in the evening. Low plus 5. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc2:20230506230000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 20. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 20. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc3:20230506230000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low 8. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low 8. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc4:20230506230000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 21. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc5:20230506230000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc6:20230506230000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 23. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc7:20230506230000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 9. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc8:20230506230000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 25. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc9:20230506230000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 10. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc10:20230506230000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 26.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-69_metric_e.html"/>
+  <updated>2023-05-06T23:00:00Z</updated>
+  <published>2023-05-06T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 26. Forecast issued 4:00 PM PDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-69_fc11:20230506230000</id>
+</entry>
+</feed>
