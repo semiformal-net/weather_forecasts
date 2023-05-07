@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Nelson - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-37_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-37_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T20:01:10Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507200110</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Nelson</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bc28"/>
+  <updated>2023-05-07T14:27:52Z</updated>
+  <published>2023-05-07T14:27:52Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 7:27 a.m. PDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_w1:20230507142752</id>
+</entry>
+<entry>
+  <title>Current Conditions:  15.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T20:00:00Z</updated>
+  <published>2023-05-07T20:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Nelson 1:00 PM PDT Sunday 7 May 2023<br/> <b>Temperature:</b> 15.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.2 kPa falling<br/> <b>Humidity:</b> 64 %<br/> <b>Dewpoint:</b> 8.4&deg;C<br/> <b>Wind:</b> WSW 3 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_cc:20230507200000</id>
+</entry>
+<entry>
+  <title>Sunday: A few showers. High 15.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Risk of a thunderstorm late this afternoon. High 15. UV index 3 or moderate. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc0:20230507170000</id>
+</entry><entry>
+  <title>Sunday night: A few showers. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few showers ending near midnight then mainly cloudy. Risk of a thunderstorm early this evening. Low 7. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc1:20230507170000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 17. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. 60 percent chance of showers in the afternoon with risk of a thunderstorm. High 17. UV index 5 or moderate. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc2:20230507170000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 60 percent chance of showers. Low 7. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc3:20230507170000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 18. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 18. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc4:20230507170000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low 8. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low 8. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc5:20230507170000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High 19.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 19. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc6:20230507170000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc7:20230507170000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 22. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc8:20230507170000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc9:20230507170000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 29.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 29. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc10:20230507170000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 9. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc11:20230507170000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 32.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-37_metric_e.html"/>
+  <updated>2023-05-07T17:00:00Z</updated>
+  <published>2023-05-07T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 32. Forecast issued 11:00 AM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-37_fc12:20230507170000</id>
+</entry>
+</feed>
