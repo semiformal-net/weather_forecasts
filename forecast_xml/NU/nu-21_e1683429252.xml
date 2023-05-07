@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Iqaluit - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nu-21_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nu-21_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-07T03:01:48Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230507030148</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Iqaluit</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-25T17:15:03Z</updated>
+  <published>2023-04-25T17:15:03Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_w1:20230425171503</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mainly Clear, -5.0°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-07T03:00:00Z</updated>
+  <published>2023-05-07T03:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Iqaluit Airport 11:00 PM EDT Saturday 6 May 2023<br/> <b>Condition:</b> Mainly Clear<br/> <b>Temperature:</b> -5.0&deg;C<br/> <b>Pressure / Tendency:</b> 101.4 kPa rising<br/> <b>Visibility:</b> 32 km<br/> <b>Humidity:</b> 83 %<br/> <b>Wind Chill:</b> -14<br/> <b>Dewpoint:</b> -7.4&deg;C<br/> <b>Wind:</b> NNW 35 km/h gust 48 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_cc:20230507030000</id>
+</entry>
+<entry>
+  <title>Saturday night: Partly cloudy. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind northwest 50 km/h diminishing to 30 gusting to 50 this evening. Low minus 7. Wind chill minus 16 overnight. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc0:20230506200000</id>
+</entry><entry>
+  <title>Sunday: Mainly cloudy. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy. Wind northwest 30 km/h gusting to 50. High minus 2. Wind chill minus 15 in the morning and minus 8 in the afternoon. UV index 3 or moderate. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc1:20230506200000</id>
+</entry><entry>
+  <title>Sunday night: Partly cloudy. Low minus 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Wind northwest 20 km/h gusting to 40 becoming light in the evening. Low minus 9. Wind chill minus 8 in the evening and minus 16 overnight. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc2:20230506200000</id>
+</entry><entry>
+  <title>Monday: Sunny. High zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High zero. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc3:20230506200000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low minus 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 10. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc4:20230506200000</id>
+</entry><entry>
+  <title>Tuesday: Cloudy. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High minus 1. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc5:20230506200000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy. Low minus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low minus 3. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc6:20230506200000</id>
+</entry><entry>
+  <title>Wednesday: Cloudy. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High plus 3. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc7:20230506200000</id>
+</entry><entry>
+  <title>Wednesday night: Cloudy periods. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 8. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc8:20230506200000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 2. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc9:20230506200000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 8. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc10:20230506200000</id>
+</entry><entry>
+  <title>Friday: Sunny. High minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nu-21_metric_e.html"/>
+  <updated>2023-05-06T20:00:00Z</updated>
+  <published>2023-05-06T20:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High minus 1. Forecast issued 4:00 PM EDT Saturday 6 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nu-21_fc11:20230506200000</id>
+</entry>
+</feed>
