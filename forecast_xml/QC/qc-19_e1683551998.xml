@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Pontiac - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-19_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-19_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-08T13:05:01Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230508130501</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>FROST ADVISORY, Pontiac</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?qcrm35"/>
+  <updated>2023-05-08T08:29:44Z</updated>
+  <published>2023-05-08T08:29:44Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 4:29 a.m. EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_w1:20230508082944</id>
+</entry>
+<entry>
+  <title>Current Conditions: Sunny, 8.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T13:00:00Z</updated>
+  <published>2023-05-08T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Garrison Petawawa 9:00 AM EDT Monday 8 May 2023<br/> <b>Condition:</b> Sunny<br/> <b>Temperature:</b> 8.8&deg;C<br/> <b>Pressure / Tendency:</b> 101.5 kPa rising<br/> <b>Visibility:</b> 24 km<br/> <b>Humidity:</b> 50 %<br/> <b>Dewpoint:</b> -1.0&deg;C<br/> <b>Wind:</b> NNW 18 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_cc:20230508130000</id>
+</entry>
+<entry>
+  <title>Monday: Mainly sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. High 17. UV index 6 or high. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc0:20230508090000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low plus 2 with patchy frost.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2 with patchy frost. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc1:20230508090000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 17. UV index 6 or high. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc2:20230508090000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 1. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc3:20230508090000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc4:20230508090000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc5:20230508090000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 25. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc6:20230508090000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 9. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc7:20230508090000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 23. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc8:20230508090000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing. Low 7. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc9:20230508090000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 21. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc10:20230508090000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low plus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 1. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc11:20230508090000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-19_metric_e.html"/>
+  <updated>2023-05-08T09:00:00Z</updated>
+  <published>2023-05-08T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 20. Forecast issued 5:00 AM EDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-19_fc12:20230508090000</id>
+</entry>
+</feed>
