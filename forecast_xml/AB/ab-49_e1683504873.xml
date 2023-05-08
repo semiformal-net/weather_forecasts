@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Banff - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-49_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-49_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-08T00:01:54Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230508000154</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Banff</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-04-11T22:45:17Z</updated>
+  <published>2023-04-11T22:45:17Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_w1:20230411224517</id>
+</entry>
+<entry>
+  <title>Current Conditions:  14.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-08T00:00:00Z</updated>
+  <published>2023-05-08T00:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Banff 6:00 PM MDT Sunday 7 May 2023<br/> <b>Temperature:</b> 14.3&deg;C<br/> <b>Pressure / Tendency:</b> 100.9 kPa falling<br/> <b>Humidity:</b> 36 %<br/> <b>Dewpoint:</b> -0.6&deg;C<br/> <b>Wind:</b> SW 10 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_cc:20230508000000</id>
+</entry>
+<entry>
+  <title>Sunday night: Chance of showers. Low plus 3. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 30 percent chance of showers. A few showers beginning overnight. Risk of a thunderstorm early this evening. Snow level lowering to 1900 metres overnight. Low plus 3. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc0:20230507220000</id>
+</entry><entry>
+  <title>Monday: A few showers. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Risk of a thunderstorm in the afternoon. Snow level 1900 metres rising to 2400 metres in the afternoon. Local amount 5 mm. High 11. UV index 2 or low. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc1:20230507220000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low zero. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly cloudy with 60 percent chance of showers. Risk of a thunderstorm early in the evening. Local smoke. Low zero. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc2:20230507220000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 14. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 60 percent chance of showers. High 14. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc3:20230507220000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 4. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 4. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc4:20230507220000</id>
+</entry><entry>
+  <title>Wednesday: Periods of rain. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of rain. High 14. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc5:20230507220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc6:20230507220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 18.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 18. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc7:20230507220000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 3. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc8:20230507220000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 21. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc9:20230507220000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 4. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc10:20230507220000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-49_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 4:00 PM MDT Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-49_fc11:20230507220000</id>
+</entry>
+</feed>
