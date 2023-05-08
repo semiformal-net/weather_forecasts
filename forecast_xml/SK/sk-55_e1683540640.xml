@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Pelican Narrows - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/sk-55_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/sk-55_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-08T10:01:16Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230508100116</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Pelican Narrows</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-15T07:30:26Z</updated>
+  <published>2023-03-15T07:30:26Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_w1:20230315073026</id>
+</entry>
+<entry>
+  <title>Current Conditions:  0.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-08T10:00:00Z</updated>
+  <published>2023-05-08T10:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Island Falls 4:00 AM CST Monday 8 May 2023<br/> <b>Temperature:</b> 0.6&deg;C<br/> <b>Pressure / Tendency:</b> 102.2 kPa falling<br/> <b>Humidity:</b> 81 %<br/> <b>Dewpoint:</b> -2.3&deg;C<br/> <b>Wind:</b> N calm km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_cc:20230508100000</id>
+</entry>
+<entry>
+  <title>Sunday night: Clearing. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Clearing this evening. Wind southeast 20 km/h gusting to 40 becoming light this evening. Low 7. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc0:20230507220000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 19. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 30 percent chance of showers late in the morning and in the afternoon. Wind becoming southeast 20 km/h gusting to 40 in the afternoon. High 19. UV index 6 or high. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc1:20230507220000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low 6. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy with 30 percent chance of showers. Wind southeast 20 km/h gusting to 40 becoming light in the evening. Low 6. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc2:20230507220000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 20. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc3:20230507220000</id>
+</entry><entry>
+  <title>Tuesday night: Cloudy periods. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 6. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc4:20230507220000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc5:20230507220000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 6. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc6:20230507220000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 24.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 24. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc7:20230507220000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 9. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc8:20230507220000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 25. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc9:20230507220000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 8. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc10:20230507220000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/sk-55_metric_e.html"/>
+  <updated>2023-05-07T22:00:00Z</updated>
+  <published>2023-05-07T22:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 25. Forecast issued 4:00 PM CST Sunday 7 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:sk-55_fc11:20230507220000</id>
+</entry>
+</feed>
