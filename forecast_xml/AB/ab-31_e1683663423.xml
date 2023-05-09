@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Grande Prairie - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ab-31_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ab-31_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-09T20:04:05Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230509200405</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL AIR QUALITY STATEMENT, Grande Prairie</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?abrm97"/>
+  <updated>2023-05-09T14:48:28Z</updated>
+  <published>2023-05-09T14:48:28Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 8:48 a.m. MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_w1:20230509144828</id>
+</entry>
+<entry>
+  <title>Current Conditions: Mainly Sunny, 17.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T20:00:00Z</updated>
+  <published>2023-05-09T20:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Grande Prairie Airport 2:00 PM MDT Tuesday 9 May 2023<br/> <b>Condition:</b> Mainly Sunny<br/> <b>Temperature:</b> 17.8&deg;C<br/> <b>Pressure / Tendency:</b> 101.6 kPa steady<br/> <b>Visibility:</b> 11 km<br/> <b>Humidity:</b> 38 %<br/> <b>Dewpoint:</b> 3.4&deg;C<br/> <b>Wind:</b> SSW 6 km/h<br/> <b>Air Quality Health Index:</b> 3<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_cc:20230509200000</id>
+</entry>
+<entry>
+  <title>Tuesday: Chance of showers. High 20. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 30 percent chance of showers early this afternoon. Local smoke. High 20. UV index 5 or moderate. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc0:20230509170000</id>
+</entry><entry>
+  <title>Tuesday night: A few clouds. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming clear this evening. Local smoke. Low plus 5. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc1:20230509170000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 21. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny in the morning then a mix of sun and cloud with 60 percent chance of showers in the afternoon. Risk of a thunderstorm in the afternoon. Local smoke. High 21. UV index 5 or moderate. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc2:20230509170000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc3:20230509170000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 22.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 22. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc4:20230509170000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc5:20230509170000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 25.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 25. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc6:20230509170000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 10. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc7:20230509170000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc8:20230509170000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 8. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc9:20230509170000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 31.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 31. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc10:20230509170000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc11:20230509170000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 29.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ab-31_metric_e.html"/>
+  <updated>2023-05-09T17:00:00Z</updated>
+  <published>2023-05-09T17:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 29. Forecast issued 11:00 AM MDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ab-31_fc12:20230509170000</id>
+</entry>
+</feed>
