@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Dawson Creek - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-25_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-25_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-09T09:01:30Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230509090130</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Dawson Creek</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-05-08T19:30:09Z</updated>
+  <published>2023-05-08T19:30:09Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_w1:20230508193009</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, 4.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-09T09:00:00Z</updated>
+  <published>2023-05-09T09:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Dawson Creek Airport 2:00 AM MST Tuesday 9 May 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> 4.8&deg;C<br/> <b>Pressure:</b> 101.6 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 83 %<br/> <b>Dewpoint:</b> 2.2&deg;C<br/> <b>Wind:</b> S 5 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_cc:20230509090000</id>
+</entry>
+<entry>
+  <title>Monday night: Partly cloudy. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Risk of thunderstorms near the Rockies early this evening. Local smoke. Low plus 5. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc0:20230508230000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 21. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 40 percent chance of showers in the afternoon. Risk of a thunderstorm late in the afternoon. Local smoke. High 21. UV index 5 or moderate. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc1:20230508230000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low 6. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. 40 percent chance of showers early in the evening with risk of a thunderstorm. Widespread smoke. Low 6. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc2:20230508230000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 20. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. Widespread smoke. High 20. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc3:20230508230000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Widespread smoke. Low 10. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc4:20230508230000</id>
+</entry><entry>
+  <title>Thursday: Smoke. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Widespread smoke. High 21. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc5:20230508230000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 10. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc6:20230508230000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc7:20230508230000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc8:20230508230000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 30.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 30. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc9:20230508230000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc10:20230508230000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 32.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-25_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 32. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-25_fc11:20230508230000</id>
+</entry>
+</feed>
