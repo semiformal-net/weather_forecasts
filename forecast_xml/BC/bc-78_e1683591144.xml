@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Fort St. John - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-78_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-78_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-09T00:04:26Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230509000426</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL AIR QUALITY STATEMENT, Fort St. John</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bcrm10"/>
+  <updated>2023-05-08T20:09:48Z</updated>
+  <published>2023-05-08T20:09:48Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 1:09 p.m. PDT Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_w1:20230508200948</id>
+</entry>
+<entry>
+  <title>Current Conditions: Smoke, 17.2°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-09T00:00:00Z</updated>
+  <published>2023-05-09T00:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Fort St. John Airport 5:00 PM MST Monday 8 May 2023<br/> <b>Condition:</b> Smoke<br/> <b>Temperature:</b> 17.2&deg;C<br/> <b>Pressure / Tendency:</b> 101.3 kPa steady<br/> <b>Visibility:</b> 8 km<br/> <b>Humidity:</b> 40 %<br/> <b>Dewpoint:</b> 3.3&deg;C<br/> <b>Wind:</b> SW 11 km/h<br/> <b>Air Quality Health Index:</b> 6<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_cc:20230509000000</id>
+</entry>
+<entry>
+  <title>Monday night: Partly cloudy. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Risk of thunderstorms near the Rockies this evening. Local smoke. Low 7. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc0:20230508230000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 20. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. 30 percent chance of showers in the afternoon. Risk of a thunderstorm late in the afternoon. Local smoke. High 20. UV index 5 or moderate. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc1:20230508230000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low 9. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. 30 percent chance of showers early in the evening with risk of a thunderstorm. Widespread smoke. Low 9. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc2:20230508230000</id>
+</entry><entry>
+  <title>Wednesday: Chance of showers. High 20. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. Widespread smoke. High 20. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc3:20230508230000</id>
+</entry><entry>
+  <title>Wednesday night: Chance of showers. Low 10. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Widespread smoke. Low 10. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc4:20230508230000</id>
+</entry><entry>
+  <title>Thursday: Smoke. High 21.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Widespread smoke. High 21. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc5:20230508230000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 10. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc6:20230508230000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc7:20230508230000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc8:20230508230000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 30.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 30. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc9:20230508230000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc10:20230508230000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 32.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-78_metric_e.html"/>
+  <updated>2023-05-08T23:00:00Z</updated>
+  <published>2023-05-08T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 32. Forecast issued 4:00 PM MST Monday 8 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-78_fc11:20230508230000</id>
+</entry>
+</feed>
