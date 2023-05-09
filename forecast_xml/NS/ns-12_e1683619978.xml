@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>St. Peter's - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-12_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-12_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-09T08:01:29Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230509080129</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, St. Peter's</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-31T16:30:12Z</updated>
+  <published>2023-03-31T16:30:12Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_w1:20230331163012</id>
+</entry>
+<entry>
+  <title>Current Conditions:  3.1°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Hart Island 5:00 AM ADT Tuesday 9 May 2023<br/> <b>Temperature:</b> 3.1&deg;C<br/> <b>Pressure / Tendency:</b> 100.2 kPa rising<br/> <b>Humidity:</b> 85 %<br/> <b>Dewpoint:</b> 0.9&deg;C<br/> <b>Wind:</b> W 33 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_cc:20230509080000</id>
+</entry>
+<entry>
+  <title>Tuesday: Chance of rain showers or flurries. High plus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few flurries or rain showers ending this morning then mainly cloudy with 30 percent chance of rain showers. Wind northwest 40 km/h gusting to 60 diminishing to 20 gusting to 40 near noon. High plus 5. UV index 5 or moderate. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc0:20230509080000</id>
+</entry><entry>
+  <title>Tuesday night: Clearing. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clearing this evening. Wind northwest 20 km/h gusting to 40 becoming light this evening. Low plus 2. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc1:20230509080000</id>
+</entry><entry>
+  <title>Wednesday: Mainly sunny. High 9.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind becoming northwest 20 km/h gusting to 40 in the morning. High 9. UV index 5 or moderate. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc2:20230509080000</id>
+</entry><entry>
+  <title>Wednesday night: Clear. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 2. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc3:20230509080000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 17. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc4:20230509080000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low plus 2. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc5:20230509080000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 17. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc6:20230509080000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc7:20230509080000</id>
+</entry><entry>
+  <title>Saturday: Showers. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 14. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc8:20230509080000</id>
+</entry><entry>
+  <title>Saturday night: Showers. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low plus 5. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc9:20230509080000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 11. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc10:20230509080000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low plus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 5. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc11:20230509080000</id>
+</entry><entry>
+  <title>Monday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-12_metric_e.html"/>
+  <updated>2023-05-09T08:00:00Z</updated>
+  <published>2023-05-09T08:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 5:00 AM ADT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-12_fc12:20230509080000</id>
+</entry>
+</feed>
