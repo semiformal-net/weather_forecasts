@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Cartwright - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-32_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-32_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-10T12:02:02Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230510120202</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>WINTER STORM WARNING, Cartwright</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?nl32"/>
+  <updated>2023-05-10T08:23:07Z</updated>
+  <published>2023-05-10T08:23:07Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 5:23 a.m. ADT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_w1:20230510082307</id>
+</entry>
+<entry>
+  <title>Current Conditions: Light Snow, -1.5°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T12:00:00Z</updated>
+  <published>2023-05-10T12:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Cartwright Airport 9:00 AM ADT Wednesday 10 May 2023<br/> <b>Condition:</b> Light Snow<br/> <b>Temperature:</b> -1.5&deg;C<br/> <b>Pressure:</b> 99.6 kPa <br/> <b>Visibility:</b> 2 km<br/> <b>Humidity:</b> 86 %<br/> <b>Wind Chill:</b> -10<br/> <b>Dewpoint:</b> -3.5&deg;C<br/> <b>Wind:</b> NW 46 km/h gust 67 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_cc:20230510120000</id>
+</entry>
+<entry>
+  <title>Wednesday: Snow. Temperature steady near zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Snow. Blowing snow over exposed areas. Amount 5 cm. Wind northwest 60 km/h gusting to 80 except gusting to 100 along exposed areas of the coast this morning and early this afternoon. Temperature steady near zero. Wind chill minus 10 this morning. UV index 1 or low. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc0:20230510083000</id>
+</entry><entry>
+  <title>Wednesday night: Periods of snow. Temperature steady near minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Blowing snow over exposed areas. Amount 2 cm. Wind northwest 40 km/h gusting to 60 except 80 along exposed areas of the coast. Temperature steady near minus 1. Wind chill minus 9 overnight. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc1:20230510083000</id>
+</entry><entry>
+  <title>Thursday: Periods of snow. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow ending in the morning then clearing. Blowing snow over exposed areas in the morning. Wind northwest 30 km/h gusting to 50 except gusting to 70 along parts of the coast. High plus 3. Wind chill minus 8 in the morning. UV index 4 or moderate. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc2:20230510083000</id>
+</entry><entry>
+  <title>Thursday night: Cloudy periods. Low minus 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 7. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc3:20230510083000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc4:20230510083000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 2. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc5:20230510083000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 12. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc6:20230510083000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy periods. Low minus 1.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low minus 1. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc7:20230510083000</id>
+</entry><entry>
+  <title>Sunday: Rain. High plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Rain. High plus 3. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc8:20230510083000</id>
+</entry><entry>
+  <title>Sunday night: Periods of snow. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow. Low zero. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc9:20230510083000</id>
+</entry><entry>
+  <title>Monday: Chance of flurries. High 7. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of flurries. High 7. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc10:20230510083000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low zero.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low zero. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc11:20230510083000</id>
+</entry><entry>
+  <title>Tuesday: A mix of sun and cloud. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-32_metric_e.html"/>
+  <updated>2023-05-10T08:30:00Z</updated>
+  <published>2023-05-10T08:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 8. Forecast issued 6:00 AM NDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-32_fc12:20230510083000</id>
+</entry>
+</feed>
