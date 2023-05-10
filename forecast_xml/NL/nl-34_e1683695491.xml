@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Badger - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/nl-34_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/nl-34_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-10T05:01:15Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230510050115</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Badger</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-05-08T20:30:18Z</updated>
+  <published>2023-05-08T20:30:18Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_w1:20230508203018</id>
+</entry>
+<entry>
+  <title>Current Conditions:  1.8°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-10T05:00:00Z</updated>
+  <published>2023-05-10T05:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Badger 2:30 AM NDT Wednesday 10 May 2023<br/> <b>Temperature:</b> 1.8&deg;C<br/> <b>Pressure / Tendency:</b> 100.0 kPa rising<br/> <b>Humidity:</b> 70 %<br/> <b>Dewpoint:</b> -3.0&deg;C<br/> <b>Wind:</b> WNW 17 km/h gust 37 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_cc:20230510050000</id>
+</entry>
+<entry>
+  <title>Tuesday night: Periods of snow mixed with rain. Low minus 2.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Periods of snow mixed with rain ending this evening then partly cloudy. Wind northwest 20 km/h gusting to 40 increasing to 40 gusting to 60 early this evening then becoming west 20 gusting to 40 overnight. Low minus 2. Wind chill minus 7 overnight. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc0:20230509183000</id>
+</entry><entry>
+  <title>Wednesday: Mainly sunny. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Mainly sunny. Wind west 20 km/h gusting to 40 becoming northwest 20 in the afternoon. High 8. Wind chill minus 8 in the morning. UV index 5 or moderate. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc1:20230509183000</id>
+</entry><entry>
+  <title>Wednesday night: A few clouds. Low minus 1 except minus 5 in low lying areas.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind west 20 km/h becoming light in the evening. Low minus 1 except minus 5 in low lying areas. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc2:20230509183000</id>
+</entry><entry>
+  <title>Thursday: A mix of sun and cloud. High 13.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 13. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc3:20230509183000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low minus 5.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low minus 5. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc4:20230509183000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 16.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 16. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc5:20230509183000</id>
+</entry><entry>
+  <title>Friday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc6:20230509183000</id>
+</entry><entry>
+  <title>Saturday: A mix of sun and cloud. High 17.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 17. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc7:20230509183000</id>
+</entry><entry>
+  <title>Saturday night: Showers. Low 6.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. Low 6. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc8:20230509183000</id>
+</entry><entry>
+  <title>Sunday: Showers. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Showers. High 10. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc9:20230509183000</id>
+</entry><entry>
+  <title>Sunday night: Chance of showers. Low plus 2. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 2. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc10:20230509183000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 9. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/nl-34_metric_e.html"/>
+  <updated>2023-05-09T18:30:00Z</updated>
+  <published>2023-05-09T18:30:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 9. Forecast issued 4:00 PM NDT Tuesday 9 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:nl-34_fc11:20230509183000</id>
+</entry>
+</feed>
