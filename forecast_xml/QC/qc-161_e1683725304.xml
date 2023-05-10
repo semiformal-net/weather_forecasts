@@ -1,0 +1,144 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Bagotville - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/qc-161_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/qc-161_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-10T13:04:33Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230510130433</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Bagotville</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-05-02T02:15:04Z</updated>
+  <published>2023-05-02T02:15:04Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_w1:20230502021504</id>
+</entry>
+<entry>
+  <title>Current Conditions: Partly Cloudy, 11.3°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T13:00:00Z</updated>
+  <published>2023-05-10T13:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> CFB Bagotville 9:00 AM EDT Wednesday 10 May 2023<br/> <b>Condition:</b> Partly Cloudy<br/> <b>Temperature:</b> 11.3&deg;C<br/> <b>Pressure / Tendency:</b> 101.5 kPa rising<br/> <b>Visibility:</b> 40 km<br/> <b>Humidity:</b> 32 %<br/> <b>Dewpoint:</b> -4.8&deg;C<br/> <b>Wind:</b> W 21 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_cc:20230510130000</id>
+</entry>
+<entry>
+  <title>Wednesday: A mix of sun and cloud. High 20.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind becoming west 30 km/h gusting to 50 near noon. High 20. UV index 6 or high. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc0:20230510090000</id>
+</entry><entry>
+  <title>Wednesday night: A few clouds. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming clear near midnight. Wind west 30 km/h gusting to 50 becoming light this evening. Low 7. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc1:20230510090000</id>
+</entry><entry>
+  <title>Thursday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. Wind becoming west 20 km/h in the afternoon. High 23. UV index 6 or high. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc2:20230510090000</id>
+</entry><entry>
+  <title>Thursday night: Clear. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 7. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc3:20230510090000</id>
+</entry><entry>
+  <title>Friday: Chance of showers. High 18. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 40 percent chance of showers. High 18. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc4:20230510090000</id>
+</entry><entry>
+  <title>Friday night: Chance of showers. Low 7. POP 40%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 40 percent chance of showers. Low 7. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc5:20230510090000</id>
+</entry><entry>
+  <title>Saturday: Cloudy. High 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 10. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc6:20230510090000</id>
+</entry><entry>
+  <title>Saturday night: Cloudy. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. Low plus 3. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc7:20230510090000</id>
+</entry><entry>
+  <title>Sunday: Cloudy. High 8.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy. High 8. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc8:20230510090000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low plus 3.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 3. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc9:20230510090000</id>
+</entry><entry>
+  <title>Monday: Chance of showers. High 18. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 18. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc10:20230510090000</id>
+</entry><entry>
+  <title>Monday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc11:20230510090000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 15. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/qc-161_metric_e.html"/>
+  <updated>2023-05-10T09:00:00Z</updated>
+  <published>2023-05-10T09:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 15. Forecast issued 5:00 AM EDT Wednesday 10 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:qc-161_fc12:20230510090000</id>
+</entry>
+</feed>
