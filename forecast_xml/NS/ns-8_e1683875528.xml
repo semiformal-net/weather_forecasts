@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Guysborough - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/ns-8_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/ns-8_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-12T07:01:10Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230512070110</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+  <title>No watches or warnings in effect, Guysborough</title>
+  <link type="text/html" href="https://weather.gc.ca/index_e.html"/>
+  <updated>2023-03-24T08:00:37Z</updated>
+  <published>2023-03-24T08:00:37Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">No watches or warnings in effect.</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_w1:20230324080037</id>
+</entry>
+<entry>
+  <title>Current Conditions:  2.6°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-12T07:00:00Z</updated>
+  <published>2023-05-12T07:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Tracadie 4:00 AM ADT Friday 12 May 2023<br/> <b>Temperature:</b> 2.6&deg;C<br/> <b>Pressure / Tendency:</b> 101.9 kPa falling<br/> <b>Humidity:</b> 89 %<br/> <b>Dewpoint:</b> 0.9&deg;C<br/> <b>Wind:</b> SSE 7 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_cc:20230512070000</id>
+</entry>
+<entry>
+  <title>Thursday night: A few clouds. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A few clouds. Wind southeast 20 km/h becoming light this evening. Low plus 4. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc0:20230511190000</id>
+</entry><entry>
+  <title>Friday: A mix of sun and cloud. High 22 except 15 along parts of the coast.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. Wind becoming south 20 km/h in the afternoon. High 22 except 15 along parts of the coast. UV index 6 or high. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc1:20230511190000</id>
+</entry><entry>
+  <title>Friday night: Increasing cloudiness. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Increasing cloudiness before morning. Fog patches developing near midnight. Wind south 20 km/h. Low 7. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc2:20230511190000</id>
+</entry><entry>
+  <title>Saturday: Chance of showers. High 16. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 16. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc3:20230511190000</id>
+</entry><entry>
+  <title>Saturday night: Chance of showers. Low plus 5. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. Low plus 5. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc4:20230511190000</id>
+</entry><entry>
+  <title>Sunday: Chance of showers. High 12. POP 60%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy with 60 percent chance of showers. High 12. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc5:20230511190000</id>
+</entry><entry>
+  <title>Sunday night: Cloudy periods. Low plus 4.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low plus 4. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc6:20230511190000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 14.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 14. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc7:20230511190000</id>
+</entry><entry>
+  <title>Monday night: Cloudy periods. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods. Low 7. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc8:20230511190000</id>
+</entry><entry>
+  <title>Tuesday: Chance of showers. High 12. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud with 30 percent chance of showers. High 12. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc9:20230511190000</id>
+</entry><entry>
+  <title>Tuesday night: Chance of showers. Low plus 5. POP 30%</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Cloudy periods with 30 percent chance of showers. Low plus 5. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc10:20230511190000</id>
+</entry><entry>
+  <title>Wednesday: A mix of sun and cloud. High 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/ns-8_metric_e.html"/>
+  <updated>2023-05-11T19:00:00Z</updated>
+  <published>2023-05-11T19:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">A mix of sun and cloud. High 11. Forecast issued 4:00 PM ADT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:ns-8_fc11:20230511190000</id>
+</entry>
+</feed>
