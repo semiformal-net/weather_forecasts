@@ -1,0 +1,136 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-ca">
+<!--
+This is a data file that is meant to be read by RSS readers or aggregators.
+See https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/ways-to-access-forecasts.html to learn more about our RSS service.
+-->
+<title>Clinton - Weather - Environment Canada</title>
+<link rel="related" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html" type="text/html"/>
+<link rel="self" href="https://weather.gc.ca/rss/city/bc-91_e.xml" type="application/atom+xml"/>
+<link rel="alternate" hreflang="fr-ca" href="https://meteo.gc.ca/rss/city/bc-91_f.xml" type="application/atom+xml"/>
+<author>
+  <name>Environment Canada</name>
+  <uri>https://weather.gc.ca</uri>
+</author>
+<updated>2023-05-12T09:01:43Z</updated>
+<id>tag:weather.gc.ca,2013-04-16:20230512090143</id>
+<logo>https://weather.gc.ca/template/gcweb/v5.0.1/assets/wmms-alt.png</logo>
+<icon>https://weather.gc.ca/template/gcweb/v5.0.1/assets/favicon.ico</icon>
+<rights>Copyright 2023, Environment Canada</rights>
+<entry>
+<title>SPECIAL WEATHER STATEMENT, Clinton</title>
+  <link type="text/html" href="https://weather.gc.ca/warnings/report_e.html?bc34"/>
+  <updated>2023-05-12T03:28:53Z</updated>
+  <published>2023-05-12T03:28:53Z</published>
+  <category term="Warnings and Watches"/>
+  <summary type="html">Persons in or near this area should be on the lookout for adverse weather conditions and take necessary safety precautions. Issued: 8:28 p.m. PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_w1:20230512032853</id>
+</entry>
+<entry>
+  <title>Current Conditions: Clear, 0.9°C</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-12T09:00:00Z</updated>
+  <published>2023-05-12T09:00:00Z</published>
+  <category term="Current Conditions"/>
+  <summary type="html">
+    <![CDATA[<b>Observed at:</b> Clinton 2:00 AM PDT Friday 12 May 2023<br/> <b>Condition:</b> Clear<br/> <b>Temperature:</b> 0.9&deg;C<br/> <b>Pressure:</b> 102.3 kPa <br/> <b>Visibility:</b> 16 km<br/> <b>Humidity:</b> 87 %<br/> <b>Dewpoint:</b> -1.0&deg;C<br/> <b>Wind:</b> SE 13 km/h<br/> <b>Air Quality Health Index:</b> n/a<br/>]]>
+  </summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_cc:20230512090000</id>
+</entry>
+<entry>
+  <title>Thursday night: A few clouds. Low 7.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Partly cloudy. Becoming clear this evening. Risk of a thunderstorm early this evening. Wind south 20 km/h becoming light this evening. Low 7. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc0:20230511230000</id>
+</entry><entry>
+  <title>Friday: Sunny. High 23.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 23. UV index 7 or high. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc1:20230511230000</id>
+</entry><entry>
+  <title>Friday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc2:20230511230000</id>
+</entry><entry>
+  <title>Saturday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc3:20230511230000</id>
+</entry><entry>
+  <title>Saturday night: Clear. Low 11.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 11. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc4:20230511230000</id>
+</entry><entry>
+  <title>Sunday: Sunny. High 30.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 30. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc5:20230511230000</id>
+</entry><entry>
+  <title>Sunday night: Clear. Low 12.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 12. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc6:20230511230000</id>
+</entry><entry>
+  <title>Monday: Sunny. High 31.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 31. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc7:20230511230000</id>
+</entry><entry>
+  <title>Monday night: Clear. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 10. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc8:20230511230000</id>
+</entry><entry>
+  <title>Tuesday: Sunny. High 27.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 27. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc9:20230511230000</id>
+</entry><entry>
+  <title>Tuesday night: Clear. Low 10.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Clear. Low 10. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc10:20230511230000</id>
+</entry><entry>
+  <title>Wednesday: Sunny. High 28.</title>
+  <link type="text/html" href="https://weather.gc.ca/city/pages/bc-91_metric_e.html"/>
+  <updated>2023-05-11T23:00:00Z</updated>
+  <published>2023-05-11T23:00:00Z</published>
+  <category term="Weather Forecasts"/>
+  <summary type="html">Sunny. High 28. Forecast issued 4:00 PM PDT Thursday 11 May 2023</summary>
+  <id>tag:weather.gc.ca,2013-04-16:bc-91_fc11:20230511230000</id>
+</entry>
+</feed>
