@@ -17,6 +17,7 @@ jobs:
         shell: bash
 
       - uses: wilsonzlin/setup-b2@v2
+        shell: bash
         env:
           B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
