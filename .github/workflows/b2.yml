@@ -1,0 +1,25 @@
+on:
+  schedule:
+    - cron: '26 * * * *'
+
+jobs:
+  run:
+    name: Push forecast to b2
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: |
+        mkdir ./weather_forecasts
+        curl -s -o ./weather_forecasts/city_scrape.sh "https://raw.githubusercontent.com/semiformal-net/weather_forecasts/master/city_scrape.sh"
+        shell: bash
+
+      - run: ./weather_forecasts/city_scrape.sh
+        shell: bash
+
+      - uses: wilsonzlin/setup-b2@v2
+          env:
+            B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
+            B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
+      - run: b2 authorize-account
+      - run: b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts/
+      - run: b2 clear-account
