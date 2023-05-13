@@ -27,9 +27,4 @@ jobs:
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
 
       - name: b2sync
-        run: |
-          echo "start b2"
-          b2 authorize-account
-          b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts/
-          b2 clear-account
-          echo "done b2"
+        run: b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts
