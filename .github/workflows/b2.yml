@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '26 * * * *'
+    - cron: '32 * * * *'
 
 jobs:
   run:
@@ -17,9 +17,9 @@ jobs:
         shell: bash
 
       - uses: wilsonzlin/setup-b2@v2
-          env:
-            B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
-            B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
+        env:
+          B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
+          B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
       - run: b2 authorize-account
       - run: b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts/
       - run: b2 clear-account
