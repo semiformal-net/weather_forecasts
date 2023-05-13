@@ -1,4 +1,5 @@
 on:
+  push:
   schedule:
     - cron: '32 * * * *'
 
@@ -8,19 +9,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: |
+      - shell: bash
+        run: |
           mkdir ./weather_forecasts
           curl -s -o ./weather_forecasts/city_scrape.sh "https://raw.githubusercontent.com/semiformal-net/weather_forecasts/master/city_scrape.sh"
-        shell: bash
+          echo "ok got cityscrape"
 
-      - run: ./weather_forecasts/city_scrape.sh
-        shell: bash
+      - shell: bash
+        run: |
+          ./weather_forecasts/city_scrape.sh
+          echo "run scrape"
 
       - uses: wilsonzlin/setup-b2@v2
-        shell: bash
         env:
           B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
-      - run: b2 authorize-account
-      - run: b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts/
-      - run: b2 clear-account
+      - run: |
+          echo "start b2"
+          b2 authorize-account
+          b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts/
+          b2 clear-account
+          echo "done b2"
