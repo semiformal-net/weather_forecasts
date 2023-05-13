@@ -20,11 +20,13 @@ jobs:
           ./weather_forecasts/city_scrape.sh
           echo "run scrape"
 
-      - uses: wilsonzlin/setup-b2@v2
+      - uses: sylwit/install-b2-cli-action@v1.0.0
         env:
           B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
-      - run: |
+
+      - name: b2sync
+        run: |
           echo "start b2"
           b2 authorize-account
           b2 sync --noProgress --excludeRegex ".*" --includeRegex "\.xml$" ./weather_forecasts/forecast_xml/ b2://weather-forecasts/
