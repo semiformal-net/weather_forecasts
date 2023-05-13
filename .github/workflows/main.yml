@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '50 * * * *'
+    - cron: '59 * * * *'
 
 jobs:
   run:
@@ -11,9 +11,9 @@ jobs:
       # If you need to, you can check out your repo to a different location
       - uses: actions/checkout@v3
       - run: |
-        mkdir ./weather_forecasts
-        curl -s -o ./weather_forecasts/city_scrape.sh "https://raw.githubusercontent.com/semiformal-net/weather_forecasts/master/city_scrape.sh"
-        chmod 777 ./weather_forecasts/city_scrape.sh
+          mkdir ./weather_forecasts
+          curl -s -o ./weather_forecasts/city_scrape.sh "https://raw.githubusercontent.com/semiformal-net/weather_forecasts/master/city_scrape.sh"
+          chmod 777 ./weather_forecasts/city_scrape.sh
       #  with:
       #    path: './weather_forecasts/'
 
