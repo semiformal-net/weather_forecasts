@@ -26,4 +26,4 @@ jobs:
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
 
       - name: b2sync
-        run: b2 sync --noProgress --compareVersions none ./weather_forecasts/forecast_xml/ b2://weather-forecasts
+        run: b2 sync --noProgress --threads 1 --compareVersions none ./weather_forecasts/forecast_xml/ b2://weather-forecasts
