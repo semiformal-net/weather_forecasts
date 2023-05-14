@@ -1,5 +1,4 @@
 on:
-  push:
   schedule:
     - cron: '50 * * * *'
 
@@ -21,10 +20,10 @@ jobs:
           ./weather_forecasts/city_scrape.sh
           echo "run scrape"
 
-      - uses: sylwit/install-b2-cli-action@v1.0.0
+      - uses: sylwit/install-b2-cli-action@v1.0.1
         env:
           B2_APPLICATION_KEY_ID: ${{ secrets.B2_APPLICATION_KEY_ID }}
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
 
       - name: b2sync
-        run: b2 sync --noProgress ./weather_forecasts/forecast_xml/ b2://weather-forecasts
+        run: b2 sync --noProgress --compareVersions none ./weather_forecasts/forecast_xml/ b2://weather-forecasts
