@@ -46,3 +46,12 @@ du -sh "./weather_forecasts/forecast_xml/"
 #for prov in ${PROV[@]}; do
 #  tar -rvf "forecast_xml/${prov}.tar.gz" forecast_xml/${prov}/*.xml && rm -r "forecast_xml/${prov}"
 #done
+# Compress the whole update
+
+tar -czf "./weather_forecasts/forecasts_${RUNTIME}.tar.gz" ./weather_forecasts/forecast_xml/*
+if [ $? -ne 0 ]; then
+  echo "tar failure"
+  exit 3
+fi
+echo "all tarred up"
+
