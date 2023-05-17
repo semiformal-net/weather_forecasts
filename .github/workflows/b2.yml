@@ -27,4 +27,4 @@ jobs:
           B2_APPLICATION_KEY: ${{ secrets.B2_APPLICATION_KEY }}
 
       - name: b2sync
-        run: b2 upload-file --noProgress --threads 1 weather-forecasts ./weather_forecasts/forecasts_*.tar.gz
+        run: F=$(ls ./weather_forecasts/forecasts_*.tar.gz) b2 upload-file --noProgress --threads 1 weather-forecasts ./weather_forecasts/forecasts_*.tar.gz $(basename $F)
