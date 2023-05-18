@@ -53,5 +53,7 @@ if [ $? -ne 0 ]; then
   echo "tar failure"
   exit 3
 fi
+echo "output_tar_path=./weather_forecasts/forecasts_${RUNTIME}.tar.gz" >> "$GITHUB_ENV"
+echo "output_tar=forecasts_${RUNTIME}.tar.gz" >> "$GITHUB_ENV"
 echo "all tarred up"
 
