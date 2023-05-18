@@ -31,4 +31,4 @@ jobs:
           echo "path: ${{env.output_tar_path}}"
           echo "name: ${{env.output_tar}}"
       - name: b2sync
-        run: b2 sync --excludeDirRegex 'forecast_xml$' --noProgress --threads 1 --compareVersions none ./weather_forecasts/ b2://weather-forecasts
+        run: b2 upload-file --noProgress --threads 1 --compareVersions none weather-forecasts "${{env.output_tar_path}}" "${{env.output_tar}}"
