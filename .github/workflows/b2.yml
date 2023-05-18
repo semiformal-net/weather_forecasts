@@ -28,7 +28,7 @@ jobs:
 
       - name: tarcheck
         run: |
-          echo "path: ${env.output_tar_path}"
-          echo "name: ${env.output_tar}"
+          echo "path: ${{env.output_tar_path}}"
+          echo "name: ${{env.output_tar}}"
       - name: b2sync
         run: b2 sync --excludeDirRegex 'forecast_xml$' --noProgress --threads 1 --compareVersions none ./weather_forecasts/ b2://weather-forecasts
